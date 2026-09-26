@@ -124,7 +124,7 @@
     return `<div class="person-list">${ids.map(id => {
       const person = personById.get(id);
       const isProtagonist = protagonists.has(id);
-      return `<span class="person-pill${isProtagonist ? ' protagonist' : ''}" tabindex="0" data-person-id="${esc(person.id)}"${isProtagonist ? ` aria-label="${esc(person.name)}, 주역"` : ''}>${esc(person.name)} <small>${person.kind === 'operator' ? '오퍼레이터' : '비오퍼레이터'}</small></span>`;
+      return `<span class="person-pill${isProtagonist ? ' protagonist' : ''}" tabindex="0" data-person-id="${esc(person.id)}"${isProtagonist ? ` aria-label="${esc(person.name)}, 주역"` : ''}>${esc(person.name)}</span>`;
     }).join('')}</div>`;
   }
   function openDrawer(html) {
