@@ -1,0 +1,40 @@
+# Local Python and JavaScript tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+node_modules/
+.cache/
+
+# Editor and operating system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets, logs, and disposable exports
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Conversation-only reports
+/COVERAGE-REPORT.md
+/REPORT-cycle-*.md
+
+# Downloaded comparison material; selected images live in assets/
+work/candidates/
+work/babel_bwiki.html
+
+# Keep data.js, assets/, work/synopses/, and the game-data snapshots tracked:
+# the offline page and data rebuild use them.

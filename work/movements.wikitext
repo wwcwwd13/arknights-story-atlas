@@ -1,0 +1,24 @@
+{{Story page tab}}
+Since the [[Dissociative Recombination]] (CN)/[[When Elegies Are Ashes]] (Global) update, [[Main Theme]] episodes, [[Intermezzi]], [[Side Stories]], and [[Story Collection]]s are now grouped into categories named '''Movements''' under the '''Score''' menu of the [[Terminal]], which functions identically to [[wikipedia:Story arc|story arcs]].
+
+Some Movements contain ongoing storylines revolving around a central faction, e.g. Snow and Silver Steel revolving around [[Kjerag]], and Through the Ages focusing on [[Sui]] and [[Yan]]; on the other hand, Summertime Beats is simply a series of stand-alone stories taking place in summer, and Tales of Terra encompasses most [[Story Collection]]s, other stand-alone stories, and stories that do not fit neatly into other Movements. The Main Theme is considered its own Movement as well.
+
+==List==
+{{Notice|color=yellow|title=Attention!|
+#This timeline is not intended to be used as a reading guide, but as a way to keep track of the Movements.
+#The descriptions of each Movement and their events are unofficial and intended to provide readers with a quick summary regarding the plot.
+#Some stories in the Movements have '''related stories''' which is recommended to be read first for additional context. In-game, these are shown as branches of the story subject.
+#Some contents part of the Movements are <u>not yet released</u> in the Global server, but nonetheless included for the sake of clarity. Therefore, proceed at your own risk.}}
+
+<tabber>Main Theme={{:Story/Movements/Main Theme}}|-|The Ark={{:Story/Movements/The Ark}}|-|Wildfire={{:Story/Movements/Wildfire}}|-|The Blessed={{:Story/Movements/The Blessed}}|-|Snow and Silver Steel={{:Story/Movements/Snow and Silver Steel}}|-|Sette Colli's Sprouts={{:Story/Movements/Sette Colli's Sprouts}}|-|Under the Neon={{:Story/Movements/Under the Neon}}|-|Through the Ages={{:Story/Movements/Through the Ages}}|-|Those Who Take The Future={{:Story/Movements/Those Who Take The Future}}|-|Glimpse of the Depths={{:Story/Movements/Glimpse of the Depths}}|-|Spire Mirages={{:Story/Movements/Spire Mirages}}|-|Rekindled Flame={{:Story/Movements/Rekindled Flame}}|-|Summertime Beats={{:Story/Movements/Summertime Beats}}|-|Tales of Terra={{:Story/Movements/Tales of Terra}}</tabber>
+
+==Trivia==
+{{Trivia notice}}
+*Movements have their own two-letter abbreviations that refer to the faction they focus on. For example, The Ark focuses on the members of <u>R</u>hodes <u>I</u>sland.
+**The exceptions are <u>S</u>ummer<u>t</u>ime Beats and Tales of Terra, which do not focus on any particular faction; Tales of Terra's abbreviation, TS, may stand for <u>T</u>erran <u>S</u>tories instead.
+**Initially, Movement abbreviations were color-coded. Following the [[Abnormal Spectrum]] (CN)/[[Somniloquium Serenum]] (Global) update, Movement abbreviations have received ornate but colorless icons.
+*[[Ancient Forge]] is the only event themed around the Chinese New Year; its release in the CN and TW servers align with the holiday in 2020 and 2021, respectively. However, it is released in Global on July 2020 due to Global's scheduling differences with CN (see [[Event#Trivia]]).
+*While most of the Movements show their constituent events in chronological order, with The Ark being a notable exception, few events are ever entirely clear about their exact dates, and the Score makes little indication as to continuity between different movements. Nevertheless, in-story allusions to past events have been clear enough and consistent enough for a [[Arknights Timeline|timeline]] to be worked out.
+
+{{Features}}
+[[Category:Terminology]]

@@ -1,0 +1,18 @@
+<onlyinclude>{{Edit|Movements|Wildfire}}<!--
+-->{{Timeline head
+|arc = UR
+|name = Wildfire
+|intro = Decades of political turmoil and devastating conflicts have left deep scars on [[Ursus]], yet the motherland remains indifferent to its children's cries. The people of Ursus must stand up and fight for the life they deserve, even if they have to force the empire onto its knees.
+}}
+{{Timeline cell
+|name = Children of Ursus
+|title = Survivors: Children of Ursus
+|intro = During the [[Reunion]] uprising in [[Chernobog]], the five members of the [[Ursus Student Self-Governing Group]] were trapped inside their school alongside their classmates, forced to survive on limited food and dwindling hope. Though eventually rescued, the horrors they endured left lasting scars—ones they must carry as they try to reclaim a sense of normalcy.
+|related = Episode 01}}
+{{Timeline cell
+|name = People, A People
+|intro = [[Zima the Raging Tide|Zima]] and her friends return to their homeland to establish a branch office in [[Deity Grypherburg]], receiving help from the local student groups to move around. However, a peaceful protest quickly turns into bloodshed, as students are arrested and confined inside the derelict Katorga Raion, suffering for the entertainment of a [[Pavlovich|pesky State Council noble]]. Meanwhile, a conspiracy by the New Nobles to get rid of [[Fyodor Vladimirovich|the young Tsar]] stirs behind the scenes. In times of unrest, the fires of revolution ignite.
+|related = Episode 16, Episode 17}}
+{{Table end}}
+</onlyinclude>
+<noinclude>[[Category:Movements]]</noinclude>

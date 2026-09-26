@@ -1,0 +1,57 @@
+<onlyinclude>{{Edit|Movements|Tales of Terra}}<!--
+-->{{Timeline head
+|arc = TS
+|name = Tales of Terra
+|intro = Though [[Terra]] is steeped in cruelty and strife, the people always find a way to endure. These are the stories of those who held on to hope—no matter the cost.}}
+{{Timeline cell
+|name = Operational Intelligence
+|intro = An anthology of stories from [[Rhodes Island]] [[Operator]]s—where they came from, where they're going, and the beliefs that drive them forward. In a world shaped by suffering, these are the choices they made.
+|related = Episode 04}}
+{{Timeline cell
+|name = Stories of Afternoon
+|intro = Rhodes Island is home to many unique Operators—some trained soldiers, others just ordinary people. This collection of stories offers a glimpse into their daily lives aboard the landship, where every day brings about something unexpected.}}
+{{Timeline cell
+|name = Rewinding Breeze
+|intro = Every Operator has their own way to relax and unwind. As they gaze off into the setting sun, they reminisce about the place they once called home. This anthology offers a glimpse into the lives they've lived—and the paths they now tread.}}
+{{Timeline cell
+|name = Beyond Here
+|intro = Terra is vast and expansive. Some have travelled great distances in order to pursue their goals, chase their dreams, or even for a simple delivery. These are the stories of those who trekked the extra mile, both to and from the fringes of the wilderness.}}
+{{Timeline cell
+|name = Code of Brawl
+|intro = [[Bison]] of [[MountainDash Logistics]] is assigned to temporarily work with the infamous [[Penguin Logistics]], but nothing prepares him for the chaos of their daily lives. Car chases, assassinations, [[Mostima|fallen Sankta]], and the mafia all collide on one unforgettable Sauin night.}}
+{{Timeline cell
+|name = Preluding Lights
+|intro = Rhodes Island houses many Operators who have come to embrace a new life, whether by coincidence or by choice. Although they may have escaped their old lives, their harsh past will always be a reminder of who they were, and who they want to be.}}
+{{Timeline cell
+|name = A Light Spark in Darkness
+|intro = [[Goldenglow|Susie Glitter]] has waited a long time for a chance to finally run her own business, but when an unfortunate fire destroys months of work, the [[Feline]] falls into depression. Now, she and her friends must band together and look to the future.}}
+{{Timeline cell
+|name = To Be Continued
+|intro = From the snowy mountains of [[Kjerag]] to the radiant cities of [[Kazimierz]], Rhodes Island has encountered both steadfast allies and formidable foes. The lives touched by RI's Operators are forever changed—woven into the fabric of their journey. This collection of tales seeks to answer one quiet, lingering question: What happened after their stories ended?}}
+{{Timeline cell
+|name = To the Grinning Valley
+|intro = [[Warmy]] and [[Alanna]] set out for Iron Carrot City in [[Rim Billiton]] to replace their rundown truck. When a mysterious [[Cautus]] named [[Ray]] suddenly hijacks their vehicle, the two are forced to follow her demands to travel to the Grinning Valley.}}
+{{Timeline cell
+|name = A Kazdelian Rescue
+|intro = [[Kazdel]] is hard at work, ready to finally free the [[Revenant]]s trapped within the Soul Furnace and replace them with a new, sustainable power source. But when an accident causes an explosion that scatters Revenant fragments all over Kazdel, [[Nymph]] is sent scrambling to recover them before disaster strikes.
+|related = Episode 14}}
+{{Timeline cell
+|name = Come Catastrophes or Wakes of Vultures
+|intro = [[Blacksteel Worldwide]] dispatches a team to restore order to the crumbling city of [[Davistown]]. But it doesn't take long for them to uncover the root of the city's woes: corruption and financial mismanagement by the local bank. Caught between her duty and her conscience, [[Jessica]] must decide—if neither power nor money can save the people, what can?
+|related = Episode 09}}
+{{Timeline cell
+|name = Act or Die
+|intro = [[Phantom]] follows the trail of the nefarious [[Crimson Troupe]] to a movie set in the star-studded city of [[Wrankwood]]. The cast quickly find themselves trapped in a real-life horror movie, isolated from the outside world with a dangerous serial killer hiding amongst them.}}
+{{Timeline cell
+|name = The Black Forest Wills A Dream
+|intro = To reach the endless expanse of the [[Infy Icefield]], [[Magallan]] must brave the frigid wilderness of [[Sami]]. Her mission: to establish relations with the elusive local tribes. Along the way, she learns of ancient customs, deeply rooted beliefs, and the chilling truth of the [[Collapsal|eldritch foe]] every Sami warrior is fated to confront.}}
+{{Timeline cell
+|name = Medjehtiqedti Bound
+|intro = Following the chaotic summer in the [[Varjavandabad Museum]], [[Titi|Medjehtiqedti]] was commissioned as an diplomatic envoy to [[Athenius]], [[Minos]], to take part in a friendly cultural exchange event, only to have her uncovering [[Sargon]]'s plot to whitewash its colonial history that once again reignites the Minoans' deeply rooted vindication. 
+|related = Adventure That Cannot Wait for the Sun}}
+{{Timeline cell
+|cn = true
+|name = Bolívar Diagnosed
+|intro = In war-torn [[Bolívar]], Operator [[Beagle]] is sent to aid the evacuation of Bolívarian refugees, but she soon falls prey to the [[Black Flow]]. There, she gradually learns that in a land entangled by unrest, government explotation and the alarming spread of the Black Flow itself, the dream of an independent Bolívar might simply just be elusive.}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

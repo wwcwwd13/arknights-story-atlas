@@ -1,0 +1,20 @@
+<onlyinclude>{{Edit|Movements|Under the Neon}}<!--
+-->{{Timeline head
+|arc = KA
+|name = Under the Neon
+|intro = Once the birthplace of many brave knights, [[Kazimierz]] has become a land full of corporate intrigues and bloodsports. Who will shine a light for the oppressed [[Infected]] struggling to escape the darkness?}}
+{{Timeline cell
+|name = Maria Nearl
+|intro = After her older sister [[Nearl|Margaret]] leaves the competition scene, [[Blemishine|Maria Nearl]] embarks on the path of the knight by joining the [[Kazimierz Major]] for her family's prestige. She must now navigate the complicated and brutal workings of modern Kazimierz on her path to win the Major and discover what it truly means to be a knight. Good luck, Maria Nearl!}}
+{{Timeline cell
+|name = Pinus Sylvestris
+|intro = In the underbelly of [[Kawalerielki]]—amidst Infected ghettos and impoverished slums—a group of brave knights do their utmost to improve the lives of their fellow Infected. This is the story of the [[Pinus Sylvestris]] Knightclub, and their struggles against the corporations that control Kazimierz.
+|link = Pinus Sylvestris (event)}}
+{{Timeline cell
+|name = Near Light
+|intro = The [[Nearl the Radiant Knight|Radiant Knight]]'s sudden return whips the Grand Knight Territory into a frenzy, and the downtrodden Infected of Kazimierz will suffer in silence no longer. The outcome of the 24th Kazimierz Major will decide the fate of Kazimierz as paths converge to the tournament's finale.}}
+{{Timeline cell
+|name = An Obscure Wanderer
+|intro = With the conclusion of the 24th Major, [[Młynar Nearl]] sets out once more to uncover the truth behind his brother and sister-in-law’s disappearance. His journey through the outskirts of Kazimierz will unearth buried grudges—and lead to unexpected revelations.}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

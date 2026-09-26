@@ -1,0 +1,701 @@
+{
+  "afternoon": {
+    "intro": "{{Synopsis head |desc = Rhodes Island's Operators hail from all over the land, their personalities sometimes similar and sometimes clashing. They cooperate smoothly on the battlefield, and in their camaraderie also make unforgettable memories off of it.}}",
+    "headings": [
+      "Let's Throw a Party!",
+      "Diary",
+      "Today's Kitchen",
+      "The Wanderer's Home",
+      "Asking for Trouble",
+      "Moving Forward"
+    ],
+    "length": 15678
+  },
+  "ancient-forge": {
+    "intro": "{{Synopsis head |desc = According to ancient legend, a giant monster might attack us at any moment! How will the lonely city of Lungmen manage to survive an astonishing explosion and make it to the new year? The red-hot blockbuster \"Lungmen Doomwatch\"... No, we'll call it \"Ancient Forge\"! Anyway, look forward to it!}}",
+    "headings": [
+      "Plot"
+    ],
+    "length": 4454
+  },
+  "arsenus": {
+    "intro": "{{Synopsis head |desc = White walls, green meadows, the Mountain-Rimmed Gardens— Athenius, the first city of Minos. A wanderer, returned with divine revelations; a ferryman who lost his home. They encounter Medjehtiqedti, ambassador of their one-time foe, Sargon. What will become of an irreconcilable grudge between nations? How does one choose between duty and the justice in one's heart? Who will define the hero that Minos dreams of?}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 20397
+  },
+  "babel": {
+    "intro": "{{Synopsis head |name = Babel |desc = Babel, a land of dreams where the past calls to the future. The tower that resolves differences points towards the truth. The King of Sarkaz steals the flame of hope, and the sparks reignite war. Kin turn their swords on each other, and heroes rise from the ruins. An assassination puts an end to their differences, but fate is inextricably linked to the truth. The visionary calls out the idealist's epitaph. The King may be gone, but her dreams live on.}}",
+    "headings": [
+      "A Tower Reaching the Heavens",
+      "Seeds of Doubt",
+      "Fall From Grace",
+      "References"
+    ],
+    "length": 12610
+  },
+  "beyond": {
+    "intro": "{{Synopsis head |desc = Every journey is a test of faith, and a search for one's self. Outside the Rhodes Island landship, Operators set out on their own journeys, and witness different sights.}}",
+    "headings": [
+      "No Sequel",
+      "Boundless Wilds",
+      "Fairytale Everlasting",
+      "A Streetcar Named Faith",
+      "Blind Journey",
+      "Sword and Scale",
+      "For a Better Self"
+    ],
+    "length": 23131
+  },
+  "break-ice": {
+    "intro": "{{Synopsis head |desc = The mountains guard ancient beliefs and the snow hides great dangers in this realm of snow. The gods have watched over these rarely-visited cliffs for a thousand years. Smoke rises gently from chimneys in this peaceful land, its tranquility broken by a great train rushing through.}}",
+    "headings": [
+      "Synopsis",
+      "References"
+    ],
+    "length": 13436
+  },
+  "code-brawl": {
+    "intro": "{{Synopsis head |desc = Bison of MountainDash Logistics was ambushed and is hanging on for dear life? His saviors are not his father's men, but Penguin Logistics? It's Sauin, yet the darker undercurrents of Lungmen are out in force? Who is the actual underground mastermind of Lungmen? MountainDash Logistics? Penguin Logistics? The Siracusan Mafia? Or someone else? In the dark of the night, an unmissable feast is about to begin!}}",
+    "headings": [
+      "The Lungmenite Job",
+      "The Wrap-Up"
+    ],
+    "length": 12848
+  },
+  "come-catastrophes": {
+    "intro": "{{Synopsis head |desc = The residual heat from the energy tower once warmed Davistown. Yet, the future they once hoped for has drifted away like white smoke from a chimney. Intractable problems, things that can no longer be protected... The bitterly cold winds blow, promising a long and relentless winter. Jessica stands in the snow, gun aimed skyward&mdash; For an elusive promise, for a helpless sigh. For the ruins of dreams and homes.}} {{More citations needed}}",
+    "headings": [
+      "Cold Dead Hands",
+      "Ill-Gotten Gains",
+      "Broke, Blind, and Bedlam",
+      "High Noon"
+    ],
+    "length": 15809
+  },
+  "crossroads": {
+    "intro": "{{Synopsis head |desc = Carnevale has passed, and all is normal in Nuova Volsinii. Having cast off the influence of the famiglie and left everything to \"fairness\", this all-too-young city throws its gates open. Kazimierzians, Leithanians, Columbians... They all have their own ulterior motives. Now that Siracusa stands at a crossing, how should it redefine \"Pistole e Ordine\"?}}",
+    "headings": [
+      "Synopsis",
+      "References"
+    ],
+    "length": 16633
+  },
+  "crystal-arrow": {
+    "intro": "The second crossover with ''Tom Clancy's Rainbow Six Siege'' and the sequel of Operation Originium Dust, Operation Lucent Arrowhead features a new lineup of Team Rainbow Operators: Elżbieta \"Ela\" Bosak, Shuhrat \"Fuze\" Kessikbayev, Nienke \"Iana\" Meijer, and Gustave \"Doc\" Kateb, who were taken into Dossoles, Terra while searching for their missing teammates, where they would went from being bodyguards of Galería Krysztauowa to fighting for justice while an art movement in the slums are voicing out their rage against the art conglomerates.",
+    "headings": [
+      "Down Into the Rabbit Hole",
+      "Art is a Bang",
+      "Good Job, Team"
+    ],
+    "length": 14404
+  },
+  "darknights": {
+    "intro": "{{Synopsis head |desc = This is the story of a mercenary, venturing through life and death on the battlefield. This is the story of a follower, trusted by the others yet failing to protect. This is the story of a dissident, fighting endlessly, scoring life and death all the while. This is the story of W, and her companions.}}",
+    "headings": [
+      "W Rising",
+      "Shadow of Babel",
+      "Serving Me, Serving You"
+    ],
+    "length": 8459
+  },
+  "dorothy": {
+    "intro": "{{Synopsis head |name = Dorothy's Vision |desc = Weaved from science, computed from dreams. Data and experiments have created a behemoth. It floats above Trimounts, gazing silently at all that happens below. Forward or backwards, the direction of science holds true. It is always progressing, for good or for ill.}}",
+    "headings": [
+      "Red Alert",
+      "Awakening",
+      "Looking at the Same Sky",
+      "References"
+    ],
+    "length": 13725
+  },
+  "dossoles": {
+    "intro": "{{Synopsis head |desc = Ch'en was invited to spend the summer at Dossoles, Bolívar. Little did she know that she would run into Lin Yühsia there. Meanwhile, the most unique city in Bolívar is about to hold its most significant annual event: the Dossoles Warrior Championship. Where there is light, however, there is always shadow, and this shadow threatens to consume the entire city. What is the danger that Ch'en and Lin Yühsia are sensing?}}",
+    "headings": [
+      "The Triathlon",
+      "Personal War"
+    ],
+    "length": 6652
+  },
+  "dreamtalk": {
+    "intro": "{{Quote|In the irreversible chronicles of life, we turn to the overview Strike the stake of death Smiling amiably, head cocked to one side These clownish dolls spin a story|Excerpt from \"[https://bandori.miraheze.org/wiki/Ave_Mujica_(song) Ave Mujica]\"}} A crossover with ''[https://bandori.miraheze.org/wiki/BanG_Dream!_Ave_Mujica BanG Dream! Ave Mujica]'', an anime dedicated to the ninth musical act from the Japanese multimedia franchise BanG Dream!, the eponymous all-female Gothic rock band, Somniloquium Serenum features the band's frontwoman and keyboardist Sakiko Togawa aka. Oblivionis, the lead guitarist/vocalist Uika Misumi aka. Doloris, the rhythm guitarist Mutsumi Wakaba aka. Mortis, ",
+    "headings": [],
+    "length": 992
+  },
+  "dungeon-meshi": {
+    "intro": "A crossover with the award-winning, slice-of-life adventure fantasy manga and anime ''Delicious in Dungeon'', Delicious On Terra features Laios Touden, Marcille Donato, Chilchuck Tims, and Senshi of Izganda of Laios's Party who have been somehow transported to Terra while exploring an unmapped area within the Dungeon. As they travel across Terra to reach Rhodes Island, Laios and co. do their usual business of making delicious food out of... you guessed it, Terra's myriad bestiary they come across in their journey, from the cute to the creepy. Along the way, they stumble into R.I.'s resident big eater Ceobe, resulting in a fun and comedic road trip story.",
+    "headings": [
+      "Leaving the Dungeon",
+      "Peculiar Treats",
+      "The Moving Island",
+      "References"
+    ],
+    "length": 13971
+  },
+  "elegy": {
+    "intro": "{{Synopsis head |desc = Na Saoirsí: a devastated city, an exhausted heart... A secret guarded by woods and fog. Loughshinny comes with a vision of peace, holding true to her promise. Meanwhile, that manipulator of death has prepared a long enough story to tell. As Red Dragon slays Red Dragon, blessings return to their gifter, and the departed return to fire. Then what? What sort of future will the flames bring to Tara now?}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 16078
+  },
+  "farewell-year": {
+    "intro": "{{Synopsis head |desc = Conflict breaks out over a dust-covered writing knife in Sky Mirror Pavilion. A sliver of life retrieved from oblivion awakens the smoke frozen for a century. Is it the first of a thousand autumns, or the last? The halls of power are filled with dispute for but one question. The weiqi player who made himself a stone is on the brink of an answer. Step upon the board, dreamer who claims to be evolution. Who am I? You are me, yet you are not me. How can you know me? Looking on, As a new age comes into view.}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 46286
+  },
+  "firelight": {
+    "intro": "{{Synopsis head |desc = Tara, a vaguely-defined region, a muddy morass... A homeland that can be found only in old songs. She once escaped from there, only to bury everything about herself and return again. \"Lost souls\" emerge from the shadows, and Dublinn's march leaves scorch marks across the land. The red dragon, endowed by her bloodline with the flame of life, must bear the weight of life itself. What, then, does the firelight cast? Whose shadow am I now?}}",
+    "headings": [
+      "Synopsis"
+    ],
+    "length": 11011
+  },
+  "flurry": {
+    "intro": "The first crossover with one of Capcom's long-running franchises, the ''[https://monsterhunterwiki.org/wiki/Monster_Hunter_(Series) Monster Hunter]'' series where the player takes the role of a Hunter to hunt down exotic monsters, A Flurry to the Flame let us do the same on a similar and smaller scale where the Rhodes Island Operators Yato and Noir Corne encountered some unfamiliar \"visitors\" and an old hunter in the remote Higashinese village of Roka whom they will team up together to fight against Rathalos who came straight out of ''MonHun'' that threatens the village.",
+    "headings": [
+      "Let the Hunt Begin!",
+      "Wrath of Nature",
+      "Kingsfall"
+    ],
+    "length": 12996
+  },
+  "forge-rekindled": {
+    "intro": "{{Synopsis head |desc = Flames burst from the Soul Furnace, bringing brief but dazzling fireworks to Kazdel, as well as... a nice dream of the future.}}",
+    "headings": [
+      "Falling Like Fireworks",
+      "The Streets on the Way Back",
+      "The Linen-Draped Monster",
+      "Unfinished Attitude",
+      "The Witch and Her Afternoon Tea",
+      "What's in the Can?"
+    ],
+    "length": 13458
+  },
+  "gavial": {
+    "intro": "{{Synopsis head |desc = The doctor, Gavial, and co. travel to Gavial's hometown on a low-altitude aircraft. Acahualla, a place of lush forests within Sargon. Close to their destination, the aircraft is struck down! The doctor and Gavial have no choice but to travel on foot to the settlements to seek help. What plots and threats do the vast rainforests hide? Will the Rhodes Island operators be able to repair their aircraft and return? Gavial, this is your home turf. It's all on you now!}}",
+    "headings": [
+      "Welcome to the Jungle!",
+      "Might Makes Right"
+    ],
+    "length": 7194
+  },
+  "grani": {
+    "intro": "{{Synopsis head |name = Grani and the Knights' Treasure |desc = Dewville, a remote village in Kazimierz has been occupied by bounty hunters. These bounty hunters indiscriminately rampage and ruin, apparently in an attempt to find the knight's treasure said to be buried here. After receiving a request for help, Mounted Police Grani volunteers to resolve the problem. Can she really drive out the bounty hunters? Will she find the mysterious knight's treasure? Will peace return to Dewville? Let's find it out.}}",
+    "headings": [
+      "Plot"
+    ],
+    "length": 7530
+  },
+  "grinning-valley": {
+    "intro": "{{Synopsis head |desc = The Doctor and Amiya return to Rim Billiton, and together with Savage they brush past their past journey, but unexpectedly run into a truck crashing a gate. Can the Feranmut chaser find the light she was looking for...?}}",
+    "headings": [
+      "Boiling Point",
+      "One-way Tracks",
+      "Running Bottletree",
+      "Hammer Down",
+      "Grinning Mineshaft",
+      "Stepped-on Shadow"
+    ],
+    "length": 13885
+  },
+  "guide-ahead": {
+    "intro": "{{Synopsis head |desc = A grand and unprecedented Summit of Nations, Gathering envoys from all lands to the holy city of Laterano. Beneath an eternal halo, they share joy and glory; Amidst ceaseless gunshots, they fend off pain and darkness. Foreign travelers marvel at the scenery, while returning Messengers silently pray: May supreme grace be bestowed upon us, may eternal redemption descend to us. May you and I, guided by the light, journey ahead to an unknown horizon.}}",
+    "headings": [
+      "Synopsis",
+      "References"
+    ],
+    "length": 11739
+  },
+  "here-a-people": {
+    "intro": "{{Synopsis head |desc = She touches the rice grains with her finger, closes her eyes, and takes a deep breath. It is a scent that has not changed for a thousand years. She opens her eyes again, and those who sweat with her in the fields seem almost the same as the ones a thousand years ago. Her spirit has become engrained within this soil over the centuries. She continues to protect this field of gold, even as the land becomes ill and evil grows. A thread flies into the Twelve Pagodas and Five Cities, in search of her freedom. Vernal winds turn to rain, nourishing flora and fauna. She returns a stranger, and free. It is still peace and a good harvest that she seeks.}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 15747
+  },
+  "hortus": {
+    "intro": "{{Synopsis head |desc = After sixty years of silence, Sanctilaminium Ambrosii sends out a cry for help. Paradise is stranded in the barrens, and order teeters on the brink of destruction. It can take years to establish a true friendship, yet the collapse of trust can happen in seconds. The pious have no choice but to renounce their faith, and the innocent must take on sin and plea mercy. The young saint asks himself: how do you correct suffering if it was not caused by error?}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 14261
+  },
+  "ideal-city": {
+    "intro": "{{Synopsis head |desc = Gavial and Eunectes head home in response to a call for help. Elysium and the Acahualla go underground to solve a problem. When they arrive at the underground city, they find a situation they never imagined. The Durin enjoy a cool summer splash beneath a broken dome. Competition, conflict, crisis; all must take a back seat. Cool off and drink to your heart's content. After the party is another party!}}",
+    "headings": [
+      "Synopsis"
+    ],
+    "length": 10297
+  },
+  "invitation": {
+    "intro": "{{Synopsis head |desc = The dreamer becomes drunk at the ancient pavilion. The spring gusts blow through the mountains, and the shadow reveals its true face through the clouds. Old matters yet to be resolved, a new game of chess has begun in Shangshu. A visitor from distant Lungmen, an antique goblet hidden in a box, a piece that has long been in the game, a lonely little boat, rowed into Shancheng.}} {{More citations needed}}",
+    "headings": [
+      "City of the Three Mountains",
+      "The Sacred Goblet",
+      "The Eighteenth Peak",
+      "Wrath of the Feranmut"
+    ],
+    "length": 9099
+  },
+  "lingering": {
+    "intro": "{{Synopsis head |desc = Leithanien, land of spires, home to wisdom and music. The shadows of days past are gone, and the light of dawn fills the streets. Afterglow Hall, Vyseheim. Strings stretched to the breaking point are about to play their last notes. Keys of black and white are trapped by the stave lines of destiny. A forgotten melody begins to grow in obsession. The sounds of joy drift in the glow, as no one notices that the sun has begun to set.}}",
+    "headings": [
+      "Das Abschiedskonzert",
+      "Songs of the Past",
+      "References"
+    ],
+    "length": 14355
+  },
+  "lone-trail": {
+    "intro": "{{Synopsis head |desc = Kristen's disappearance stirs everyone's emotions. The military and the Maylander Foundation gather in Trimounts. Kal'tsit chooses to intervene. Dark clouds gather as a rainstorm draws near. Is this a conspiracy, a farce, or one's lone awakening? Old grudges now cross paths here, as the past and the present clash. Tonight, nobody sleeps.}}",
+    "headings": [
+      "One small step for man...",
+      "...One giant leap for mankind",
+      "Goodnight, Terra",
+      "See also",
+      "References"
+    ],
+    "length": 24256
+  },
+  "long-time": {
+    "intro": "A collaboration with the Chinese mini-webtoon series ''The Legend of Luo Xiaohei'', It's Been A While tells about Luo Xiaohei searching for his lost friend Luo Xiaobai, Ah Gen, and Biu after the gang was accidentally teleported to Terra. Through the clue of a runaway pet, Xiaohei eventually finds his back to his friends with tears and joy while unveiling the secret past of the pet.",
+    "headings": [
+      "Turn Left, Turn Right",
+      "The Walls Have You",
+      "Yangni and I",
+      "Time of Farewell",
+      "Reunited",
+      "Chill Out"
+    ],
+    "length": 16880
+  },
+  "mansfield": {
+    "intro": "{{Synopsis head |desc = Years ago, Anthony Simon was incarcerated in Mansfield State Prison. All the while, he has been plotting to escape and uncover the truth. Little did he know, a plot targeting him was unfolding at the same time. Silence who coincidentally discovered Anthony's existence, Saria who had already taken action, Muelsyse whose intentions remain uncertain, as well as HydeBro and the Director of Energy behind them. Perhaps a late-night talk in the bar will shed some light on the truth behind this conspiracy, and lift a corner off the veil of secrecy covering Rhine Lab.}} {{More citations needed}}",
+    "headings": [
+      "Step One: Enter the Giant's Lair",
+      "Step Two: Awaken the Sleeping Beast",
+      "Step Three: Let Hell Break Loose",
+      "Step Four: Keep Your Friends Close"
+    ],
+    "length": 9381
+  },
+  "maria": {
+    "intro": "{{Synopsis head |desc = Consumption and entertainment suffuse the modern land of the knights. For the sake of her family's prestige, a young Maria Nearl embarks on the path to the Kazimierz Major. However, the young lady has yet to realize the meaning the word \"knight\" now carries, nor is she aware of the inner workings of modern Kazimierz...... A long and arduous journey lies ahead of Maria.}}",
+    "headings": [
+      "Synopsis"
+    ],
+    "length": 8828
+  },
+  "mass-travels": {
+    "intro": "{{Synopsis head |name = The Masses' Travels |desc = The Second Summit of Nations begins. The land's enemies, the sea's strangers, all have gathered at Laterano. The centuries-old order of the Holy City, shall be the salvation of all, living or not. At what price cometh salvation? Only the Laterans can know.}}",
+    "headings": [
+      "The Second Summit",
+      "Holy Revelation",
+      "Rebirth of Laterano",
+      "Awaken From Dream",
+      "Fly, Broken Wings",
+      "See also",
+      "References"
+    ],
+    "length": 30149
+  },
+  "mirror": {
+    "intro": "{{Synopsis head |desc = At the foot of Mt. Mang, there is a forgotten town where everything feels wrong. Books are read aloud in vacant rooms. Tea boils, fragrant, and the pot pours on its own. This splendid land, this deep-seated love. One laments this life, yet cannot bear to leave its taste behind. All one could wish is to stay.}}",
+    "headings": [
+      "Hu Jun",
+      "Mr. Pu",
+      "The Story of the Stone",
+      "Bai Jin",
+      "Errant Swordsman",
+      "Reaching the Top",
+      "Town Chronicle",
+      "See also",
+      "References"
+    ],
+    "length": 16729
+  },
+  "near-light": {
+    "intro": "{{Synopsis head |desc = The return of the Radiant Knight pushes the Special Knight Tournament to a climax. At the same time, in the dark corners where the neon lights do not shine, the suppressed roars are about to break their shackles. On the stage, the paths of the knights cross. Below the stage, the city lingers on the brink. Soon, the two paths will converge...}}",
+    "headings": [
+      "Fear Neither Hardship...",
+      "...Nor the Darkness"
+    ],
+    "length": 19109
+  },
+  "obsidian": {
+    "intro": "{{Synopsis head |desc = The Obsidian Festival is in full swing in the town of Siesta! The Operators of Rhodes Island have come for a vacation as well. Not before long, they learned that the eruption of a nearby volcano is imminent! But it seems the town's government is trying to cover it up?! In the midst of summer, heat, music and battle, Rhodes Island will set out with the mayor's daughter, Ceylon. Will they manage to save the day?}}",
+    "headings": [
+      "(Uneasy) Vacation",
+      "Siestan Intrigue",
+      "Taming the Volcano",
+      "Call of the Deep"
+    ],
+    "length": 7130
+  },
+  "operational": {
+    "intro": "{{Synopsis head |desc = A whisper in the smoke, a choice made under a knife... War has never respected borders, and the battlefield is never lacking in buried stories.}}",
+    "headings": [
+      "The Anonymous Ones' War",
+      "Destroyer",
+      "Sniper Training",
+      "Survival Notorization",
+      "After-class Homework",
+      "Polaris",
+      "Among the Light and the Dust"
+    ],
+    "length": 12001
+  },
+  "originium-dust": {
+    "intro": "The first crossover with the latest entry in the ''Tom Clancy's Rainbow Six'' tactical first-person shooter franchise, ''Rainbow Six Siege'', Operation Originium Dust tells the story of four Team Rainbow members: Eliza \"Ash\" Cohen, Alexsandr \"Tachanka\" Senaviev, Elias \"Blitz\" Kötz, and Tina \"Frost\" Lin Tsang as they were inadverdently taken to Terra after an operation that went wrong and their efforts to adapt with the alien yet familiar world, including an unlikely alliance with a team of Rhodes Island operatives.",
+    "headings": [
+      "Operation Lamarck",
+      "Brave New World"
+    ],
+    "length": 9382
+  },
+  "pale-sea": {
+    "intro": "{{Synopsis head |desc = Thorns goes into the Iberian Salt Flats in search of lost swordsmanship, but is kidnapped by desert bandits and must refine a compass in exchange for his freedom. The alchemists once tamed the sea with this compass, and even today the sound of waves can still be heard within the white salt dunes. As sails raise on a dilapidated ship, is there anything else you still long for outside the Pale Sea?}}",
+    "headings": [
+      "Synopsis",
+      "References"
+    ],
+    "length": 15069
+  },
+  "path-of-life": {
+    "intro": "{{Synopsis head |desc = The city of Milliarium breaks through a siege, a representative of Ægir's first attempt to communicate with the land. A swarm of We Many comes out in force, moving towards ripples surfacing on both land and sky. A lost forefather returns home, a lone Abyssal Hunter sinks into the abyss once more, and an extinguished beacon lights up again... An unprecedented ultra Waterway forms in-between the waves, connecting land to sea&mdash; between Ægir and Seaborn, who will rush towards their last chance for life?}}",
+    "headings": [
+      "Invitation from the Sea",
+      "Coincidence or Conspiracy?",
+      "Symbiosis",
+      "After the Tide Recedes",
+      "References"
+    ],
+    "length": 13657
+  },
+  "people-us": {
+    "intro": "{{Synopsis head |desc = Voices from the Ursine Far North echo across the skies of grand Deity Grypherburg, yet the powerful swirl their wine glasses at the ball, turning the city to a prison. High walls separate close friends, decrees cover up crimes, while blood drives those worried, naive souls into maturity. When one clenches their fist in anger, when one, when many, bring these fists to bear against injustice— From that moment on, the people will remember: that is the emblem of the Ursus Student Self-Government Group.}}",
+    "headings": [
+      "Synopsis",
+      "References"
+    ],
+    "length": 32604
+  },
+  "pinus": {
+    "intro": "{{Synopsis head |name = Pinus Sylvestris |desc = A power struggle, a family dispute, and everyone finds it difficult to return to their old selves. For Sona, every decision made is both a burden and a hope for the Infected by her side. She must be like the needle leaf of a Pinus Sylvestris, sharp and resolute.}}",
+    "headings": [
+      "Home",
+      "Dropping Grey",
+      "Let Us Ring a Ding Ding",
+      "A Lone Soul",
+      "Way of the Knights",
+      "Somebody",
+      "Drifting in the Wind"
+    ],
+    "length": 12334
+  },
+  "preluding": {
+    "intro": "{{Synopsis head |desc = This great land has never shown its kindness easily. The people face hardship, and with their own choices hammer down the rivets of fate. For even on the most desolate soil, there exists a spark of hope.}}",
+    "headings": [
+      "Crushed Earth",
+      "Flickering Sparks",
+      "Urban Legend",
+      "Forgotten Lighthouse",
+      "Different",
+      "Letter"
+    ],
+    "length": 18263
+  },
+  "red-velvet": {
+    "intro": "{{Synopsis head |desc = A film crew trapped on a Wrankwood studio plate in the barrens. A death from years ago rears its head again. Joy, confusion, fear, anger, and hatred take the stage in turn... Until blood paints the final scene of the drama. Who wrote this absurd tragedy, with emotion as their pen? Lucian lifts the curtains to take the stage as the star.}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 18445
+  },
+  "rewinding": {
+    "intro": "{{Synopsis head |desc = The lands within our memories, both clear and vague. The footprints that stretch from past to present. And the people. On Rhodes Island's deck, we survey, cherish, and pursue.}}",
+    "headings": [
+      "Homecoming",
+      "Expatriates",
+      "Astray",
+      "Recollection",
+      "A Song Called April",
+      "Crisscrossing Shadows",
+      "Stories from the Sky"
+    ],
+    "length": 11704
+  },
+  "ruins": {
+    "intro": "{{Synopsis head |desc = Kajimachi's night stretches long. Lights still burn, the game goes on, even wind steers clear of the streets. There are names you only whisper. There are rules you don't dare break. A letter brought back someone who should've stayed away. Uninvited, they were already at the table, long before the game began. When noise was gone, only cooled ashes remained in the city. Nita Street. The last television went dark before the hanabi faded.}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "Trivia",
+      "References"
+    ],
+    "length": 20815
+  },
+  "see-you-tomorrow": {
+    "intro": "{{Synopsis head |desc = \"War is dead\". Londinium's static gunsmoke thus declared. Purple flames crawl up the city walls. Canoes leave the river. A sword-wielder steps into the golden sea. No one can truly kill death and war, but at least for now, some still yearn for peace.}}",
+    "headings": [
+      "Adhaint an Ghrian",
+      "Отправляйтесь к Урсусу",
+      "Passing",
+      "Canoes off the Riverside",
+      "Another Breath of Death",
+      "All the Unrevealed"
+    ],
+    "length": 32204
+  },
+  "siracusano": {
+    "intro": "{{Synopsis head |title = IL Siracusano |desc = The invitation is unexpected, but she knew it would come some day. The explosion is premeditated, but he was well aware it would happen eventually. The gunshot resounds through the clouds, and he has waited several decades for it. The farewell is long overdue, and she turns away with no intention to stay. The city is in its rainy season, so don't forget to bring an umbrella.}} {{More citations needed}}",
+    "headings": [
+      "Synopsis"
+    ],
+    "length": 15590
+  },
+  "snow-1101": {
+    "intro": "{{Synopsis head |desc = Catastrophe descends upon Kjerag, plunging countless into calamity. As hearts waver in terror, those who lurk in the shadows bide their time. Meetings and partings, flames that light up the sky—the journey through the snow to find one's heart is long and fraught with peril. The one who moves the pieces knows the price of a single misstep. The loyal, the resolute, and those who relentlessly pursue the truth walk side-by-side. After this farewell, the mountain winds of Kjerag will blow on, ever unchanged.}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 24314
+  },
+  "so-long-adele": {
+    "intro": "{{Synopsis head |desc = Siesta is moved onto a nomadic city, and leaves the shadow of the volcano. Their new homes may be built, but the people do not wish to give up their memories. A volcanologist reaches out to touch the past, when clouds suddenly float down as balls of fluff. The night breeze melts away the dreams of summer, while guitars strum out gentle notes. The pulse of the land blazes white hot, and the volcano known as \"Love\" will erupt someday... It is parting, and reunion, and the song ever-present in the heart.}}",
+    "headings": [
+      "Goodbye, Old Me",
+      "Welcome, New Me",
+      "References"
+    ],
+    "length": 14532
+  },
+  "spark": {
+    "intro": "{{Synopsis head |desc = Under Caladon's dark clouds, a great fire burns the Green Spark to the ground and destroys Susie's tiny yet unreachable dream. Behind the dense smoke, an ugly conspiracy against the Infected begins to spread...}}",
+    "headings": [
+      "Maybe",
+      "Anywhere I Wander",
+      "We will all Go Together",
+      "Lone Ranger",
+      "Something's Gotta Give",
+      "Ring-a-Ding-Ding!"
+    ],
+    "length": 19171
+  },
+  "springtime": {
+    "intro": "{{Synopsis head |desc = A stubborn stone falls off a cliff. Will it wither and rot, or smash into pieces? A drop of rain long craved by a mountain village turns into a surging deluge, taking lives, names, and the very meaning of \"benevolence\" from Moushan's name. The blade in Qiubai's hand can protect lives, but cannot rein in the will of the people. Mountains surround Moushan village, but outside the mountain range, just how many more incidents like this are transpiring?}}",
+    "headings": [
+      "Afraid to Return Home",
+      "Courtyard Valley",
+      "Neither Gods Nor Demons",
+      "Health and Safety",
+      "Nameless Minion",
+      "Lone Mountain"
+    ],
+    "length": 19325
+  },
+  "stultifera": {
+    "intro": "{{Synopsis head |desc = A nation sunken in silence has left its legacy upon the waves. The Hunters follow their kin's trail to where the clues converge. Stultifera Navis, the golden ship, a monument to civilization. Kal'tsit warns that humanity must unite. Iberia no longer knows the sea, and Ægir has taken in foreign blood. The sea alone is the source of all life, and the sea alone is unchanging.}}",
+    "headings": [
+      "Gran Faro: The Last Eye",
+      "Lost Flagship: Barco de Tontos",
+      "Nameless Ocean: Unsung Hymns"
+    ],
+    "length": 11444
+  },
+  "sunset": {
+    "intro": "{{Synopsis head |desc = In Sargon, Menat-Ha'mait's Flood Festival approaches, and the museum antiques have come to life?! To become a real historian, Padishah's daughter, Pepe, decides to gather gemstones and unlock the secrets of the Shah's treasury! The river always flows, and the sun rises and sets eternal. Those willing to slumber find their own feelings once more, and choose a farewell to eternity. And those who shake off the sun will never stop in their tracks again.}}",
+    "headings": [
+      "City of Radiance",
+      "Jewel Quest",
+      "Legacy of Past and Future",
+      "References"
+    ],
+    "length": 13919
+  },
+  "sylvan": {
+    "intro": "{{Synopsis head |desc = A girl from Ursus walks off the train with her mother's keepsake. A Victorian veteran gazes upon his men with a solemn expression. An exiled Kazimierzian champion wipes the blood off her hands. The new masters of Kjerag maneuver for advantage, but its guardian's brow is furrowed. The one in the shadows tugs on the brim of his hat, certain there is something going on. The train to Lake Silberneherze is about to depart. Take your seats, ladies and gentlemen.}}",
+    "headings": [
+      "Plot",
+      "References"
+    ],
+    "length": 14579
+  },
+  "the-riders": {
+    "intro": "{{Synopsis head |desc = Nuova Volsinii, where turbulent undercurrents churn beneath a superficial peace. A car accident smashes the fragile tranquility into bits. Famiglie and violence have worn innumerable masks, but the banner of order will not tolerate a single stain. Judge, killer, Fang, tailor, Infected... A cab drives through the city like a specter as Lappland meticulously weaves a surprise for a grand performance. A plot or a gamble? Just hurry over to the Carnevale, and revel in the fun together!}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 17105
+  },
+  "to-be-continued": {
+    "intro": "{{Synopsis head |desc = Perhaps the things of old that seem overly wonderful can no longer exist, much like the last rays of a sunset. With the dusk crossing his back, Młynar searches for a way out.}}",
+    "headings": [
+      "Hermit Abode",
+      "Only the Stars",
+      "I Have Gazed",
+      "No Peace",
+      "Sunken Sun",
+      "Empty Armor",
+      "Words of Farewell"
+    ],
+    "length": 12939
+  },
+  "to-the-grinning": {
+    "intro": "{{Synopsis head |desc = An expedition team lost in the depths of the icefield sends a distress signal to the outside world. Ursus is not the only infiltrator in Sami's forest. Tribes that have gone their separate ways, and outsiders traveling together— will you choose to go north, or south?}}",
+    "headings": [
+      "In the Biting Cold",
+      "Daughter of the Icefield",
+      "Shadows of Trees",
+      "Revelation of Nature",
+      "Homecoming",
+      "One Day",
+      "Vision Unseen"
+    ],
+    "length": 20606
+  },
+  "under-tides": {
+    "intro": "{{Synopsis head |desc = Skadi hears the thrill of a long unheard melody at Rhodes Island. Following this sound, she meets Gladiia. Yet, this former comrade swiftly disappears after little more than a glimpse. She kidnapped Specter, leaving nothing but a name for Skadi. \"Sal Viento\", a lethargic and mysterious coastal town. There, Skadi will unravel the mystery of her and her companions' bloodline.}}",
+    "headings": [
+      "Call of the Abyss",
+      "Will of the Ocean"
+    ],
+    "length": 7809
+  },
+  "unfinished": {
+    "intro": "{{Synopsis head |desc = From the Snow Realms to Siesta, Siracusa to Kazimierz, seawater splashes from one end and soon turns to snowflakes on the other. People are the same. Migration, contact, solitude, reunion. Even after the camera lens moves away, life goes on.}}",
+    "headings": [
+      "Browntail",
+      "Until Next Time",
+      "Wolf and Wolfpack",
+      "Farewell Roy",
+      "Harmony in Difference",
+      "True Story"
+    ],
+    "length": 10021
+  },
+  "unpromised": {
+    "intro": "{{Synopsis head |desc = One industrial park with two layers; hundreds of enterprises with thousands of projects. The inaugural Air Expo Columbia is coming soon to Propeller Paradise as Columbia's next Great Expansion sets its sights on the sky. Yet, amidst the roaring electronic screams of \"Good Night, Kristen Wright\", Rhine Lab, once the center of everyone's attention, has quietly lost its voice. And amid a Columbian expansion frenzy of rockets and hot-air balloons, a Banshee who doesn't belong will come face to face with the origin of her dream.}}",
+    "headings": [
+      "Sky Fever",
+      "On the Loose",
+      "A Tree in the Clouds",
+      "No Cost Too Great",
+      "The Price of Dreams",
+      "A Banshee's Farewell Elegy",
+      "Good Night, Propeller Paradise",
+      "References"
+    ],
+    "length": 23694
+  },
+  "ursas-children": {
+    "intro": "{{Synopsis head |title = Survivors: Children of Ursus |desc = It was such a long winter in Chernobog. The lingering chill still haunts the survivors of Peterheim Middle School. The things they cannot change, face, or retrieve. The reasons they must remember, push on, and believe.}} {{Notice|type=discretion|The story of Children of Ursus deals with serious psychological issues and implicit violence which some may found uncomfortable.}}",
+    "headings": [
+      "Habits",
+      "The Chosen",
+      "Meeting in a Dream",
+      "Hypocrisy",
+      "Talking in Riddles",
+      "Business as Usual",
+      "Before Spring's Coming",
+      "Trivia",
+      "Notes"
+    ],
+    "length": 20906
+  },
+  "vigilo": {
+    "intro": "{{Synopsis head |desc = A person from the past, a landship sailing through the present, and a gaze rising from the future.}}",
+    "headings": [
+      "Spes",
+      "Memoria",
+      "Valorem",
+      "Cogitatio",
+      "Anterior",
+      "Pignus"
+    ],
+    "length": 15105
+  },
+  "walk-dust": {
+    "intro": "{{Synopsis head |desc = The extent of Kal'tsit's influence is immeasureable. Ursus, Victoria, and Sargon all bear marks of her presence. Whatever her role may be, she firmly and persistently pursues her own vision. Those who journey alongside her, too, are busily authoring the stories of their own lives. Time stops for no one, and Kal'tsit continues marching onward.}}",
+    "headings": [
+      "Flashback",
+      "Time Waits for No Woman"
+    ],
+    "length": 9479
+  },
+  "west-sunset": {
+    "intro": "{{Synopsis head |desc = Vina Victoria looks back from the stairs and sees her Glasgow companions, along with the city's scars. The war has already ended, but blood still flows. The one missing from the funeral, the one who betrayed the crown, the one who returned to the ruins of Norport... Vina Victoria's heroics ended with the war, but she remains Vina.}}",
+    "headings": [
+      "Rule, Victoria",
+      "Never Will Be Slaves",
+      "References"
+    ],
+    "length": 10020
+  },
+  "where-vernal": {
+    "intro": "{{Synopsis head |desc = Climb a hundred-year city, and bid farewell to its hundred-year guardian. The court is as high as jianghu is far. A plot ferments beneath the dust clouds. The wind and sand cannot break the poplar. The walls formed by will do not fear Catastrophe. Speak of the sword, reminisce about old times, while the wine is warm. On the chessboard, love and hatred, all to dust. Beat the drums, and see old friends off.}}",
+    "headings": [
+      "Synopsis",
+      "References"
+    ],
+    "length": 14116
+  },
+  "who-is-real": {
+    "intro": "{{Synopsis head |desc = Lava and Kroos, who arrived in Yan at the behest of Nian, meet a resident of Yan who encountered some trouble in the wilderness, Mr. Nothing. Together, the three of them follow the clues and search for Mount Hui-ch'i, to look for Nian's sister. An unassuming thatched house reveals a hidden world the moment they enter. Regaining their wits, they find themselves in a quaint little Yan town. Beneath the coexisting sun and moon, the town besieged by spirits of ink. A mysterious monk whose words bring truth: True or false, false or true, you and I are but inhabitants of a painting.}}",
+    "headings": [
+      "Seeing is Believing",
+      "Of Lies and Truths",
+      "A Promise Made, A Promise Kept"
+    ],
+    "length": 9492
+  },
+  "wolumonde": {
+    "intro": "{{Synopsis head |desc = Folinic and Suzuran arrive at this place, searching for the missing Atro. Wolumonde, \"The Eighth Moon\" of Leithanien Winterwisp Mountains. Under the threat of Catastrophes, the town remains still while suspicion lurks in the people's eyes. A great fire extinguishes many lives, but from the ashes more questions rise. With the arrival of Reunion, the conflict between the Infected and the townsfolk reaches a climax. Will this incident be resolved? Will there be answers to the mystery? Please investigate the truth hidden in the twilight, alongside the operators of Rhodes Island.}}",
+    "headings": [
+      "Who Killed Cock Robin?",
+      "Playing With Matches",
+      "Winterwisp, oh, Winterwisp",
+      "Blut, Ehre, und Erde"
+    ],
+    "length": 7223
+  },
+  "xiangjianhuan": {
+    "intro": "{{Synopsis head |desc = A rain of parting drenches the shoulders and sleeves of many around the Forbidden City. A letter to Victoria, enclosed with unspeakable melancholy. A sudden fire burns down half a lifetime's work, difficult to clean. A soup stewing for a century—will it manage to grant him a chance on the front line? Perhaps that so-called history was never a conspiracy, just unavoidable actions taken in unavoidable situations... A situation difficult to deal with since antiquity. If we have a reunion, we should enjoy ourselves to the fullest.}}",
+    "headings": [
+      "Synopsis",
+      "See also",
+      "References"
+    ],
+    "length": 17471
+  },
+  "zwilling": {
+    "intro": "{{Synopsis head |desc = Twenty-three years ago, the Golden Moon witnessed the collapse of that towering spire. Has Leithanien embraced a new chapter as it wished? Have the tyrant's ambitions and sins been buried along with all the pain and doubt he brought? When the poet returns to her homeland where the marigolds bloom, and the traveler plucks the strings of her cello, do the people beneath the Twin Spires still harbor hopes and dreams? Do they still wander freely? May all doubts be finally dispelled, may all questions be answered. \"I am this eternal nation. I am my own eternal king.\"}}",
+    "headings": [
+      "Die Gnade ist Ewig",
+      "Die Macht ist Grimm",
+      "Goldene Zwielicht",
+      "References"
+    ],
+    "length": 22808
+  }
+}

@@ -1,0 +1,17 @@
+<onlyinclude>{{Edit|Movements|Spire Mirages}}<!--
+-->{{Timeline head
+|arc = LE
+|name = Spire Mirages
+|intro = [[Leithanien]]—a grandiose nation where tall spires stretch into the sky, famous for their mastery of beautiful musical [[Arts]]. Yet beneath the gilded harmony lies dark secrets left by the specter of the feared [[Witch King]].}}
+{{Timeline cell
+|name = Twilight of Wolumonde
+|intro = The [[nomadic city]] of [[Wolumonde]] stands isolated, cut off from Leithanien by the [[Catastrophe|Great Rift]] and suffocated by distrust and fear. When Rhodes Island Operator Atro dies in a freak accident, many suspect foul play. [[Folinic]] and [[Suzuran]] arrive, determined to unravel the mystery—and its connection to the enigmatic Winterwisp Mountains.}}
+{{Timeline cell
+|name = Lingering Echoes
+|intro = When [[Ebenholz]] is invited to [[Vyseheim]] for a [[Czerny|famous musician]]'s farewell concert, he never expected it would offer a chance to lift his lifelong curse. Nor did he anticipate meeting [[Kreide]], someone who shares his affliction—and becoming his closest friend, fighting to defy their fate together.}}
+{{Timeline cell
+|name = Zwillingstürme im Herbst
+|intro = It has been 23 long years since the [[Twin Empresses]] toppled the Witch King's reign, and the Leithanian capital of [[Zwillingstürme]] prepares for its annual celebration. Yet behind the scenes, the infamous fugitive [[Virtuosa|Arturia Giallo]] conspires with the dead king's [[Echoes of Herkunftshorn|fanatical followers]], plotting to pave the way for his resurrection.
+|related = Hortus de Escapismo}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

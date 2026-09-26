@@ -1,0 +1,17 @@
+<onlyinclude>{{Edit|Movements|The Blessed}}<!--
+-->{{Timeline head
+|arc = LA
+|name = The Blessed
+|intro = [[Laterano]], the holy city of the [[Sankta]], has long been revered for its fair laws and enduring peace, a symbol of justice and stability. Yet this sacred land cannot shield everyone from hardship, not even its own people.}}
+{{Timeline cell
+|name = Guide Ahead
+|intro = Laterano gathers nations from across [[Terra]] to convene at the first Summit of Nations. However, a sect known as the [[Pathfinders]] stirs unrest within the city, challenging Laterano's ideals and questioning its mission to protect all people. At the heart of the conflict is an [[Cecelia|innocent girl]] who carries the blood of both Sankta and [[Sarkaz]].}}
+{{Timeline cell
+|name = Hortus de Escapismo
+|intro = The nomadic monastery of [[Sanctilaminium Ambrosii]], which vanished 60 years ago, has suddenly resurfaced with a distress call. When the [[Laterano/Overview#Laterano Notarial Hall|Notarial Hall]] arrives to investigate, they discover that the abbey is now home to far stranger denizens than anyone had anticipated.}}
+{{Timeline cell
+|name = The Masses' Travels
+|intro = 1101. An unprecedented, silent calamity strikes the Holy City—a disaster that exposes devastating truths and shakes Laterano to its very core. The identity of the Sankta will be redefined, and Laterano will never be the same.
+|related = Episode 15, Zwillingstürme im Herbst}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

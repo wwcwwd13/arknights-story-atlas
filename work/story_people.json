@@ -1,0 +1,926 @@
+[
+  {
+    "id": "grani",
+    "name": "그라니",
+    "kind": "operator",
+    "wikiTitle": "Grani"
+  },
+  {
+    "id": "ceylon",
+    "name": "실론",
+    "kind": "operator",
+    "wikiTitle": "Ceylon"
+  },
+  {
+    "id": "eyjafjalla",
+    "name": "에이야퍄들라",
+    "kind": "operator",
+    "wikiTitle": "Eyjafjalla"
+  },
+  {
+    "id": "bison",
+    "name": "바이슨",
+    "kind": "operator",
+    "wikiTitle": "Bison"
+  },
+  {
+    "id": "frostnova",
+    "name": "프로스트노바",
+    "kind": "nonoperator",
+    "wikiTitle": "FrostNova"
+  },
+  {
+    "id": "nian",
+    "name": "니엔",
+    "kind": "operator",
+    "wikiTitle": "Nian"
+  },
+  {
+    "id": "folinic",
+    "name": "폴리닉",
+    "kind": "operator",
+    "wikiTitle": "Folinic"
+  },
+  {
+    "id": "gavial",
+    "name": "가비알",
+    "kind": "operator",
+    "wikiTitle": "Gavial"
+  },
+  {
+    "id": "mudrock",
+    "name": "머드락",
+    "kind": "operator",
+    "wikiTitle": "Mudrock"
+  },
+  {
+    "id": "chen",
+    "name": "첸",
+    "kind": "operator",
+    "wikiTitle": "Ch'en"
+  },
+  {
+    "id": "hoshiguma",
+    "name": "호시구마",
+    "kind": "operator",
+    "wikiTitle": "Hoshiguma"
+  },
+  {
+    "id": "lava",
+    "name": "라바",
+    "kind": "operator",
+    "wikiTitle": "Lava"
+  },
+  {
+    "id": "ash",
+    "name": "애쉬",
+    "kind": "operator",
+    "wikiTitle": "Ash"
+  },
+  {
+    "id": "cliffheart",
+    "name": "클리프하트",
+    "kind": "operator",
+    "wikiTitle": "Cliffheart"
+  },
+  {
+    "id": "horn",
+    "name": "혼",
+    "kind": "operator",
+    "wikiTitle": "Horn"
+  },
+  {
+    "id": "flametail",
+    "name": "플레임테일",
+    "kind": "operator",
+    "wikiTitle": "Flametail"
+  },
+  {
+    "id": "ling",
+    "name": "링",
+    "kind": "operator",
+    "wikiTitle": "Ling"
+  },
+  {
+    "id": "goldenglow",
+    "name": "골든글로우",
+    "kind": "operator",
+    "wikiTitle": "Goldenglow"
+  },
+  {
+    "id": "executor",
+    "name": "페데리코",
+    "kind": "operator",
+    "wikiTitle": "Executor the Ex Foedere"
+  },
+  {
+    "id": "siege",
+    "name": "시즈",
+    "kind": "operator",
+    "wikiTitle": "Siege"
+  },
+  {
+    "id": "ebenholz",
+    "name": "에벤홀츠",
+    "kind": "operator",
+    "wikiTitle": "Ebenholz"
+  },
+  {
+    "id": "luo-xiaohei",
+    "name": "나소흑",
+    "kind": "operator",
+    "wikiTitle": "Luo Xiaohei"
+  },
+  {
+    "id": "reed",
+    "name": "리드",
+    "kind": "operator",
+    "wikiTitle": "Reed the Flame Shadow"
+  },
+  {
+    "id": "chongyue",
+    "name": "총웨",
+    "kind": "operator",
+    "wikiTitle": "Chongyue"
+  },
+  {
+    "id": "qiubai",
+    "name": "치우바이",
+    "kind": "operator",
+    "wikiTitle": "Qiubai"
+  },
+  {
+    "id": "yato",
+    "name": "야토",
+    "kind": "operator",
+    "wikiTitle": "Kirin R Yato"
+  },
+  {
+    "id": "magallan",
+    "name": "마젤란",
+    "kind": "operator",
+    "wikiTitle": "Magallan"
+  },
+  {
+    "id": "jessica",
+    "name": "제시카",
+    "kind": "operator",
+    "wikiTitle": "Jessica the Liberated"
+  },
+  {
+    "id": "virtuosa",
+    "name": "아르투리아",
+    "kind": "operator",
+    "wikiTitle": "Virtuosa"
+  },
+  {
+    "id": "ray",
+    "name": "레이",
+    "kind": "operator",
+    "wikiTitle": "Ray"
+  },
+  {
+    "id": "shu",
+    "name": "슈",
+    "kind": "operator",
+    "wikiTitle": "Shu"
+  },
+  {
+    "id": "ela",
+    "name": "엘라",
+    "kind": "operator",
+    "wikiTitle": "Ela"
+  },
+  {
+    "id": "pepe",
+    "name": "페페",
+    "kind": "operator",
+    "wikiTitle": "Pepe"
+  },
+  {
+    "id": "nymph",
+    "name": "님프",
+    "kind": "operator",
+    "wikiTitle": "Nymph"
+  },
+  {
+    "id": "laios",
+    "name": "라이오스",
+    "kind": "operator",
+    "wikiTitle": "Laios"
+  },
+  {
+    "id": "thorns",
+    "name": "쏜즈",
+    "kind": "operator",
+    "wikiTitle": "Thorns"
+  },
+  {
+    "id": "exusiai",
+    "name": "엑시아",
+    "kind": "operator",
+    "wikiTitle": "Exusiai"
+  },
+  {
+    "id": "phantom",
+    "name": "팬텀",
+    "kind": "operator",
+    "wikiTitle": "Phantom"
+  },
+  {
+    "id": "leizi",
+    "name": "레이즈",
+    "kind": "operator",
+    "wikiTitle": "Leizi"
+  },
+  {
+    "id": "sakiko",
+    "name": "사키코",
+    "kind": "operator",
+    "wikiTitle": "Sakiko Togawa"
+  },
+  {
+    "id": "orchid",
+    "name": "오키드",
+    "kind": "operator",
+    "wikiTitle": "Orchid"
+  },
+  {
+    "id": "beagle",
+    "name": "비글",
+    "kind": "operator",
+    "wikiTitle": "Beagle"
+  },
+  {
+    "id": "angelina",
+    "name": "안젤리나",
+    "kind": "operator",
+    "wikiTitle": "Angelina"
+  },
+  {
+    "id": "pallas",
+    "name": "팔라스",
+    "kind": "operator",
+    "wikiTitle": "Pallas"
+  },
+  {
+    "id": "eblana",
+    "name": "에블라나",
+    "kind": "operator",
+    "wikiTitle": "Necrass"
+  },
+  {
+    "id": "mountain",
+    "name": "산맥",
+    "kind": "operator",
+    "wikiTitle": "Mountain"
+  },
+  {
+    "id": "dusk",
+    "name": "시",
+    "kind": "operator",
+    "wikiTitle": "Dusk"
+  },
+  {
+    "id": "liskarm",
+    "name": "리스캄",
+    "kind": "operator",
+    "wikiTitle": "Liskarm"
+  },
+  {
+    "id": "bagpipe",
+    "name": "백파이프",
+    "kind": "operator",
+    "wikiTitle": "Bagpipe"
+  },
+  {
+    "id": "andoain",
+    "name": "안도아인",
+    "kind": "nonoperator",
+    "wikiTitle": "Andoain"
+  },
+  {
+    "id": "hibiscus",
+    "name": "히비스커스",
+    "kind": "operator",
+    "wikiTitle": "Hibiscus the Purifier"
+  },
+  {
+    "id": "eunectes",
+    "name": "유넥티스",
+    "kind": "operator",
+    "wikiTitle": "Eunectes"
+  },
+  {
+    "id": "swire",
+    "name": "스와이어",
+    "kind": "operator",
+    "wikiTitle": "Swire"
+  },
+  {
+    "id": "typhon",
+    "name": "티폰",
+    "kind": "operator",
+    "wikiTitle": "Typhon"
+  },
+  {
+    "id": "noir-corne",
+    "name": "느와르 코르네",
+    "kind": "operator",
+    "wikiTitle": "Noir Corne"
+  },
+  {
+    "id": "ceobe",
+    "name": "케오베",
+    "kind": "operator",
+    "wikiTitle": "Ceobe"
+  },
+  {
+    "id": "weedy",
+    "name": "위디",
+    "kind": "operator",
+    "wikiTitle": "Weedy"
+  },
+  {
+    "id": "iris",
+    "name": "아이리스",
+    "kind": "operator",
+    "wikiTitle": "Iris"
+  },
+  {
+    "id": "catapult",
+    "name": "캐터펄트",
+    "kind": "operator",
+    "wikiTitle": "Catapult"
+  },
+  {
+    "id": "silence",
+    "name": "사일런스",
+    "kind": "operator",
+    "wikiTitle": "Silence"
+  },
+  {
+    "id": "kafka",
+    "name": "카프카",
+    "kind": "operator",
+    "wikiTitle": "Kafka"
+  },
+  {
+    "id": "titi",
+    "name": "티티",
+    "kind": "operator",
+    "wikiTitle": "Titi"
+  },
+  {
+    "id": "yu",
+    "name": "위",
+    "kind": "operator",
+    "wikiTitle": "Yu"
+  },
+  {
+    "id": "wind-chimes",
+    "name": "윈드차임스",
+    "kind": "operator",
+    "wikiTitle": "Wind Chimes"
+  },
+  {
+    "id": "narantuya",
+    "name": "나란투야",
+    "kind": "operator",
+    "wikiTitle": "Narantuya"
+  },
+  {
+    "id": "demetri",
+    "name": "데메트리",
+    "kind": "operator",
+    "wikiTitle": "Bellone"
+  },
+  {
+    "id": "talulah",
+    "name": "탈룰라",
+    "kind": "nonoperator",
+    "wikiTitle": "Talulah"
+  },
+  {
+    "id": "patriot",
+    "name": "패트리어트",
+    "kind": "nonoperator",
+    "wikiTitle": "Patriot"
+  },
+  {
+    "id": "nasti",
+    "name": "내스티",
+    "kind": "operator",
+    "wikiTitle": "Nasti"
+  },
+  {
+    "id": "haruka",
+    "name": "하루카",
+    "kind": "operator",
+    "wikiTitle": "Haruka"
+  },
+  {
+    "id": "rockrock",
+    "name": "락락",
+    "kind": "operator",
+    "wikiTitle": "Rockrock"
+  },
+  {
+    "id": "lee",
+    "name": "리",
+    "kind": "operator",
+    "wikiTitle": "Lee"
+  },
+  {
+    "id": "morgan",
+    "name": "모건",
+    "kind": "operator",
+    "wikiTitle": "Morgan"
+  },
+  {
+    "id": "quercus",
+    "name": "퀘르쿠스",
+    "kind": "operator",
+    "wikiTitle": "Quercus"
+  },
+  {
+    "id": "shalem",
+    "name": "샬렘",
+    "kind": "operator",
+    "wikiTitle": "Shalem"
+  },
+  {
+    "id": "aphrissa",
+    "name": "아프리사",
+    "kind": "operator",
+    "wikiTitle": "Aphrissa"
+  },
+  {
+    "id": "kroos",
+    "name": "크루스",
+    "kind": "operator",
+    "wikiTitle": "Kroos"
+  },
+  {
+    "id": "timeslot",
+    "name": "타임슬롯",
+    "kind": "operator",
+    "wikiTitle": "Timeslot"
+  },
+  {
+    "id": "makoto-yuki",
+    "name": "유키 마코토",
+    "kind": "operator",
+    "wikiTitle": "Makoto Yuki"
+  },
+  {
+    "id": "suzuran",
+    "name": "스즈란",
+    "kind": "operator",
+    "wikiTitle": "Suzuran"
+  },
+  {
+    "id": "hoederer",
+    "name": "외드레르",
+    "kind": "operator",
+    "wikiTitle": "Hoederer"
+  },
+  {
+    "id": "whislash",
+    "name": "위슬래시",
+    "kind": "operator",
+    "wikiTitle": "Whislash"
+  },
+  {
+    "id": "muelsyse",
+    "name": "뮤엘시스",
+    "kind": "operator",
+    "wikiTitle": "Muelsyse"
+  },
+  {
+    "id": "mr-nothing",
+    "name": "우요우",
+    "kind": "operator",
+    "wikiTitle": "Mr. Nothing"
+  },
+  {
+    "id": "saga",
+    "name": "사가",
+    "kind": "operator",
+    "wikiTitle": "Saga"
+  },
+  {
+    "id": "enforcer",
+    "name": "인포서",
+    "kind": "operator",
+    "wikiTitle": "Enforcer"
+  },
+  {
+    "id": "mostima",
+    "name": "모스티마",
+    "kind": "operator",
+    "wikiTitle": "Mostima"
+  },
+  {
+    "id": "viviana",
+    "name": "비비아나",
+    "kind": "operator",
+    "wikiTitle": "Viviana"
+  },
+  {
+    "id": "degenbrecher",
+    "name": "데겐블레허",
+    "kind": "operator",
+    "wikiTitle": "Degenbrecher"
+  },
+  {
+    "id": "kjera",
+    "name": "쉐라",
+    "kind": "operator",
+    "wikiTitle": "Kjera"
+  },
+  {
+    "id": "saileach",
+    "name": "사일라흐",
+    "kind": "operator",
+    "wikiTitle": "Saileach"
+  },
+  {
+    "id": "harmonie",
+    "name": "아르모니",
+    "kind": "operator",
+    "wikiTitle": "Harmonie"
+  },
+  {
+    "id": "elysium",
+    "name": "엘리시움",
+    "kind": "operator",
+    "wikiTitle": "Elysium"
+  },
+  {
+    "id": "wild-mane",
+    "name": "와일드메인",
+    "kind": "operator",
+    "wikiTitle": "Wild Mane"
+  },
+  {
+    "id": "fartooth",
+    "name": "파투스",
+    "kind": "operator",
+    "wikiTitle": "Fartooth"
+  },
+  {
+    "id": "ashlock",
+    "name": "애쉬락",
+    "kind": "operator",
+    "wikiTitle": "Ashlock"
+  },
+  {
+    "id": "shining",
+    "name": "샤이닝",
+    "kind": "operator",
+    "wikiTitle": "Shining"
+  },
+  {
+    "id": "nightingale",
+    "name": "나이팅게일",
+    "kind": "operator",
+    "wikiTitle": "Nightingale"
+  },
+  {
+    "id": "tomimi",
+    "name": "토미미",
+    "kind": "operator",
+    "wikiTitle": "Tomimi"
+  },
+  {
+    "id": "croissant",
+    "name": "크루아상",
+    "kind": "operator",
+    "wikiTitle": "Croissant"
+  },
+  {
+    "id": "ptilopsis",
+    "name": "프틸롭시스",
+    "kind": "operator",
+    "wikiTitle": "Ptilopsis"
+  },
+  {
+    "id": "vanilla",
+    "name": "바닐라",
+    "kind": "operator",
+    "wikiTitle": "Vanilla"
+  },
+  {
+    "id": "warfarin",
+    "name": "와파린",
+    "kind": "operator",
+    "wikiTitle": "Warfarin"
+  },
+  {
+    "id": "rosmontis",
+    "name": "로즈몬티스",
+    "kind": "operator",
+    "wikiTitle": "Rosmontis"
+  },
+  {
+    "id": "logos",
+    "name": "로고스",
+    "kind": "operator",
+    "wikiTitle": "Logos"
+  },
+  {
+    "id": "ifrit",
+    "name": "이프리트",
+    "kind": "operator",
+    "wikiTitle": "Ifrit"
+  },
+  {
+    "id": "heidi",
+    "name": "하이디",
+    "kind": "operator",
+    "wikiTitle": "Heidi"
+  },
+  {
+    "id": "fiammetta",
+    "name": "피아메타",
+    "kind": "operator",
+    "wikiTitle": "Fiammetta"
+  },
+  {
+    "id": "stainless",
+    "name": "스테인리스",
+    "kind": "operator",
+    "wikiTitle": "Stainless"
+  },
+  {
+    "id": "paprika",
+    "name": "파프리카",
+    "kind": "operator",
+    "wikiTitle": "Paprika"
+  },
+  {
+    "id": "robin",
+    "name": "로빈",
+    "kind": "operator",
+    "wikiTitle": "Robin"
+  },
+  {
+    "id": "tequila",
+    "name": "테킬라",
+    "kind": "operator",
+    "wikiTitle": "Tequila"
+  },
+  {
+    "id": "la-pluma",
+    "name": "라 플루마",
+    "kind": "operator",
+    "wikiTitle": "La Pluma"
+  },
+  {
+    "id": "minimalist",
+    "name": "미니멀리스트",
+    "kind": "operator",
+    "wikiTitle": "Minimalist"
+  },
+  {
+    "id": "pozemka",
+    "name": "파죰카",
+    "kind": "operator",
+    "wikiTitle": "Pozëmka"
+  },
+  {
+    "id": "astgenne",
+    "name": "아스트젠",
+    "kind": "operator",
+    "wikiTitle": "Astgenne"
+  },
+  {
+    "id": "czerny",
+    "name": "체르니",
+    "kind": "operator",
+    "wikiTitle": "Czerny"
+  },
+  {
+    "id": "lessing",
+    "name": "레싱",
+    "kind": "operator",
+    "wikiTitle": "Lessing"
+  },
+  {
+    "id": "gravel",
+    "name": "그라벨",
+    "kind": "operator",
+    "wikiTitle": "Gravel"
+  },
+  {
+    "id": "leonhardt",
+    "name": "레온하르트",
+    "kind": "operator",
+    "wikiTitle": "Leonhardt"
+  },
+  {
+    "id": "ayerscarpe",
+    "name": "에이어스카르페",
+    "kind": "operator",
+    "wikiTitle": "Ayerscarpe"
+  },
+  {
+    "id": "flamebringer",
+    "name": "플레임브링어",
+    "kind": "operator",
+    "wikiTitle": "Flamebringer"
+  },
+  {
+    "id": "harold",
+    "name": "해럴드",
+    "kind": "operator",
+    "wikiTitle": "Harold"
+  },
+  {
+    "id": "almond",
+    "name": "아몬드",
+    "kind": "operator",
+    "wikiTitle": "Almond"
+  },
+  {
+    "id": "coldshot",
+    "name": "콜드샷",
+    "kind": "operator",
+    "wikiTitle": "Coldshot"
+  },
+  {
+    "id": "spuria",
+    "name": "스푸리아",
+    "kind": "operator",
+    "wikiTitle": "Spuria"
+  },
+  {
+    "id": "insider",
+    "name": "인사이더",
+    "kind": "operator",
+    "wikiTitle": "Insider"
+  },
+  {
+    "id": "santalla",
+    "name": "산탈라",
+    "kind": "operator",
+    "wikiTitle": "Santalla"
+  },
+  {
+    "id": "valarqvin",
+    "name": "발라크빈",
+    "kind": "operator",
+    "wikiTitle": "Valarqvin"
+  },
+  {
+    "id": "fuze",
+    "name": "Fuze",
+    "kind": "operator",
+    "wikiTitle": "Fuze"
+  },
+  {
+    "id": "iana",
+    "name": "Iana",
+    "kind": "operator",
+    "wikiTitle": "Iana"
+  },
+  {
+    "id": "doc-r6",
+    "name": "Doc",
+    "kind": "operator",
+    "wikiTitle": "Doc"
+  },
+  {
+    "id": "tachanka",
+    "name": "Tachanka",
+    "kind": "operator",
+    "wikiTitle": "Tachanka"
+  },
+  {
+    "id": "blitz",
+    "name": "Blitz",
+    "kind": "operator",
+    "wikiTitle": "Blitz"
+  },
+  {
+    "id": "frost-r6",
+    "name": "Frost",
+    "kind": "operator",
+    "wikiTitle": "Frost"
+  },
+  {
+    "id": "papyrus",
+    "name": "파피루스",
+    "kind": "operator",
+    "wikiTitle": "Papyrus"
+  },
+  {
+    "id": "sand-reckoner",
+    "name": "샌드레코너",
+    "kind": "operator",
+    "wikiTitle": "Sand Reckoner"
+  },
+  {
+    "id": "rose-salt",
+    "name": "로즈솔트",
+    "kind": "operator",
+    "wikiTitle": "Rose Salt"
+  },
+  {
+    "id": "uika",
+    "name": "우이카",
+    "kind": "operator",
+    "wikiTitle": "Uika Misumi"
+  },
+  {
+    "id": "mutsumi",
+    "name": "무츠미",
+    "kind": "operator",
+    "wikiTitle": "Mutsumi Wakaba"
+  },
+  {
+    "id": "umiri",
+    "name": "우미리",
+    "kind": "operator",
+    "wikiTitle": "Umiri Yahata"
+  },
+  {
+    "id": "nyamu",
+    "name": "냐무",
+    "kind": "operator",
+    "wikiTitle": "Nyamu Yūtenji"
+  },
+  {
+    "id": "raidian",
+    "name": "라이디언",
+    "kind": "operator",
+    "wikiTitle": "Raidian"
+  },
+  {
+    "id": "midnight",
+    "name": "미드나이트",
+    "kind": "operator",
+    "wikiTitle": "Midnight"
+  },
+  {
+    "id": "spot",
+    "name": "스팟",
+    "kind": "operator",
+    "wikiTitle": "Spot"
+  },
+  {
+    "id": "popukar",
+    "name": "포푸카",
+    "kind": "operator",
+    "wikiTitle": "Popukar"
+  },
+  {
+    "id": "perfumer-distilled",
+    "name": "퍼퓨머",
+    "kind": "operator",
+    "wikiTitle": "Perfumer the Distilled"
+  },
+  {
+    "id": "ripresa",
+    "name": "리프레사",
+    "kind": "operator",
+    "wikiTitle": "Ripresa"
+  },
+  {
+    "id": "carol",
+    "name": "캐럴",
+    "kind": "nonoperator",
+    "wikiTitle": "Carol"
+  },
+  {
+    "id": "big-bob",
+    "name": "빅 밥",
+    "kind": "nonoperator",
+    "wikiTitle": "Big Bob"
+  },
+  {
+    "id": "brigid",
+    "name": "브리기드",
+    "kind": "nonoperator",
+    "wikiTitle": "Brigid"
+  },
+  {
+    "id": "miss-christine",
+    "name": "미스 크리스틴",
+    "kind": "nonoperator",
+    "wikiTitle": "Miss.Christine"
+  },
+  {
+    "id": "tippi",
+    "name": "티피",
+    "kind": "nonoperator",
+    "wikiTitle": "Tippi"
+  },
+  {
+    "id": "tragodia",
+    "name": "트라고디아",
+    "kind": "nonoperator",
+    "wikiTitle": "Tragodia"
+  }
+]

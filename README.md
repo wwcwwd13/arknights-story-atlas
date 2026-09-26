@@ -1,7 +1,6 @@
 # 명일방주 이야기 지도
 
 `index.html`을 브라우저에서 열면 됩니다. 이 폴더의 데이터와 적용된 이미지만으로 연표가 작동합니다. 별도 설치나 서버는 필요하지 않습니다.
-전체 내용을 글로 읽으려면 `STORY-MAP.md`를 열면 됩니다. 89개 이야기의 요약, 등장인물, 주요 행동과 서로 다른 흐름 사이의 연결을 세력별로 정리했습니다.
 
 ## 화면 사용
 
@@ -29,7 +28,7 @@
 
 ## 파일
 
-- `index.html`, `style.css`, `cycle2.css`, `cycle3.css`, `app.js` — 화면과 동작
+- `index.html`, `style.css`, `app.js` — 화면과 동작
 - `data.js` — 표시 데이터, 출처 링크, 예상 여부, 이미지 경로
 - `assets/banners/` — 출처를 확인한 로컬 행사 이미지 및 합본 1개의 공통 대표 이미지
 - `assets/emblems-official/` — 게임 리소스에서 가져온 진영 로고(행 표식 14개와 에기르 보조 표식 1개)
@@ -44,7 +43,6 @@
 - `work/story_protagonists.json` — 여러 인물이 이야기를 이끄는 경우의 주역 지정과 순서
 - `work/korean_story_links.json`, `work/korean_info_links.json` — 한국어 줄거리와 사건 정보 링크
 - `work/story_people_seed.json`, `work/story_people.json` — 한국어 인물 이름, 유형, 얼굴 이미지 원본 대응
-- `STORY-MAP.md` — 위 데이터를 세력별로 펼쳐 놓은 읽기용 목록
 - `work/synopses/` — 대조에 사용한 개별 시놉시스의 텍스트 스냅샷
 - `work/` — 한국·중국 게임 데이터 원본 스냅샷과 데이터 생성 도구
 
@@ -68,5 +66,3 @@
 이미지는 개인용 로컬 열람을 위한 자료입니다. 원저작권은 명일방주 권리자에게 있습니다. 각 이미지의 원본 링크는 해당 이벤트 상세 패널 또는 `data.js`의 `artCredits`에 기록했습니다.
 
 마지막 정리일: 2026-09-26.
-#   a r k n i g h t s - s t o r y - a t l a s  
- 

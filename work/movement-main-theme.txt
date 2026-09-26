@@ -1,0 +1,103 @@
+<onlyinclude>{{Edit|Movements|Main Theme}}<!--
+-->{{Timeline head
+|arc = MS
+|name = For Tomorrow
+|intro = In every story, there are heroes, and there are villains. Those with ideals will fight for what they believe is the correct choice, even if it takes them down a path of endless violence. No one knows if there is a right or wrong answer, but there must be a path towards a better future.}}
+{{Timeline cell
+|act = initium
+|name = Hour of an Awakening
+|intro = The beginning of the [[Doctor]]'s journey with [[Rhodes Island]], and their first encounters with the [[Reunion Movement]] amidst a chaotic [[Infected]] uprising.}}
+{{Timeline cell
+|name = Prologue
+|title = Episode 00
+|subtitle = Evil Time Part 1
+|intro = The Doctor awakes from their slumber, unable to remember anything. A young girl named [[Amiya]] and her allies—Rhodes Island have arrived to rescue them from [[Chernobog]], [[Ursus]] amidst an uprising staged by the Reunion Movement.}}
+{{Timeline cell
+|name = Episode 01
+|subtitle = Evil Time Part 2
+|intro = A looming [[Catastrophe]] strikes Chernobog, yet Reunion manipulates the chaos to fulfill their agenda. Rhodes Island must survive the Catastrophe and escape the doomed city.}}
+{{Timeline cell
+|name = Episode 02
+|subtitle = Separated Hearts
+|intro = [[Lungmen]]—a [[Yan]]ese [[nomadic city]], now under siege by Reunion. While Rhodes Island maintains a delicate balance between the Infected and the city's authority, a Chernobog refugee hiding in Lungmen becomes a key to understanding Reunion's plans.}}
+{{Timeline cell
+|name = Episode 03
+|subtitle = Stinging Shock
+|intro = Twins separated by tragedy are reunited through tragedy, and plans continue to unravel as Rhodes Island braves the storm.}}
+{{Timeline cell
+|act = I
+|name = Shatter of a Vision
+|intro = The [[Chernobog Crisis]] escalates as Rhodes Island battles to defend Lungmen from the advancing Reunion forces. The Infected of Ursus rise to cast off their chains—while the true mastermind watches from the distant Chernobog.}}
+{{Timeline cell
+|name = Episode 04
+|subtitle = Burning Run
+|intro = The feared [[Yeti Squadron]] of the northwestern tundra join the fray. Rhodes Island dispatches recon teams to a detached plate of Chernobog near Lungmen, only to come under attack by Reunion forces hiding in the ruins.}}
+{{Timeline cell
+|name = Episode 05
+|subtitle = Necessary Solutions
+|intro = While Rhodes Island's forces are trapped on the abandoned Chernobog plate by the terrifying [[FrostNova]], Reunion launches a direct attack on Lungmen. [[Ch'en]], [[Swire]], and [[Hoshiguma]] must lead the [[L.G.D.]] to reclaim their home.}}
+{{Timeline cell
+|name = Episode 06
+|subtitle = Partial Necrosis
+|intro = The battle for Lungmen reaches its conclusion as Reunion is brutally driven back. Both sides encounter mysterious soldiers clad in [[Shadow Guard|black raincoats]], and Rhodes Island must confront FrostNova once and for all.}}
+{{Timeline cell
+|name = Episode 07
+|subtitle = The Birth of Tragedy
+|intro = The invasion of Lungmen is over, but the crisis is far from resolved. With Chernobog now hurtling toward the city, Rhodes Island must act swiftly to prevent an international incident that could ignite war between Ursus and Yan—by infiltrating Chernobog and ending [[Talulah]]’s plans from within. However, the terrifying Guerrillas of Reunion stand in their way, led by none other than [[Patriot]]—backbone of the Reunion Movement, and FrostNova's father.
+|related = Darknights Memoir}}
+{{Timeline cell
+|name = Episode 08
+|subtitle = Roaring Flare
+|intro = As Reunion tears itself apart from the inside, Rhodes Island splits up to bring an end to the conflict, once and for all. Amiya and [[Rosmontis]] advance on Chernobog's Control Tower, while the Doctor and [[Kal'tsit]] investigate a troubling anomaly. The leader of Reunion awaits her kin, and flame will burn away all falsehood.}}
+{{Timeline cell
+|act = II
+|name = Shadow of a Dying Sun
+|intro = The curtain rises on a new battle as [[Victoria]] is mired in conflict—from the vengeance of the [[Sarkaz]] to the wrath of the [[Draco]], and the vacant throne torn apart by Victoria herself. Ancient secrets and grudges gather like storm clouds above [[Londinium]], and all of [[Terra]] stands to suffer the consequences.}}
+{{Timeline cell
+|name = Episode 09
+|subtitle = Stormwatch
+|intro = [[County Hillock]], Victoria. A simple city caught in a crisis as the mysterious [[Dublinn|Spectre Force]] fires the first shot that would herald the death of Victoria.}}
+{{Timeline cell
+|name = Episode 10
+|subtitle = Shatterpoint
+|intro = Months after the County Hillock incident, Rhodes Island sets course for occupied Londinium—the home of [[Siege]] and the [[Glasgow Gang]]. A disastrous conflict looms, casting a dark shadow over the heart of Victoria’s capital.
+|related = A Walk in the Dust}}
+{{Timeline cell
+|name = Episode 11
+|subtitle = Return to Mist
+|intro = Siege and her allies search for a way to prevent war, even as the past rises through the steam to haunt them. Meanwhile, Rhodes Island's ties to Victoria's fate run far deeper than anyone first believed—and the Sarkaz will suffer in silence no longer.}}
+{{Timeline cell
+|name = Episode 12
+|subtitle = All Quiet Under the Thunder
+|intro = The true conflict begins at last as the Sarkaz reveal their intent and the Grand Dukes prepare for war. Rhodes Island and their allies suffer devastating losses, while the Glasgow Gang returns to where they began—Norport, the city plate now stranded outside Londinium, cut off from the outside world.
+|related = What the Firelight Casts}}
+{{Timeline cell
+|name = Episode 13
+|subtitle = The Whirlpool that is Passion
+|intro = Breaking free of the Norport blockade, Siege and her allies take control of their own fate, while Rhodes Island works to unravel [[Kazdel]]'s shadowy supply lines. Familiar faces and old friends reunite—but none have remained the same.}}
+{{Timeline cell
+|name = Episode 14
+|subtitle = Absolved Will Be the Seekers
+|intro = The ''Original Sin'' of the Teekaz descends once more, and war erupts as Londinium is consumed by tides of [[Originium]]. Rhodes Island must brave the storm and stop this ancient curse from burying Victoria—and all of Terra—in the wrath of the Sarkaz.
+|related = Babel (event)}}
+{{Timeline cell
+|act = III
+|name = Nexus Point of Future
+|intro = The storm over Londinium triggers the expansion of [[Originium]], and the [[Lone Trail/Synopsis|shattered sky]] ushers in a new era. Rhodes Island must continue sailing towards the promised dawn, no matter what threats come from without—or within.}}
+{{Timeline cell
+|name = Episode 15
+|subtitle = Dissociative Recombination
+|intro = Ever since the Londinium Crisis, Rhodes Island has been preparing for future disasters, standing vigilant. The illusion of safety aboard Rhodes Island is shattered by the most unexpected of threats. Remember—don't look at the rhombuses. Don't let them... notice you.
+|related = Ending a Grand Overture}}
+{{Timeline cell
+|name = Episode 16
+|subtitle = Abnormal Spectrum
+|intro = To revive Kal'tsit, Rhodes Island once again sets foot upon Ursus. But what they discover is an abnormal phenomenon: Kolossal Prime Vein, the largest [[Originium Prime Vein]] on Terra, has shrunk in size. As Ursus desperately cracks down on opposing voices, the seed of revolution has already been sown in the blood-soaked tundra.}}
+{{Timeline cell
+|cn = true
+|name = Episode 17
+|subtitle = Critical Phase Transition
+|intro = Following new clues, Rhodes Island sends a team to the satellite city of Zelgrad, where the Ursus First Army is carrying out research on the Sarcophagus for their own purposes. But the Fourth Army, daring to defy orders, tries to take over the city. Amidst political rivalries and unexpected alliances, will Rhodes Island bring back Kal'tsit before it's too late? The situation in Ursus is about to explode.}}
+{{Table end}}
+</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

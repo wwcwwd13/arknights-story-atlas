@@ -1,0 +1,20 @@
+<onlyinclude>{{Edit|Movements|Those Who Take The Future}}<!--
+-->{{Timeline head
+|arc = RH
+|name = Those Who Take The Future
+|intro = Ten researchers, each the best in their field, join forces to create the most advanced research institute in [[Columbia]]—[[Rhine Lab]]. Their work will send shockwaves throughout [[Terra]], but at what cost?}}
+{{Timeline cell
+|name = Mansfield Break
+|intro = [[Silence]] devises a bold plan to break the wrongly imprisoned [[Mountain|Anthony Simon]] out of [[Mansfield State Prison]]. But she isn't the only one with eyes on Anthony—or the secrets he holds. What seems like a simple prison break is just one move in a far greater power struggle within Rhine Lab.}}
+{{Timeline cell
+|name = Dorothy's Vision
+|intro = Trouble erupts at Rhine Lab's Site 359 when a hostage crisis draws attention to the secret experiments of [[Dorothy|Dorothy Franks]], head of Rhine Lab's Originium Arts division. In her pursuit of a perfect utopia, one question remains—has science gone too far?}}
+{{Timeline cell
+|name = Lone Trail
+|intro = The disappearance of [[Kristen Wright]] throws the Columbian Department of Defense into chaos. As a storm brews over [[Trimounts]], [[Rhodes Island]] is forced to intervene—and Rhine Lab's directors begin to move. A groundbreaking project is about to take off. Tonight, the world will change, and Terra will finally touch the sky.}}
+{{Timeline cell
+|name = Unrealized Realities
+|intro = Ever since the "[[Trimounts Arc]]", the Columbians have become obsessed with the reaching for the sky. [[Nasti|Nasti Lunorey]] is sent to represent Rhine Lab at the science exhibition for the first levitating plate in Terran history. In an era where even the most absurd ideas appear possible, is Columbia about to turn dreams into reality, or just chasing a wild fantasy?
+}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

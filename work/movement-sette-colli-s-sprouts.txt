@@ -1,0 +1,18 @@
+<onlyinclude>{{Edit|Movements|Sette Colli's Sprouts}}<!--
+-->{{Timeline head
+|arc = SI
+|name = Sette Colli's Sprouts
+|intro = [[Siracusa]]—the lawless land of mafiosi, where the ''famiglie'' dominate with power and violence. While the old guard continue to tear at each other like wolves, many fight to break the shackles of tradition and breathe new life into the nation.}}
+{{Timeline cell
+|name = Il Siracusano
+|title = IL Siracusano
+|intro = [[Texas|Cellinia Texas]] returns to Siracusa at the request of the [[Zaaro]] the [[Signori dei Lupi|Signore dei Lupi]]. Drawn back into the life she tried to leave behind, the last Texas must navigate the perilous streets of [[Volsinii]] as a new city plate is added—choosing her place in the bloody power struggle to come. Don’t forget your umbrella, for the rain never stops in Siracusa.
+|related = Code of Brawl}}
+{{Timeline cell
+|name = I Portatori dei Velluti
+|intro = One year has passed since Nuova Volsinii began its journey as a city free of the mafia's influence. To mark the occasion, City Hall invites all citizens to celebrate a new Carnevale. But just days before the festivities, Acting Mayor [[Vigil|Leontuzzo]] is badly injured in a car accident—unraveling a complex plot that threatens to plunge the newborn city into chaos.}}
+{{Timeline cell
+|name = Crossing
+|intro =  Nuova Volsinii continues to develop thanks to foreign business cooperations and Leontuzzo's policies. But when a prestigious wine tasting contest turns into tragedy after one of its judges gets poisoned, external forces exposes the cracks in the city's prosperity. The famiglie isn't the only thing Siracusa must worry about now.}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

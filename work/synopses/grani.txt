@@ -1,0 +1,44 @@
+{{Event tab}}
+{{Synopsis head
+|name = Grani and the Knights' Treasure
+|desc = [[Dewville]], a remote village in [[Kazimierz]] has been occupied by bounty hunters.<br/>These bounty hunters indiscriminately rampage and ruin, apparently in an attempt to find the knight's treasure said to be buried here.<br/>After receiving a request for help, Mounted Police [[Grani]] volunteers to resolve the problem.<br/>Can she really drive out the bounty hunters?<br/>Will she find the mysterious knight's treasure?<br/>Will peace return to Dewville?<br/>Let's find it out.}}
+
+==Plot==
+
+===Trouble in Dewville===
+[[File:The Knights' Treasure.png|thumb|The fabled Knights' Treasure and the years-long craze for it.]]
+Due to a certain tradition, ancient knights are often buried along with their riches as well as other personal belongings. Drawn to rumors of the fabled Knights' Treasure, bounty hunters and other parties have roamed remote areas of [[Kazimierz]] for years. Around a month ago, however, a chest of gold was found around the village of [[Dewville]], leading the hunters to believe more treasure lay somewhere in the same area.
+
+The bounty hunters have been harassing and interrogating the denizens of Dewville on the location of this treasure for the last month. This eventually culminates in their kidnapping of the village chief, [[Carol]]. Luckily, Carol is rescued in the nick of time by [[Grani]], a young [[Victoria|Victorian]] [[Kuranta]] with Kazimierzian blood currently working for [[Rhodes Island]]; Grani had wrested this mission from [[Meteorite]] as a way to see the land her parents came from. After driving off the bounty hunters and getting Carol to safety, the former Victorian Mounted Police officer explains that she came to Dewville in response to a request for aid. Though Carol initially mistakes Grani for a boy and Grani initially mistakes Carol for a village girl, they work together to hide from the bounty hunter, ending up in a cramped attic.
+
+While in hiding, Grani sees her fellow Rhodes Island Operator, [[Skadi]], effortlessly scattering the bounty hunters before her. Grani is confused by her presence, as to her knowledge, Skadi was not assigned to this mission. Skadi's reputation as a "walking [[Catastrophe]]" terrifies the hunters, and Grani, along with Carol, attempts to escape during the chaos. They stumble upon some bounty hunters hiding nearby, and Grani defeats them before continuing to flee with Carol, but the two soon encounter [[Originium Slug|Originium slugs]] in the forest. A bounty hunter named [[Big Bob]] bails them out, offering to assist them in exchange for a portion of the treasure. Though the girls remain suspicious of his motives, they nevertheless accept his offer.
+
+===Treasure Hunt===
+Together, Big Bob, Grani and Carol trek across the forests of Mount Terrat toward Mount Mortica,  where the treasure is believed to be buried. They encounter Skadi, and despite the huntress's clear recognition of Grani, she demands that they hand over Carol and issues a warning strike when Grani refuses. They take advantage of the timely arrival of another group of bounty hunters to escape from the [[Aegir (race)|Ægirian]]. During their ensuing fight with the pursuing hunters, Big Bob is injured, revealing himself to be an [[Infected]], but Grani defeats the hunters and helps patch up his leg. To Big Bob's surprise, Grani shows no prejudice toward the Infected, given her time as an Operator aboard Rhodes Island.
+
+As they continue their journey, Big Bob questions Rhodes Island's employment of someone as dangerous as Skadi and believes the organization to be motivated by financial gain. Upon arriving at a tunnel leading into Mount Mortica, they encounter a group of [[Reunion]] fighters. A skirmish ensues, but Big Bob chooses to stay behind and stall the fighters due to his injured leg. Grani and Carol flee, heading to the entrance of the cave said to contain the treasure. Carol goes inside alone while Grani guards the entrance. Eventually, the bounty hunters and Skadi all converge on her, and Grani flees from Skadi, leaving her to deal with the bounty hunters.
+
+===The <s>Mexican</s> Bolívarian Stand-Off===
+[[File:Grani and Skadi.png|thumb|Once enemies against each other, now fighters protecting peace in Dewville.]]
+Grani heads into the cave, only to find an injured bounty hunter and a newly blasted opening. She encounters a group of Reunion fighters, who turn out to be Big Bob's men. Big Bob explains that he needs the treasure in order to settle in [[Columbia]] and live a quiet, peaceful life. Soon after, Skadi catches up and orders Grani to hand Carol over to her, while Big Bob demands that she hand over the treasure. Grani refuses to give up either. The deadlock is broken when Carol returns with the treasure, and Big Bob attempts to seize it from her. Skadi shields Carol from a non-lethal grenade, which makes Grani realize that Skadi does not intend to harm her. A fight breaks out, with Grani and Skadi teaming up to take down Big Bob. The battle ends with Big Bob's surrender, but the matter of the treasure remains unresolved.
+
+{{Quote|Only those who fear not sacrifice and possess the true, dauntless bloodline of Kazimierz may open the path.}}
+
+The key to the treasure chest that Carol holds requires a pure-blooded Kazimierzian to use, while anyone without such a bloodline will cause the key to break. Skadi demands that Carol hand over the key, but Carol steps forward to open the chest herself, believing it to be her duty as her family has safeguarded the secret for generations. After examining the key, Grani suddenly decides to use it in Carol's stead, as she too is of Kazimierzian ancestry. The others are shocked by her action, but fortunately, Grani survives the ordeal.
+
+===Aftermath: Abyssal Blood===
+[[File:Treasure Key.png|thumb|The "key" Skadi recovered from the Dewville incident.]]
+Peace soon returns to Dewville. Grani and Skadi work together to drive the remaining bounty hunters out of the area, and Carol uses part of the treasure to rebuild the village. Out of gratitude for his earlier help, Carol gives a portion of the treasure to Big Bob before he departs for his new life in Columbia. As Grani prepares to leave Dewville, Carol informs her that a letter has arrived, written by [[Nearl]]. The letter explains the tradition of Kazimierz's knights being buried with their treasures. Unfortunately, the former knight's warning that Skadi had gone to Dewville of her own accord arrives far too late.
+
+After the Dewville affair, Skadi returns to Rhodes Island with the treasure's key. Although [[Kal'tsit]] scolds her for acting without authorization and is appalled that she used Grani's blood in the process, she eventually agrees to take the key in exchange for information regarding the origin of the [[Originium]] nerve agent that caused [[Specter]]'s madness. Skadi is surprised by her accurate guess, but Kal'tsit reminds her of something:
+
+{{Quote|[[Abyssal Hunters]] are bound in blood.}}
+
+They make a deal. Kal'tsit will assist Skadi with her matters, as long as Skadi follows her every word.
+
+Months after the events in Dewville, [[Mudrock]] receives a letter from Big Bob. The former Reunion fighter is now living in Columbia and preparing to plant hops with his brothers. He advises her that Reunion is not the only place for the Infected. [[Twilight of Wolumonde/Synopsis|Mudrock will soon have to make a decision for her squad]] as well.
+
+{{Clr}}
+
+{{Synopses}}
+[[Category:Side Story synopses]]

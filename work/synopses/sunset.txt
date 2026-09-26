@@ -1,0 +1,78 @@
+{{Event tab}}
+{{Synopsis head
+|desc = In [[Sargon]], [[Menat-Ha'mait]]'s Flood Festival approaches,<br/>and the museum antiques have come to life?!<br/>To become a real historian,<br/>Padishah's daughter, [[Pepe]], decides to gather gemstones and unlock the secrets of the [[Lugalszargus|Shah]]'s treasury!<br/>The river always flows, and the sun rises and sets eternal.<br/>Those willing to slumber find their own feelings once more, and choose a farewell to eternity.<br/>And those who shake off the sun will never stop in their tracks again.}}
+
+==City of Radiance==
+
+===Following the Trail===
+[[File:53 i01.png|thumb|Pepe is determined to uncover all the secrets of the Shah of Past and Future, Lugalszargus.]]
+It is the day before the annual Flood Festival, and all of [[Menat-Ha'mait]] is eager to celebrate. At the [[Varjavandabad Museum]], [[Papyrus|Anat]] is busy preparing a special exhibit to commemorate the festival. Among the artifacts on display is an exquisitely decorated mummy that was excavated near the outskirts of the city, dating all the way back to the time of [[Lugalszargus]], the famous [[Sargon]]ian conqueror.<ref name=":1a">[[AS-1/Story#Before operation|AS-1 Before]]</ref> The news of the discovery attracted the attention of archaeologist [[Pepe]], who believes it may be connected to a mysterious gem that she found during her adventures in [[Szubat-Arsalan]].<ref name=":ST1">[[AS-ST-1]]</ref>
+
+Pepe, eager to earn the title of Sargon's court historian, rushes to Menat-Ha'mait to investigate further. However, Anat refuses to loan the mummy to Pepe as it's the most important artifact for the exhibition, and will only do so when autumn comes. Pepe then turns to her old friend, the museum's acting vice curator [[Medjehtiqedti]], and asks to borrow her access card. Medjehtiqedti complies, knowing that Pepe is determined to beat her younger brother, who is also vying for the position of court historian. Later that night, Pepe sneaks into the museum and inserts the gem into the mummy's chest. Unfortunately, nothing happens, and she is forced to leave before she gets caught by security.<ref name=":ST1"/>
+
+===The Mummy Awakens===
+[[File:53 i02 2.png|thumb|Like something straight out of a movie...]]
+The next morning, Pepe arrives at the museum to witness the opening of the exhibit. However, the girl is unaware that someone else has been following her since yesterday. Aware of Pepe's status as a respected padishah's daughter, desert bandit [[Narantuya]] plans to kidnap her for ransom against her family. Her compatriots, [[Ajazi]] and [[Ajani]], have previously infiltrated the museum as employees and carefully memorized the museum's security and layout. They intend to cause a ruckus during the exhibition, inject Pepe with a sedative, and escape during the commotion.<ref name=":1a"/>
+
+As Anat presents the ancient mummy, it suddenly moves and grabs her ear, causing her to faint. Everyone panics and the museum descends into chaos. While Medjehtiqedti evacuates the tourists, Pepe rushes to Anat's side, where she quickly realizes that the mummy isn't actually conscious and is only capable of copying other people's movements. She takes advantage of this fact by making the mummy carry the unconscious Anat to the curator's office.<ref name=":1b">[[AS-1/Story#After operation|AS-1 After]]</ref> Anat eventually wakes up and learns about Pepe's research. The two reach a deal; Anat hands Pepe the second gem after the latter agrees to act as a co-author and sponsor for her research and the museum.<ref name=":2b">[[AS-2/Story#After operation|AS-2 After]]</ref>
+
+[[File:53 i19.png|thumb|left|The mummy is too strong for the would-be kidnapper, and predator becomes prey.]]
+
+Shortly after inserting the gem, the two hear a cry from Medjehtiqedti in the exhibit hall. Anat leaves the office to investigate while Pepe rummages around for more clues. Meanwhile, Narantuya, who was informed by Ajazi of their target's status, climbs into the room through the window and prepares to sedate Pepe. Suddenly, the mummy moves and tricks Narantuya into injecting herself. Her unconscious body is then thrown out the window, but was caught in time by a [[Minos|Minoan]] woman named [[Aspasia]], who helped the museum visitors evacuate.<ref name=":2b"/>
+
+The mummy regains consciousness and introduces itself to Pepe; Lugalszargus Shahanshah's personal guard and keeper of his treasure trove, Zubayidamu Yanur Ayyusuiz, otherwise known as [[Zubayr]].<ref name=":2b"/> Eager to resume her search, Pepe pesters Zubayr about the location for the treasure trove, but Zubayr does not remember. When he was defeated centuries ago, the padishahs and lord ameers took the gems contained within his vessel. Inscribed on these gems are special [[Originium]] circuits that can preserve memory and consciousness. Without them, he is unable to locate the Shah's treasure.
+
+==Jewel Quest==
+
+===An Absurd Competition===
+[[File:53 i03.png|thumb|"I'm gonna win that gem with a golden slipper!"]]
+Pepe spends five days bringing Zubayr around the city in search of the missing gems.<ref name=":3a">[[AS-3/Story#Before operation|AS-3 Before]]</ref> Things finally look up when she discovers that the local Harvest Gathering is holding an appraisal competition offering one of the gems as the second-place prize. Pepe enters the competition by registering a family heirloom. At the same time, Aspasia finds out that the third-place prize is one of her family's ceremonial goblets, most likely a relic plundered by Sargon a century ago. Determined to reclaim it, Aspasia enters the competition with Narantuya, finally awake after the botched kidnapping at the museum.<ref name=":3b">[[AS-3/Story#After operation|AS-3 After]]</ref>
+
+Both Pepe and Aspasia ensure that they get the prizes they want through underhanded means; Pepe discreetly makes a deal with one of the judges to intentionally give her lower remarks, while an indebted Narantuya helps Aspasia by threatening the judges with her Originium Arts to give Aspasia a high score. Their plans worked in their favor, until the first place winner forfeits after accidentally breaking their artifact. As a result, the gem ends up in Narantuya's hands.<ref name=":4a">[[AS-4/Story#Before operation|AS-4 Before]]</ref> Despite the unexpected situation, the cunning [[Kuranta]] devises another kidnapping scheme using the gem as bait. However, a cloudbeast named [[Mio]] sneaks into the room and steals the gem for itself, putting a wrench in Narantuya's plans once again.<ref name=":4b">[[AS-4/Story#After operation|AS-4 After]]</ref>
+
+Meanwhile, at the museum, the sudden awakening of the mummy has deeply perturbed Anat. Not wanting to create a bigger mess, she decides to temporarily close the museum until things blow over. On the other hand, Medjehtiqedti suggests that they should start the exhibition over and keep the accident under wraps. The two clash over their opposing ideals, and Medjehtiqedti storms out in anger.<ref name=":4a"/> By chance, she runs into Mio on the streets and the gem it had stolen. She then approaches Pepe with the gem and promises to hand it over under one condition: Zubayr must return as the museum's special exhibit for a few days.<ref name=":4b"/>
+
+===Fair Trade===
+Pepe agrees to the deal and the museum reopens with a flood of tourists who wish to see the resurrected general. After an overwhelming day at the museum, Zubayr gets into a heated argument with Pepe about their deal with Medjehtiqedti and leaves the residence, where he encounters Narantuya by the river. Upon learning that she is of [[Nightzmora (race)|Nightzmora]]n descent, he decides to join her.<ref name=":5a">[[AS-5/Story#Before operation|AS-5 Before]]</ref> After Zubayr explains his quest to her, Narantuya uses her contacts to locate the fourth gem. It only takes a day before she gets good news: the gem trading post possesses the gem they seek.<ref name=":5b">[[AS-5/Story#After operation|AS-5 After]]</ref>
+
+[[File:53 i09 2.png|thumb|"Your family's journey for penitence has been long indeed... You are all free now."]]
+Narantuya comes up with an idea that would benefit both her and Zubayr; she decides to "sell" Zubayr to the trading post's overseer, a cautious man named [[Sand Reckoner|Lazvar]]. That way, Zubayr would get close enough to find the gem, while Narantuya gets to leave with a heap of [[Pure Gold]].<ref name=":5b"/> Unbeknownst to them, Lazvar has been waiting for Zubayr ever since he heard about his supposed resurrection. Centuries ago, it was Lazvar's ancestor who revealed the location of the Shah's treasure trove to the lord ameers and padishahs, and his family has carried the weight of that sin ever since. In exchange for the fourth gem, Lazvar requests that his family and ancestors be forgiven from their sins.<ref name=":6a">[[AS-6/Story#Before operation|AS-6 Before]]</ref>
+
+Zubayr thus proclaims that Lazvar is now free of his shackles. With the fourth gem back in his possession, Zubayr finally remembers his duty and the location of the Shah's treasure trove.
+
+==Legacy of Past and Future==
+
+===Trial by Fire===
+Pepe wakes up to discover that Zubayr has escaped. She becomes distressed as she believes that uncovering the Shah's treasure trove through Zubayr is the only way she will be accepted as court historian. Just then, Anat reveals the real reason why she was so hesitant to lend Zubayr; Pepe's younger brother has already been sent to [[Shar-Agade]] to become court historian. Pepe resented the idea of her brother being tied to deskwork all alone and had been hoping to go in his stead. Unwilling to accept the outcome, she spends all night researching for any more clues about the treasure.<ref>[[AS-ST-2]]</ref>
+
+[[File:53 i05 a.png|thumb|The constructs will break down the city to restore its former glory.]]
+
+The next morning, metallic humanoid constructs begin to wreak havoc across Menat-Ha'mait.<ref name=":6a"/> The entire city descends into chaos as museum relics come to life and begin to destroy buildings and steal gems from people's homes. Anat and Medjehtiqedti panic because many of these gems are part of the city's water filtration system, and removing them would cause sand to pollute the water. The underground canal system would collapse and turn the ground into quicksand, sinking the city and entombing all of its residents.
+
+Zubayr knows that his actions will soon attract the attention of the Sargonian lord ameers and padishahs. He requests Mio and Woof to seek out Pepe and Narantuya, believing that the two would be able to help him. But first, they must undergo a test to prove their determination. Woof finds Narantuya and traps her inside an illusion, where she must journey on her Khaganquest alone. Fortunately, Aspasia manages to scare Woof away and saves Narantuya.<ref name=":8a">[[AS-8/Story#Before operation|AS-8 Before]]</ref>
+
+Meanwhile, Pepe encounters Mio in the Grand Bazaar and is eaten by the [[Beast Lord]]. Inside Mio's belly, she witnesses the entirety of Zubayr's long lifespan and realizes that he is one of Lugalszargus' children. Pepe witnesses the price of becoming a person forced to remember everything they have been through, yet remains firm in her beliefs. Despite passing the test, Mio still dissuades Pepe from pursuing her dream of becoming court historian, saying that doing so means being stripped of all free will. Woof joins them and tells Pepe she has passed, allowing her to meet Zubayr.<ref name=":8b">[[AS-8/Story#After operation|AS-8 After]]</ref>
+{{Clr}}
+
+===The Shah's Treasure===
+[[File:53 i10.png|thumb|Pepe has had enough of chasing shadows.]]
+
+Zubayr brings Pepe to the Shah's treasure chamber beneath Menat-Ha'mait. He reveals that the treasure is actually just a holographic visage of Lugalszargus. These were left here for Zubayr's sister, who dearly missed the great Shah after his passing. That way, his deeds and words could be preserved for all eternity.<ref name=":9b">[[AS-9/Story#After operation|AS-9 After]]</ref>
+
+Pepe, having discovered the true nature of the treasure, feels like she has been cheated. Zubayr does not stop her from leaving, but Pepe cannot allowed the city to be destroyed by him. The two clash within the chamber, with Pepe winning by smashing the gemstone in Zubayr's chest with her hammer. Before dying, Zubayr makes one last request to Pepe: to put the last gemstone that contains his emotions inside his chest. Pepe retrieves the gem from the center of room and places it in Zubayr, allowing him to die as a "human."<ref name=":9b"/>
+
+The entire treasury begins to collapse as the water floods the chamber and weakens the structures. Pepe, unable to escape in time, falls through the floor. Innumerable gold and jewels carried by the river's canal system showers down in a mesmerising display. Narantuya arrives just in time to witness this magnificent sight and save Pepe from drowning.
+
+===The Sand Settles===
+
+[[File:53 i11.png|thumb|All's well that ends well.]]
+
+It only takes a week for the entire city to look good as new. Following the incident, Anat decides to resign from her position as acting curator and hand the position to Medjehtiqedti. Ajazi and Ajani decide to stay at the museum and become full-time employees. Narantuya manages to procure the Minoan goblet from the Harvest Festival and returns it to Aspasia. The two friends part ways as they embark on a new journey.<ref name=":ST3">[[AS-ST-3]]</ref>
+
+Pepe would later introduce Anat to [[Rhodes Island]], where she becomes an [[Operator]]. While there, the two author an essay about Zubayr, which becomes a hit in the academic world. News of this eventually reaches the Sargonian Shahanshah, who sends an envoy to invite Pepe to come to Shar-Agade. Pepe thus prepares for her journey to the silent City of Gold...<ref name=":ST3"/>
+
+==References==
+{{Reflist}}
+
+{{Synopses}}
+[[Category:Side Story synopses]]

@@ -1,0 +1,29 @@
+<onlyinclude>{{Edit|Movements|The Ark}}<!--
+-->{{Timeline head
+|arc = RI
+|name = The Ark
+|intro = Though it presents itself as a pharmaceutical company, [[Rhodes Island]] is anything but ordinary. Behind its founding lies a tragic tale—of how its progenitors became entwined with the fate of the world. It is a rollercoaster of love, hope, betrayal... and unimaginable suffering.}}
+{{Timeline cell
+|name = Darknights Memoir
+|intro = A glimpse into the past of [[W]] and her companions. Once a disposable [[Sarkaz]] mercenary, she roamed countless battlefields—yet her fate remains forever bound to [[Babel]], an organization with inextricable ties to the present-day Rhodes Island.}}
+{{Timeline cell
+|name = A Walk in the Dust 
+|intro = [[Kal'tsit]] has left her mark across centuries of history. From [[Sargon]] to [[Ursus]], [[Rim Billiton]] to [[Victoria]], her influence lingers—plans laid, connections established, and a future glimpsed that few can fathom. Briefly follow her footsteps, and witness the world that shaped her.
+|related = Episode 07}}
+{{Timeline cell
+|name = Vigilo
+|intro = Unfamiliar faces pass you by—eyes filled with recognition, hatred, and awe. Despite your best efforts, you cannot recall those who look up to you, nor those who call you friend. Yet deep within your mind, fragmented memories begin to stir. Try to remember, [[Doctor]].}}
+{{Timeline cell
+|name = Babel
+|link = Babel (event)
+|intro = [[Theresa]]—the benevolent [[King of Sarkaz]] and founder of Babel, the predecessor to Rhodes Island. An idealist betrayed by her kin, she sought everlasting peace for the Sarkaz and all of [[Terra]]. Witness the buried past, and uncover the dark truth behind Babel's fall—and Theresa’s death.}}
+{{Timeline cell
+|name = Ending a Grand Overture
+|intro = The war for [[Londinium]] has ended. Citizens join hands to rebuild, even as the [[Victoria/Overview#The Eight Grand Dukes|Grand Dukes]] plot anew. All eyes turn to [[Siege|Alexandrina "Vina" Victoria]], heir to the throne, but what kind of ruler does Vina aspire to be? What future awaits the survivors of the [[Victorian Crisis]] and the [[Glasgow Gang]]—and what sacrifices did they make in those final days of the war?
+|related = Episode 14}}
+{{Timeline cell
+|name = See You Soon
+|intro = Amid the final days of the Victorian Crisis, tensions between [[Kazdel]] and Victoria continue to escalate. The war’s reach extends far beyond the Victorians alone. Amidst the chaos, [[Reed|familiar faces]] resurface, [[Reunion|walking once again]] to [[Entelechia|pursue their own agendas]]. Discover what the future holds for them all.
+|related = Episode 14, When Elegies Are Ashes}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

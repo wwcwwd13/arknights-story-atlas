@@ -1,0 +1,35 @@
+<onlyinclude>{{Edit|Movements|Through the Ages}}<!--
+-->{{Timeline head
+|arc = SU
+|name = Through the Ages
+|intro = [[Sui]], a mighty and terrifying [[Feranmut]] that once roamed across [[Yan]]. Split into 12 fragments, the board is set for a match that will span the entire country. Will the Sui siblings succeed in retaining their individuality, or lose themselves to become one again?}}
+{{Timeline cell
+|name = Ancient Forge
+|intro = Unease and terror grips the hearts of [[Lungmen]]'s citizens as the horrific [[Nian]] awakens once more. Only one person is capable of battling the wicked beast and saving Lungmen—Elite Operator [[Lava]].}}
+{{Timeline cell
+|name = Who is Real
+|intro = [[Lava the Purgatory|Lava]] and [[Kroos the Keen Glint|Kroos]] arrive in Yan in search of [[Nian]]’s sister. Teaming up with a Yanese martial artist known as [[Mr. Nothing]], they step into a run-down shack—only to find themselves in the strange, mist-shrouded town of [[P'o-shan]]. Can they stop the ink-born spirits that now besiege it, and uncover the mystery of this town alongside a wandering [[Saga|monk]]?}} 
+{{Timeline cell
+|name = Invitation to Wine
+|intro = Days after escaping the tranquil village of P'o-shan, the gang splits up. Kroos and Mr. Nothing depart for [[Shangshu]] to search for [[Ling]] where they meet the detective [[Mr. Lee]]. Word of the situation has finally caught the attention of the [[Sui Regulator]]. Trouble brews over an antique goblet, and conflicting interests clash around the mythical eighteenth peak of Shangshu.}}
+{{Timeline cell
+|name = Where Vernal Winds Will Never Blow
+|intro = The trail of the Sui leads to the fortress city of [[Yumen]], widely famous due to their respect of all martial arts. The impregnable garrison comes under siege by mysterious forces while en route to the capital of [[Yan]]. Familiar faces and newfound allies rally together to repel the threat, all under the looming shadow of an approaching [[Catastrophe]].}}
+{{Timeline cell
+|name = A Death in Chunfen
+|intro = Seeking to hone her skills in light of the attack on Yumen, [[Qiubai]] embarks on a journey of enlightenment. Her journey grows infinitely more complex when she rescues the young [[Fang Xiaoshi]] and protects him from increasingly strange occurences. Their journey leads them to the boy's home—the village of [[Moushan]], currently suffering from a drought.}}
+{{Timeline cell
+|name = Here A People Sows
+|intro = After his failure in Yumen, Candleholder [[Zuo Le]] is sent to work the farmlands of [[Dahuang]] as punishment. There, he encounters [[Shu]], the Sui fragment who has been nurturing Dahuang's rice paddies for over a millenia. When a demonic influence threatens to destroy all she has built, Zuo Le must band together with local farmers to save the fields.}}
+{{Timeline cell
+|name = Such is the Joy of Our Reunion
+|intro = The year is 1102, and the imperial capital of [[Baizao]] is making arrangements for The Feast of a Hundred Delicacies. But behind the palace walls, family reunions occur: a [[Yu|young chef]] reunites with his siblings, and the [[Blaze|daughter]] of a [[Gu Quan|fugitive]] rediscovers her kin while unveiling the truth behind her father's death. Despite these joyous reunions, the resulting storm could potentially shatter the tranquility of Great Yan.}}
+{{Timeline cell
+|name = Fantasy in the Mirage
+|intro = [[Leizi the Thunderbringer|Lin Qingyan]] receives a request to locate [[Yun Qingping]] in the secluded town of [[Mangshan]]. What she discovers is a town inhabited by "geists" trying to be human, and trails of a conspiracy stretching all the way from Yumen.}}
+{{Timeline cell
+|name = First of A Thousand Autumns
+|intro = The dormant Sui is about to awaken, and the [[True Lung]] has reached an ultimatum to put an end to the crisis. [[Ch'en|Ch'en Hui-chi'eh]] returns to Yan to settle scores with her family while [[Wang]] prepares his final move after a thousand years. But from the shadows, concealed forces threaten to rewrite Yan's history in an attempt to kill Sui with their own hands. The fate of Great Yan hangs in the balance.}}
+{{Table end}}
+</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

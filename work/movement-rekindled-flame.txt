@@ -1,0 +1,15 @@
+<onlyinclude>{{Edit|Movements|Rekindled Flame}}<!--
+-->{{Timeline head
+|arc = TA
+|name = Rekindled Flame
+|intro = Once a great nation of dragons, the [[Tara]] of yesterday now exists only in history books. From its ashes, two [[Draco]] rise to revive their beloved homeland—[[Necrass|one]] wielding undying purple flames of vengeance, [[Reed|the other]] bearing golden flames of benevolence.}}
+{{Timeline cell
+|name = What the Firelight Casts
+|intro = After leaving [[Rhodes Island]], the troubled Reed sets out for [[Londinium]]. Along the way, she saves a group of Taran refugees and stands against the forces of [[Dublinn]] and [[Victoria]]. But as the conflict deepens, one question burns in her heart: how can she escape the shadow of her twin sister—and find a path forward?
+|related = Episode 09}}
+{{Timeline cell
+|name = When Elegies Are Ashes
+|intro = A strange woman meets with a writer at a pub. They discuss the significant events that unfolded at the Taran capital of [[Na Saoirsí]]. Through this conversation, the writer pens the story of Dublinn's downfall.
+|related = Episode 12, Ending a Grand Overture}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

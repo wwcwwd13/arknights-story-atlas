@@ -1,0 +1,32 @@
+<onlyinclude>{{Edit|Movements|Summertime Beats}}<!--
+-->{{Timeline head
+|arc = ST
+|name = Summertime Beats
+|intro = When the sky is clear and the sun is shining, it's time to leave the heavy stuff behind and enjoy some well-earned fun. But for [[Rhodes Island]]'s [[Operator]]s, vacations never seem to go smoothly. From wacky hijinks to unexpected disasters, mayhem always finds a way.}}
+{{Timeline cell
+|name = Heart of Surging Flame
+|intro = Rhodes Island travels to [[Siesta]] for the annual [[Obsidian Festival]], only to discover that the city's iconic volcano is on the verge of eruption. With help from the Mayor's daughter, [[Ceylon]], they must act quickly to prevent disaster—and save the celebration before it goes up in smoke.}}
+{{Timeline cell
+|name = The Great Chief Returns
+|intro = [[Gavial]] receives an invitation to return home to [[Acahualla]], and she brings the [[Doctor]] and other Operators along for the trip. But the moment they arrive, their aircraft is shot down and its engine stolen. As they search the rainforest for their missing engine, it also becomes a chance for Gavial to reconnect with [[Eunectes]], [[Tomimi]], and the home she left behind.}}
+{{Timeline cell
+|name = Dossoles Holiday
+|intro = In the heart of war-torn [[Bolívar]] lies the beachside city of [[Dossoles]], a vibrant haven untouched by civil war. [[Ch'en]] and her former [[L.G.D.]] comrades arrive as representatives, eager to join the annual Dossoles Warrior Championship. But beneath the tourism and festivities, a dangerous terrorist plot brews within the Black Heart of Bolívar.}}
+{{Timeline cell
+|name = Ideal City
+|intro = A [[Durin]] named [[Minimalist|Stitch Canvas]] approaches [[Gavial]] with an urgent plea: save his city from an impending cataclysm. But when a team from [[Acahualla]] arrives in [[Zeruertza]], they're stunned to discover an enormous underground dome housing... a sprawling water park. Everyone seems to be enjoying themselves—so could things really be as dire as they seem?}}
+{{Timeline cell
+|name = So Long, Adele
+|intro = After receiving an invitation from an old friend of her parents, [[Eyjafjalla]] travels to [[Siesta#New Siesta|New Siesta]] to assist with a special volcanic survey. Soon after arriving, she encounters a strange creature named [[Dolly]], who sends her on a bizarre treasure hunt. Meanwhile, the nomadic city comes under attack by... pink, fluffy sheep?}}
+{{Timeline cell
+|name = Adventure That Cannot Wait for the Sun
+|intro = Following the clues she uncovered during her [[Tales Within the Sand/Synopsis|expeditions]] in [[Szubat-Arsalan]], [[Pepe]] returns to her hometown of [[Menat-Ha'mait]] in search of [[Lugalszargus]]' lost treasure. But things take a turn when she accidentally reawakens an [[Zubayr|ancient mummy]] during the [[Varjavandabad Museum]]'s unveiling of their special exhibition.}}
+{{Timeline cell
+|name = Ato
+|intro = The colorful neon lights of [[Mitsukue]]—capital of southern [[Higashi]]—have long distracted citizens from the horrors of the country's violent civil war. But the fireworks of 1099 shall reignite the embers. [[Hoshiguma|A former yakuza]], [[Haruka|a runaway idol]], a dying old district set to be dismantled, and a mysterious ghost story will light up the night with action and intrigue.}}
+{{Timeline cell
+|name = Till the Lands Become an Orange
+|cn = true
+|intro = Some time after the new Rhodes Island ship began operation, [[Angelina]] embarks into a journey to [[Rim Billiton]] in search of a missing decryptor for R.I. A simple mission becomes a road trip where emotions converge, [[Thumpy|and]] [[Jacinta|new]] [[Timeslot|faces]] come across with their own dreams and goals.}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

@@ -1,0 +1,18 @@
+<onlyinclude>{{Edit|Movements|Snow and Silver Steel}}<!--
+-->{{Timeline head
+|arc = KJ
+|name = Snow and Silver Steel
+|intro = Compared to the rest of the modern [[Terra]]n nations, [[Kjerag]] is but a drop of water in a giant lake. For too long they have remained isolated atop the snowy mountains. As times change, so too must Kjerag.}}
+{{Timeline cell
+|name = Break the Ice
+|intro = What begins as a simple vacation to Kjerag's snowcapped mountains soon turns into a spectacle to remember, as [[Rhodes Island]] becomes entangled in a web of conspiracy reaching the highest authorities of the nation. Now, Kjerag is at a crossroads. Care for a game of chess, [[Doctor]]?}}
+{{Timeline cell
+|name = The Rides to Lake Silberneherze
+|intro = Three years after the [[Snow Realm Incident]], Kjerag has embraced modernization and is flourishing under an influx of tourism, but this success comes with its own set of troubles. With the first foreign [[Harold|diplomat]] arriving from [[Victoria]], the nation must stand their ground in the face of political pressure. All aboard!}}
+{{Timeline cell
+|name = Retracing Our Steps
+|intro = Kjerag is now sandwiched between two impending conflicts. Outside, Victorian interventions are becoming bolder; back within, Kjerag encounters the first [[Catastrophe]] it ever experiences in history. In times when [[Kjeragandr]] no longer blesses Her people, the Kjeragis must learn to stand on their own feet.
+|related = Lone Trail}}
+{{Table end}}
+</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

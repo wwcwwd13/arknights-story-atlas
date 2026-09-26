@@ -1,0 +1,23 @@
+<onlyinclude>{{Edit|Movements|Glimpse of the Depths}}<!--
+-->{{Timeline head
+|arc = AE
+|name = Glimpse of the Depths
+|intro = From the abyss of the ocean, monsters known as the [[Seaborn]] have been slowly encroaching upon the coasts, threatening to assimilate all. Only brave [[Abyssal Hunters|Hunters]] who can resist the call of the sea have the power to stop the approaching tide.}}
+{{Timeline cell
+|name = Grani and the Knights' Treasure
+|intro = When Operator [[Grani]] answers a call for help from the quiet village of Dewville, she finds it overrun by ruthless bounty hunters in search of the legendary Knights' Treasure. To protect the townspeople, Grani sets out to uncover the treasure herself—only to find her path crossing with a [[Reunion|familiar foe]], and even her fellow Operator, [[Skadi]].}}
+{{Timeline cell
+|name = Under Tides
+|intro = Abyssal Hunter [[Specter]] is abducted by the mysterious [[Gladiia]], prompting [[Skadi]] to follow their trail to the languid seaside town of [[Sal Viento]], [[Iberia]]. Beneath its still waters lies a long-buried secret—one that ties Skadi to the eternal enemy of the Hunters: the Seaborn.}}
+{{Timeline cell
+|name = Stultifera Navis
+|intro = The Abyssal Hunters convene in the coastal town of [[Gran Faro]] in search of Iberia's grandest vessel, the ''[[Stultifera Navis (ship)|Stultifera Navis]]''. Together with the Iberian [[Inquisition]], they board the drifting dreadnought—only to discover it isn't as abandoned as it seems.}}
+{{Timeline cell
+|name = Path of Life
+|intro = Three months after the events aboard the ''Stultifera Navis'', the isolated underwater nation of [[Aegir]] suddenly reaches out to Iberia. Despite their commander [[Ulpianus]]'s warnings, the Hunters journey to [[Milliarium]] to face a cruel truth: they are not returning to the home they once knew.
+|related = Episode 14, Lone Trail}}
+{{Timeline cell
+|name = Exodus from the Pale Sea
+|intro = Operator [[Thorns]] returns to his homeland seeking an ancient swordsmanship discipline to sharpen his skills. But he soon finds himself caught in a [[Cuna de Nene|pirate crew]]'s quest to return to the sea, drawn into a mystery tied to [[Aulus]], his childhood mentor—all while evading the Iberian Inquisition. Hoist the sails; the journey has just begun.}}
+{{Table end}}</onlyinclude><!--
+--><noinclude>[[Category:Movements]]</noinclude>

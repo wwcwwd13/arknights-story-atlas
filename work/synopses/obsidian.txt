@@ -1,0 +1,41 @@
+{{Event tab}}
+{{Synopsis head
+|desc = The Obsidian Festival is in full swing in the town of [[Siesta]]!<br/>The [[Operator]]s of [[Rhodes Island]] have come for a vacation as well.<br/>Not before long, they learned that the eruption of a nearby volcano is imminent!<br/>But it seems the town's government is trying to cover it up?!<br/>In the midst of summer, heat, music and battle,<br/>Rhodes Island will set out with [[Herman Doykos|the mayor]]'s daughter, [[Ceylon]].<br/>Will they manage to save the day?}}
+
+==(Uneasy) Vacation==
+[[File:bg_island.png|thumb|Welcome to the beaches of Siesta!]]
+During the hot, July summer of the year 1097, half a year after [[Operation/Main Theme#Act I|the war between]] [[Reunion]] and [[Rhodes Island]], a number of R.I. personnel, including [[Amiya]] and the [[Doctor]], decide to relax by going on a vacation to the city-state of [[Siesta]]. There, the R.I. fellows are given the opportunity to attend the annual Obsidian Festival where musical artists, such as the famed [[Emperor]], the [[Alive Until Sunset|AUS]], and [[Destructive Dragon Demon|D.D.D.]],  will perform their latest albums to their beloved fans. After all the turmoil R.I. has endured, they can finally let out a sigh of relief and enjoy their off days.
+
+Everything seems good... until the Doctor receives an emergency call.
+
+After some strenuous geological studies done by [[Provence]] and [[Skyfire]] in a nearby forest, the two operators noticed something strange happening to the iconic Siesta Volcano. Meanwhile, elsewhere on the peninsula, [[Ceylon|Ceylon Doykos]], the daughter of the city's mayor, had noticed the phenomenon. The dormant volcano had been expelling faint gases since last year, causing animals nearby, particularly many Originium Slugs, to migrate to a safer place. These were obvious signs of an upcoming eruption. The two parties meet after dealing with angry hordes of slugs and unanimously agree that they have to warn people of the disaster. 
+
+Upon their return to the city, their first move is to inform the Doctor about Siesta's situation. Their worries are proven when [[Eyjafjalla]] gives a detailed analysis over the phone about the possibility of an eruption. Ceylon provides assistance by bringing the Doctor to the City Hall to report everything to [[Cronin]], the city's [[Catastrophe Messenger]].
+
+But things do not turn out as they expected.
+
+==Siestan Intrigue==
+[[File:ac3_report.png|thumb|An eruption is imminent, but the show must go on.]]
+Ignoring the facts presented to him, Cronin refuses to raise the alarm, stating that the volcano has been dormant for years and boasted that his volcano observation system is still running well. He mocks Ceylon for being fooled by mere rumors and threatens to arrest them for spreading false information. Before he can arrest them, the Doctor and Ceylon make a hasty departure, with Cronin's security guards chasing after them.
+
+After a cat-and-mouse chase, the duo encounter Ceylon's personal bodyguard [[Schwarz]]. To Ceylon's dismay, Schwarz tells the lady to listen to Cronin's order because he's in charge of the city on the mayor's stead. As a former mercenary assassin known for her crossbow skill, Schwarz is a dangerous opponent to the duo. Fortunately, [[Hellagur]], the famed [[Ursus|Ursine]] Hippogryph general, comes to the rescue. Hellagur fends off the Feline assassin to aid their escape and [[Ifrit]] joins the fray by scaring the pursuers off with her barbeque flame.
+
+The Doctor, Ceylon, and Hellagur return to their base and put their heads together to come up with a plan to spread the news to the people. They would apprehend Cronin at the town hall while Ceylon heads towards the broadcast station. Assisted by [[Vigna]], the Doctor storms the town hall and catches Cronin in the middle of destroying incriminating evidence of his illegal activities. Meanwhile, Schwarz was waiting for Ceylon at the broadcast station, and Ceylon refuses to fight her, reminding her of their memories as childhood playmates. After listening to Ceylon's persuasion, Schwarz finally agrees to help Ceylon and orders her men aside.
+
+Night arrives, but before the climax of the Festival begins Cronin runs into [[Herman Doykos]], the mayor of Siesta and Ceylon's father. The Doctor and the other operators corner Cronin. Herman reveals that Cronin had been conducting illegal obsidian mining for years, which had been outlawed previously due to environmental and health concerns, and fires him on the spot. After the revelation, Cronin becomes mad, stating that all their efforts were too late. Before the next song can be played to the passionate fans, a huge bang and an earthquake suddenly interrupt the Festival.
+
+==Taming the Volcano==
+Everything becomes chaotic as the Siesta Volcano is about to erupt. Cronin reveals his true intentions: to use the eruption to destroy Herman's beloved city out of vengeance. Fortunately, Eyjafjalla had formulated a plan to delay the eruption: Provence and Skyfire entering the volcano. Ceylon volunteers to assist the operators in the volcano, while the Doctor and the rest rush to evacuate the people at the beach.
+
+[[File:ac3_volcanoboss.png|thumb|"Pompeii", the living volcano of Siesta]]
+Upon reaching the volcano, the trio discover the cause of the eruption. Due to the mining activities that depleted the mineral, the obsidian-eating Originium Slugs were forced to dig deeper to search for more food, inadvertently breaching the volcano's magma chambers. Gradually, one of the slugs nicknamed "[[Pompeii]]," the queen of all slugs, had grown massive. After a long fight against the fiery queen slug, the trio manage to drive Pompeii away from the magma chambers, stopping the eruption for the time being.
+
+The next day, Amiya scolds the Doctor for their actions, but forgives them for saving the Siestan lives. Seeing that the Siesta Volcano will inevitably devour the whole land, Herman decides to turn the city into a [[Nomadic city|nomadic one]] after the Obsidian Festival ends. Thanks to R.I.'s effort, no one is injured in the incident, and the "explosive" summer craze ends with a peaceful sunset.
+
+==Call of the Deep==
+Meanwhile, elsewhere in Siesta, [[Thorns]], an [[Iberia]]n [[Aegir (race)|"Islander"]] and a member of R.I., wanders around the streets. For most of the festival, he's done little except dealing with a pickpocket and chatting with Ifrit and her gang in her barbeque stall. While strolling down the beach, he coincidentally encounters Aya, the AUS's lead vocalist. Aya gives Thorns a poster with her autograph, despite knowing that he's not a fan of her.
+
+But things would not turn out well. Out of the blue, Aya mentions the vast ocean beyond Terra, irritating Thorns. While Thorns gazes at the inland sea, a mysterious thought suddenly possesses him, making him very uncomfortable. Aya helps him divert the topic, freeing his mind, much to his relief. Before the two of them depart, Aya reminds him that the ocean will always keep a watch on all its children, [[Seaborn#Overview|an unavoidable fate for them]].
+
+{{Synopses}}
+[[Category:Side Story synopses]]

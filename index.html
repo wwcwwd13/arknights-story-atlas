@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>명일방주 · 이야기 지도</title>
+  <meta name="description" content="한국 서버 공개 순서로 보는 명일방주 메인 스토리와 이벤트 지도">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23131b20'/%3E%3Cpath d='M10 48 31 8l23 40H10Zm12-7h21L31 19 22 41Z' fill='%23e9d4a3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="data.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">△</span><div><strong>명일방주</strong><span>STORY ATLAS</span></div></div>
+    <div class="title-block"><h1>이야기 지도</h1><p>한국 서버 공개 순서 · 진영별 스토리 지도</p></div>
+    <div class="top-meta"><span class="meta-light"></span><span id="dataCount">불러오는 중</span><span class="meta-divider"></span><span>2020 — 2027</span></div>
+  </header>
+
+  <section class="toolbar" aria-label="연표 조작">
+    <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="이벤트 · 원제 · 진영 검색" aria-label="이벤트, 원제, 진영 검색"></div>
+    <div class="filter-group" role="group" aria-label="이벤트 종류">
+      <button class="chip active" data-type="all" type="button">전체</button>
+      <button class="chip" data-type="main" type="button">메인 스토리</button>
+      <button class="chip" data-type="side" type="button">사이드 스토리</button>
+      <button class="chip" data-type="collection" type="button">스토리 모음</button>
+    </div>
+    <div class="toolbar-spacer"></div>
+    <div class="zoom-control" role="group" aria-label="가로 배율">
+      <button id="zoomOut" type="button" aria-label="가로 배율 줄이기">−</button>
+      <span id="zoomValue">x1</span>
+      <button id="zoomIn" type="button" aria-label="가로 배율 늘리기">+</button>
+    </div>
+  </section>
+
+  <main>
+    <div id="timeline" class="timeline-scroll" tabindex="0" aria-label="명일방주 진영별 이벤트 연표">
+      <div id="timelineInner" class="timeline-inner"></div>
+    </div>
+  </main>
+
+  <div id="drawerBackdrop" class="drawer-backdrop" hidden></div>
+  <aside id="drawer" class="drawer" aria-label="상세 정보" aria-hidden="true">
+    <button id="drawerClose" class="drawer-close" type="button" aria-label="상세 정보 닫기">×</button>
+    <div id="drawerContent"></div>
+  </aside>
+</body>
+</html>
