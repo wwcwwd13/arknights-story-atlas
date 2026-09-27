@@ -70,9 +70,10 @@ for lane in lanes.values():
     if lane.get('secondaryEmblem'):
         assert (root / lane['secondaryEmblem']).is_file(), lane['id']
 for person in people.values():
-    assert person['portraitSource'], person['id']
-    portrait = root / person['portrait']
-    assert portrait.is_file() and portrait.read_bytes().startswith(b'\x89PNG\r\n\x1a\n'), person['id']
+    if person.get('portrait'):
+        assert person['portraitSource'], person['id']
+        portrait = root / person['portrait']
+        assert portrait.is_file() and portrait.read_bytes().startswith(b'\x89PNG\r\n\x1a\n'), person['id']
 for relation in data['appearances']:
     assert relation['event'] in events and relation['person'] in people, relation
     assert relation.get('source', events[relation['event']]['summarySource']).startswith('https://'), relation
@@ -88,6 +89,10 @@ appearances_by_event = Counter(item['event'] for item in data['appearances'])
 actions_by_event = Counter(item['event'] for item in data['actions'])
 assert all(appearances_by_event[event_id] >= 1 for event_id in events)
 assert all(actions_by_event[event_id] >= 4 for event_id in events)
+assert {'wiki-botani', 'wiki-fyodor-vladimirovich', 'prts-faddey', 'prts-leonid-grashvili'} <= {
+    item['person'] for item in data['appearances'] if item['event'] == 'people-us'}
+assert all(appearances_by_event[event_id] >= 9 for event_id in
+           ('main-17', 'foam-thunder', 'jungle-knot', 'lime', 'moon-water'))
 assert len({(action['event'], action['text']) for action in data['actions']}) == len(data['actions'])
 for event in events.values():
     cast = {item['person'] for item in data['appearances'] if item['event'] == event['id']}

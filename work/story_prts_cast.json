@@ -1,0 +1,104 @@
+{
+  "people-us": [
+    ["leonid-grashvili", "레오니드 그라슈빌리", "列昂尼德·格拉什维利"],
+    ["faddey", "파데이", "法杰伊"],
+    ["valentina-volgina", "발렌티나 볼기나", "瓦莲汀·鲁斯兰诺芙娜·沃尔金娜"],
+    ["danila-treplev", "다닐라 트레플레프", "达尼拉·特里波列夫"],
+    ["madam-vorontsova", "보론초바 부인", "沃伦佐娃夫人"],
+    ["arbiter", "청문회 중재관", "仲裁人"],
+    ["yura", "유라", "尤拉"],
+    ["varvara", "바르바라", "瓦尔瓦拉"],
+    ["nika", "니카", "尼卡"],
+    ["yeremey", "예레메이", "叶列梅"],
+    ["pencil-stub", "몽당연필", "“铅笔头”"],
+    ["shorty", "꼬맹이", "“小个子”"],
+    ["naum", "나움", "瑙姆"],
+    ["shergo", "셰르고", "谢尔戈"],
+    ["rania", "라니아", "拉列亚"],
+    ["pavalo", "파발로", "帕夫洛"]
+  ],
+  "under-tides": [
+    ["old-jose", "늙은 호세", "老何塞"],
+    ["bench", "벤치", "长凳"],
+    ["tin", "틴", "铁皮"],
+    ["wall-ash", "월 애시", "墙灰"],
+    ["grandmother-petra", "페트라 할머니", "佩特拉奶奶"]
+  ],
+  "crossroads": [
+    ["shale-radoslav", "샬레 라도슬라프", "沙雷·拉多斯瓦夫"],
+    ["paula-meminger", "파울라 메밍거", "葆拉·梅明格"],
+    ["betty-crossroads", "베티", "贝蒂"],
+    ["nicolo-crossroads", "니콜로", "尼科洛"],
+    ["elio-fabbri", "엘리오 파브리", "埃里奥·法布里"],
+    ["tommaso-esposito", "토마소 에스포시토", "托马索·埃斯波斯托"],
+    ["sam-crossroads", "샘", "山姆"]
+  ],
+  "dreamtalk": [
+    ["ann-dream", "안", "安"],
+    ["wolf-dream", "볼프", "沃尔夫"],
+    ["morphis", "모르피스", "莫菲丝"],
+    ["francis-dream", "프란시스", "弗朗西斯"],
+    ["mutsumi-mother", "무츠미의 어머니", "“睦的母亲”"],
+    ["sachiko-father", "사키코의 아버지", "“父亲”"],
+    ["sachiko-mother", "사키코의 어머니", "“母亲”"]
+  ],
+  "main-17": [
+    ["yakov-petrov", "야코프 페트로프", "雅科夫·彼得洛夫"],
+    ["svetlana-buterina", "스베틀라나 부테리나", "斯韦特兰纳·乌里扬诺娃·卜捷里娜"],
+    ["anatoly-buterinin", "아나톨리 부테리닌", "阿纳托利·斯维特拉诺夫·卜捷里宁"],
+    ["evgeny-kuznetsov", "예브게니 쿠즈네초프", "叶甫根尼·库兹涅佐夫"],
+    ["andrian", "안드리안", "安德里安"],
+    ["silka", "실카", "西尔卡"],
+    ["elita-valuyeva", "엘리타 발루예바", "艾丽塔·瓦卢耶娃"],
+    ["klim", "클림", "克利姆"],
+    ["ivan-turin", "이반 투린", "伊凡·图林"],
+    ["milana-turin", "밀라나 (이반 투린)", "“伊凡·图林”"],
+    ["nadezhda", "나데즈다", "纳杰日达"],
+    ["prado-lunin", "프라도 루닌", "普拉多·卢宁"],
+    ["nastasya", "나스타샤", "“纳斯塔霞”"],
+    ["sami-shaman", "사미 샤먼", "萨满"]
+  ],
+  "foam-thunder": [
+    ["bokuka", "보우카", "宝巫迦"],
+    ["dream-midnight", "포영국 미드나이트", "月见夜"],
+    ["dream-spot", "포영국 스팟", "斑弥罗"],
+    ["previous-ruler", "전대 국주", "前代国主"]
+  ],
+  "jungle-knot": [
+    ["gillian-aranda", "질리언 아란다", "吉莉安·阿兰达"],
+    ["yana", "야나", "亚娜"],
+    ["carmelo", "카르멜로", "卡梅洛"],
+    ["valero", "발레로", "巴列罗"],
+    ["piura", "피우라", "皮乌拉"],
+    ["hanke", "한케", "汉科"],
+    ["martin", "마르틴", "马丁"],
+    ["jose", "호세", "何塞"],
+    ["sierra", "시에라", "塞拉"],
+    ["alva", "알바", "阿尔瓦"],
+    ["manuel", "마누엘", "曼努埃尔"]
+  ],
+  "lime": [
+    ["martina-messenger", "마르티나", "玛蒂娜"],
+    ["inala", "이날라", "伊娜拉"],
+    ["hunter-lime", "헌터", "亨特"],
+    ["madison-lime", "매디슨", "麦迪森"],
+    ["sunny-valley-contact", "선밸리 연락원", "联络员"],
+    ["barton-lime", "바턴", "巴顿"],
+    ["urulu", "우루루", "乌露露"],
+    ["ashton-lime", "애슈턴", "阿什顿"],
+    ["mcneil", "맥닐", "麦尼尔"],
+    ["liam-campbell", "리엄 캠벨", "利亚姆·坎贝尔"],
+    ["mia-campbell", "미아", "米娅"]
+  ],
+  "moon-water": [
+    ["ken-amada", "아마다 켄", "天田乾"],
+    ["fuuka-yamagishi", "야마기시 후카", "山岸风花"],
+    ["giulio", "줄리오", "裘里奥"],
+    ["giada", "지아다", "吉阿达"],
+    ["kara", "카라", "卡拉"],
+    ["kyra", "카이라", "凯拉"],
+    ["perla", "펄라", "珀拉"],
+    ["felice-godou", "펠리체 고두", "菲利切·高丢"],
+    ["vivetta", "비베타", "维韦塔"]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "people": [
+    {"id": "future-thumpy", "name": "썸피", "kind": "operator", "wikiTitle": "Thumpy"},
+    {"id": "future-jacinta", "name": "자신타", "kind": "operator", "wikiTitle": "Jacinta"},
+    {"id": "future-yukari", "name": "타케바 유카리", "kind": "operator", "wikiTitle": "Yukari Takeba"},
+    {"id": "future-aegis", "name": "아이기스", "kind": "operator", "wikiTitle": "Aegis"},
+    {"id": "future-koromaru", "name": "코로마루", "kind": "operator", "wikiTitle": "Koromaru"}
+  ],
+  "events": {
+    "main-17": ["kaltsit", "talulah", "crownslayer", "gummy"],
+    "jungle-knot": ["wiki-dobermann"],
+    "lime": ["future-thumpy", "future-jacinta"],
+    "moon-water": ["future-yukari", "future-aegis", "future-koromaru"]
+  }
+}

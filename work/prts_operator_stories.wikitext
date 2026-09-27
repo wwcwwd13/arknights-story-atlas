@@ -1,0 +1,23 @@
+{{#vardefine:lasttime|{{#ifexpr:{{REVISIONTIMESTAMP:干员剧情一览/五星干员}} >= {{REVISIONTIMESTAMP:干员剧情一览/六星干员}}|{{REVISIONTIMESTAMP:干员剧情一览/五星干员}}|{{REVISIONTIMESTAMP:干员剧情一览/六星干员}}}}}}{{#vardefine:lasttime|{{#ifexpr:{{REVISIONTIMESTAMP:干员剧情一览/四星干员}} >= {{#var:lasttime}}|{{REVISIONTIMESTAMP:干员剧情一览/四星干员}}|{{#var:lasttime}}}}}}{{#vardefine:lasttime|{{#ifexpr:{{REVISIONTIMESTAMP:干员剧情一览/一二星干员}} >= {{#var:lasttime}}|{{REVISIONTIMESTAMP:干员剧情一览/一二星干员}}|{{#var:lasttime}}}}}}
+{{Cbox2|icon=filter|title=本条目整理了所有干员在游戏内AVG剧情中的出场情况|text=本页面中的内容较多，建议您结合浏览器的'''页面内查找'''功能阅读。在桌面设备中，此功能的快捷键通常是'''Ctrl(Cmd)+F'''。
+本页面中干员按'''稀有度'''分类，相同稀有度的干员按'''职业'''分类且按'''实装顺序'''倒序排列。
+异格、升变干员与原干员的出场剧情收录在一起，干员曾经作为敌方角色登场的剧情也收录在内。}}
+{{cbox2|lv=1|title=本条目的内容及资料需要长期更新，现存资料未必是最新的。|text=本条目的最后更新时间为'''{{#time:Y年n月j日H:i|{{#var:lasttime}}}}'''。}}[[分类:需要长期关注及更新的条目]]
+{{参阅|剧情角色一览|未实装为干员的剧情角色的介绍及出场情况}}
+{{#Widget:Collapsible-block/lazyload/head}}
+==六星干员==
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|plus-thick}} 展开|title2={{mdi|minus-thick}} 收起|pageName=干员剧情一览/六星干员}}
+
+==五星干员==
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|plus-thick}} 展开|title2={{mdi|minus-thick}} 收起|pageName=干员剧情一览/五星干员}}
+
+==四星干员==
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|plus-thick}} 展开|title2={{mdi|minus-thick}} 收起|pageName=干员剧情一览/四星干员}}
+
+==三星干员==
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|plus-thick}} 展开|title2={{mdi|minus-thick}} 收起|pageName=干员剧情一览/三星干员}}
+
+==一二星干员==
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|plus-thick}} 展开|title2={{mdi|minus-thick}} 收起|pageName=干员剧情一览/一二星干员}}
+
+[[分类:汇总]]

@@ -1,0 +1,4500 @@
+{
+  "characters": {
+    "\"Clip\" Cliff": {
+      "page": "Cliff",
+      "kind": "nonoperator"
+    },
+    "054": {
+      "page": "054",
+      "kind": "nonoperator"
+    },
+    "Aak": {
+      "page": "Aak",
+      "kind": "operator"
+    },
+    "Abner": {
+      "page": "Abner",
+      "kind": "nonoperator"
+    },
+    "Absinthe": {
+      "page": "Absinthe",
+      "kind": "operator"
+    },
+    "Ace": {
+      "page": "Ace",
+      "kind": "nonoperator"
+    },
+    "Adams Schwire": {
+      "page": "Adams Schwire",
+      "kind": "nonoperator"
+    },
+    "Adele Keller": {
+      "page": "Adele Keller",
+      "kind": "nonoperator"
+    },
+    "Adnachiel": {
+      "page": "Adnachiel",
+      "kind": "operator"
+    },
+    "Adso Browntail": {
+      "page": "Adso Browntail",
+      "kind": "nonoperator"
+    },
+    "Agenir": {
+      "page": "Agenir",
+      "kind": "nonoperator"
+    },
+    "Ah Gen": {
+      "page": "Ah Gen",
+      "kind": "nonoperator"
+    },
+    "Ahrens Parvis": {
+      "page": "Ahrens Parvis",
+      "kind": "nonoperator"
+    },
+    "Ailshie": {
+      "page": "Ailshie",
+      "kind": "nonoperator"
+    },
+    "Ajani": {
+      "page": "Ajani",
+      "kind": "nonoperator"
+    },
+    "Ajazi": {
+      "page": "Ajazi",
+      "kind": "nonoperator"
+    },
+    "Alanna": {
+      "page": "Alanna",
+      "kind": "operator"
+    },
+    "Alberto Saluzzo": {
+      "page": "Alberto Saluzzo",
+      "kind": "nonoperator"
+    },
+    "Alfonso": {
+      "page": "Alfonso",
+      "kind": "nonoperator"
+    },
+    "Alina": {
+      "page": "Alina",
+      "kind": "nonoperator"
+    },
+    "Alistair II": {
+      "page": "Alistair II",
+      "kind": "nonoperator"
+    },
+    "Allerdale": {
+      "page": "Allerdale",
+      "kind": "nonoperator"
+    },
+    "Almond": {
+      "page": "Almond",
+      "kind": "operator"
+    },
+    "Amaia": {
+      "page": "Amaia",
+      "kind": "nonoperator"
+    },
+    "Ambriel": {
+      "page": "Ambriel",
+      "kind": "operator"
+    },
+    "Amiya": {
+      "page": "Amiya",
+      "kind": "operator"
+    },
+    "Amma": {
+      "page": "Amma",
+      "kind": "nonoperator"
+    },
+    "Amos": {
+      "page": "Amos",
+      "kind": "nonoperator"
+    },
+    "Anastasio": {
+      "page": "Anastasio",
+      "kind": "nonoperator"
+    },
+    "Andenate Maryam": {
+      "page": "Andenate Maryam",
+      "kind": "nonoperator"
+    },
+    "Andoain": {
+      "page": "Andoain",
+      "kind": "nonoperator"
+    },
+    "Angst": {
+      "page": "Angst",
+      "kind": "nonoperator"
+    },
+    "Anita": {
+      "page": "Anita",
+      "kind": "nonoperator"
+    },
+    "Ansel": {
+      "page": "Ansel",
+      "kind": "operator"
+    },
+    "Antonio Venezia": {
+      "page": "Antonio Venezia",
+      "kind": "nonoperator"
+    },
+    "Antosha": {
+      "page": "Antosha",
+      "kind": "nonoperator"
+    },
+    "Aosta": {
+      "page": "Aosta",
+      "kind": "operator"
+    },
+    "Archetto": {
+      "page": "Archetto",
+      "kind": "operator"
+    },
+    "Arctosz Paleroche": {
+      "page": "Arctosz Paleroche",
+      "kind": "nonoperator"
+    },
+    "Arturia": {
+      "page": "Virtuosa",
+      "kind": "operator"
+    },
+    "Asbestos": {
+      "page": "Asbestos",
+      "kind": "operator"
+    },
+    "Ascalon": {
+      "page": "Ascalon",
+      "kind": "operator"
+    },
+    "Ash": {
+      "page": "Ash",
+      "kind": "operator"
+    },
+    "Ashlock": {
+      "page": "Ashlock",
+      "kind": "operator"
+    },
+    "Aspasia": {
+      "page": "Aspasia",
+      "kind": "nonoperator"
+    },
+    "Aspen": {
+      "page": "Aspen",
+      "kind": "nonoperator"
+    },
+    "Astgenne": {
+      "page": "Astgenne",
+      "kind": "operator"
+    },
+    "Astgenne the Lightchaser": {
+      "page": "Astgenne the Lightchaser",
+      "kind": "operator"
+    },
+    "Aulus": {
+      "page": "Aulus",
+      "kind": "nonoperator"
+    },
+    "Aurela": {
+      "page": "Aurela",
+      "kind": "nonoperator"
+    },
+    "Aurora": {
+      "page": "Aurora",
+      "kind": "operator"
+    },
+    "Avitus": {
+      "page": "Avitus",
+      "kind": "nonoperator"
+    },
+    "Ayerscarpe": {
+      "page": "Ayerscarpe",
+      "kind": "operator"
+    },
+    "Bagpipe": {
+      "page": "Bagpipe",
+      "kind": "operator"
+    },
+    "Bai Jin": {
+      "page": "Bai Jin",
+      "kind": "nonoperator"
+    },
+    "Baird": {
+      "page": "Baird",
+      "kind": "nonoperator"
+    },
+    "Bassline": {
+      "page": "Bassline",
+      "kind": "operator"
+    },
+    "Beagle": {
+      "page": "Beagle",
+      "kind": "operator"
+    },
+    "Beanstalk": {
+      "page": "Beanstalk",
+      "kind": "operator"
+    },
+    "Beehunter": {
+      "page": "Beehunter",
+      "kind": "operator"
+    },
+    "Beeswax": {
+      "page": "Beeswax",
+      "kind": "operator"
+    },
+    "Behnui Enshi-Pah": {
+      "page": "Behnui Enshi-Pah",
+      "kind": "nonoperator"
+    },
+    "Bellingham": {
+      "page": "Bellingham",
+      "kind": "nonoperator"
+    },
+    "Bena": {
+      "page": "Bena",
+      "kind": "operator"
+    },
+    "Benny": {
+      "page": "Benny",
+      "kind": "nonoperator"
+    },
+    "Bernardo Bellone": {
+      "page": "Bernardo Bellone",
+      "kind": "nonoperator"
+    },
+    "Biegler": {
+      "page": "Biegler",
+      "kind": "nonoperator"
+    },
+    "Big Bob": {
+      "page": "Big Bob",
+      "kind": "nonoperator"
+    },
+    "Bison": {
+      "page": "Bison",
+      "kind": "operator"
+    },
+    "Biu": {
+      "page": "Biu",
+      "kind": "nonoperator"
+    },
+    "Black Mark": {
+      "page": "Black Mark",
+      "kind": "nonoperator"
+    },
+    "Blacknight": {
+      "page": "Blacknight",
+      "kind": "operator"
+    },
+    "Blake": {
+      "page": "Blake",
+      "kind": "nonoperator"
+    },
+    "Blandus": {
+      "page": "Blandus",
+      "kind": "nonoperator"
+    },
+    "Blaze": {
+      "page": "Blaze",
+      "kind": "operator"
+    },
+    "Blemishine": {
+      "page": "Blemishine",
+      "kind": "operator"
+    },
+    "Blitz": {
+      "page": "Blitz",
+      "kind": "operator"
+    },
+    "Blue Poison": {
+      "page": "Blue Poison",
+      "kind": "operator"
+    },
+    "Bobbing": {
+      "page": "Bobbing",
+      "kind": "operator"
+    },
+    "Botani": {
+      "page": "Botani",
+      "kind": "operator"
+    },
+    "Brandt Reiner": {
+      "page": "Brandt Reiner",
+      "kind": "nonoperator"
+    },
+    "Brigid": {
+      "page": "Brigid",
+      "kind": "operator"
+    },
+    "Broca": {
+      "page": "Broca",
+      "kind": "operator"
+    },
+    "Bryophyta": {
+      "page": "Bryophyta",
+      "kind": "operator"
+    },
+    "Butler": {
+      "page": "Butler",
+      "kind": "nonoperator"
+    },
+    "Byrd": {
+      "page": "Byrd",
+      "kind": "nonoperator"
+    },
+    "Cador": {
+      "page": "Cador",
+      "kind": "nonoperator"
+    },
+    "Caesar": {
+      "page": "Caesar",
+      "kind": "nonoperator"
+    },
+    "Cairn": {
+      "page": "Cairn",
+      "kind": "operator"
+    },
+    "Candela Sanchez": {
+      "page": "Candela Sanchez",
+      "kind": "nonoperator"
+    },
+    "Cannot Goodenough": {
+      "page": "Cannot Goodenough",
+      "kind": "nonoperator"
+    },
+    "Capone": {
+      "page": "Capone",
+      "kind": "nonoperator"
+    },
+    "Carmen": {
+      "page": "Carmen",
+      "kind": "nonoperator"
+    },
+    "Carnelian": {
+      "page": "Carnelian",
+      "kind": "operator"
+    },
+    "Carol": {
+      "page": "Carol",
+      "kind": "nonoperator"
+    },
+    "Carolin": {
+      "page": "Carolin",
+      "kind": "nonoperator"
+    },
+    "Cassia": {
+      "page": "Cassia",
+      "kind": "nonoperator"
+    },
+    "Castle-3": {
+      "page": "Castle-3",
+      "kind": "operator"
+    },
+    "Catapult": {
+      "page": "Catapult",
+      "kind": "operator"
+    },
+    "Catch Lightrace": {
+      "page": "Catch Lightrace",
+      "kind": "nonoperator"
+    },
+    "Catherine": {
+      "page": "Catherine",
+      "kind": "operator"
+    },
+    "Cecelia": {
+      "page": "Cecelia",
+      "kind": "nonoperator"
+    },
+    "Ceobe": {
+      "page": "Ceobe",
+      "kind": "operator"
+    },
+    "Ceylon": {
+      "page": "Ceylon",
+      "kind": "operator"
+    },
+    "Ch'en": {
+      "page": "Ch'en",
+      "kind": "operator"
+    },
+    "Ch'en Chao-ch'ien": {
+      "page": "Ch'en Chao-ch'ien",
+      "kind": "nonoperator"
+    },
+    "Ch'en the Dawnstreak": {
+      "page": "Ch'en the Dawnstreak",
+      "kind": "operator"
+    },
+    "Ch'en the Holungday": {
+      "page": "Ch'en the Holungday",
+      "kind": "operator"
+    },
+    "Charles Lynch": {
+      "page": "Charles Lynch",
+      "kind": "nonoperator"
+    },
+    "Chen Che": {
+      "page": "Chen Che",
+      "kind": "nonoperator"
+    },
+    "Chiave": {
+      "page": "Chiave",
+      "kind": "operator"
+    },
+    "Chilchuck": {
+      "page": "Chilchuck",
+      "kind": "operator"
+    },
+    "Chongyue": {
+      "page": "Chongyue",
+      "kind": "operator"
+    },
+    "Chun": {
+      "page": "Chun",
+      "kind": "nonoperator"
+    },
+    "Civilight Eterna": {
+      "page": "Civilight Eterna",
+      "kind": "operator"
+    },
+    "Clementia": {
+      "page": "Clementia",
+      "kind": "nonoperator"
+    },
+    "Click": {
+      "page": "Click",
+      "kind": "operator"
+    },
+    "Cliff": {
+      "page": "Cliff",
+      "kind": "nonoperator"
+    },
+    "Cliffheart": {
+      "page": "Cliffheart",
+      "kind": "operator"
+    },
+    "Clovisia": {
+      "page": "Clovisia",
+      "kind": "nonoperator"
+    },
+    "Clément Dubois": {
+      "page": "Clément Dubois",
+      "kind": "nonoperator"
+    },
+    "Coldshot": {
+      "page": "Coldshot",
+      "kind": "operator"
+    },
+    "Confessarii": {
+      "page": "Confessarii",
+      "kind": "nonoperator"
+    },
+    "Confessarius": {
+      "page": "Confessarii",
+      "kind": "nonoperator"
+    },
+    "Conrad Jackson": {
+      "page": "Conrad Jackson",
+      "kind": "nonoperator"
+    },
+    "Cora Löwenstein": {
+      "page": "Cora Löwenstein",
+      "kind": "nonoperator"
+    },
+    "Corrupted Knight": {
+      "page": "Corrupted Knight",
+      "kind": "nonoperator"
+    },
+    "Costa": {
+      "page": "Costa",
+      "kind": "nonoperator"
+    },
+    "Courier": {
+      "page": "Courier",
+      "kind": "operator"
+    },
+    "Croissant": {
+      "page": "Croissant",
+      "kind": "operator"
+    },
+    "Cronin": {
+      "page": "Cronin",
+      "kind": "nonoperator"
+    },
+    "Croque Diamondface": {
+      "page": "Croque Diamondface",
+      "kind": "nonoperator"
+    },
+    "Crownie Mantel": {
+      "page": "Crownie Mantel",
+      "kind": "nonoperator"
+    },
+    "Crownslayer": {
+      "page": "Crownslayer",
+      "kind": "operator"
+    },
+    "Culann": {
+      "page": "Culann",
+      "kind": "nonoperator"
+    },
+    "Cynisca": {
+      "page": "Cynisca",
+      "kind": "nonoperator"
+    },
+    "Czarny": {
+      "page": "Czarny",
+      "kind": "nonoperator"
+    },
+    "Czcibor": {
+      "page": "Czcibor",
+      "kind": "nonoperator"
+    },
+    "Czerny": {
+      "page": "Czerny",
+      "kind": "operator"
+    },
+    "Dagda": {
+      "page": "Dagda",
+      "kind": "operator"
+    },
+    "Damazti Cluster": {
+      "page": "Damazti Cluster",
+      "kind": "nonoperator"
+    },
+    "Danbrown Leopardi": {
+      "page": "Danbrown Leopardi",
+      "kind": "nonoperator"
+    },
+    "Dario": {
+      "page": "Dario",
+      "kind": "nonoperator"
+    },
+    "Darksteels": {
+      "page": "Darksteels",
+      "kind": "nonoperator"
+    },
+    "Dawn": {
+      "page": "Dawn",
+      "kind": "nonoperator"
+    },
+    "Deathless Black Snake": {
+      "page": "Deathless Black Snake",
+      "kind": "nonoperator"
+    },
+    "Deculture Silvermint": {
+      "page": "Deculture Silvermint",
+      "kind": "nonoperator"
+    },
+    "Degenbrecher": {
+      "page": "Degenbrecher",
+      "kind": "operator"
+    },
+    "Delphine": {
+      "page": "Delphine",
+      "kind": "operator"
+    },
+    "Demetri Certaldo": {
+      "page": "Bellone",
+      "kind": "operator"
+    },
+    "Destructive Dragon Demon": {
+      "page": "Destructive Dragon Demon",
+      "kind": "nonoperator"
+    },
+    "Diane Weber": {
+      "page": "Diane Weber",
+      "kind": "nonoperator"
+    },
+    "Dijkstra": {
+      "page": "Dijkstra",
+      "kind": "nonoperator"
+    },
+    "Dikaiopolis": {
+      "page": "Dikaiopolis",
+      "kind": "nonoperator"
+    },
+    "Dobermann": {
+      "page": "Dobermann",
+      "kind": "operator"
+    },
+    "Doc": {
+      "page": "Doc",
+      "kind": "operator"
+    },
+    "Dolly": {
+      "page": "Dolly",
+      "kind": "nonoperator"
+    },
+    "Domma": {
+      "page": "Domma",
+      "kind": "nonoperator"
+    },
+    "Dorothy": {
+      "page": "Dorothy",
+      "kind": "operator"
+    },
+    "Drudge Tulla": {
+      "page": "Drudge Tulla",
+      "kind": "nonoperator"
+    },
+    "Du Yaoye": {
+      "page": "Du Yaoye",
+      "kind": "nonoperator"
+    },
+    "Duke of Caster": {
+      "page": "Duke of Caster",
+      "kind": "nonoperator"
+    },
+    "Duke of Gododdin": {
+      "page": "Duke of Gododdin",
+      "kind": "nonoperator"
+    },
+    "Duke of Wellington": {
+      "page": "Duke of Wellington",
+      "kind": "nonoperator"
+    },
+    "Duke of Windermere": {
+      "page": "Duke of Windermere",
+      "kind": "nonoperator"
+    },
+    "Duq'arael": {
+      "page": "Duq'arael",
+      "kind": "nonoperator"
+    },
+    "Dur-nar": {
+      "page": "Dur-nar",
+      "kind": "operator"
+    },
+    "Dusk": {
+      "page": "Dusk",
+      "kind": "operator"
+    },
+    "Díaz Gonzalez": {
+      "page": "Diaz González",
+      "kind": "nonoperator"
+    },
+    "Earl of March": {
+      "page": "Earl of March",
+      "kind": "nonoperator"
+    },
+    "Earl of Warwick": {
+      "page": "Earl of Warwick",
+      "kind": "nonoperator"
+    },
+    "Earthspirit": {
+      "page": "Earthspirit",
+      "kind": "operator"
+    },
+    "Ebenholz": {
+      "page": "Ebenholz",
+      "kind": "operator"
+    },
+    "Eblana": {
+      "page": "Necrass",
+      "kind": "operator"
+    },
+    "Edge Eartheart": {
+      "page": "Edge Eartheart",
+      "kind": "nonoperator"
+    },
+    "Edward Artorius": {
+      "page": "Edward Artorius",
+      "kind": "nonoperator"
+    },
+    "Eikthyrnir": {
+      "page": "Eikthyrnir",
+      "kind": "nonoperator"
+    },
+    "Eirene Lavazza": {
+      "page": "Eirene Lavazza",
+      "kind": "nonoperator"
+    },
+    "Ela": {
+      "page": "Ela",
+      "kind": "operator"
+    },
+    "Elisabeth": {
+      "page": "Elisabeth",
+      "kind": "nonoperator"
+    },
+    "Eloysius Gorchekova": {
+      "page": "Eloysius Gorchekova",
+      "kind": "nonoperator"
+    },
+    "Elysium": {
+      "page": "Elysium",
+      "kind": "operator"
+    },
+    "Emperor": {
+      "page": "Emperor",
+      "kind": "nonoperator"
+    },
+    "Enforcer": {
+      "page": "Enforcer",
+      "kind": "operator"
+    },
+    "Entelechia": {
+      "page": "Entelechia",
+      "kind": "operator"
+    },
+    "Ermengarde": {
+      "page": "Ermengarde",
+      "kind": "nonoperator"
+    },
+    "Ethan": {
+      "page": "Ethan",
+      "kind": "operator"
+    },
+    "Eunectes": {
+      "page": "Eunectes",
+      "kind": "operator"
+    },
+    "Eurill Pides": {
+      "page": "Eurill Pides",
+      "kind": "nonoperator"
+    },
+    "Executor": {
+      "page": "Executor",
+      "kind": "operator"
+    },
+    "Executor the Ex Foedere": {
+      "page": "Executor the Ex Foedere",
+      "kind": "operator"
+    },
+    "Exusiai": {
+      "page": "Exusiai",
+      "kind": "operator"
+    },
+    "Eyjafjalla": {
+      "page": "Eyjafjalla",
+      "kind": "operator"
+    },
+    "Fabrizio Venezia": {
+      "page": "Fabrizio Venezia",
+      "kind": "nonoperator"
+    },
+    "Fang": {
+      "page": "Fang",
+      "kind": "operator"
+    },
+    "Fang Xiaoshi": {
+      "page": "Fang Xiaoshi",
+      "kind": "nonoperator"
+    },
+    "Fartooth": {
+      "page": "Fartooth",
+      "kind": "operator"
+    },
+    "Faust": {
+      "page": "Faust",
+      "kind": "nonoperator"
+    },
+    "Feist": {
+      "page": "Stainless",
+      "kind": "operator"
+    },
+    "Ferdinand Clooney": {
+      "page": "Ferdinand Clooney",
+      "kind": "nonoperator"
+    },
+    "Fiametta": {
+      "page": "Fiammetta",
+      "kind": "operator"
+    },
+    "Fiammetta": {
+      "page": "Fiammetta",
+      "kind": "operator"
+    },
+    "Figurino": {
+      "page": "Figurino",
+      "kind": "operator"
+    },
+    "Fionn": {
+      "page": "Fionn",
+      "kind": "nonoperator"
+    },
+    "Firewatch": {
+      "page": "Firewatch",
+      "kind": "operator"
+    },
+    "Flamebringer": {
+      "page": "Flamebringer",
+      "kind": "operator"
+    },
+    "Flametail": {
+      "page": "Flametail",
+      "kind": "operator"
+    },
+    "Flint": {
+      "page": "Flint",
+      "kind": "operator"
+    },
+    "Folinic": {
+      "page": "Folinic",
+      "kind": "operator"
+    },
+    "Fortuna": {
+      "page": "Fortuna",
+      "kind": "nonoperator"
+    },
+    "Franka": {
+      "page": "Franka",
+      "kind": "operator"
+    },
+    "Fremont": {
+      "page": "Fremont",
+      "kind": "nonoperator"
+    },
+    "Friston-3": {
+      "page": "Friston-3",
+      "kind": "operator"
+    },
+    "Frost": {
+      "page": "Frost",
+      "kind": "operator"
+    },
+    "FrostNova": {
+      "page": "FrostNova",
+      "kind": "nonoperator"
+    },
+    "Frostleaf": {
+      "page": "Frostleaf",
+      "kind": "operator"
+    },
+    "Fumizuki": {
+      "page": "Fumizuki",
+      "kind": "nonoperator"
+    },
+    "Fuze": {
+      "page": "Fuze",
+      "kind": "operator"
+    },
+    "Fyodor Vladimirovich": {
+      "page": "Fyodor Vladimirovich",
+      "kind": "nonoperator"
+    },
+    "Fāng": {
+      "page": "Sui",
+      "kind": "nonoperator"
+    },
+    "Gambino": {
+      "page": "Gambino",
+      "kind": "nonoperator"
+    },
+    "Garcia": {
+      "page": "Garcia",
+      "kind": "nonoperator"
+    },
+    "Gavial": {
+      "page": "Gavial",
+      "kind": "operator"
+    },
+    "Gawain": {
+      "page": "Gawain",
+      "kind": "nonoperator"
+    },
+    "Gerald": {
+      "page": "Gerald",
+      "kind": "nonoperator"
+    },
+    "Gerhard Hoffmann": {
+      "page": "Gerhard Hoffmann",
+      "kind": "nonoperator"
+    },
+    "Gertrude Strollo": {
+      "page": "Gertrude Strollo",
+      "kind": "nonoperator"
+    },
+    "Giovanna Rossati": {
+      "page": "Giovanna Rossati",
+      "kind": "nonoperator"
+    },
+    "Gitano": {
+      "page": "Gitano",
+      "kind": "operator"
+    },
+    "Gladiia": {
+      "page": "Gladiia",
+      "kind": "operator"
+    },
+    "Glaucus": {
+      "page": "Glaucus",
+      "kind": "operator"
+    },
+    "Gnosis": {
+      "page": "Gnosis",
+      "kind": "operator"
+    },
+    "Goldenglow": {
+      "page": "Goldenglow",
+      "kind": "operator"
+    },
+    "Golding": {
+      "page": "Golding",
+      "kind": "nonoperator"
+    },
+    "Gracebearer": {
+      "page": "Gracebearer",
+      "kind": "operator"
+    },
+    "Grain Buds": {
+      "page": "Grain Buds",
+      "kind": "operator"
+    },
+    "Grand Commandant": {
+      "page": "Grand Commandant",
+      "kind": "nonoperator"
+    },
+    "Grand Tutor": {
+      "page": "Grand Tutor",
+      "kind": "nonoperator"
+    },
+    "Grani": {
+      "page": "Grani",
+      "kind": "operator"
+    },
+    "Gravel": {
+      "page": "Gravel",
+      "kind": "operator"
+    },
+    "Great Elder": {
+      "page": "Great Elder",
+      "kind": "nonoperator"
+    },
+    "Greta Stone": {
+      "page": "Greta Stone",
+      "kind": "nonoperator"
+    },
+    "GreyThroat": {
+      "page": "GreyThroat",
+      "kind": "operator"
+    },
+    "Greyy": {
+      "page": "Greyy",
+      "kind": "operator"
+    },
+    "Greyy the Lightningbearer": {
+      "page": "Greyy the Lightningbearer",
+      "kind": "operator"
+    },
+    "Gromov": {
+      "page": "Gromov",
+      "kind": "nonoperator"
+    },
+    "Gu Quan": {
+      "page": "Gu Quan",
+      "kind": "nonoperator"
+    },
+    "Guard (NPC)": {
+      "page": "Guard (NPC)",
+      "kind": "nonoperator"
+    },
+    "Guard_(NPC)": {
+      "page": "Guard (NPC)",
+      "kind": "nonoperator"
+    },
+    "Gulo": {
+      "page": "Gulo",
+      "kind": "nonoperator"
+    },
+    "Gummy": {
+      "page": "Gummy",
+      "kind": "operator"
+    },
+    "Gustave": {
+      "page": "Gustave",
+      "kind": "nonoperator"
+    },
+    "Hamilton": {
+      "page": "Hamilton",
+      "kind": "nonoperator"
+    },
+    "Harley": {
+      "page": "Harley",
+      "kind": "nonoperator"
+    },
+    "Harmonie": {
+      "page": "Harmonie",
+      "kind": "operator"
+    },
+    "Harold": {
+      "page": "Harold",
+      "kind": "operator"
+    },
+    "Haruka": {
+      "page": "Haruka",
+      "kind": "operator"
+    },
+    "Haze": {
+      "page": "Haze",
+      "kind": "operator"
+    },
+    "Heavyrain": {
+      "page": "Heavyrain",
+      "kind": "operator"
+    },
+    "Heidi": {
+      "page": "Heidi",
+      "kind": "operator"
+    },
+    "Hekádemos": {
+      "page": "Hekádemos",
+      "kind": "nonoperator"
+    },
+    "Hellagur": {
+      "page": "Hellagur",
+      "kind": "operator"
+    },
+    "Herman Doykos": {
+      "page": "Herman Doykos",
+      "kind": "nonoperator"
+    },
+    "Hibiscus": {
+      "page": "Hibiscus",
+      "kind": "operator"
+    },
+    "Hibiscus the Purifier": {
+      "page": "Hibiscus the Purifier",
+      "kind": "operator"
+    },
+    "Hierda": {
+      "page": "Hierda",
+      "kind": "nonoperator"
+    },
+    "High Priest": {
+      "page": "High Priest",
+      "kind": "nonoperator"
+    },
+    "Ho'olheyak": {
+      "page": "Ho'olheyak",
+      "kind": "operator"
+    },
+    "Hoederer": {
+      "page": "Hoederer",
+      "kind": "operator"
+    },
+    "Horn": {
+      "page": "Horn",
+      "kind": "operator"
+    },
+    "Hoshiguma": {
+      "page": "Hoshiguma",
+      "kind": "operator"
+    },
+    "Hou": {
+      "page": "Hou",
+      "kind": "nonoperator"
+    },
+    "Huai Tianpei": {
+      "page": "Huai Tianpei",
+      "kind": "nonoperator"
+    },
+    "Hung": {
+      "page": "Hung",
+      "kind": "operator"
+    },
+    "Hyman": {
+      "page": "Hyman",
+      "kind": "nonoperator"
+    },
+    "Iana": {
+      "page": "Iana",
+      "kind": "operator"
+    },
+    "Ifrit": {
+      "page": "Ifrit",
+      "kind": "operator"
+    },
+    "Inam": {
+      "page": "Inam",
+      "kind": "nonoperator"
+    },
+    "Indigo": {
+      "page": "Indigo",
+      "kind": "operator"
+    },
+    "Indra": {
+      "page": "Indra",
+      "kind": "operator"
+    },
+    "Ines": {
+      "page": "Ines",
+      "kind": "operator"
+    },
+    "Insider": {
+      "page": "Insider",
+      "kind": "operator"
+    },
+    "Ioleta Russell": {
+      "page": "Ioleta Russell",
+      "kind": "nonoperator"
+    },
+    "Irene": {
+      "page": "Irene",
+      "kind": "operator"
+    },
+    "Iris": {
+      "page": "Iris",
+      "kind": "operator"
+    },
+    "Ishar'mla": {
+      "page": "Ishar'mla",
+      "kind": "nonoperator"
+    },
+    "Ishar-mla": {
+      "page": "Ishar'mla",
+      "kind": "nonoperator"
+    },
+    "Islam Witte": {
+      "page": "Islam Witte",
+      "kind": "nonoperator"
+    },
+    "Istina": {
+      "page": "Istina",
+      "kind": "operator"
+    },
+    "Jara Wilson": {
+      "page": "Jara Wilson",
+      "kind": "nonoperator"
+    },
+    "Javier": {
+      "page": "Javier",
+      "kind": "nonoperator"
+    },
+    "Jaye": {
+      "page": "Jaye",
+      "kind": "operator"
+    },
+    "Jerry": {
+      "page": "Jerry",
+      "kind": "nonoperator"
+    },
+    "Jesselton Williams": {
+      "page": "Jesselton Williams",
+      "kind": "nonoperator"
+    },
+    "Jessica": {
+      "page": "Jessica",
+      "kind": "operator"
+    },
+    "Ji": {
+      "page": "Ji",
+      "kind": "nonoperator"
+    },
+    "Jiang": {
+      "page": "Jiang",
+      "kind": "nonoperator"
+    },
+    "Jie": {
+      "page": "Jie",
+      "kind": "nonoperator"
+    },
+    "Jie Zhen": {
+      "page": "Jie Zhen",
+      "kind": "nonoperator"
+    },
+    "Jieyun": {
+      "page": "Jieyun",
+      "kind": "operator"
+    },
+    "Ju": {
+      "page": "Ju",
+      "kind": "operator"
+    },
+    "Juana": {
+      "page": "Juana",
+      "kind": "nonoperator"
+    },
+    "Julie": {
+      "page": "Julie",
+      "kind": "nonoperator"
+    },
+    "Jun": {
+      "page": "Jun",
+      "kind": "nonoperator"
+    },
+    "Justice Knight": {
+      "page": "Justice Knight",
+      "kind": "operator"
+    },
+    "Justin Fitzroy Jr.": {
+      "page": "Justin Fitzroy Jr.",
+      "kind": "nonoperator"
+    },
+    "Kafka": {
+      "page": "Kafka",
+      "kind": "operator"
+    },
+    "Kahn": {
+      "page": "Kahn",
+      "kind": "nonoperator"
+    },
+    "Kal'tsit": {
+      "page": "Kal'tsit",
+      "kind": "operator"
+    },
+    "Kashchey": {
+      "page": "Deathless Black Snake",
+      "kind": "nonoperator"
+    },
+    "Kashiwau Akira": {
+      "page": "Akira Kashiwau",
+      "kind": "nonoperator"
+    },
+    "Kashiwau Yoshitaka": {
+      "page": "Yoshitaka Kashiwau",
+      "kind": "nonoperator"
+    },
+    "Kassandra": {
+      "page": "Kassandra",
+      "kind": "nonoperator"
+    },
+    "Katia & Magna Naumann": {
+      "page": "Katia & Magna Naumann",
+      "kind": "nonoperator"
+    },
+    "Kazemaru": {
+      "page": "Kazemaru",
+      "kind": "operator"
+    },
+    "Kereseira": {
+      "page": "Kereseira",
+      "kind": "nonoperator"
+    },
+    "Kichisei": {
+      "page": "Kichisei",
+      "kind": "operator"
+    },
+    "Kirara": {
+      "page": "Kirara",
+      "kind": "operator"
+    },
+    "Kirin R Yato": {
+      "page": "Kirin R Yato",
+      "kind": "operator"
+    },
+    "Kjera": {
+      "page": "Kjera",
+      "kind": "operator"
+    },
+    "Koretou": {
+      "page": "Koretou",
+      "kind": "nonoperator"
+    },
+    "Koshelna": {
+      "page": "Deathless Black Snake",
+      "kind": "nonoperator"
+    },
+    "Kouhei Mifune": {
+      "page": "Kouhei Mifune",
+      "kind": "nonoperator"
+    },
+    "Kowal": {
+      "page": "Kowal",
+      "kind": "nonoperator"
+    },
+    "Kreide": {
+      "page": "Kreide",
+      "kind": "nonoperator"
+    },
+    "Kristen Wright": {
+      "page": "Kristen Wright",
+      "kind": "nonoperator"
+    },
+    "Kroos": {
+      "page": "Kroos",
+      "kind": "operator"
+    },
+    "Kroos the Keen Glint": {
+      "page": "Kroos the Keen Glint",
+      "kind": "operator"
+    },
+    "La Pluma": {
+      "page": "La Pluma",
+      "kind": "operator"
+    },
+    "Labhréathach": {
+      "page": "Labhréathach",
+      "kind": "nonoperator"
+    },
+    "Lachmann": {
+      "page": "Lachmann",
+      "kind": "nonoperator"
+    },
+    "Laios": {
+      "page": "Laios",
+      "kind": "operator"
+    },
+    "Lan Ke": {
+      "page": "Lan Ke",
+      "kind": "nonoperator"
+    },
+    "Lancet-2": {
+      "page": "Lancet-2",
+      "kind": "operator"
+    },
+    "Lappland": {
+      "page": "Lappland",
+      "kind": "operator"
+    },
+    "Lappland the Decadenza": {
+      "page": "Lappland the Decadenza",
+      "kind": "operator"
+    },
+    "Laqeramaline": {
+      "page": "Laqeramaline",
+      "kind": "nonoperator"
+    },
+    "Lava": {
+      "page": "Lava",
+      "kind": "operator"
+    },
+    "Lava the Purgatory": {
+      "page": "Lava the Purgatory",
+      "kind": "operator"
+    },
+    "Lavinia": {
+      "page": "Penance",
+      "kind": "operator"
+    },
+    "Lee": {
+      "page": "Lee",
+      "kind": "operator"
+    },
+    "Leizi": {
+      "page": "Leizi",
+      "kind": "operator"
+    },
+    "Leizi the Thunderbringer": {
+      "page": "Leizi the Thunderbringer",
+      "kind": "operator"
+    },
+    "Lemuen": {
+      "page": "Lemuen",
+      "kind": "operator"
+    },
+    "Leone Theremin": {
+      "page": "Leone Theremin",
+      "kind": "nonoperator"
+    },
+    "Leonhardt": {
+      "page": "Leonhardt",
+      "kind": "operator"
+    },
+    "Leontuzzo": {
+      "page": "Vigil",
+      "kind": "operator"
+    },
+    "Lessing": {
+      "page": "Lessing",
+      "kind": "operator"
+    },
+    "Leto": {
+      "page": "Leto",
+      "kind": "operator"
+    },
+    "Lettou": {
+      "page": "Lettou",
+      "kind": "nonoperator"
+    },
+    "Levi Klitschko": {
+      "page": "Levi Klitschko",
+      "kind": "nonoperator"
+    },
+    "Liang": {
+      "page": "Liang",
+      "kind": "nonoperator"
+    },
+    "Liang Xun": {
+      "page": "Liang Xun",
+      "kind": "nonoperator"
+    },
+    "Lifebone": {
+      "page": "Lifebone",
+      "kind": "nonoperator"
+    },
+    "Lillia": {
+      "page": "Lillia",
+      "kind": "nonoperator"
+    },
+    "Lin": {
+      "page": "Lin",
+      "kind": "operator"
+    },
+    "Lin Yühsia": {
+      "page": "Lin",
+      "kind": "operator"
+    },
+    "Ling": {
+      "page": "Ling",
+      "kind": "operator"
+    },
+    "Liskarm": {
+      "page": "Liskarm",
+      "kind": "operator"
+    },
+    "Logos": {
+      "page": "Logos",
+      "kind": "operator"
+    },
+    "Loken Williams": {
+      "page": "Loken Williams",
+      "kind": "nonoperator"
+    },
+    "Loris Bordin": {
+      "page": "Loris Bordin",
+      "kind": "nonoperator"
+    },
+    "Lucilla": {
+      "page": "Lucilla",
+      "kind": "operator"
+    },
+    "Lugalszargus": {
+      "page": "Lugalszargus",
+      "kind": "nonoperator"
+    },
+    "Lumen": {
+      "page": "Lumen",
+      "kind": "operator"
+    },
+    "Lunacub": {
+      "page": "Lunacub",
+      "kind": "operator"
+    },
+    "Luo Xiaobai": {
+      "page": "Luo Xiaobai",
+      "kind": "nonoperator"
+    },
+    "Luo Xiaohei": {
+      "page": "Luo Xiaohei",
+      "kind": "operator"
+    },
+    "Lupina": {
+      "page": "Lupina",
+      "kind": "nonoperator"
+    },
+    "Lydia": {
+      "page": "Lydia",
+      "kind": "nonoperator"
+    },
+    "Lykeion": {
+      "page": "Lykeion",
+      "kind": "nonoperator"
+    },
+    "Magallan": {
+      "page": "Magallan",
+      "kind": "operator"
+    },
+    "Malkiewicz": {
+      "page": "Malkiewicz",
+      "kind": "nonoperator"
+    },
+    "Mandragora": {
+      "page": "Mandragora",
+      "kind": "nonoperator"
+    },
+    "Manfred": {
+      "page": "Manfred",
+      "kind": "nonoperator"
+    },
+    "Mantra": {
+      "page": "Mantra",
+      "kind": "operator"
+    },
+    "Marcille": {
+      "page": "Marcille",
+      "kind": "operator"
+    },
+    "Marcin": {
+      "page": "Marcin",
+      "kind": "nonoperator"
+    },
+    "Mark Max": {
+      "page": "Mark Max",
+      "kind": "nonoperator"
+    },
+    "Mary Banner": {
+      "page": "Mary Banner",
+      "kind": "nonoperator"
+    },
+    "Mateo": {
+      "page": "Mateo",
+      "kind": "nonoperator"
+    },
+    "Matsukiri": {
+      "page": "Matsukiri",
+      "kind": "operator"
+    },
+    "Matterhorn": {
+      "page": "Matterhorn",
+      "kind": "operator"
+    },
+    "Matvey": {
+      "page": "Matvey",
+      "kind": "nonoperator"
+    },
+    "May": {
+      "page": "May",
+      "kind": "operator"
+    },
+    "Mayer": {
+      "page": "Mayer",
+      "kind": "operator"
+    },
+    "Maylander Selene": {
+      "page": "Maylander Selene",
+      "kind": "nonoperator"
+    },
+    "McKee": {
+      "page": "McKee",
+      "kind": "nonoperator"
+    },
+    "Medjehtiqedti": {
+      "page": "Titi",
+      "kind": "operator"
+    },
+    "Melanie Rutherford": {
+      "page": "Melanie Rutherford",
+      "kind": "nonoperator"
+    },
+    "Melantha": {
+      "page": "Melantha",
+      "kind": "operator"
+    },
+    "Meng Tieyi": {
+      "page": "Meng Tieyi",
+      "kind": "nonoperator"
+    },
+    "Mephisto": {
+      "page": "Mephisto",
+      "kind": "nonoperator"
+    },
+    "Mercia Selene": {
+      "page": "Mercia Selene",
+      "kind": "nonoperator"
+    },
+    "Meteorite": {
+      "page": "Meteorite",
+      "kind": "operator"
+    },
+    "Miarow": {
+      "page": "Miarow",
+      "kind": "nonoperator"
+    },
+    "Midnight": {
+      "page": "Midnight",
+      "kind": "operator"
+    },
+    "Miles": {
+      "page": "Miles",
+      "kind": "nonoperator"
+    },
+    "Millscar": {
+      "page": "Allerdale",
+      "kind": "nonoperator"
+    },
+    "Minimalist": {
+      "page": "Minimalist",
+      "kind": "operator"
+    },
+    "Mint": {
+      "page": "Mint",
+      "kind": "operator"
+    },
+    "Mio": {
+      "page": "Mio",
+      "kind": "nonoperator"
+    },
+    "Mio (Ato)": {
+      "page": "Mio (Ato)",
+      "kind": "nonoperator"
+    },
+    "Misha": {
+      "page": "Misha",
+      "kind": "nonoperator"
+    },
+    "Miss.Christine": {
+      "page": "Miss.Christine",
+      "kind": "operator"
+    },
+    "Mitm": {
+      "page": "Mitm",
+      "kind": "operator"
+    },
+    "Mizuki": {
+      "page": "Mizuki",
+      "kind": "operator"
+    },
+    "Miłosz": {
+      "page": "Miłosz",
+      "kind": "nonoperator"
+    },
+    "Mo Bufu": {
+      "page": "Mo Bufu",
+      "kind": "nonoperator"
+    },
+    "Mo Yi": {
+      "page": "Mo Yi",
+      "kind": "nonoperator"
+    },
+    "Mob": {
+      "page": "Mob",
+      "kind": "nonoperator"
+    },
+    "Moira": {
+      "page": "Moira",
+      "kind": "nonoperator"
+    },
+    "Molly": {
+      "page": "Molly",
+      "kind": "nonoperator"
+    },
+    "Mon3tr": {
+      "page": "Mon3tr",
+      "kind": "operator"
+    },
+    "Monch": {
+      "page": "Monch",
+      "kind": "nonoperator"
+    },
+    "Monique": {
+      "page": "Monique",
+      "kind": "nonoperator"
+    },
+    "Moran": {
+      "page": "Moran",
+      "kind": "nonoperator"
+    },
+    "Morgan": {
+      "page": "Morgan",
+      "kind": "operator"
+    },
+    "Mostima": {
+      "page": "Mostima",
+      "kind": "operator"
+    },
+    "Mountain": {
+      "page": "Mountain",
+      "kind": "operator"
+    },
+    "Mousse": {
+      "page": "Mousse",
+      "kind": "operator"
+    },
+    "Mr. Nothing": {
+      "page": "Mr. Nothing",
+      "kind": "operator"
+    },
+    "Mr. Pu": {
+      "page": "Mr. Pu",
+      "kind": "nonoperator"
+    },
+    "Mudrock": {
+      "page": "Mudrock",
+      "kind": "operator"
+    },
+    "Muelsyse": {
+      "page": "Muelsyse",
+      "kind": "operator"
+    },
+    "Mulberry": {
+      "page": "Mulberry",
+      "kind": "operator"
+    },
+    "Mutsumi Wakaba": {
+      "page": "Mutsumi Wakaba",
+      "kind": "operator"
+    },
+    "Myrrh": {
+      "page": "Myrrh",
+      "kind": "operator"
+    },
+    "Mártus": {
+      "page": "Mártus",
+      "kind": "nonoperator"
+    },
+    "Młynar": {
+      "page": "Młynar",
+      "kind": "operator"
+    },
+    "Nachzehrer King": {
+      "page": "Nezzsalem",
+      "kind": "nonoperator"
+    },
+    "Nadine": {
+      "page": "Nadine",
+      "kind": "nonoperator"
+    },
+    "Narantuya": {
+      "page": "Narantuya",
+      "kind": "operator"
+    },
+    "Nasti": {
+      "page": "Nasti",
+      "kind": "operator"
+    },
+    "Nearl": {
+      "page": "Nearl",
+      "kind": "operator"
+    },
+    "Nearl the Radiant Knight": {
+      "page": "Nearl the Radiant Knight",
+      "kind": "operator"
+    },
+    "Necrass": {
+      "page": "Necrass",
+      "kind": "operator"
+    },
+    "Nemos": {
+      "page": "Nemos",
+      "kind": "nonoperator"
+    },
+    "Nezzsalem": {
+      "page": "Nezzsalem",
+      "kind": "nonoperator"
+    },
+    "Nian": {
+      "page": "Nian",
+      "kind": "operator"
+    },
+    "Nightingale": {
+      "page": "Nightingale",
+      "kind": "operator"
+    },
+    "Nikto": {
+      "page": "Nikto",
+      "kind": "nonoperator"
+    },
+    "Nine": {
+      "page": "Nine",
+      "kind": "nonoperator"
+    },
+    "Ning Ciqiu": {
+      "page": "Ning Ciqiu",
+      "kind": "nonoperator"
+    },
+    "Ning Shu": {
+      "page": "Ning Shu",
+      "kind": "nonoperator"
+    },
+    "Noir Corne": {
+      "page": "Noir Corne",
+      "kind": "operator"
+    },
+    "Nowell": {
+      "page": "Nowell",
+      "kind": "operator"
+    },
+    "Nyamu Yūtenji": {
+      "page": "Nyamu Yūtenji",
+      "kind": "operator"
+    },
+    "Nymph": {
+      "page": "Nymph",
+      "kind": "operator"
+    },
+    "Oakcup": {
+      "page": "Oakcup",
+      "kind": "nonoperator"
+    },
+    "Old Isin": {
+      "page": "Old Isin",
+      "kind": "nonoperator"
+    },
+    "Old Tianshi": {
+      "page": "Old Tianshi",
+      "kind": "nonoperator"
+    },
+    "Olga Trepleva": {
+      "page": "Olga Trepleva",
+      "kind": "nonoperator"
+    },
+    "Olmer Ingra": {
+      "page": "Olmer Ingra",
+      "kind": "nonoperator"
+    },
+    "Orchid": {
+      "page": "Orchid",
+      "kind": "operator"
+    },
+    "Oren Argiolas": {
+      "page": "Oren Argiolas",
+      "kind": "nonoperator"
+    },
+    "Outcast": {
+      "page": "Outcast",
+      "kind": "nonoperator"
+    },
+    "PRTS": {
+      "page": "PRTS",
+      "kind": "nonoperator"
+    },
+    "Paganini": {
+      "page": "Paganini",
+      "kind": "nonoperator"
+    },
+    "Pallas": {
+      "page": "Pallas",
+      "kind": "operator"
+    },
+    "Pancho Salas": {
+      "page": "Pancho Salas",
+      "kind": "nonoperator"
+    },
+    "Paprika": {
+      "page": "Paprika",
+      "kind": "operator"
+    },
+    "Papyrus": {
+      "page": "Papyrus",
+      "kind": "operator"
+    },
+    "Passenger": {
+      "page": "Passenger",
+      "kind": "operator"
+    },
+    "Patia": {
+      "page": "Patia",
+      "kind": "nonoperator"
+    },
+    "Patriot": {
+      "page": "Patriot",
+      "kind": "nonoperator"
+    },
+    "Pavlovich": {
+      "page": "Pavlovich",
+      "kind": "nonoperator"
+    },
+    "Pelipper Brown": {
+      "page": "Pelipper Brown",
+      "kind": "nonoperator"
+    },
+    "Penance": {
+      "page": "Penance",
+      "kind": "operator"
+    },
+    "Pepe": {
+      "page": "Pepe",
+      "kind": "operator"
+    },
+    "Percival": {
+      "page": "Percival",
+      "kind": "nonoperator"
+    },
+    "Perfumer": {
+      "page": "Perfumer",
+      "kind": "operator"
+    },
+    "Perfumer the Distilled": {
+      "page": "Perfumer the Distilled",
+      "kind": "operator"
+    },
+    "Períandros": {
+      "page": "Períandros",
+      "kind": "nonoperator"
+    },
+    "Phantom": {
+      "page": "Phantom",
+      "kind": "operator"
+    },
+    "PhonoR-0": {
+      "page": "PhonoR-0",
+      "kind": "operator"
+    },
+    "Picale Tulla": {
+      "page": "Picale Tulla",
+      "kind": "nonoperator"
+    },
+    "Pinecone": {
+      "page": "Pinecone",
+      "kind": "operator"
+    },
+    "Platinum": {
+      "page": "Platinum",
+      "kind": "operator"
+    },
+    "Playwright": {
+      "page": "Playwright",
+      "kind": "nonoperator"
+    },
+    "Poncirus": {
+      "page": "Poncirus",
+      "kind": "operator"
+    },
+    "Popukar": {
+      "page": "Popukar",
+      "kind": "operator"
+    },
+    "Pozëmka": {
+      "page": "Pozëmka",
+      "kind": "operator"
+    },
+    "Pramanix": {
+      "page": "Pramanix",
+      "kind": "operator"
+    },
+    "Pramanix the Prerita": {
+      "page": "Pramanix the Prerita",
+      "kind": "operator"
+    },
+    "Priestess": {
+      "page": "Priestess",
+      "kind": "nonoperator"
+    },
+    "Projekt Red": {
+      "page": "Projekt Red",
+      "kind": "operator"
+    },
+    "Provence": {
+      "page": "Provence",
+      "kind": "operator"
+    },
+    "Proviso": {
+      "page": "Proviso",
+      "kind": "operator"
+    },
+    "Ptilopsis": {
+      "page": "Ptilopsis",
+      "kind": "operator"
+    },
+    "Purestream": {
+      "page": "Purestream",
+      "kind": "operator"
+    },
+    "Puzzle": {
+      "page": "Puzzle",
+      "kind": "operator"
+    },
+    "Qalaiša": {
+      "page": "Qalaiša",
+      "kind": "nonoperator"
+    },
+    "Qalid'čoa": {
+      "page": "Qalid'čoa",
+      "kind": "nonoperator"
+    },
+    "Qiubai": {
+      "page": "Qiubai",
+      "kind": "operator"
+    },
+    "Quercus": {
+      "page": "Quercus",
+      "kind": "operator"
+    },
+    "Qui'lon": {
+      "page": "Qui'lon",
+      "kind": "nonoperator"
+    },
+    "Qui'sartuštaj": {
+      "page": "Qui'sartuštaj",
+      "kind": "nonoperator"
+    },
+    "Quintus": {
+      "page": "Quintus",
+      "kind": "nonoperator"
+    },
+    "Raidian": {
+      "page": "Raidian",
+      "kind": "operator"
+    },
+    "Raimund": {
+      "page": "Raimund",
+      "kind": "nonoperator"
+    },
+    "Rangers": {
+      "page": "Rangers",
+      "kind": "operator"
+    },
+    "Rankin": {
+      "page": "Rankin",
+      "kind": "nonoperator"
+    },
+    "Rat King": {
+      "page": "Rat King",
+      "kind": "nonoperator"
+    },
+    "Ratatos Browntail": {
+      "page": "Ratatos Browntail",
+      "kind": "nonoperator"
+    },
+    "Rathalos": {
+      "page": "Rathalos",
+      "kind": "nonoperator"
+    },
+    "Rathalos S Noir Corne": {
+      "page": "Rathalos S Noir Corne",
+      "kind": "operator"
+    },
+    "Ray": {
+      "page": "Ray",
+      "kind": "operator"
+    },
+    "Red": {
+      "page": "Red (NPC)",
+      "kind": "nonoperator"
+    },
+    "Red (NPC)": {
+      "page": "Red (NPC)",
+      "kind": "nonoperator"
+    },
+    "Reed": {
+      "page": "Reed",
+      "kind": "operator"
+    },
+    "Reed the Flame Shadow": {
+      "page": "Reed the Flame Shadow",
+      "kind": "operator"
+    },
+    "Reynell Kowalski": {
+      "page": "Reynell Kowalski",
+      "kind": "nonoperator"
+    },
+    "Ripresa": {
+      "page": "Ripresa",
+      "kind": "operator"
+    },
+    "Robin": {
+      "page": "Robin",
+      "kind": "operator"
+    },
+    "Rockrock": {
+      "page": "Rockrock",
+      "kind": "operator"
+    },
+    "Rong Wanqing": {
+      "page": "Rong Wanqing",
+      "kind": "nonoperator"
+    },
+    "Rosa": {
+      "page": "Rosa",
+      "kind": "operator"
+    },
+    "Rose Salt": {
+      "page": "Rose Salt",
+      "kind": "operator"
+    },
+    "Rosmontis": {
+      "page": "Rosmontis",
+      "kind": "operator"
+    },
+    "Roy": {
+      "page": "Roy",
+      "kind": "nonoperator"
+    },
+    "Rubio": {
+      "page": "Rubio",
+      "kind": "nonoperator"
+    },
+    "Saga": {
+      "page": "Saga",
+      "kind": "operator"
+    },
+    "Saileach": {
+      "page": "Saileach",
+      "kind": "operator"
+    },
+    "Sakiko Togawa": {
+      "page": "Sakiko Togawa",
+      "kind": "operator"
+    },
+    "Salus": {
+      "page": "Salus",
+      "kind": "nonoperator"
+    },
+    "Sand Reckoner": {
+      "page": "Sand Reckoner",
+      "kind": "operator"
+    },
+    "Sankta Miksaparato": {
+      "page": "Sankta Miksaparato",
+      "kind": "operator"
+    },
+    "Santalla": {
+      "page": "Santalla",
+      "kind": "operator"
+    },
+    "Sarasa Nishigori": {
+      "page": "Sarasa Nishigori",
+      "kind": "nonoperator"
+    },
+    "Saria": {
+      "page": "Saria",
+      "kind": "operator"
+    },
+    "Savage": {
+      "page": "Savage",
+      "kind": "operator"
+    },
+    "Schwarz": {
+      "page": "Schwarz",
+      "kind": "operator"
+    },
+    "Sciurus Browntail": {
+      "page": "Sciurus Browntail",
+      "kind": "nonoperator"
+    },
+    "Scout": {
+      "page": "Scout",
+      "kind": "nonoperator"
+    },
+    "Selmon": {
+      "page": "Selmon",
+      "kind": "nonoperator"
+    },
+    "Senshi": {
+      "page": "Senshi",
+      "kind": "operator"
+    },
+    "Sesa": {
+      "page": "Sesa",
+      "kind": "operator"
+    },
+    "Severin Hawthorn": {
+      "page": "Severin Hawthorn",
+      "kind": "nonoperator"
+    },
+    "Shalem": {
+      "page": "Shalem",
+      "kind": "operator"
+    },
+    "Shamare": {
+      "page": "Shamare",
+      "kind": "operator"
+    },
+    "Shang Zhong": {
+      "page": "Shang Zhong",
+      "kind": "nonoperator"
+    },
+    "Shaw": {
+      "page": "Shaw",
+      "kind": "operator"
+    },
+    "Shearer": {
+      "page": "Shearer",
+      "kind": "nonoperator"
+    },
+    "Shen Lou": {
+      "page": "Shen Lou",
+      "kind": "nonoperator"
+    },
+    "Shennong": {
+      "page": "Shennong",
+      "kind": "nonoperator"
+    },
+    "Shining": {
+      "page": "Shining",
+      "kind": "operator"
+    },
+    "Shirayuki": {
+      "page": "Shirayuki",
+      "kind": "operator"
+    },
+    "Shu": {
+      "page": "Shu",
+      "kind": "operator"
+    },
+    "Sideroca": {
+      "page": "Sideroca",
+      "kind": "operator"
+    },
+    "Siege": {
+      "page": "Siege",
+      "kind": "operator"
+    },
+    "Signora Sicilia": {
+      "page": "Signora Sicilia",
+      "kind": "nonoperator"
+    },
+    "Silence": {
+      "page": "Silence",
+      "kind": "operator"
+    },
+    "Silence the Paradigmatic": {
+      "page": "Silence the Paradigmatic",
+      "kind": "operator"
+    },
+    "Silver": {
+      "page": "Silver",
+      "kind": "nonoperator"
+    },
+    "SilverAsh": {
+      "page": "SilverAsh",
+      "kind": "operator"
+    },
+    "SilverAsh the Reignfrost": {
+      "page": "SilverAsh the Reignfrost",
+      "kind": "operator"
+    },
+    "Skadi": {
+      "page": "Skadi",
+      "kind": "operator"
+    },
+    "Skadi the Corrupting Heart": {
+      "page": "Skadi the Corrupting Heart",
+      "kind": "operator"
+    },
+    "Skullshatterer": {
+      "page": "Skullshatterer",
+      "kind": "nonoperator"
+    },
+    "Sky Jagger": {
+      "page": "Sky Jagger",
+      "kind": "nonoperator"
+    },
+    "Skybox": {
+      "page": "Skybox",
+      "kind": "operator"
+    },
+    "Skyfire": {
+      "page": "Skyfire",
+      "kind": "operator"
+    },
+    "Snegurochka": {
+      "page": "Snegurochka",
+      "kind": "operator"
+    },
+    "Snow Hunter": {
+      "page": "Snow Hunter",
+      "kind": "operator"
+    },
+    "Snowsant": {
+      "page": "Snowsant",
+      "kind": "operator"
+    },
+    "Sommer": {
+      "page": "Sommer",
+      "kind": "nonoperator"
+    },
+    "Sonny Romano": {
+      "page": "Sonny Romano",
+      "kind": "nonoperator"
+    },
+    "Sora": {
+      "page": "Sora",
+      "kind": "operator"
+    },
+    "Specter": {
+      "page": "Specter",
+      "kind": "operator"
+    },
+    "Specter the Unchained": {
+      "page": "Specter the Unchained",
+      "kind": "operator"
+    },
+    "Spot": {
+      "page": "Spot",
+      "kind": "operator"
+    },
+    "Spuria": {
+      "page": "Spuria",
+      "kind": "operator"
+    },
+    "Stainless": {
+      "page": "Stainless",
+      "kind": "operator"
+    },
+    "Stefano Torregrossa": {
+      "page": "Stefano Torregrossa",
+      "kind": "nonoperator"
+    },
+    "Steven Quay": {
+      "page": "Steven Quay",
+      "kind": "nonoperator"
+    },
+    "Steward": {
+      "page": "Steward",
+      "kind": "operator"
+    },
+    "Sui": {
+      "page": "Sui",
+      "kind": "nonoperator"
+    },
+    "Surfer": {
+      "page": "Surfer",
+      "kind": "operator"
+    },
+    "Surtr": {
+      "page": "Surtr",
+      "kind": "operator"
+    },
+    "Sussurro": {
+      "page": "Sussurro",
+      "kind": "operator"
+    },
+    "Suzuran": {
+      "page": "Suzuran",
+      "kind": "operator"
+    },
+    "Suzuran's Father": {
+      "page": "Suzuran's Father",
+      "kind": "nonoperator"
+    },
+    "Swire": {
+      "page": "Swire",
+      "kind": "operator"
+    },
+    "Sylvia": {
+      "page": "Sylvia",
+      "kind": "nonoperator"
+    },
+    "Szewczyk": {
+      "page": "Szewczyk",
+      "kind": "nonoperator"
+    },
+    "THRM-EX": {
+      "page": "THRM-EX",
+      "kind": "operator"
+    },
+    "Tachanka": {
+      "page": "Tachanka",
+      "kind": "operator"
+    },
+    "Taihe": {
+      "page": "Taihe",
+      "kind": "nonoperator"
+    },
+    "Takii Ataru": {
+      "page": "Ataru Takii",
+      "kind": "nonoperator"
+    },
+    "Takii Mirai": {
+      "page": "Mirai Takii",
+      "kind": "nonoperator"
+    },
+    "Talulah": {
+      "page": "Talulah",
+      "kind": "nonoperator"
+    },
+    "Taraxacum": {
+      "page": "Taraxacum",
+      "kind": "operator"
+    },
+    "Tatjana": {
+      "page": "Tatjana",
+      "kind": "nonoperator"
+    },
+    "Tatyana Larina": {
+      "page": "Tatyana Larina",
+      "kind": "nonoperator"
+    },
+    "Tecno": {
+      "page": "Tecno",
+      "kind": "operator"
+    },
+    "Tequila": {
+      "page": "Tequila",
+      "kind": "operator"
+    },
+    "Terra Research Commission": {
+      "page": "Terra Research Commission",
+      "kind": "operator"
+    },
+    "Tessai": {
+      "page": "Tessai",
+      "kind": "nonoperator"
+    },
+    "Tetsuya Sorimachi": {
+      "page": "Tetsuya Sorimachi",
+      "kind": "nonoperator"
+    },
+    "Texas": {
+      "page": "Texas",
+      "kind": "operator"
+    },
+    "Texas the Omertosa": {
+      "page": "Texas the Omertosa",
+      "kind": "operator"
+    },
+    "The Brigadier": {
+      "page": "The Brigadier",
+      "kind": "nonoperator"
+    },
+    "The Endspeaker": {
+      "page": "The Endspeaker",
+      "kind": "nonoperator"
+    },
+    "The First Saint": {
+      "page": "The First Saint",
+      "kind": "nonoperator"
+    },
+    "The First To Talk": {
+      "page": "The First To Talk",
+      "kind": "nonoperator"
+    },
+    "The Last Knight": {
+      "page": "The Last Knight",
+      "kind": "nonoperator"
+    },
+    "Theresa": {
+      "page": "Theresa",
+      "kind": "nonoperator"
+    },
+    "Theresis": {
+      "page": "Theresis",
+      "kind": "nonoperator"
+    },
+    "Thiago": {
+      "page": "Thiago",
+      "kind": "nonoperator"
+    },
+    "Thorns": {
+      "page": "Thorns",
+      "kind": "operator"
+    },
+    "Thorns the Lodestar": {
+      "page": "Thorns the Lodestar",
+      "kind": "operator"
+    },
+    "Tin Man": {
+      "page": "Tin Man",
+      "kind": "operator"
+    },
+    "Tippi": {
+      "page": "Tippi",
+      "kind": "operator"
+    },
+    "Titi": {
+      "page": "Titi",
+      "kind": "operator"
+    },
+    "Tola": {
+      "page": "Tola",
+      "kind": "nonoperator"
+    },
+    "Toland Cash": {
+      "page": "Toland Cash",
+      "kind": "nonoperator"
+    },
+    "Tomb of Sui": {
+      "page": "Sui",
+      "kind": "nonoperator"
+    },
+    "Tomimi": {
+      "page": "Tomimi",
+      "kind": "operator"
+    },
+    "Tosia": {
+      "page": "Tosia",
+      "kind": "nonoperator"
+    },
+    "Totter": {
+      "page": "Totter",
+      "kind": "operator"
+    },
+    "Tragodia": {
+      "page": "Tragodia",
+      "kind": "operator"
+    },
+    "Tragodia (NPC)": {
+      "page": "Tragodia (NPC)",
+      "kind": "nonoperator"
+    },
+    "Twin Empresses": {
+      "page": "Twin Empresses",
+      "kind": "nonoperator"
+    },
+    "Typhon": {
+      "page": "Typhon",
+      "kind": "operator"
+    },
+    "Tytus Topola": {
+      "page": "Tytus Topola",
+      "kind": "nonoperator"
+    },
+    "Uika Misumi": {
+      "page": "Uika Misumi",
+      "kind": "operator"
+    },
+    "Ukusik": {
+      "page": "Ukusik",
+      "kind": "operator"
+    },
+    "Ulpianus": {
+      "page": "Ulpianus",
+      "kind": "operator"
+    },
+    "Ulšulah": {
+      "page": "Ulšulah",
+      "kind": "nonoperator"
+    },
+    "Umberto de Montano": {
+      "page": "Umberto de Montano",
+      "kind": "nonoperator"
+    },
+    "Umiri Yahata": {
+      "page": "Umiri Yahata",
+      "kind": "operator"
+    },
+    "Uncle Tung": {
+      "page": "Uncle Tung",
+      "kind": "nonoperator"
+    },
+    "Utage": {
+      "page": "Utage",
+      "kind": "operator"
+    },
+    "Valais": {
+      "page": "Valais",
+      "kind": "nonoperator"
+    },
+    "Valarqvin": {
+      "page": "Valarqvin",
+      "kind": "operator"
+    },
+    "Vanilla": {
+      "page": "Vanilla",
+      "kind": "operator"
+    },
+    "Vannini": {
+      "page": "Vannini",
+      "kind": "nonoperator"
+    },
+    "Vanya": {
+      "page": "Vanya",
+      "kind": "nonoperator"
+    },
+    "Vargo": {
+      "page": "Vargo",
+      "kind": "nonoperator"
+    },
+    "Varkáris": {
+      "page": "Varkáris",
+      "kind": "operator"
+    },
+    "Vasily Gorchikov": {
+      "page": "Vasily Gorchikov",
+      "kind": "nonoperator"
+    },
+    "Velliv": {
+      "page": "Velliv",
+      "kind": "nonoperator"
+    },
+    "Vendela": {
+      "page": "Vendela",
+      "kind": "operator"
+    },
+    "Vermeil": {
+      "page": "Vermeil",
+      "kind": "operator"
+    },
+    "Vetochki": {
+      "page": "Vetochki",
+      "kind": "operator"
+    },
+    "Vigil": {
+      "page": "Vigil",
+      "kind": "operator"
+    },
+    "Vigna": {
+      "page": "Vigna",
+      "kind": "operator"
+    },
+    "Vina Victoria": {
+      "page": "Vina Victoria",
+      "kind": "operator"
+    },
+    "Vincent": {
+      "page": "Vincent",
+      "kind": "nonoperator"
+    },
+    "Virtuosa": {
+      "page": "Virtuosa",
+      "kind": "operator"
+    },
+    "Viviana": {
+      "page": "Viviana",
+      "kind": "operator"
+    },
+    "Viviana Droste": {
+      "page": "Viviana",
+      "kind": "operator"
+    },
+    "Vogelweide": {
+      "page": "Vogelweide",
+      "kind": "nonoperator"
+    },
+    "Vulcan": {
+      "page": "Vulcan",
+      "kind": "operator"
+    },
+    "Vulpisfoglia": {
+      "page": "Vulpisfoglia",
+      "kind": "operator"
+    },
+    "Væla": {
+      "page": "Væla",
+      "kind": "nonoperator"
+    },
+    "W": {
+      "page": "W",
+      "kind": "operator"
+    },
+    "Waai Fu": {
+      "page": "Waai Fu",
+      "kind": "operator"
+    },
+    "Wallach": {
+      "page": "Wallach",
+      "kind": "nonoperator"
+    },
+    "Wan Qincheng": {
+      "page": "Wan Qincheng",
+      "kind": "nonoperator"
+    },
+    "Wang": {
+      "page": "Wang",
+      "kind": "operator"
+    },
+    "Wanqing": {
+      "page": "Wanqing",
+      "kind": "operator"
+    },
+    "Warfarin": {
+      "page": "Warfarin",
+      "kind": "operator"
+    },
+    "Warmy": {
+      "page": "Warmy",
+      "kind": "operator"
+    },
+    "Weedy": {
+      "page": "Weedy",
+      "kind": "operator"
+    },
+    "Wei Yenwu": {
+      "page": "Wei Yenwu",
+      "kind": "nonoperator"
+    },
+    "Werner von Hochberg": {
+      "page": "Werner von Hochberg",
+      "kind": "nonoperator"
+    },
+    "Whislash": {
+      "page": "Whislash",
+      "kind": "operator"
+    },
+    "Wild Mane": {
+      "page": "Wild Mane",
+      "kind": "operator"
+    },
+    "Wind Chimes": {
+      "page": "Wind Chimes",
+      "kind": "operator"
+    },
+    "Witch King": {
+      "page": "Witch King",
+      "kind": "nonoperator"
+    },
+    "Withered Knight": {
+      "page": "Withered Knight",
+      "kind": "nonoperator"
+    },
+    "Wiš'adel": {
+      "page": "Wiš'adel",
+      "kind": "operator"
+    },
+    "Woodrow Bianchi": {
+      "page": "Woodrow Bianchi",
+      "kind": "nonoperator"
+    },
+    "Xingzhu": {
+      "page": "Xingzhu",
+      "kind": "operator"
+    },
+    "Ya": {
+      "page": "Ya",
+      "kind": "nonoperator"
+    },
+    "Yan Li": {
+      "page": "Yan Li",
+      "kind": "nonoperator"
+    },
+    "Yato": {
+      "page": "Yato",
+      "kind": "operator"
+    },
+    "Yi": {
+      "page": "Yi",
+      "kind": "nonoperator"
+    },
+    "Yu": {
+      "page": "Yu",
+      "kind": "operator"
+    },
+    "Yu Cheng": {
+      "page": "Yu Cheng",
+      "kind": "nonoperator"
+    },
+    "Yucatan": {
+      "page": "Yucatan",
+      "kind": "nonoperator"
+    },
+    "Yulia Schüler": {
+      "page": "Yulia Schüler",
+      "kind": "nonoperator"
+    },
+    "Yun Qingping": {
+      "page": "Record Keeper",
+      "kind": "operator"
+    },
+    "Yurodstvo": {
+      "page": "Yurodstvo",
+      "kind": "nonoperator"
+    },
+    "Yvangelista XI": {
+      "page": "Yvangelista XI",
+      "kind": "nonoperator"
+    },
+    "ZOOT": {
+      "page": "ZOOT",
+      "kind": "nonoperator"
+    },
+    "Zaaro": {
+      "page": "Zaaro",
+      "kind": "nonoperator"
+    },
+    "Zheng Qingyue": {
+      "page": "Zheng Qingyue",
+      "kind": "nonoperator"
+    },
+    "Zhou Shun": {
+      "page": "Zhou Shun",
+      "kind": "nonoperator"
+    },
+    "Zima": {
+      "page": "Zima",
+      "kind": "operator"
+    },
+    "Zubayr": {
+      "page": "Zubayr",
+      "kind": "nonoperator"
+    },
+    "Zuo Le": {
+      "page": "Zuo Le",
+      "kind": "operator"
+    },
+    "Zuo Xuanliao": {
+      "page": "Zuo Xuanliao",
+      "kind": "nonoperator"
+    },
+    "the Brigadier": {
+      "page": "The Brigadier",
+      "kind": "nonoperator"
+    }
+  },
+  "events": {
+    "afternoon": [
+      "Vanilla",
+      "Melantha",
+      "Steward",
+      "Franka",
+      "Ansel",
+      "Blaze",
+      "Amiya",
+      "Ptilopsis",
+      "Silence",
+      "Aak",
+      "Hung",
+      "Warfarin",
+      "Ifrit",
+      "Matterhorn",
+      "Gummy",
+      "Ethan",
+      "Cliffheart",
+      "SilverAsh",
+      "Courier",
+      "Vulcan",
+      "Hibiscus",
+      "Lava",
+      "Beagle",
+      "Dobermann",
+      "Orchid",
+      "Popukar",
+      "Kal'tsit",
+      "Catapult",
+      "Midnight",
+      "Spot",
+      "Fang"
+    ],
+    "ancient-forge": [
+      "Nian",
+      "Snowsant",
+      "Hoshiguma",
+      "Dusk",
+      "Ch'en",
+      "Amiya",
+      "Sui"
+    ],
+    "arsenus": [
+      "Pallas",
+      "Varkáris",
+      "Titi",
+      "Kereseira",
+      "Behnui Enshi-Pah",
+      "Mio",
+      "Lydia",
+      "Lykeion",
+      "Hekádemos",
+      "Kassandra",
+      "Perfumer the Distilled",
+      "Períandros",
+      "Cynisca",
+      "Dikaiopolis"
+    ],
+    "babel": [
+      "Theresis",
+      "Theresa",
+      "Ascalon",
+      "Kal'tsit",
+      "Mon3tr",
+      "Amiya",
+      "Nezzsalem",
+      "Laqeramaline",
+      "Duq'arael",
+      "Damazti Cluster",
+      "Manfred",
+      "Qui'sartuštaj",
+      "Julie"
+    ],
+    "beyond": [
+      "Hoshiguma",
+      "Swire",
+      "Rat King",
+      "Ch'en",
+      "Shirayuki",
+      "Chiave",
+      "Aosta",
+      "Broca",
+      "Jaye",
+      "Iris",
+      "Bena",
+      "Archetto",
+      "Bison",
+      "Eurill Pides",
+      "Snowsant",
+      "Sora",
+      "Emperor",
+      "Texas",
+      "Mostima",
+      "Leonhardt",
+      "Ayerscarpe",
+      "Greyy",
+      "Amiya",
+      "Rosmontis",
+      "Wei Yenwu",
+      "Beanstalk",
+      "Utage",
+      "Myrrh",
+      "Quintus"
+    ],
+    "break-ice": [
+      "Gnosis",
+      "SilverAsh",
+      "Arctosz Paleroche",
+      "Ratatos Browntail",
+      "Pramanix",
+      "Cliffheart",
+      "Courier",
+      "Matterhorn",
+      "Aurora",
+      "Gulo",
+      "Valais",
+      "Monch",
+      "Great Elder",
+      "Sciurus Browntail",
+      "Degenbrecher",
+      "Yucatan",
+      "Kjera"
+    ],
+    "code-brawl": [
+      "Bison",
+      "Eurill Pides",
+      "Rat King",
+      "Capone",
+      "Gambino",
+      "Exusiai",
+      "Croissant",
+      "Emperor",
+      "Texas",
+      "Jaye",
+      "Mostima",
+      "Sora",
+      "Uncle Tung",
+      "Waai Fu",
+      "Butler",
+      "Lemuen",
+      "Fiammetta",
+      "Lappland"
+    ],
+    "come-catastrophes": [
+      "Jessica",
+      "Liskarm",
+      "Franka",
+      "Almond",
+      "Cliff",
+      "Woodrow Bianchi",
+      "Coldshot",
+      "Leone Theremin",
+      "Sylvia",
+      "Miles",
+      "Benny",
+      "Surfer"
+    ],
+    "crossroads": [
+      "Vigil",
+      "Bellone",
+      "Antonio Venezia",
+      "Capone",
+      "Gambino",
+      "Tosia",
+      "Lupina",
+      "Eirene Lavazza",
+      "Penance",
+      "Ripresa"
+    ],
+    "crystal-arrow": [
+      "Ela",
+      "Fuze",
+      "Iana",
+      "Doc",
+      "Ash",
+      "Reynell Kowalski",
+      "Miłosz",
+      "Tecno",
+      "Mateo",
+      "Tequila",
+      "Candela Sanchez",
+      "Catapult",
+      "Diaz González",
+      "Tachanka",
+      "Blitz",
+      "Frost",
+      "Pancho Salas"
+    ],
+    "darknights": [
+      "W",
+      "Hoederer",
+      "Ines",
+      "Kal'tsit",
+      "Theresa",
+      "Amiya",
+      "Scout",
+      "Theresis",
+      "Talulah"
+    ],
+    "dorothy": [
+      "Saria",
+      "Muelsyse",
+      "Ptilopsis",
+      "Astgenne",
+      "Silence",
+      "Greyy the Lightningbearer",
+      "Sonny Romano",
+      "Mary Banner",
+      "Ifrit",
+      "Ho'olheyak",
+      "Ferdinand Clooney",
+      "Blake",
+      "Kristen Wright",
+      "Dijkstra"
+    ],
+    "dossoles": [
+      "Ch'en",
+      "Lin",
+      "Fumizuki",
+      "Shirayuki",
+      "Wei Yenwu",
+      "Candela Sanchez",
+      "Rat King",
+      "Tequila",
+      "Ch'en the Holungday",
+      "Mizuki",
+      "Pancho Salas",
+      "La Pluma",
+      "Sideroca",
+      "Sussurro",
+      "Eyjafjalla"
+    ],
+    "dreamtalk": [
+      "Sakiko Togawa",
+      "Uika Misumi",
+      "Mutsumi Wakaba",
+      "Umiri Yahata",
+      "Nyamu Yūtenji"
+    ],
+    "dungeon-meshi": [
+      "Laios",
+      "Marcille",
+      "Chilchuck",
+      "Senshi",
+      "Ceobe",
+      "Big Bob",
+      "Oakcup",
+      "Valarqvin",
+      "Dawn",
+      "Dusk",
+      "Anita",
+      "Eunectes",
+      "Matterhorn",
+      "Amiya",
+      "Beeswax",
+      "Kal'tsit",
+      "Skyfire",
+      "Mint",
+      "Shaw",
+      "Mountain",
+      "SilverAsh",
+      "Hellagur",
+      "Hoshiguma"
+    ],
+    "elegy": [
+      "Reed",
+      "Necrass",
+      "Reed the Flame Shadow",
+      "The Brigadier",
+      "Nemos",
+      "Moran",
+      "Culann",
+      "Brigid",
+      "Labhréathach"
+    ],
+    "farewell-year": [
+      "Wang",
+      "Grand Commandant",
+      "Zuo Le",
+      "Leizi the Thunderbringer",
+      "Record Keeper",
+      "Old Tianshi",
+      "Ch'en the Dawnstreak",
+      "Wei Yenwu",
+      "Sui",
+      "Yan Li",
+      "Grand Tutor",
+      "Talulah",
+      "Mo Yi",
+      "Jie",
+      "Chongyue",
+      "Dusk",
+      "Yi",
+      "Yu",
+      "Jiang",
+      "Ya",
+      "Jun",
+      "Ch'en Chao-ch'ien",
+      "Liang Xun",
+      "Ju",
+      "Ling",
+      "Hou",
+      "Chun",
+      "Ning Ciqiu",
+      "Ning Shu",
+      "Zuo Xuanliao",
+      "Taraxacum",
+      "Chen Che",
+      "Xingzhu"
+    ],
+    "firelight": [
+      "Reed",
+      "Necrass",
+      "Earl of Warwick",
+      "Fionn",
+      "Selmon",
+      "Ch'en",
+      "Bagpipe",
+      "Harmonie",
+      "Puzzle",
+      "The Brigadier",
+      "Duke of Wellington",
+      "Moran",
+      "Outcast",
+      "Duke of Caster"
+    ],
+    "flurry": [
+      "Yato",
+      "Noir Corne",
+      "Terra Research Commission",
+      "Rathalos",
+      "Yoshitaka Kashiwau",
+      "Ataru Takii",
+      "Rathalos S Noir Corne",
+      "Kirin R Yato",
+      "Akira Kashiwau",
+      "Mirai Takii"
+    ],
+    "forge-rekindled": [
+      "Nymph",
+      "Fremont",
+      "Manfred",
+      "Wiš'adel",
+      "Ermengarde",
+      "Mitm",
+      "Mudrock",
+      "Crownie Mantel",
+      "Mostima",
+      "Fiammetta",
+      "Qalaiša",
+      "Nezzsalem",
+      "Tin Man"
+    ],
+    "gavial": [
+      "Gavial",
+      "Ceobe",
+      "Blaze",
+      "Croissant",
+      "Utage",
+      "Lancet-2",
+      "Tomimi",
+      "Eunectes",
+      "Inam",
+      "Flint",
+      "High Priest",
+      "Kal'tsit"
+    ],
+    "grani": [
+      "Grani",
+      "Carol",
+      "Meteorite",
+      "Skadi",
+      "Big Bob",
+      "Nearl",
+      "Kal'tsit",
+      "Specter",
+      "Mudrock"
+    ],
+    "grinning-valley": [
+      "Amiya",
+      "Savage",
+      "Ray",
+      "Alanna",
+      "Warmy",
+      "Jerry",
+      "Asbestos",
+      "Kal'tsit",
+      "Theresa"
+    ],
+    "guide-ahead": [
+      "Yvangelista XI",
+      "Enforcer",
+      "Fiammetta",
+      "Mostima",
+      "Exusiai",
+      "Lemuen",
+      "Patia",
+      "Oren Argiolas",
+      "Andoain",
+      "Velliv"
+    ],
+    "here-a-people": [
+      "Shu",
+      "Shennong",
+      "Sui",
+      "Nian",
+      "Dusk",
+      "Zuo Le",
+      "Zuo Xuanliao",
+      "Wanqing",
+      "Grain Buds",
+      "Rong Wanqing",
+      "Wan Qincheng",
+      "Ning Ciqiu",
+      "Ji",
+      "Old Tianshi",
+      "Wang",
+      "Jie",
+      "Leizi",
+      "Grand Tutor",
+      "Grand Commandant"
+    ],
+    "hortus": [
+      "Executor the Ex Foedere",
+      "Yvangelista XI",
+      "Executor",
+      "Lemuen",
+      "Oren Argiolas",
+      "Spuria",
+      "Insider",
+      "Stefano Torregrossa",
+      "Clément Dubois",
+      "Virtuosa",
+      "Aulus",
+      "Fortuna",
+      "Gerald",
+      "Raimund",
+      "Hyman",
+      "Werner von Hochberg"
+    ],
+    "ideal-city": [
+      "Gavial",
+      "Eunectes",
+      "Elysium",
+      "Inam",
+      "Minimalist",
+      "Croque Diamondface",
+      "Pozëmka",
+      "Edge Eartheart",
+      "Catch Lightrace",
+      "Deculture Silvermint",
+      "High Priest"
+    ],
+    "invitation": [
+      "Lee",
+      "Liang Xun",
+      "Lava",
+      "Mr. Nothing",
+      "Kroos",
+      "Nian",
+      "Ling",
+      "Shen Lou",
+      "Du Yaoye",
+      "Taihe",
+      "Zuo Le",
+      "Dusk",
+      "Blacknight",
+      "Ning Ciqiu",
+      "Zheng Qingyue",
+      "Shang Zhong",
+      "Wang",
+      "Grand Tutor",
+      "Leizi"
+    ],
+    "lingering": [
+      "Czerny",
+      "Gertrude Strollo",
+      "Ebenholz",
+      "Kreide",
+      "Hibiscus the Purifier",
+      "Lachmann",
+      "Witch King",
+      "Biegler",
+      "Virtuosa"
+    ],
+    "lone-trail": [
+      "Kristen Wright",
+      "Kal'tsit",
+      "Justin Fitzroy Jr.",
+      "Loken Williams",
+      "Ferdinand Clooney",
+      "Blake",
+      "Muelsyse",
+      "Ho'olheyak",
+      "Tin Man",
+      "Ifrit",
+      "Rosmontis",
+      "Saria",
+      "Silence",
+      "Dorothy",
+      "Conrad Jackson",
+      "Jara Wilson",
+      "Ahrens Parvis",
+      "Mon3tr",
+      "Priestess",
+      "Talulah",
+      "Amiya",
+      "Theresa",
+      "Lillia",
+      "Civilight Eterna",
+      "Friston-3",
+      "Mark Max"
+    ],
+    "long-time": [
+      "Luo Xiaohei",
+      "Luo Xiaobai",
+      "Ah Gen",
+      "Biu",
+      "Hung",
+      "Lee",
+      "Rockrock",
+      "Suzuran",
+      "Emperor",
+      "Croissant",
+      "Sora",
+      "Castle-3",
+      "Lancet-2",
+      "THRM-EX"
+    ],
+    "main-00-04": [
+      "Amiya",
+      "Dobermann",
+      "Crownslayer",
+      "Mephisto",
+      "Nearl",
+      "Ace",
+      "Talulah",
+      "Guard (NPC)",
+      "W",
+      "Wei Yenwu",
+      "Misha",
+      "Ch'en",
+      "Kal'tsit",
+      "Skullshatterer",
+      "Hoshiguma",
+      "Meteorite",
+      "Jessica",
+      "Frostleaf"
+    ],
+    "main-01": [
+      "Talulah",
+      "Nearl",
+      "Amiya",
+      "Ace",
+      "Guard (NPC)",
+      "W"
+    ],
+    "main-02": [
+      "Wei Yenwu",
+      "Amiya",
+      "Misha",
+      "Ch'en",
+      "Kal'tsit",
+      "Talulah",
+      "Skullshatterer",
+      "W"
+    ],
+    "main-03": [
+      "Misha",
+      "Hoshiguma",
+      "Skullshatterer",
+      "W",
+      "Amiya",
+      "Ch'en"
+    ],
+    "main-04": [
+      "Misha",
+      "Skullshatterer",
+      "Amiya",
+      "Meteorite",
+      "Kal'tsit",
+      "Ch'en",
+      "Jessica",
+      "Frostleaf",
+      "Mephisto",
+      "W",
+      "Hoshiguma",
+      "Talulah"
+    ],
+    "main-05": [
+      "Skullshatterer",
+      "Ch'en",
+      "Swire",
+      "Amiya",
+      "Frostleaf",
+      "Meteorite",
+      "Jessica",
+      "Wei Yenwu",
+      "Talulah",
+      "Mephisto",
+      "Faust",
+      "Blaze",
+      "Fumizuki"
+    ],
+    "main-06": [
+      "FrostNova",
+      "Blaze",
+      "Amiya",
+      "GreyThroat",
+      "Mephisto",
+      "Faust",
+      "Ch'en",
+      "Swire",
+      "Leizi",
+      "Taihe",
+      "Jie Zhen",
+      "Wei Yenwu",
+      "Lin",
+      "Rat King",
+      "Talulah",
+      "Crownslayer",
+      "Kal'tsit",
+      "Projekt Red",
+      "Mon3tr",
+      "Skullshatterer",
+      "Misha",
+      "Nine",
+      "Patriot"
+    ],
+    "main-07": [
+      "W",
+      "Patriot",
+      "FrostNova",
+      "Kal'tsit",
+      "Wei Yenwu",
+      "Talulah",
+      "Rosmontis",
+      "Islam Witte",
+      "Fumizuki",
+      "Deathless Black Snake",
+      "Edward Artorius",
+      "Dobermann",
+      "Nearl",
+      "Firewatch",
+      "Elysium",
+      "Faust",
+      "Mephisto",
+      "Crownslayer",
+      "Ch'en",
+      "Guard (NPC)",
+      "Ace",
+      "Scout",
+      "Theresa",
+      "Mon3tr",
+      "Theresis"
+    ],
+    "main-08": [
+      "Talulah",
+      "Deathless Black Snake",
+      "Ch'en",
+      "Alina",
+      "FrostNova",
+      "Patriot",
+      "Rosmontis",
+      "Amiya",
+      "Theresa",
+      "Kal'tsit",
+      "Guard (NPC)",
+      "Elysium",
+      "Mantra",
+      "W",
+      "Raidian",
+      "Priestess",
+      "Nine",
+      "Qui'lon",
+      "Wei Yenwu",
+      "Faust"
+    ],
+    "main-09": [
+      "Bagpipe",
+      "Horn",
+      "Hamilton",
+      "Outcast",
+      "Saileach",
+      "Reed",
+      "Kal'tsit",
+      "Mandragora",
+      "Harmonie",
+      "Nine"
+    ],
+    "main-10": [
+      "Siege",
+      "Theresis",
+      "Theresa",
+      "Kal'tsit",
+      "Amiya",
+      "Logos",
+      "Indra",
+      "Morgan",
+      "Dagda",
+      "Jessica",
+      "Mandragora",
+      "Horn",
+      "Manfred",
+      "Hoederer",
+      "Duke of Wellington",
+      "Stainless",
+      "Rockrock",
+      "Warfarin",
+      "Patriot",
+      "Qui'sartuštaj",
+      "Confessarii",
+      "Clovisia",
+      "Damazti Cluster",
+      "Heidi",
+      "Golding",
+      "W",
+      "Ines",
+      "Ascalon",
+      "Allerdale",
+      "Deathless Black Snake",
+      "Nine"
+    ],
+    "main-11": [
+      "Allerdale",
+      "Siege",
+      "Charles Lynch",
+      "Edward Artorius",
+      "Lugalszargus",
+      "Gawain",
+      "Lettou",
+      "Duq'arael",
+      "Ailshie",
+      "Stainless",
+      "Catherine",
+      "Manfred",
+      "Confessarii",
+      "Nezzsalem",
+      "Kal'tsit",
+      "Logos",
+      "Ascalon",
+      "Totter",
+      "Dagda",
+      "Duke of Caster",
+      "Theresis",
+      "Shining",
+      "Horn",
+      "Ch'en",
+      "Bagpipe",
+      "Harmonie",
+      "Duke of Wellington",
+      "Reed",
+      "Necrass"
+    ],
+    "main-12": [
+      "Duke of Caster",
+      "Baird",
+      "Cador",
+      "Delphine",
+      "Lettou",
+      "Damazti Cluster",
+      "Catherine",
+      "Clovisia",
+      "Kal'tsit",
+      "Logos",
+      "Golding",
+      "Molly",
+      "Ines",
+      "Siege",
+      "Morgan",
+      "Duke of Windermere",
+      "Duke of Wellington",
+      "The Brigadier",
+      "Amiya",
+      "Ascalon",
+      "Necrass",
+      "Paprika",
+      "Manfred",
+      "W",
+      "Hoederer",
+      "Theresis",
+      "Nezzsalem",
+      "Ermengarde",
+      "Theresa",
+      "Red (NPC)",
+      "Percival",
+      "Nine",
+      "Talulah"
+    ],
+    "main-13": [
+      "Amiya",
+      "Confessarii",
+      "Salus",
+      "Ines",
+      "Siege",
+      "Duke of Wellington",
+      "Duke of Windermere",
+      "Stainless",
+      "Rockrock",
+      "Duq'arael",
+      "Delphine",
+      "Damazti Cluster",
+      "Logos",
+      "Ascalon",
+      "Hoederer",
+      "W",
+      "Ermengarde",
+      "Paprika",
+      "Nowell",
+      "Guard (NPC)",
+      "Nine",
+      "Shearer",
+      "Patriot",
+      "Red (NPC)",
+      "Percival",
+      "Talulah",
+      "Shining",
+      "Kal'tsit",
+      "Qui'sartuštaj",
+      "Nightingale",
+      "Mon3tr",
+      "Vendela",
+      "Ulšulah",
+      "Lifebone",
+      "Lettou",
+      "Necrass",
+      "Duke of Caster",
+      "Duke of Gododdin",
+      "Ch'en",
+      "Bagpipe",
+      "Allerdale"
+    ],
+    "main-14": [
+      "Siege",
+      "Logos",
+      "Theresa",
+      "Lifebone",
+      "Confessarii",
+      "Amiya",
+      "Kal'tsit",
+      "Hoederer",
+      "Ines",
+      "Ascalon",
+      "W",
+      "Ulšulah",
+      "Manfred",
+      "Nadine",
+      "Qalid'čoa",
+      "Damazti Cluster",
+      "Bagpipe",
+      "Duke of Gododdin",
+      "Bellingham",
+      "Necrass",
+      "Duke of Wellington",
+      "Nezzsalem",
+      "Delphine",
+      "Indra",
+      "Horn",
+      "Salus",
+      "Shining",
+      "Nightingale",
+      "Nearl the Radiant Knight",
+      "PhonoR-0",
+      "Laqeramaline",
+      "Priestess",
+      "Ace",
+      "Outcast",
+      "Talulah",
+      "FrostNova",
+      "Wiš'adel",
+      "Paprika",
+      "Allerdale",
+      "Ch'en",
+      "Nine",
+      "Reed the Flame Shadow"
+    ],
+    "main-15": [
+      "Priestess",
+      "Hierda",
+      "Amiya",
+      "Kal'tsit",
+      "Ascalon",
+      "Theresis",
+      "Theresa",
+      "Manfred",
+      "Civilight Eterna",
+      "Warfarin",
+      "PRTS",
+      "Friston-3",
+      "ZOOT",
+      "Popukar",
+      "Blaze",
+      "Rosmontis",
+      "Lancet-2",
+      "Castle-3",
+      "THRM-EX",
+      "Justice Knight",
+      "Oren Argiolas"
+    ],
+    "main-16": [
+      "Amiya",
+      "Mon3tr",
+      "Snegurochka",
+      "Raidian",
+      "Eloysius Gorchekova",
+      "Elisabeth",
+      "Rankin",
+      "Nikto",
+      "Vetochki",
+      "Priestess",
+      "Yurodstvo",
+      "Crownslayer",
+      "Islam Witte",
+      "Hierda"
+    ],
+    "mansfield": [
+      "Mountain",
+      "Silence",
+      "Saria",
+      "Muelsyse",
+      "Mayer",
+      "Magallan",
+      "Kafka",
+      "Robin",
+      "Ferdinand Clooney",
+      "Ifrit",
+      "Domma",
+      "Pinecone",
+      "Jesselton Williams"
+    ],
+    "maria": [
+      "Blemishine",
+      "Nearl",
+      "Młynar",
+      "Whislash",
+      "Kowal",
+      "Vogelweide",
+      "Marcin",
+      "Szewczyk",
+      "Flametail",
+      "Ashlock",
+      "Malkiewicz",
+      "Olmer Ingra",
+      "Platinum",
+      "Tytus Topola",
+      "Czarny",
+      "Degenbrecher",
+      "SilverAsh",
+      "Dikaiopolis",
+      "Fartooth",
+      "Corrupted Knight",
+      "Withered Knight",
+      "Nightingale",
+      "Shining"
+    ],
+    "mass-travels": [
+      "Agenir",
+      "Woodrow Bianchi",
+      "Cliff",
+      "Enforcer",
+      "Sankta Miksaparato",
+      "Lemuen",
+      "Amos",
+      "Paganini",
+      "Vannini",
+      "Virtuosa",
+      "Archetto",
+      "Executor the Ex Foedere",
+      "The First Saint",
+      "Andoain",
+      "Velliv",
+      "Patia",
+      "Mostima",
+      "Fiammetta",
+      "Insider",
+      "Yvangelista XI",
+      "Aurela",
+      "Gracebearer",
+      "Cecelia",
+      "Mon3tr"
+    ],
+    "mirror": [
+      "Leizi the Thunderbringer",
+      "Zuo Le",
+      "Record Keeper",
+      "Chongyue",
+      "Mr. Pu",
+      "Sui",
+      "Bai Jin",
+      "Lan Ke",
+      "Liang",
+      "Wang",
+      "Huai Tianpei",
+      "Zuo Xuanliao",
+      "Mo Yi",
+      "Lee",
+      "Waai Fu",
+      "Old Tianshi",
+      "Yi",
+      "Jie"
+    ],
+    "near-light": [
+      "Nearl",
+      "Viviana",
+      "Tola",
+      "Gravel",
+      "Blemishine",
+      "Malkiewicz",
+      "McKee",
+      "Olmer Ingra",
+      "Vogelweide",
+      "Tytus Topola",
+      "Toland Cash",
+      "Szewczyk",
+      "Platinum",
+      "Marcin",
+      "Roy",
+      "Młynar",
+      "Shining",
+      "Confessarii",
+      "Nightingale",
+      "Monique",
+      "Darksteels",
+      "Wild Mane",
+      "Fartooth",
+      "Ashlock",
+      "Flametail",
+      "Ioleta Russell",
+      "Amiya",
+      "Mob",
+      "Dikaiopolis"
+    ],
+    "obsidian": [
+      "Herman Doykos",
+      "Ceylon",
+      "Amiya",
+      "Emperor",
+      "Destructive Dragon Demon",
+      "Provence",
+      "Skyfire",
+      "Eyjafjalla",
+      "Cronin",
+      "Schwarz",
+      "Hellagur",
+      "Ifrit",
+      "Vigna",
+      "Thorns"
+    ],
+    "operational": [
+      "Ace",
+      "Guard (NPC)",
+      "Scout",
+      "Hellagur",
+      "Patriot",
+      "W",
+      "Flamebringer",
+      "Talulah",
+      "Dobermann",
+      "Liskarm",
+      "Jessica",
+      "Franka",
+      "Frostleaf",
+      "Meteorite",
+      "Vermeil",
+      "Executor",
+      "Ifrit",
+      "Silence",
+      "Projekt Red",
+      "Muelsyse",
+      "Magallan",
+      "Santalla",
+      "Kal'tsit",
+      "Warfarin",
+      "Heavyrain",
+      "Amiya"
+    ],
+    "originium-dust": [
+      "Ash",
+      "Tachanka",
+      "Blitz",
+      "Frost",
+      "Ela",
+      "Iana",
+      "Levi Klitschko",
+      "Miarow",
+      "Franka",
+      "Liskarm",
+      "Rangers",
+      "Schwarz",
+      "Drudge Tulla",
+      "Picale Tulla"
+    ],
+    "pale-sea": [
+      "Thorns the Lodestar",
+      "Thorns",
+      "Rose Salt",
+      "Anastasio",
+      "Juana",
+      "Silver",
+      "Elysium",
+      "Weedy",
+      "Aulus",
+      "Javier"
+    ],
+    "path-of-life": [
+      "Mártus",
+      "Ulpianus",
+      "Kal'tsit",
+      "Clementia",
+      "Carmen",
+      "Irene",
+      "Lumen",
+      "Avitus",
+      "Skadi",
+      "Specter the Unchained",
+      "Blandus",
+      "Cassia",
+      "Lucilla",
+      "Ishar'mla",
+      "The Last Knight"
+    ],
+    "people-us": [
+      "Absinthe",
+      "Zima",
+      "Olga Trepleva",
+      "Istina",
+      "Gummy",
+      "Pavlovich",
+      "Ukusik",
+      "Antosha",
+      "Matvey",
+      "Leto",
+      "Gromov",
+      "Rosa",
+      "Vasily Gorchikov",
+      "Islam Witte",
+      "Fyodor Vladimirovich",
+      "Botani",
+      "Dur-nar",
+      "Crownslayer",
+      "Nikto"
+    ],
+    "pinus": [
+      "Flametail",
+      "Ashlock",
+      "Wild Mane",
+      "Fartooth",
+      "Platinum",
+      "Olmer Ingra",
+      "Blemishine",
+      "Dikaiopolis",
+      "Justice Knight",
+      "Szewczyk",
+      "Nearl",
+      "Młynar",
+      "Whislash",
+      "Toland Cash",
+      "Shining",
+      "Nightingale",
+      "Malkiewicz",
+      "Nearl the Radiant Knight",
+      "Czarny",
+      "Roy"
+    ],
+    "preluding": [
+      "Pallas",
+      "Heavyrain",
+      "Bena",
+      "Kirara",
+      "Utage",
+      "Glaucus",
+      "Blue Poison",
+      "Weedy",
+      "Kal'tsit",
+      "Skadi",
+      "Indigo",
+      "Elysium",
+      "Carnelian",
+      "Twin Empresses",
+      "Witch King",
+      "Cliffheart",
+      "Courier",
+      "Matterhorn",
+      "Pramanix",
+      "SilverAsh"
+    ],
+    "red-velvet": [
+      "Tragodia (NPC)",
+      "Phantom",
+      "Miss.Christine",
+      "Greta Stone",
+      "Melanie Rutherford",
+      "Abner",
+      "Tippi",
+      "Steven Quay",
+      "Moira",
+      "Shalem",
+      "Playwright",
+      "Tragodia"
+    ],
+    "rewinding": [
+      "Surtr",
+      "Meteorite",
+      "Adnachiel",
+      "Ambriel",
+      "Executor",
+      "Purestream",
+      "Elysium",
+      "Thorns",
+      "Absinthe",
+      "Mantra",
+      "Mudrock",
+      "Logos",
+      "Witch King",
+      "Twin Empresses",
+      "Big Bob",
+      "Grani",
+      "Phantom",
+      "Mint",
+      "Shalem",
+      "Shamare",
+      "Suzuran",
+      "Mousse",
+      "Popukar",
+      "Orchid"
+    ],
+    "ruins": [
+      "Hoshiguma",
+      "Tessai",
+      "Fumizuki",
+      "Haruka",
+      "Matsukiri",
+      "Koretou",
+      "Kouhei Mifune",
+      "Tetsuya Sorimachi",
+      "Kichisei",
+      "Mio (Ato)",
+      "Suzuran's Father",
+      "Ch'en",
+      "Sarasa Nishigori"
+    ],
+    "see-you-tomorrow": [
+      "Necrass",
+      "Entelechia",
+      "Theresis",
+      "Nezzsalem",
+      "Reed",
+      "Moran",
+      "Duke of Wellington",
+      "The Brigadier",
+      "Talulah",
+      "Duke of Gododdin",
+      "Nine",
+      "Ch'en",
+      "Red (NPC)",
+      "Clovisia",
+      "Ascalon",
+      "Duq'arael",
+      "Allerdale",
+      "Theresa",
+      "Wiš'adel",
+      "Hoederer",
+      "Ines",
+      "Amiya",
+      "Paprika",
+      "Lifebone",
+      "Delphine",
+      "Shearer",
+      "Duke of Caster",
+      "Siege",
+      "Dagda",
+      "Indra",
+      "Morgan",
+      "Horn",
+      "Bagpipe",
+      "Nearl",
+      "Nightingale",
+      "Shining",
+      "Fang",
+      "Earl of March",
+      "Charles Lynch",
+      "Stainless",
+      "Catherine",
+      "Civilight Eterna",
+      "Ulšulah",
+      "Yvangelista XI",
+      "Priestess"
+    ],
+    "siracusano": [
+      "Texas",
+      "Zaaro",
+      "Emperor",
+      "Sora",
+      "Exusiai",
+      "Croissant",
+      "Bernardo Bellone",
+      "Penance",
+      "Giovanna Rossati",
+      "Vigil",
+      "Alberto Saluzzo",
+      "Lappland",
+      "Capone",
+      "Gambino",
+      "Wallach",
+      "Rubio",
+      "Bellone",
+      "Signora Sicilia",
+      "Danbrown Leopardi",
+      "Agenir",
+      "Lunacub",
+      "Crownslayer",
+      "Projekt Red"
+    ],
+    "snow-1101": [
+      "Pramanix",
+      "Great Elder",
+      "Gnosis",
+      "Astgenne the Lightchaser",
+      "Carolin",
+      "SilverAsh",
+      "Harold",
+      "Arctosz Paleroche",
+      "Ratatos Browntail",
+      "Kjera",
+      "Adso Browntail",
+      "Cliffheart",
+      "Gulo",
+      "Degenbrecher",
+      "Snow Hunter",
+      "Sciurus Browntail",
+      "Duke of Caster",
+      "Silence the Paradigmatic",
+      "Muelsyse",
+      "SilverAsh the Reignfrost",
+      "Pramanix the Prerita",
+      "Monch"
+    ],
+    "so-long-adele": [
+      "Eyjafjalla",
+      "Herman Doykos",
+      "Eurill Pides",
+      "Bison",
+      "Swire",
+      "Snowsant",
+      "Adele Keller",
+      "Katia & Magna Naumann",
+      "Kahn",
+      "Dolly",
+      "Byrd",
+      "Costa",
+      "Bryophyta",
+      "Harley",
+      "Pelipper Brown",
+      "Adams Schwire",
+      "Ceylon",
+      "Witch King",
+      "Poncirus"
+    ],
+    "spark": [
+      "Goldenglow",
+      "Red (NPC)",
+      "Grani",
+      "Skyfire",
+      "Quercus",
+      "Haze",
+      "Angst",
+      "Kazemaru",
+      "Duke of Gododdin",
+      "Nine",
+      "Guard (NPC)",
+      "Cannot Goodenough"
+    ],
+    "springtime": [
+      "Qiubai",
+      "Fang Xiaoshi",
+      "Zhou Shun",
+      "Saga",
+      "Dusk",
+      "Wind Chimes",
+      "Mulberry",
+      "Click"
+    ],
+    "stultifera": [
+      "Kal'tsit",
+      "Elysium",
+      "Carmen",
+      "Irene",
+      "Dario",
+      "Nian",
+      "Sui",
+      "Thiago",
+      "Lumen",
+      "The Last Knight",
+      "Skadi",
+      "Specter",
+      "Gladiia",
+      "Specter the Unchained",
+      "Alfonso",
+      "Garcia",
+      "The Endspeaker",
+      "Ishar'mla",
+      "Amaia",
+      "Ulpianus"
+    ],
+    "sunset": [
+      "Pepe",
+      "Lugalszargus",
+      "Papyrus",
+      "Titi",
+      "Narantuya",
+      "Ajazi",
+      "Ajani",
+      "Aspasia",
+      "Zubayr",
+      "Mio",
+      "Sand Reckoner"
+    ],
+    "sylvan": [
+      "Leto",
+      "Tatyana Larina",
+      "Harold",
+      "Degenbrecher",
+      "Kjera",
+      "Bellingham",
+      "SilverAsh",
+      "Duke of Caster",
+      "Courier",
+      "Gnosis",
+      "Ratatos Browntail",
+      "Sciurus Browntail",
+      "Arctosz Paleroche",
+      "Pramanix",
+      "Matterhorn",
+      "Mob",
+      "Muelsyse"
+    ],
+    "the-riders": [
+      "Penance",
+      "Vulpisfoglia",
+      "Projekt Red",
+      "Umberto de Montano",
+      "Crownslayer",
+      "Lappland the Decadenza",
+      "Vigil",
+      "Signora Sicilia",
+      "Antonio Venezia",
+      "Caesar",
+      "Lunacub",
+      "Vargo",
+      "Suzuran",
+      "Sommer",
+      "Figurino",
+      "Capone",
+      "Gambino",
+      "Lappland",
+      "Bellone",
+      "Eirene Lavazza",
+      "Alberto Saluzzo",
+      "Fabrizio Venezia",
+      "Texas the Omertosa"
+    ],
+    "to-be-continued": [
+      "Młynar",
+      "Toland Cash",
+      "Witch King",
+      "Czcibor",
+      "Proviso",
+      "Flametail",
+      "Ashlock",
+      "Szewczyk",
+      "Ioleta Russell",
+      "Nearl",
+      "Vogelweide",
+      "Kowal",
+      "Marcin"
+    ],
+    "to-the-grinning": [
+      "Magallan",
+      "Andenate Maryam",
+      "Santalla",
+      "Typhon",
+      "Valarqvin",
+      "Black Mark",
+      "Amma",
+      "Emperor",
+      "Gitano",
+      "Eikthyrnir"
+    ],
+    "under-tides": [
+      "Skadi",
+      "Gladiia",
+      "Specter",
+      "The First To Talk",
+      "Anita",
+      "Irene",
+      "Dario",
+      "Skadi the Corrupting Heart",
+      "Kal'tsit",
+      "Mon3tr"
+    ],
+    "unfinished": [
+      "Ratatos Browntail",
+      "SilverAsh",
+      "Shen Lou",
+      "Grand Tutor",
+      "Liang Xun",
+      "Ning Ciqiu",
+      "Du Yaoye",
+      "Zuo Le",
+      "Leizi",
+      "Lee",
+      "Taihe",
+      "Shang Zhong",
+      "Lappland",
+      "Signora Sicilia",
+      "Rat King",
+      "Texas",
+      "Roy",
+      "Monique",
+      "Dikaiopolis",
+      "Ifrit",
+      "Jesselton Williams"
+    ],
+    "unpromised": [
+      "Kristen Wright",
+      "Nasti",
+      "Skybox",
+      "Gustave",
+      "Mercia Selene",
+      "Sky Jagger",
+      "Aspen",
+      "Cairn",
+      "Væla",
+      "Muelsyse",
+      "Tin Man",
+      "054",
+      "Maylander Selene",
+      "Andenate Maryam",
+      "Conrad Jackson",
+      "Jara Wilson",
+      "Saria",
+      "Magallan"
+    ],
+    "ursas-children": [
+      "Istina",
+      "Zima",
+      "Courier",
+      "Gitano",
+      "Ceobe",
+      "Dur-nar",
+      "Rosa",
+      "Leto",
+      "May",
+      "Silence",
+      "Gummy",
+      "Beehunter",
+      "Faust",
+      "Mephisto",
+      "Amiya",
+      "Nearl",
+      "Perfumer",
+      "Matterhorn",
+      "Dobermann",
+      "Absinthe",
+      "Patriot"
+    ],
+    "vigilo": [
+      "Blaze",
+      "Amiya",
+      "Cannot Goodenough",
+      "Kal'tsit",
+      "Earthspirit",
+      "Eyjafjalla",
+      "Ace",
+      "Beagle",
+      "W",
+      "Ascalon",
+      "Scout",
+      "Theresa",
+      "Theresis",
+      "Duq'arael",
+      "Nezzsalem",
+      "Hoederer",
+      "PRTS",
+      "Priestess"
+    ],
+    "walk-dust": [
+      "Kal'tsit",
+      "Sesa",
+      "Heavyrain",
+      "Passenger",
+      "Old Isin",
+      "Lillia",
+      "Vanya",
+      "Folinic",
+      "Islam Witte",
+      "Vincent",
+      "Heidi",
+      "Theresa",
+      "Mon3tr"
+    ],
+    "west-sunset": [
+      "Vina Victoria",
+      "Nezzsalem",
+      "Allerdale",
+      "Entelechia",
+      "Wiš'adel",
+      "Charles Lynch",
+      "Alistair II",
+      "Clovisia",
+      "Duke of Caster",
+      "Duke of Gododdin",
+      "Earl of March",
+      "Diane Weber",
+      "Morgan",
+      "Shearer",
+      "Catherine",
+      "Bobbing",
+      "Delphine",
+      "Baird"
+    ],
+    "where-vernal": [
+      "Chongyue",
+      "Sui",
+      "Grand Tutor",
+      "Wang",
+      "Liang Xun",
+      "Lin",
+      "Rat King",
+      "Wei Yenwu",
+      "Zuo Xuanliao",
+      "Waai Fu",
+      "Lee",
+      "Huai Tianpei",
+      "Ling",
+      "Zuo Le",
+      "Du Yaoye",
+      "Meng Tieyi",
+      "Jieyun",
+      "Taihe",
+      "Qiubai",
+      "Ch'en",
+      "Ya"
+    ],
+    "who-is-real": [
+      "Lava the Purgatory",
+      "Kroos the Keen Glint",
+      "Nian",
+      "Mr. Nothing",
+      "Dusk",
+      "Saga",
+      "Dawn",
+      "Beagle",
+      "Sui",
+      "Ling"
+    ],
+    "wolumonde": [
+      "Folinic",
+      "Suzuran",
+      "Mudrock",
+      "Severin Hawthorn",
+      "Tatjana",
+      "GreyThroat",
+      "Ayerscarpe",
+      "Click"
+    ],
+    "xiangjianhuan": [
+      "Leizi",
+      "Yu Cheng",
+      "Gu Quan",
+      "Blaze",
+      "Yu",
+      "Xingzhu",
+      "Ning Shu",
+      "Mo Bufu",
+      "Chen Che",
+      "Jie Zhen",
+      "Taihe",
+      "Wei Yenwu",
+      "Jiang",
+      "Sui",
+      "Wang",
+      "Ji",
+      "Chongyue",
+      "Shu",
+      "Nian",
+      "Dusk",
+      "Ling"
+    ],
+    "zwilling": [
+      "Witch King",
+      "Viviana",
+      "Virtuosa",
+      "Twin Empresses",
+      "Werner von Hochberg",
+      "Cora Löwenstein",
+      "Brandt Reiner",
+      "Ebenholz",
+      "Fremont",
+      "Lessing",
+      "Executor the Ex Foedere",
+      "Loris Bordin",
+      "Bassline",
+      "Gerhard Hoffmann",
+      "Yulia Schüler",
+      "Ermengarde",
+      "The Last Knight",
+      "Młynar",
+      "Yvangelista XI"
+    ]
+  }
+}

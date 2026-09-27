@@ -1,5 +1,6 @@
 import datetime as dt
 import json
+import struct
 from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
@@ -182,6 +183,8 @@ for event in base['events']:
             event['summarySource'] += '/Synopsis'
     if story.get('summaryUrl'):
         event['summarySource'] = story['summaryUrl']
+    if event['id'] == 'main-00-04':
+        event['summarySource'] = 'https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme'
     if event['id'] in korean_story_links:
         page, section = korean_story_links[event['id']]
         event['koreanStoryUrl'] = 'https://namu.moe/w/' + quote(page, safe='/') + (f'#s-{section}' if section else '')
@@ -196,6 +199,25 @@ known_people = {person['id'] for person in base['people']}
 for person in story_people:
     if person['id'] in known_people:
         raise ValueError(f"Duplicate story person: {person['id']}")
+    base['people'].append(person)
+    known_people.add(person['id'])
+for person in json.loads((ROOT / 'work' / 'story_people_sourced.json').read_text(encoding='utf-8')):
+    if person['id'] in known_people:
+        raise ValueError(f"Duplicate sourced person: {person['id']}")
+    base['people'].append(person)
+    known_people.add(person['id'])
+prts_cast = json.loads((ROOT / 'work' / 'story_prts_cast.json').read_text(encoding='utf-8'))
+for records in prts_cast.values():
+    for person_id, name, cn_name in records:
+        full_id = 'prts-' + person_id
+        if full_id in known_people:
+            raise ValueError(f'Duplicate PRTS person: {full_id}')
+        base['people'].append({'id': full_id, 'name': name, 'kind': 'nonoperator', 'cnName': cn_name})
+        known_people.add(full_id)
+future_operator_cast = json.loads((ROOT / 'work' / 'story_future_operator_cast.json').read_text(encoding='utf-8'))
+for person in future_operator_cast['people']:
+    if person['id'] in known_people:
+        raise ValueError(f"Duplicate future person: {person['id']}")
     base['people'].append(person)
     known_people.add(person['id'])
 
@@ -263,14 +285,81 @@ for event_id, actions in action_expansions.items():
             'spoiler': 'medium', 'source': event_lookup[event_id]['summarySource'],
         })
 
+sourced_cast = json.loads((ROOT / 'work' / 'story_cast_sourced.json').read_text(encoding='utf-8'))
+for event_id, cast in sourced_cast.items():
+    if event_id not in event_lookup or len(cast) != len(set(cast)):
+        raise ValueError(f'Invalid sourced cast: {event_id}')
+    for person_id in cast:
+        if person_id not in known_people:
+            raise ValueError(f'Unknown sourced person: {event_id} / {person_id}')
+        pair = (event_id, person_id)
+        if pair not in existing_appearances:
+            base['appearances'].append({
+                'event': event_id, 'person': person_id, 'role': 'appears',
+                'certainty': 'synopsis', 'source': event_lookup[event_id]['summarySource'],
+            })
+            existing_appearances.add(pair)
+
+prts_source = 'https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88'
+for event_id, records in prts_cast.items():
+    if event_id not in event_lookup:
+        raise ValueError(f'Unknown PRTS cast event: {event_id}')
+    for person_id, _, _ in records:
+        full_id = 'prts-' + person_id
+        pair = (event_id, full_id)
+        if pair not in existing_appearances:
+            base['appearances'].append({
+                'event': event_id, 'person': full_id, 'role': 'appears',
+                'certainty': 'story', 'source': prts_source,
+            })
+            existing_appearances.add(pair)
+for event_id, cast in future_operator_cast['events'].items():
+    if event_id not in event_lookup or len(cast) != len(set(cast)):
+        raise ValueError(f'Invalid future cast: {event_id}')
+    for person_id in cast:
+        if person_id not in known_people:
+            raise ValueError(f'Unknown future person: {event_id} / {person_id}')
+        pair = (event_id, person_id)
+        if pair not in existing_appearances:
+            base['appearances'].append({
+                'event': event_id, 'person': person_id, 'role': 'appears',
+                'certainty': 'story', 'source': event_lookup[event_id]['summarySource'],
+            })
+            existing_appearances.add(pair)
+
+sourced_actions = json.loads((ROOT / 'work' / 'story_action_sourced.json').read_text(encoding='utf-8'))
+prts_actions = json.loads((ROOT / 'work' / 'story_prts_actions.json').read_text(encoding='utf-8'))
+for action_set, action_source in ((sourced_actions, None), (prts_actions, prts_source)):
+    for event_id, actions in action_set.items():
+        if event_id not in event_lookup:
+            raise ValueError(f'Unknown sourced action event: {event_id}')
+        source = action_source or event_lookup[event_id]['summarySource']
+        for person_id, action_text in actions:
+            if person_id not in known_people or not action_text.strip():
+                raise ValueError(f'Invalid sourced action: {event_id} / {person_id}')
+            pair = (event_id, person_id)
+            if pair not in existing_appearances:
+                base['appearances'].append({
+                    'event': event_id, 'person': person_id, 'role': 'appears',
+                    'certainty': 'synopsis', 'source': source,
+                })
+                existing_appearances.add(pair)
+            base['actions'].append({
+                'event': event_id, 'person': person_id, 'text': action_text,
+                'spoiler': 'medium', 'source': source,
+            })
+
 protagonist_overrides = json.loads((ROOT / 'work' / 'story_protagonists.json').read_text(encoding='utf-8'))
+sourced_evidence = json.loads((ROOT / 'work' / 'story_cast_evidence.json').read_text(encoding='utf-8'))
 if set(protagonist_overrides) - set(event_lookup):
     raise ValueError('Protagonist list refers to an unknown story')
 people_by_id = {person['id']: person for person in base['people']}
 for event_id, event in event_lookup.items():
     present = {item['person'] for item in base['appearances'] if item['event'] == event_id}
     activity = Counter(item['person'] for item in base['actions'] if item['event'] == event_id)
-    cast_seed = list(dict.fromkeys(story_cast[event_id]['cast'] + cast_expansions.get(event_id, [])))
+    cast_seed = list(dict.fromkeys(story_cast[event_id]['cast'] + cast_expansions.get(event_id, []) + sourced_cast.get(event_id, [])
+                                    + ['prts-' + person_id for person_id, _, _ in prts_cast.get(event_id, [])]
+                                    + future_operator_cast['events'].get(event_id, [])))
     cast_rank = {person_id: index for index, person_id in enumerate(cast_seed)}
     protagonists = protagonist_overrides.get(event_id)
     if protagonists is None:
@@ -281,14 +370,24 @@ for event_id, event in event_lookup.items():
     if not protagonists or len(protagonists) != len(set(protagonists)) or set(protagonists) - present:
         raise ValueError(f'Invalid protagonists: {event_id} / {protagonists}')
     lead_rank = {person_id: index for index, person_id in enumerate(protagonists)}
+    core_cast = set(story_cast[event_id]['cast'])
+    expanded_cast = set(cast_expansions.get(event_id, []))
+    def influence(person_id):
+        name = people_by_id[person_id]['name']
+        summary_mentions = event['summary'].count(name) if len(name) > 1 else 0
+        synopsis_mentions = sourced_evidence.get(event_id, {}).get(person_id, {}).get('mentions', 0)
+        return (12 * activity[person_id] + min(synopsis_mentions, 20)
+                + 5 * (person_id in core_cast) + 2 * (person_id in expanded_cast)
+                + 5 * min(summary_mentions, 2))
     def prominence(person_id):
         if person_id in lead_rank:
-            return (0, lead_rank[person_id], 0, 0, '')
+            return (0, lead_rank[person_id], 0, '')
         name = people_by_id[person_id]['name']
-        mentions = event['summary'].count(name) if len(name) > 1 else 0
-        return (1, -activity[person_id], -mentions, cast_rank.get(person_id, 999), name)
+        return (1, -influence(person_id), cast_rank.get(person_id, 999), name)
     event['protagonists'] = protagonists
     event['peopleOrder'] = sorted(present, key=prominence)
+    event['lowImpactPeople'] = [person_id for person_id in event['peopleOrder']
+                                if person_id not in lead_rank and influence(person_id) < 5]
 
 base['sequences'] = json.loads((ROOT / 'work' / 'story_sequences.json').read_text(encoding='utf-8'))
 events_by_id = {event['id']: event for event in base['events']}
@@ -317,11 +416,47 @@ for link in base['crosslinks']:
     seen_crosslinks.add(pair)
 
 portrait_sources = json.loads((ROOT / 'work' / 'portrait_sources.json').read_text(encoding='utf-8'))
+portrait_focus = {
+    'prts-arbiter': (.45, .085, 6.3),
+    'prts-ashton-lime': (.49, .155, 6.3),
+    'prts-betty-crossroads': (.43, .115, 5.6),
+    'prts-bokuka': (.47, .185, 5.6),
+    'prts-dream-midnight': (.51, .095, 6.3),
+    'prts-felice-godou': (.48, .065, 5.6),
+    'prts-giulio': (.54, .105, 5.6),
+    'prts-grandmother-petra': (.50, .175, 7.7),
+    'prts-hanke': (.48, .105, 5.25),
+    'prts-inala': (.45, .115, 6.3),
+    'prts-ken-amada': (.62, .085, 5.6),
+    'prts-kyra': (.52, .105, 7.7),
+    'prts-madison-lime': (.50, .195, 7.0),
+    'prts-morphis': (.47, .135, 6.3),
+    'prts-old-jose': (.41, .135, 5.6),
+    'prts-paula-meminger': (.47, .125, 6.3),
+    'prts-perla': (.50, .075, 6.3),
+    'prts-sami-shaman': (.55, .195, 5.6),
+    'prts-shale-radoslav': (.49, .165, 6.3),
+    'prts-sunny-valley-contact': (.43, .065, 5.6),
+    'prts-tin': (.46, .105, 6.3),
+    'prts-wall-ash': (.51, .145, 6.3),
+    'prts-wolf-dream': (.59, .09, 5.6),
+    'wiki-alistair-ii': (.50, .44, 7.0),
+    'wiki-amma': (.54, .54, 4.2),
+    'wiki-behnui-enshi-pah': (.50, .085, 5.6),
+    'wiki-deathless-black-snake': (.50, .075, 5.6),
+    'wiki-lugalszargus': (.50, .30, 2.8),
+    'wiki-twin-empresses': (.50, .075, 5.6),
+}
 for person in base['people']:
     portrait = ROOT / 'assets' / 'portraits' / (person['id'] + '.png')
     if portrait.exists():
         person['portrait'] = str(portrait.relative_to(ROOT)).replace('\\', '/')
-        person['portraitSource'] = portrait_sources[person['id']]
+        person['portraitSource'] = portrait_sources.get(person['id'], prts_source if person['id'].startswith('prts-') else None)
+        if person['id'].startswith('prts-') or person['id'] in portrait_focus:
+            width, height = struct.unpack('>II', portrait.read_bytes()[16:24])
+            focus_x, focus_y, zoom = portrait_focus.get(person['id'], (.50, .08, 6.3))
+            person['portraitCrop'] = {'width': width, 'height': height,
+                                      'x': focus_x, 'y': focus_y, 'zoom': zoom}
 
 used_lanes = {event['lane'] for event in base['events']}
 base['lanes'] = [lane for lane in base['lanes'] if lane['id'] in used_lanes]
