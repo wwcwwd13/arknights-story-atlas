@@ -88,7 +88,7 @@ assert all((item['event'], item['person']) in appearance_pairs for item in data[
 appearances_by_event = Counter(item['event'] for item in data['appearances'])
 actions_by_event = Counter(item['event'] for item in data['actions'])
 assert all(appearances_by_event[event_id] >= 1 for event_id in events)
-assert all(actions_by_event[event_id] >= 4 for event_id in events)
+assert all(actions_by_event[event_id] >= 10 for event_id in events)
 assert {'wiki-botani', 'wiki-fyodor-vladimirovich', 'prts-faddey', 'prts-leonid-grashvili'} <= {
     item['person'] for item in data['appearances'] if item['event'] == 'people-us'}
 assert all(appearances_by_event[event_id] >= 9 for event_id in

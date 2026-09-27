@@ -1,4 +1,5 @@
 import datetime as dt
+import csv
 import json
 import struct
 from collections import Counter
@@ -348,6 +349,25 @@ for action_set, action_source in ((sourced_actions, None), (prts_actions, prts_s
                 'event': event_id, 'person': person_id, 'text': action_text,
                 'spoiler': 'medium', 'source': source,
             })
+
+with (ROOT / 'work' / 'story_action_dense.tsv').open(encoding='utf-8', newline='') as action_file:
+    for line_number, row in enumerate(csv.reader(action_file, delimiter='\t'), 1):
+        if len(row) != 3:
+            raise ValueError(f'Invalid detailed action row: {line_number}')
+        event_id, person_id, action_text = row
+        if event_id not in event_lookup or person_id not in known_people or not action_text.strip():
+            raise ValueError(f'Invalid detailed action: {line_number} / {event_id} / {person_id}')
+        pair = (event_id, person_id)
+        if pair not in existing_appearances:
+            base['appearances'].append({
+                'event': event_id, 'person': person_id, 'role': 'appears',
+                'certainty': 'synopsis', 'source': event_lookup[event_id]['summarySource'],
+            })
+            existing_appearances.add(pair)
+        base['actions'].append({
+            'event': event_id, 'person': person_id, 'text': action_text,
+            'spoiler': 'medium', 'source': event_lookup[event_id]['summarySource'],
+        })
 
 protagonist_overrides = json.loads((ROOT / 'work' / 'story_protagonists.json').read_text(encoding='utf-8'))
 sourced_evidence = json.loads((ROOT / 'work' / 'story_cast_evidence.json').read_text(encoding='utf-8'))
