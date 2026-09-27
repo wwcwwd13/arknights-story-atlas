@@ -46,13 +46,15 @@
   function displayDate(event) { return event.dateStatus === 'projected' ? `${event.projectionMonth.replace('-', '.')} 추정` : shortDate(event.date); }
   function typeLabel(type) { return type === 'main' ? 'MAIN THEME' : type === 'collection' ? 'STORY COLLECTION' : 'SIDE STORY'; }
   function artUrl(event) { return data.art[event.id] || ''; }
+  function laneEmblemHtml(lane, extraClass = '') {
+    return `<span class="lane-icon ${lane.emblemKind === 'game-asset' ? 'official-icon' : ''}${lane.secondaryEmblem ? ' dual-icon' : ''} ${extraClass}" style="--lane-color:${esc(lane.color)}" aria-hidden="true"><img src="${esc(lane.emblem)}" alt="">${lane.secondaryEmblem ? `<img src="${esc(lane.secondaryEmblem)}" alt="">` : ''}</span>`;
+  }
 
   function render() {
-    const left = leftPx();
     const range = yearPx() * years;
     document.documentElement.style.setProperty('--year', `${yearPx()}px`);
     document.documentElement.style.setProperty('--range', `${range}px`);
-    document.documentElement.style.setProperty('--total', `${left + range + 90}px`);
+    document.documentElement.style.setProperty('--total', `calc(var(--left) + ${range + 90}px)`);
     document.documentElement.style.setProperty('--lane-count', String(data.lanes.length));
     const axis = document.createElement('div');
     axis.className = 'axis';
@@ -79,7 +81,7 @@
       const row = document.createElement('section');
       row.className = 'lane-row';
       row.style.setProperty('--lane-color', lane.color);
-      row.innerHTML = `<button class="lane-label" type="button" data-lane="${esc(lane.id)}" aria-label="${esc(lane.name)} 정보 보기"><span class="lane-icon ${lane.emblemKind === 'game-asset' ? 'official-icon' : ''}${lane.secondaryEmblem ? ' dual-icon' : ''}" aria-hidden="true"><img src="${esc(lane.emblem)}" alt="">${lane.secondaryEmblem ? `<img src="${esc(lane.secondaryEmblem)}" alt="">` : ''}</span><span class="lane-copy"><strong>${esc(lane.name)}</strong><span>${esc(lane.sub)}</span></span></button><div class="lane-track"></div>`;
+      row.innerHTML = `<button class="lane-label" type="button" data-lane="${esc(lane.id)}" aria-label="${esc(lane.name)} 정보 보기">${laneEmblemHtml(lane)}<span class="lane-copy"><strong>${esc(lane.name)}</strong><span>${esc(lane.sub)}</span></span></button><div class="lane-track"></div>`;
       const track = row.lastElementChild;
       track.innerHTML = `<div class="future-zone" style="left:${futureX}px;width:${range-futureX}px"></div><div class="today-line" style="left:${futureX}px"></div>`;
       data.events.filter(event => event.lane === lane.id).forEach(event => {
@@ -164,8 +166,8 @@
       .sort((left, right) => left.other.date.localeCompare(right.other.date));
     const crosslinksHtml = crosslinks.length ? `<details class="story-sequence story-crosslinks"><summary>이야기를 잇는 장면 <small>${crosslinks.length}</small></summary><div class="crosslink-list">${crosslinks.map(link => `<div class="crosslink-item"><button class="crosslink-target" type="button" data-open-event="${esc(link.other.id)}"><span>${esc(link.label)}</span><strong>${esc(link.other.title)}</strong><small>${displayDate(link.other)}</small></button><p>${esc(link.note)}</p><a class="source-link" href="${esc(link.source)}" target="_blank" rel="noopener noreferrer">연결 자료 ↗</a></div>`).join('')}</div></details>` : '';
     openDrawer(`
-      <p class="drawer-kicker">${typeLabel(event.type)} / ${esc(lane.name)}</p>
-      <h2>${esc(event.title)}</h2><div class="drawer-original">${esc(event.original)}</div>
+      <div class="drawer-heading">${laneEmblemHtml(lane, 'drawer-emblem')}<div class="drawer-heading-copy"><p class="drawer-kicker">${typeLabel(event.type)} / ${esc(lane.name)}</p>
+      <h2>${esc(event.title)}</h2><div class="drawer-original">${esc(event.original)}</div></div></div>
       <div class="drawer-banner" style="background:linear-gradient(135deg,${esc(lane.color)}88,#21343b)">${art ? `<img src="${esc(art)}" alt="${esc(event.title)} 행사 이미지">` : ''}</div>
       <div class="drawer-section"><h3>줄거리 요약</h3><p class="story-summary">${esc(event.summary)}</p></div>
       ${crosslinksHtml}
@@ -182,7 +184,7 @@
     const linkedEvents = data.events.filter(event => event.lane === laneId);
     const eventList = linkedEvents.map(event => `<button class="lane-event-link" type="button" data-open-event="${esc(event.id)}"><strong>${esc(event.title)}</strong><small>${displayDate(event)}${event.storyFocus ? ` · ${esc(event.storyFocus)}` : ''}</small></button>`).join('');
     const relatedList = (lane.relatedEvents || []).map(id => eventById.get(id)).filter(Boolean).map(event => `<button class="lane-event-link" type="button" data-open-event="${esc(event.id)}"><strong>${esc(event.title)}</strong><small>${esc(event.storyFocus || '')}</small></button>`).join('');
-    openDrawer(`<p class="drawer-kicker">FACTION / REGION</p><h2>${esc(lane.name)}</h2><div class="drawer-original">${esc(lane.sub)}</div>
+    openDrawer(`<div class="drawer-heading">${laneEmblemHtml(lane, 'drawer-emblem')}<div class="drawer-heading-copy"><p class="drawer-kicker">FACTION / REGION</p><h2>${esc(lane.name)}</h2><div class="drawer-original">${esc(lane.sub)}</div></div></div>
       <div class="drawer-section"><h3>이 연표의 이야기 <small>${linkedEvents.length}</small></h3><div class="lane-event-list">${eventList}</div></div>
       ${relatedList ? `<div class="drawer-section"><h3>다른 행의 연결 이야기</h3><div class="lane-event-list">${relatedList}</div></div>` : ''}
       ${associated.length ? `<div class="drawer-section"><h3>연결된 인물 <small>${associated.length}</small></h3>${peopleHtml(associated)}</div>` : ''}`);
