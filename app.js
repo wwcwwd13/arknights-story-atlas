@@ -130,6 +130,19 @@
       return `<span class="person-pill${isProtagonist ? ' protagonist' : ''}${lowImpact.has(id) ? ' low-impact' : ''}${highlightOperators && person.kind === 'operator' ? ' operator' : ''}" tabindex="0" data-person-id="${esc(person.id)}"${isProtagonist ? ` aria-label="${esc(person.name)}, 주역"` : ''}>${esc(person.name)}</span>`;
     }).join('')}</div>`;
   }
+  function portraitCropStyle(crop, size) {
+    if (!crop) return '';
+    const scale = Math.max(size / crop.width, size / crop.height) * crop.zoom;
+    const width = Math.round(crop.width * scale);
+    const height = Math.round(crop.height * scale);
+    const left = Math.round(size / 2 - width * crop.x);
+    const top = Math.round(size / 2 - height * crop.y);
+    return ` class="face-crop" style="width:${width}px;height:${height}px;left:${left}px;top:${top}px"`;
+  }
+  function actionPortraitHtml(person) {
+    if (!person?.portrait) return '<span class="action-portrait action-portrait-empty" aria-hidden="true"></span>';
+    return `<span class="action-portrait" aria-hidden="true"><img${portraitCropStyle(person.portraitCrop, 36)} src="${esc(person.portrait)}" alt="" loading="lazy"></span>`;
+  }
   function openDrawer(html) {
     if (!drawer.classList.contains('open')) lastFocus = document.activeElement;
     portraitPreview.hidden = true;
@@ -152,7 +165,11 @@
     const people = event.peopleOrder;
     const actions = data.actions.filter(action => action.event === eventId);
     const art = artUrl(event);
-    const actionsHtml = actions.map(action => `<p class="action-item"><strong>${esc(personById.get(action.person)?.name || '')}</strong> · ${esc(action.text)}</p>`).join('');
+    const actionsHtml = actions.map(action => {
+      const person = personById.get(action.person);
+      const content = `<span class="action-copy"><strong>${esc(person?.name || '')}</strong> · ${esc(action.text)}</span>`;
+      return `<p class="action-item">${actionPortraitHtml(person)}${content}</p>`;
+    }).join('');
     const sequenceHtml = (event.sequences || []).map(sequenceId => {
       const sequence = sequenceById.get(sequenceId);
       const links = sequence.events.map((id, index) => {
@@ -210,16 +227,7 @@
   function showPortrait(pill, x, y) {
     const person = personById.get(pill.dataset.personId);
     if (!person?.portrait) return;
-    const crop = person.portraitCrop;
-    let cropStyle = '';
-    if (crop) {
-      const scale = Math.max(112 / crop.width, 112 / crop.height) * crop.zoom;
-      const width = Math.round(crop.width * scale);
-      const height = Math.round(crop.height * scale);
-      const left = Math.round(56 - width * crop.x);
-      const top = Math.round(56 - height * crop.y);
-      cropStyle = ` class="face-crop" style="width:${width}px;height:${height}px;left:${left}px;top:${top}px"`;
-    }
+    const cropStyle = portraitCropStyle(person.portraitCrop, 112);
     portraitPreview.innerHTML = `<span class="portrait-frame"><img${cropStyle} src="${esc(person.portrait)}" alt="${esc(person.name)} 얼굴"></span><span class="portrait-name">${esc(person.name)}</span>`;
     positionPortrait(x, y);
     portraitPreview.hidden = false;
