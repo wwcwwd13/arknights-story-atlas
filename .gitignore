@@ -36,5 +36,8 @@ desktop.ini
 work/candidates/
 work/babel_bwiki.html
 
+# Generated copies for visual crop review
+/review/cropped-thumbnails/
+
 # Keep data.js, assets/, work/synopses/, and the game-data snapshots tracked:
 # the offline page and data rebuild use them.
