@@ -8,7 +8,7 @@ data = json.loads((root / 'data.js').read_text(encoding='utf-8').split('window.S
 events = {item['id']: item for item in data['events']}
 lanes = {item['id']: item for item in data['lanes']}
 people = {item['id']: item for item in data['people']}
-assert len(events) == len(data['events']) == 89
+assert len(events) == len(data['events']) == 91
 assert len(lanes) == len(data['lanes'])
 assert [lane['id'] for lane in data['lanes'][:7]] == [
     'rhodes', 'reunion', 'victoria', 'ursus', 'kazimierz', 'siesta', 'yan']
@@ -20,18 +20,28 @@ assert remaining_lanes == sorted(remaining_lanes, key=lambda lane: (
 assert len(people) == len(data['people'])
 assert len(data['art']) == len(data['artCredits']) == len(events)
 assert [event['date'] for event in data['events']] == sorted(event['date'] for event in data['events'])
-assert {event['id'] for event in data['events'] if event['dateStatus'] == 'projected'} == {
-    'main-17', 'foam-thunder', 'jungle-knot', 'lime', 'moon-water'}
+assert data['asOf'] == '2026-11-16'
+assert events['main-17']['krDate'] == '2026-10-14'
+assert events['foam-thunder']['krDate'] == '2026-11-16'
+assert events['mass-travels']['krDate'] == '2025-10-14'
+assert events['mass-travels']['krRerunDate'] == '2026-11-05'
+assert events['obsidian']['cnDate'] == '2019-08-27'
+assert events['originium-dust']['cnDate'] == '2021-03-09'
+assert data['projection']['offsetDays'] == 166
+assert {event['id']: event['projectionMonth'] for event in data['events'] if event['dateStatus'] == 'projected'} == {
+    'jungle-knot': '2026-12', 'lime': '2027-01', 'moon-water': '2027-02',
+    'yesterday-sea': '2027-03', 'time-forward': '2027-04',
+}
 assert events['people-us']['lane'] == 'ursus'
 assert data['artKind'] == {'main-00-04': 'shared'}
 sequences = {item['id']: item for item in data['sequences']}
 assert len(sequences) == len(data['sequences']) == 18
 sequence_members = [event_id for item in data['sequences'] for event_id in item['events']]
-assert len(sequence_members) == 92
+assert len(sequence_members) == 94
 assert set(sequence_members) == set(events)
 assert sum(item.get('kind') == 'theme' for item in data['sequences']) == 8
 crosslinks = data['crosslinks']
-assert len(crosslinks) == 31
+assert len(crosslinks) == 32
 assert len({frozenset((item['from'], item['to'])) for item in crosslinks}) == len(crosslinks)
 for item in crosslinks:
     assert item['from'] in events and item['to'] in events and item['from'] != item['to'], item
@@ -39,8 +49,8 @@ for item in crosslinks:
 assert sum(event['summarySource'].endswith('/Synopsis') for event in events.values()) == 82
 assert events['dreamtalk']['summarySource'] == 'https://arknights.wiki.gg/wiki/SS-8/Story'
 assert sum('koreanStoryUrl' in event for event in events.values()) == 85
-assert sum('koreanInfoUrl' in event for event in events.values()) == 3
-assert [event['id'] for event in data['events'] if not event.get('koreanStoryUrl') and not event.get('koreanInfoUrl')] == ['moon-water']
+assert sum('koreanInfoUrl' in event for event in events.values()) == 6
+assert all(event.get('koreanStoryUrl') or event.get('koreanInfoUrl') for event in events.values())
 assert events['main-00-04']['koreanStoryExtraUrl'].endswith('#s-2')
 for sequence in data['sequences']:
     assert len(sequence['events']) >= 2, sequence['id']
@@ -61,6 +71,11 @@ for event in events.values():
     assert event['id'] in data['artCredits'], event['id']
     if event['dateStatus'] == 'projected':
         assert event['date'] == event['projectionMonth'] + '-15', event['id']
+        assert event['krDate'] is None and event['date'] > data['asOf'], event['id']
+    else:
+        assert event['date'] == event['krDate'] and event['date'] <= data['asOf'], event['id']
+        if event.get('krRerunDate'):
+            assert event['krDate'] < event['krRerunDate'] <= data['asOf'], event['id']
     asset = root / data['art'][event['id']]
     assert asset.is_file() and asset.stat().st_size > 50000, asset
     header = asset.read_bytes()[:12]

@@ -48,11 +48,11 @@
     ["anatoly-buterinin", "아나톨리 부테리닌", "阿纳托利·斯维特拉诺夫·卜捷里宁"],
     ["evgeny-kuznetsov", "예브게니 쿠즈네초프", "叶甫根尼·库兹涅佐夫"],
     ["andrian", "안드리안", "安德里安"],
-    ["silka", "실카", "西尔卡"],
-    ["elita-valuyeva", "엘리타 발루예바", "艾丽塔·瓦卢耶娃"],
+    ["silka", "시르카", "西尔卡"],
+    ["elita-valuyeva", "알리타 발루예바", "艾丽塔·瓦卢耶娃"],
     ["klim", "클림", "克利姆"],
-    ["ivan-turin", "이반 투린", "伊凡·图林"],
-    ["milana-turin", "밀라나 (이반 투린)", "“伊凡·图林”"],
+    ["ivan-turin", "이반 튜린", "伊凡·图林"],
+    ["milana-turin", "밀라나 (이반 튜린)", "“伊凡·图林”"],
     ["nadezhda", "나데즈다", "纳杰日达"],
     ["prado-lunin", "프라도 루닌", "普拉多·卢宁"],
     ["nastasya", "나스타샤", "“纳斯塔霞”"],
@@ -100,5 +100,7 @@
     ["perla", "펄라", "珀拉"],
     ["felice-godou", "펠리체 고두", "菲利切·高丢"],
     ["vivetta", "비베타", "维韦塔"]
-  ]
+  ],
+  "yesterday-sea": [["valerio", "성도 발레리오", "圣徒瓦列里奥"], ["drusa", "드루사", "德鲁莎"], ["nando-rubio", "난도 가르시아 루비오", "南多·加西亚·鲁比奥"], ["fedaira", "페다이라", "斐戴拉"], ["tacita", "타키타", "塔西塔"], ["aquila", "아퀼라", "阿奎拉"], ["gaius-iberia", "가이우스", "盖乌斯"], ["rufina", "루피나", "鲁菲纳"], ["salvador-iberia", "살바도르", "萨尔瓦多"], ["ignacio-iberia", "성도 이그나시오", "伊格纳西奥"]],
+  "time-forward": [["jaromir", "야로미르", "雅罗米尔"], ["lavrent-karnov", "라브렌티 카르노프", "拉夫连·卡尔诺夫"], ["katerina-zolotareva", "카테리나 졸로타료바", "卡特琳娜·佐洛塔列娃"], ["rodion-ursus", "로디온", "罗季昂"], ["kader", "카데르", "卡德尔"], ["taras", "타라스", "塔拉斯"], ["onira", "오니라", "奥妮拉"], ["aglaya", "아글라야", "阿格拉娅"], ["taisiya", "타이시야", "塔伊西亚"], ["zoraida", "조라이다", "佐莱达"], ["vladimir-ivanovich", "블라디미르 이바노비치", "弗拉基米尔·伊凡诺维奇"], ["angelia-ursus", "안겔리아", "安格利亚"], ["grand-duchess-elizaveta", "옐리자베타 대공", "叶莉莎女大公"]]
 }

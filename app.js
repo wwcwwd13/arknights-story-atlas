@@ -190,10 +190,16 @@
       <div class="drawer-section"><h3>줄거리 요약</h3><p class="story-summary">${esc(event.summary)}</p></div>
       ${crosslinksHtml}
       ${sequenceHtml}
-      <div class="drawer-section"><h3>기본 정보</h3><dl class="fact-grid"><dt>한국 공개</dt><dd>${event.dateStatus === 'projected' ? displayDate(event) : shortDate(event.krDate || event.date)}</dd><dt>중국 공개</dt><dd>${shortDate(event.cnDate)}</dd><dt>세력</dt><dd>${(event.factions || [lane.name]).map(esc).join(' · ')}</dd><dt>형식</dt><dd>${event.type === 'main' ? '메인 스토리' : event.type === 'collection' ? '스토리 모음' : '사이드 스토리 / 삽화'}</dd></dl></div>
+      <div class="drawer-section"><h3>기본 정보</h3><dl class="fact-grid">
+        <dt>${event.dateStatus === 'projected' ? '한국 공개' : '한국 첫 공개'}</dt><dd>${displayDate(event)}</dd>
+        ${event.krRerunDate ? `<dt>한국 재개방</dt><dd>${shortDate(event.krRerunDate)}</dd>` : ''}
+        <dt>중국 첫 공개</dt><dd>${shortDate(event.cnDate)}</dd>
+        <dt>세력</dt><dd>${(event.factions || [lane.name]).map(esc).join(' · ')}</dd>
+        <dt>형식</dt><dd>${event.type === 'main' ? '메인 스토리' : event.type === 'collection' ? '스토리 모음' : '사이드 스토리 / 삽화'}</dd>
+      </dl></div>
       ${people.length ? `<div class="drawer-section"><h3>확인된 등장인물 <small>${people.length}</small></h3>${peopleHtml(people, event.protagonists, event.lowImpactPeople, true)}</div>` : ''}
       ${actions.length ? `<div class="drawer-section"><h3>이야기 속 주요 행동</h3>${actionsHtml}</div>` : ''}
-      <div class="drawer-section"><h3>자료</h3>${event.koreanStoryUrl ? `<a class="source-link" href="${esc(event.koreanStoryUrl)}" target="_blank" rel="noopener noreferrer">줄거리 자료 (한국어) ↗</a> ` : ''}${event.koreanStoryExtraUrl ? `<a class="source-link" href="${esc(event.koreanStoryExtraUrl)}" target="_blank" rel="noopener noreferrer">4장 요약 (한국어) ↗</a> ` : ''}${event.koreanInfoUrl ? `<a class="source-link" href="${esc(event.koreanInfoUrl)}" target="_blank" rel="noopener noreferrer">사건 정보 (한국어) ↗</a> ` : ''}<a class="source-link" href="${esc(event.source)}" target="_blank" rel="noopener noreferrer">스토리 출처 ↗</a>${event.summarySource ? ` <a class="source-link" href="${esc(event.summarySource)}" target="_blank" rel="noopener noreferrer">줄거리 자료 (영어) ↗</a>` : ''}${event.krSource ? ` <a class="source-link" href="${esc(event.krSource)}" target="_blank" rel="noopener noreferrer">한국 게임 데이터 ↗</a>` : ''}${data.artCredits?.[event.id] ? ` <a class="source-link" href="${esc(data.artCredits[event.id])}" target="_blank" rel="noopener noreferrer">이미지 출처 ↗</a>` : ''}${event.dateStatus === 'projected' ? `<p class="empty-note">최근 공통 공개작의 서버 간 차이 ${data.projection.offsetDays}일을 적용해 예상 월을 표시했습니다.</p>` : ''}</div>
+      <div class="drawer-section"><h3>자료</h3>${event.koreanStoryUrl ? `<a class="source-link" href="${esc(event.koreanStoryUrl)}" target="_blank" rel="noopener noreferrer">줄거리 자료 (한국어) ↗</a> ` : ''}${event.koreanStoryExtraUrl ? `<a class="source-link" href="${esc(event.koreanStoryExtraUrl)}" target="_blank" rel="noopener noreferrer">4장 요약 (한국어) ↗</a> ` : ''}${event.koreanInfoUrl ? `<a class="source-link" href="${esc(event.koreanInfoUrl)}" target="_blank" rel="noopener noreferrer">사건 정보 (한국어) ↗</a> ` : ''}<a class="source-link" href="${esc(event.source)}" target="_blank" rel="noopener noreferrer">스토리 출처 ↗</a>${event.summarySource ? ` <a class="source-link" href="${esc(event.summarySource)}" target="_blank" rel="noopener noreferrer">${esc(event.summarySourceLabel || '줄거리 자료 (영어)')} ↗</a>` : ''}${event.krSource ? ` <a class="source-link" href="${esc(event.krSource)}" target="_blank" rel="noopener noreferrer">${esc(event.krSourceLabel || '한국 게임 데이터')} ↗</a>` : ''}${data.artCredits?.[event.id] ? ` <a class="source-link" href="${esc(data.artCredits[event.id])}" target="_blank" rel="noopener noreferrer">이미지 출처 ↗</a>` : ''}${event.dateStatus === 'projected' ? `<p class="empty-note">최근 공통 공개작 세 편의 서버 간 간격 중앙값 ${data.projection.offsetDays}일을 적용했습니다.</p>` : ''}</div>
     `);
   }
   function openLane(laneId) {
@@ -308,5 +314,8 @@
     if (suppressClick) { event.stopImmediatePropagation(); event.preventDefault(); suppressClick = false; }
   }, true);
   $('dataCount').textContent = `${data.events.length}개 스토리 항목`;
+  const dataDate = $('dataDate');
+  dataDate.dateTime = data.asOf;
+  dataDate.textContent = `${shortDate(data.asOf)} 기준`;
   render();
 })();

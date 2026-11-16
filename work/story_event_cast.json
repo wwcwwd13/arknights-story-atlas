@@ -87,5 +87,7 @@
   "foam-thunder":{"cast":["orchid","catapult"],"lead":"orchid","action":"낯선 포영국에서 동료들과 나라의 저주를 조사하며 괴물을 사냥합니다."},
   "jungle-knot":{"cast":["beagle","kroos","aphrissa"],"lead":"beagle","action":"볼리바르 테코마의 피난민을 지키기 위해 이동 경로를 바꾸고 검은 흐름에 휩쓸립니다."},
   "lime":{"cast":["angelina","timeslot"],"lead":"angelina","action":"림 빌리턴에서 분실된 복호화 장치를 찾다가 낯선 생물과 새로운 동료를 만나 긴 여행을 떠납니다."},
-  "moon-water":{"cast":["amiya","doctor","makoto-yuki"],"lead":"amiya","action":"라테라노에 나타난 특별과외활동부가 돌아갈 길을 찾도록 돕습니다."}
+  "moon-water":{"cast":["amiya","doctor","makoto-yuki"],"lead":"amiya","action":"라테라노에 나타난 특별과외활동부가 돌아갈 길을 찾도록 돕습니다."},
+  "yesterday-sea": {"cast": ["wiki-clementia", "homebound", "de-toledo", "wiki-aulus", "wiki-carmen", "irene", "gladiia"], "lead": "wiki-clementia", "action": "대정적 때 가라앉은 항구 도시를 찾아 이베리아 심문회와 공동 인양 사업을 시작합니다."},
+  "time-forward": {"cast": ["talulah", "prts-milana-turin", "wiki-fyodor-vladimirovich", "wiki-eloysius-gorchekova", "wiki-hellagur", "wiki-nine", "antosha", "wiki-olga-trepleva", "prts-silka"], "lead": "talulah", "action": "리유니온을 이끌고 국경에 고립된 감염자를 구한 뒤 제5집단군과 함께 수도로 향합니다."}
 }

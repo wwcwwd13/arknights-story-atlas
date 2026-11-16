@@ -1,19 +1,47 @@
 import datetime as dt
 import csv
+import hashlib
 import json
+import re
 import struct
 from collections import Counter
 from pathlib import Path
+from statistics import median
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 base = json.loads((ROOT / 'work' / 'data-base.json').read_text(encoding='utf-8'))
 cn = json.loads((ROOT / 'work' / 'activity_zh_CN.json').read_text(encoding='utf-8'))['basicInfo']
 kr = json.loads((ROOT / 'work' / 'activity_ko_KR_latest.json').read_text(encoding='utf-8'))['basicInfo']
-cn_by_name = {item['name']: item for item in cn.values()}
+cn_by_name = {item['name']: item for item in cn.values() if not item.get('isReplicate')}
+KR_ACTIVITY_SOURCE = 'https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json'
+AS_OF = '2026-11-16'
+KST = dt.timezone(dt.timedelta(hours=9))
+kr_announcements = {
+    'foam-thunder': ('2026-11-16', '포영을 뚫는 창뢰', 'https://m.cafe.naver.com/arknightskor/1250127'),
+}
 
-def offset(date, days=162):
-    return (dt.date.fromisoformat(date) + dt.timedelta(days=days)).isoformat()
+def korean_release(item):
+    return dt.datetime.fromtimestamp(item['startTime'], KST).date().isoformat()
+
+kr_reruns = {}
+for item in kr.values():
+    if item.get('isReplicate'):
+        title = item['name'].removesuffix('(재개방)').strip()
+        date = korean_release(item)
+        if date <= AS_OF and date > kr_reruns.get(title, ''):
+            kr_reruns[title] = date
+
+recent_release_pairs = (
+    ('2026-04-07', korean_release(kr['act51side'])),
+    ('2026-05-01', korean_release(kr['act4mainss'])),
+    ('2026-06-01', kr_announcements['foam-thunder'][0]),
+)
+projection_days = int(median((dt.date.fromisoformat(kr_date) - dt.date.fromisoformat(cn_date)).days
+                             for cn_date, kr_date in recent_release_pairs))
+
+def offset(date):
+    return (dt.date.fromisoformat(date) + dt.timedelta(days=projection_days)).isoformat()
 
 def month_anchor(date):
     return date[:7] + '-15'
@@ -21,14 +49,25 @@ def month_anchor(date):
 for event in base['events']:
     event['cnDate'] = event['date']
     item = cn_by_name.get(event['original'])
-    korea = kr.get(item['id']) if item else None
-    if korea:
-        event['date'] = dt.datetime.fromtimestamp(korea['startTime'], dt.timezone.utc).date().isoformat()
+    korea = kr.get(event.get('activityId') or (item['id'] if item else None))
+    if korea and korea.get('isReplicate'):
+        korea = None
+    announcement = kr_announcements.get(event['id'])
+    if korea or announcement:
+        if korea:
+            date, title, source = korean_release(korea), korea['name'], KR_ACTIVITY_SOURCE
+        else:
+            date, title, source = announcement
+            event['krSourceLabel'] = '한국 공식 공지'
+        event['date'] = date
         event['krDate'] = event['date']
-        event['title'] = korea['name']
+        event['title'] = title
         event['koreanStatus'] = 'official'
         event['dateStatus'] = 'confirmed'
-        event['krSource'] = 'https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json'
+        event['krSource'] = source
+        rerun = kr_reruns.get(title)
+        if rerun and rerun > date:
+            event['krRerunDate'] = rerun
     else:
         event['projectionMonth'] = offset(event['cnDate'])[:7]
         event['date'] = month_anchor(event['projectionMonth'])
@@ -145,18 +184,15 @@ main = [
     ('main-14','2024-10-31','14장 · 자비의 등대','慈悲灯塔','victoria','2024-05-01','official'),
     ('main-15','2025-09-16','15장 · 해리성 결합','解离复合','rhodes','2025-04-07','official'),
     ('main-16','2026-03-19','16장 · 비정상 스펙트럼','异常谱线','rhodes','2025-10-09','official'),
-    ('main-17',month_anchor(offset('2026-05-01')),'17장 · 임계 상전이','相变临界','rhodes','2026-05-01','provisional'),
+    ('main-17',korean_release(kr['act4mainss']),'17장 · ' + kr['act4mainss']['name'],'相变临界','rhodes','2026-05-01','official'),
 ]
 for id, date, title, original, lane, cn_date, translation in main:
-    projected = id == 'main-17'
     if id in {f'main-{number:02d}' for number in range(5, 14)}:
         translation = 'wiki'
     base['events'].append(dict(id=id, date=date, title=title, original=original, lane=lane, type='main',
-        koreanStatus=translation, dateStatus='projected' if projected else 'confirmed',
-        cnDate=cn_date, krDate=None if projected else date,
-        projectionMonth=date[:7] if projected else None,
+        koreanStatus=translation, dateStatus='confirmed', cnDate=cn_date, krDate=date,
         source='https://arknights.wiki.gg/wiki/Main_Theme',
-        krSource='https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json' if id in ('main-14','main-15','main-16') else None))
+        krSource=KR_ACTIVITY_SOURCE if id in ('main-14','main-15','main-16','main-17') else None))
 
 story_index = json.loads((ROOT / 'work' / 'story_index.json').read_text(encoding='utf-8'))
 summary_expansions = json.loads((ROOT / 'work' / 'summary_expansions.json').read_text(encoding='utf-8'))
@@ -184,6 +220,8 @@ for event in base['events']:
             event['summarySource'] += '/Synopsis'
     if story.get('summaryUrl'):
         event['summarySource'] = story['summaryUrl']
+    if story.get('summarySourceLabel'):
+        event['summarySourceLabel'] = story['summarySourceLabel']
     if event['id'] == 'main-00-04':
         event['summarySource'] = 'https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme'
     if event['id'] in korean_story_links:
@@ -437,6 +475,8 @@ for link in base['crosslinks']:
 
 portrait_sources = json.loads((ROOT / 'work' / 'portrait_sources.json').read_text(encoding='utf-8'))
 portrait_focus = {
+    'prts-aglaya': (.50, .08, 7.0),
+    'prts-aquila': (.54, .105, 7.0),
     'prts-ann-dream': (.45, .135, 6.3),
     'prts-arbiter': (.45, .085, 6.3),
     'prts-ashton-lime': (.49, .205, 6.3),
@@ -445,25 +485,37 @@ portrait_focus = {
     'prts-dream-midnight': (.51, .095, 6.3),
     'prts-felice-godou': (.515, .065, 5.6),
     'prts-dream-spot': (.44, .22, 6.3),
+    'prts-drusa': (.525, .087, 6.3),
+    'prts-fedaira': (.55, .18, 6.3),
     'prts-giulio': (.46, .105, 5.6),
     'prts-grandmother-petra': (.50, .24, 7.7),
     'prts-hanke': (.48, .105, 5.25),
     'prts-inala': (.45, .115, 6.3),
+    'prts-jaromir': (.49, .107, 6.3),
+    'prts-kader': (.485, .091, 7.0),
+    'prts-katerina-zolotareva': (.29, .083, 6.3),
     'prts-ken-amada': (.62, .085, 5.6),
     'prts-kyra': (.54, .16, 7.7),
+    'prts-lavrent-karnov': (.465, .08, 6.3),
     'prts-madison-lime': (.50, .195, 7.0),
     'prts-morphis': (.47, .135, 6.3),
+    'prts-nando-rubio': (.47, .222, 7.0),
     'prts-old-jose': (.41, .135, 5.6),
+    'prts-onira': (.45, .135, 6.3),
     'prts-paula-meminger': (.515, .125, 6.3),
     'prts-perla': (.50, .115, 6.3),
+    'prts-rodion-ursus': (.49, .101, 6.3),
     'prts-sachiko-father': (.55, .095, 6.3),
     'prts-sami-shaman': (.55, .195, 5.6),
     'prts-shale-radoslav': (.515, .165, 6.3),
     'prts-sunny-valley-contact': (.50, .10, 5.6),
     'prts-svetlana-buterina': (.60, .115, 6.3),
+    'prts-tacita': (.51, .097, 6.3),
+    'prts-taras': (.475, .10, 6.3),
     'prts-tin': (.50, .105, 6.3),
     'prts-hunter-lime': (.50, .14, 6.3),
     'prts-urulu': (.425, .245, 6.3),
+    'prts-valerio': (.225, .083, 6.3),
     'prts-wall-ash': (.51, .145, 6.3),
     'prts-wolf-dream': (.59, .09, 5.6),
     'wiki-alistair-ii': (.50, .44, 7.0),
@@ -626,11 +678,11 @@ for lane in base['lanes']:
     elif lane['id'] == 'iberia':
         lane['secondaryEmblem'] = 'assets/emblems-official/aegir.png'
 base['dateBasis'] = 'KR_FIRST_RELEASE_WITH_CN_PROJECTIONS'
-base['asOf'] = '2026-09-26'
-base['projection'] = {'basis': '2026-09-16 KR 사람들, 우리들 − 2026-04-07 CN 人们，我们', 'offsetDays': 162,
+base['asOf'] = AS_OF
+base['projection'] = {'basis': '최근 한국·중국 공통 공개작 3편의 공개 간격 중앙값', 'offsetDays': projection_days,
                       'display': '월 단위 예상 표기. 카드 좌표는 표시를 위해 해당 월 15일에 둠.',
                       'note': '향후 한국 공개일의 공식 발표가 아닙니다.'}
-base['source'] = 'https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json'
+base['source'] = KR_ACTIVITY_SOURCE
 base['art'] = {path.stem.replace('-mobile', ''): str(path.relative_to(ROOT)).replace('\\', '/')
                for path in (ROOT / 'assets' / 'banners').iterdir() if path.suffix in ('.jpg', '.png', '.webp')}
 base['artKind'] = {'main-00-04': 'shared'}
@@ -657,8 +709,21 @@ for filename in ('remaining_banner_sources.json', 'terra_log_banner_sources.json
     source_file = ROOT / 'work' / filename
     if source_file.exists():
         base['artCredits'].update(json.loads(source_file.read_text(encoding='utf-8')))
-(ROOT / 'data.js').write_text('/* 한국 서버 공개일과 공식 명칭을 우선으로 정리한 로컬 데이터. 상세 출처: README.md */\nwindow.STORY_DATA = '
-                              + json.dumps(base, ensure_ascii=False, indent=2) + ';\n', encoding='utf-8')
+data_script = ('/* 한국 서버 공개일과 공식 명칭을 우선으로 정리한 로컬 데이터. 상세 출처: README.md */\nwindow.STORY_DATA = '
+               + json.dumps(base, ensure_ascii=False, indent=2) + ';\n').encode('utf-8')
+(ROOT / 'data.js').write_bytes(data_script)
+
+index_path = ROOT / 'index.html'
+original_index = index_path.read_bytes()
+index = original_index
+for name, script in ((b'data.js', data_script), (b'app.js', (ROOT / 'app.js').read_bytes())):
+    version = hashlib.sha256(script.replace(b'\r\n', b'\n')).hexdigest()[:12].encode('ascii')
+    pattern = rb'src="' + re.escape(name) + rb'(?:\?v=[a-f0-9]+)?"'
+    index, count = re.subn(pattern, b'src="' + name + b'?v=' + version + b'"', index)
+    if count != 1:
+        raise ValueError(f'Expected one script tag for {name.decode()} in index.html')
+if index != original_index:
+    index_path.write_bytes(index)
 print('events', len(base['events']), 'confirmed', sum(e['dateStatus']=='confirmed' for e in base['events']),
       'projected', sum(e['dateStatus']=='projected' for e in base['events']))
 print('lanes', [(l['name'], min((e['date'] for e in base['events'] if e['lane']==l['id']), default='-')) for l in base['lanes']])

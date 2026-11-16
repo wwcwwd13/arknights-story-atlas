@@ -1,6 +1,6 @@
 /* 한국 서버 공개일과 공식 명칭을 우선으로 정리한 로컬 데이터. 상세 출처: README.md */
 window.STORY_DATA = {
-  "updated": "2026-09-26",
+  "updated": "2026-11-16",
   "dateBasis": "KR_FIRST_RELEASE_WITH_CN_PROJECTIONS",
   "source": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
   "lanes": [
@@ -193,7 +193,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2019-04-30",
       "krDate": "2020-01-16",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "로도스 아일랜드는 리유니온이 점령한 체르노보그에서 독타를 구출하고 재앙을 피해 용문에 도착합니다. 용문과 협력해 쫓던 감염자 소녀 미샤가 리유니온의 스컬슈레더와 남매라는 사실이 드러나고, 두 사람의 죽음은 아미야에게 깊은 상처를 남깁니다. 이어 폐허의 리유니온 거점에서 프로스트노바와 맞닥뜨립니다.",
@@ -250,6 +249,7 @@ window.STORY_DATA = {
       "krDate": "2020-02-05",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2020-11-26",
       "storyFocus": "카시미어 마을 · 스카디 등장",
       "storyArc": "심해 연작의 초기 연결점",
       "storyArcSource": "https://arknights.wiki.gg/wiki/Story/Movements/Glimpse_of_the_Depths",
@@ -293,7 +293,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2019-06-09",
       "krDate": "2020-02-26",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "리유니온이 용문 근위국 본부를 점령하자 첸은 함정과 내부의 불신을 뚫고 반격을 이끕니다. 체르노보그 사건 뒤에도 감염자를 둘러싼 갈등은 끝나지 않았고, 로도스 아일랜드와 용문의 협력은 다시 시험대에 오릅니다.",
@@ -403,11 +402,12 @@ window.STORY_DATA = {
       "lane": "siesta",
       "type": "side",
       "koreanStatus": "official",
-      "source": "https://wiki.biligame.com/arknights/%E7%81%AB%E8%93%9D%E4%B9%8B%E5%BF%83",
-      "cnDate": "2019-08-15",
+      "source": "https://ak.hypergryph.com/news/2019084784",
+      "cnDate": "2019-08-27",
       "krDate": "2020-04-29",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2021-01-20",
       "summary": "로도스 아일랜드 일행이 시스타의 옵시디언 축제에 도착합니다. 휴양지의 화산이 분화할 조짐을 보이자 시장의 딸 실론과 함께 재난을 막으려 합니다. 로도스는 화산 피해 없이 축제를 마무리하고, 시스타는 이후 이동도시가 되기로 합니다. 쏜즈의 단편에는 바다의 불길한 암시도 남습니다.",
       "factions": [
         "시스타",
@@ -459,6 +459,7 @@ window.STORY_DATA = {
       "krDate": "2020-05-27",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2021-05-14",
       "summary": "산운 물류의 바이슨이 용문의 펭귄 로지스틱스와 일하게 됩니다. 축제의 밤에 자동차 추격전과 마피아의 음모가 겹치며 소동에 휘말립니다. 사건 뒤 라플란드가 용문에 나타나 텍사스를 찾고, 이 만남은 시라쿠사 이야기로 이어집니다.",
       "factions": [
         "용문",
@@ -514,7 +515,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2019-12-24",
       "krDate": "2020-06-30",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "로도스 아일랜드와 용문 근위국이 리유니온을 몰아내는 사이 메피스토의 군단은 아군까지 공격합니다. 파우스트와 프로스트노바의 마지막 선택이 이어지고, 용문의 검은 우비 부대가 감염자를 숙청하면서 승리의 대가가 드러납니다.",
@@ -738,6 +738,7 @@ window.STORY_DATA = {
       "krDate": "2020-10-28",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2021-12-17",
       "summary": "재앙으로 고립된 라이타니엔의 월루몽드에서 로도스 오퍼레이터 아트로가 숨집니다. 폴리닉과 스즈란이 진상을 추적하는 사이 감염자와 주민의 갈등이 커지고, 머드락이 이끄는 리유니온 잔당까지 얽힙니다.",
       "factions": [
         "라이타니엔",
@@ -780,6 +781,7 @@ window.STORY_DATA = {
       "krDate": "2020-12-10",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2021-09-07",
       "storyFocus": "카즈델 내전 · 바벨",
       "storyArc": "카즈델·바벨 흐름",
       "summary": "카즈델 내전 속 용병 W와 동료들이 바벨에 합류하는 과정을 따라갑니다. 테레시아와 바벨의 몰락 뒤 W는 우르수스로 떠나 리유니온에 몸을 맡깁니다. 체르노보그에서 W는 살카즈 용병의 희생을 막으려 탈룰라와 맞설 결심을 하며 메인 7장의 무대로 향합니다.",
@@ -827,7 +829,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2020-04-25",
       "krDate": "2020-12-30",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "탈룰라가 체르노보그의 핵심 구역을 용문으로 향하게 하자 로도스 아일랜드가 도시에 잠입합니다. 충돌은 염국과 우르수스의 전쟁으로 번질 수도 있습니다. 로도스는 리유니온의 패트리어트와 맞서면서 관제탑에 도달할 길을 엽니다.",
@@ -895,6 +896,7 @@ window.STORY_DATA = {
       "krDate": "2021-02-25",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2022-02-04",
       "summary": "가비알이 고향 아카후알라로 돌아가자 일행의 비행기가 격추됩니다. 밀림의 여러 부족과 옛 친구들을 만나며 잃어버린 엔진을 찾습니다. 가비알과 주마마가 폭주한 기계를 멈추고, 비행기를 격추한 이가 가비알을 붙잡아 두려던 토미미였다는 사실을 알게 됩니다.",
       "factions": [
         "사르곤",
@@ -1006,6 +1008,7 @@ window.STORY_DATA = {
       "krDate": "2021-04-08",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2022-03-31",
       "summary": "마리아 니어는 니어 가문의 기사 작위를 지키려 카시미어 기사 대회에 참가합니다. 기업과 기사협회의 음모로 죽음에 가까운 경기에 내몰리지만, 돌아온 언니 마가렛이 경기장에 뛰어들어 그녀를 구합니다. 이 귀환이 다음 대회의 갈등을 촉발합니다.",
       "factions": [
         "카시미어",
@@ -1072,7 +1075,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2020-11-01",
       "krDate": "2021-04-30",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "로도스 아일랜드가 체르노보그의 관제탑에 도달하는 동안, 탈룰라가 감염자 운동을 세운 과거와 알리나를 잃은 과정이 드러납니다. 아미야와 첸은 탈룰라 안에 남은 카셰이의 사상과 맞서며 도시의 충돌을 막으려 합니다.",
@@ -1128,6 +1130,7 @@ window.STORY_DATA = {
       "krDate": "2021-06-22",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2022-05-26",
       "summary": "사일런스가 부당하게 수감된 앤서니 사이먼을 맨스필드 교도소에서 탈출시키려 합니다. 라인 랩 내부의 권력 다툼이 탈옥 작전 뒤에 얽혀 있습니다. 사리아가 간수로 위장해 탈옥을 돕고, 앤서니의 신병을 두고 사일런스와 라인 랩의 뮤엘시스가 대립합니다.",
       "factions": [
         "컬럼비아",
@@ -1237,6 +1240,7 @@ window.STORY_DATA = {
       "krDate": "2021-07-30",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2022-07-14",
       "summary": "라바와 크루스는 니엔의 자매 석을 찾아 염국의 산속으로 향하다 그림 속 마을에 갇힙니다. 밤낮이 뒤섞인 마을의 주민과 먹의 괴물 사이에서 현실과 그림의 경계가 흐려지고, 석이 인간과 맺은 약속이 드러납니다.",
       "factions": [
         "염국",
@@ -1274,11 +1278,12 @@ window.STORY_DATA = {
       "lane": "sargon",
       "type": "side",
       "koreanStatus": "official",
-      "source": "https://wiki.biligame.com/arknights/%E6%BA%90%E7%9F%B3%E5%B0%98%E8%A1%8C%E5%8A%A8",
+      "source": "https://ak.hypergryph.com/news/2021039884",
       "cnDate": "2021-03-09",
       "krDate": "2021-08-18",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-09-19",
       "summary": "다른 세계에서 사르곤으로 넘어온 레인보우 소대가 로도스 아일랜드 일행과 협력합니다. 레비의 실험이 낳은 위협을 막으며 낯선 테라에 적응합니다. 레인보우 소대는 진화의 정수를 파괴한 뒤 로도스 아일랜드의 협력자로 남아 테라를 여행합니다.",
       "factions": [
         "사르곤",
@@ -1330,6 +1335,7 @@ window.STORY_DATA = {
       "krDate": "2021-09-30",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2022-10-04",
       "summary": "켈시가 사르곤, 우르수스, 림 빌리턴, 빅토리아를 거쳐 남긴 발자취를 되짚습니다. 그녀가 각지에 만든 관계와 오래 준비해 온 계획이 드러납니다. 복수를 끝낸 엘리엇은 패신저가 되어 켈시를 다시 찾고, 폴리닉과 하이디도 그녀가 남긴 관계로 연결됩니다.",
       "factions": [
         "로도스 아일랜드",
@@ -1378,6 +1384,7 @@ window.STORY_DATA = {
       "krDate": "2021-10-21",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2022-11-25",
       "storyFocus": "이베리아 살비엔토 · 어비설 헌터스",
       "storyArc": "심해 연작",
       "storyArcSource": "https://arknights.wiki.gg/wiki/Story/Movements/Glimpse_of_the_Depths",
@@ -1493,6 +1500,7 @@ window.STORY_DATA = {
       "krDate": "2022-01-14",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2023-02-28",
       "summary": "첸과 옛 용문 동료들이 볼리바르의 도솔레스 무술대회에 참여합니다. 화려한 관광도시 뒤에서 테러 계획과 내전의 그림자가 드러납니다. 첸과 린 위샤가 판초의 테러를 막고, 판초의 자녀는 사건 뒤 로도스 아일랜드에 합류합니다.",
       "factions": [
         "볼리바르",
@@ -1592,7 +1600,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2021-09-17",
       "krDate": "2022-03-17",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "빅토리아의 군용 오리지늄 무기 도난 사건을 쫓아 혼과 백파이프가 힐록에 도착합니다. 그곳에서 타라 민족의 분노와 더블린의 무장 봉기를 발견하고, 빅토리아 전체의 위기로 이어질 첫 전투를 겪습니다.",
@@ -1691,6 +1698,7 @@ window.STORY_DATA = {
       "krDate": "2022-04-28",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2023-04-14",
       "summary": "마가렛 니어는 동생을 대신해 카시미어 기사 대회에 복귀하고, 로도스 아일랜드와 붉은 솔 기사단은 경기장 밖에서 감염자 기사들을 돕습니다. 마가렛과 감염자 기사 디카이오폴리스의 결승을 상업연합회가 무너뜨리려 하지만, 두 기사의 연대가 도시의 권력 구조에 균열을 냅니다.",
       "factions": [
         "카시미어",
@@ -1770,6 +1778,7 @@ window.STORY_DATA = {
       "krDate": "2022-06-30",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2023-06-13",
       "summary": "로도스 아일랜드의 쉐라그 방문이 권력 재편의 한가운데로 이어집니다. 실버애쉬와 종교·귀족 세력이 나라의 미래를 놓고 대립합니다. 성녀 엔야가 직접 내려와 세 가문의 싸움을 멈추고, 쉐라그는 실버애쉬 주도의 개방과 근대화로 방향을 틉니다.",
       "factions": [
         "쉐라그",
@@ -1826,6 +1835,7 @@ window.STORY_DATA = {
       "krDate": "2022-07-29",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2023-08-11",
       "summary": "화중인 사건 뒤 염국 상촉에서 세월의 행방을 좇습니다. 술잔을 둘러싼 단서로 크루스와 리 씨 일행, 염국 감찰 세력의 이해가 교차합니다. 술잔을 둘러싼 함정 뒤에 세월의 둘째 형제가 있음을 알게 되고, 링은 자매들과 함께 그의 분신을 물리칩니다.",
       "factions": [
         "염국",
@@ -1930,6 +1940,7 @@ window.STORY_DATA = {
       "krDate": "2022-09-16",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2023-09-21",
       "summary": "라테라노의 첫 만국 정상회담 중 공증소 집행관 에젤이 산크타·살카즈 혼혈 소녀 세실리아를 보호합니다. 길잡이 교단의 수장 안도아인은 라테라노가 외부인을 외면해 온 이유를 교황에게 직접 묻습니다.",
       "factions": [
         "라테라노",
@@ -1976,7 +1987,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2022-04-14",
       "krDate": "2022-10-19",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "로도스 아일랜드와 더블린이 카즈델 군사위원회가 점령한 런디니움으로 향합니다. 귀향한 시즈는 글래스고 갱과 도시 자구군에 합류하지만, 살카즈의 군사력과 빅토리아 왕위 문제가 한꺼번에 앞을 가로막습니다.",
@@ -2051,6 +2061,7 @@ window.STORY_DATA = {
       "krDate": "2022-11-03",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2023-11-28",
       "storyFocus": "이베리아 우인호 · 심문회와 어비설 헌터스",
       "storyArc": "심해 연작",
       "storyArcSource": "https://arknights.wiki.gg/wiki/Story/Movements/Glimpse_of_the_Depths",
@@ -2113,6 +2124,7 @@ window.STORY_DATA = {
       "krDate": "2022-12-27",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-01-05",
       "summary": "에벤홀츠가 라이타니엔의 음악회에 초대됩니다. 같은 저주를 짊어진 크라이데를 만나고, 두 사람의 운명이 과거의 실험과 연결됨을 알게 됩니다. 크라이데는 에벤홀츠를 지키려 저주를 받아들이고 죽습니다. 에벤홀츠는 남은 마왕의 목소리를 안은 채 로도스에 옵니다.",
       "factions": [
         "라이타니엔",
@@ -2156,6 +2168,7 @@ window.STORY_DATA = {
       "krDate": "2023-01-13",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-02-06",
       "summary": "두린의 지하 도시 제루에르차에 재난이 닥칠 수 있다는 소식을 듣고 가비알 일행이 찾아갑니다. 거대한 휴양도시의 축제 뒤에서 돔의 결함과 주민 간 갈등을 해결합니다. 두린 주민들은 무너지는 지하 도시에서 모두 탈출하고, 아카후알라에 정착하면서 지상과 지하의 교류가 시작됩니다.",
       "factions": [
         "사르곤",
@@ -2254,6 +2267,7 @@ window.STORY_DATA = {
       "krDate": "2023-03-14",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-03-05",
       "summary": "라인 랩 연구소에서 인질 사건이 벌어지며 도로시의 비밀 실험이 수면 위로 드러납니다. 이상적인 세계를 만들려는 연구가 타인에게 어떤 대가를 요구하는지 묻습니다. 도로시의 실험은 중단되지만 크리스틴의 하늘을 향한 계획은 남아, 라인 랩의 다음 위기인 론 트레일로 이어집니다.",
       "factions": [
         "컬럼비아",
@@ -2392,7 +2406,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2022-10-11",
       "krDate": "2023-04-27",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "시즈가 빅토리아 왕권의 상징인 검을 찾아 과거의 계승 문제를 마주합니다. 한편 로도스 아일랜드와 런디니움 자구군은 카즈델의 군수 생산 시설을 끊으려 하지만, 살카즈 왕정의 역사가 아미야의 힘과 맞닿습니다.",
@@ -2463,6 +2476,7 @@ window.STORY_DATA = {
       "krDate": "2023-05-23",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-05-23",
       "summary": "텍사스가 과거를 떠나온 시라쿠사로 돌아갑니다. 새 도시의 출범을 앞두고 마피아 가문들과 늑대 군주 사이에서 자신의 길을 결정합니다. 레온투초가 마피아의 영향에서 벗어난 도시를 세우고, 텍사스와 라플란드는 각자의 방식으로 늑대 군주와 결별합니다.",
       "factions": [
         "시라쿠사",
@@ -2528,6 +2542,7 @@ window.STORY_DATA = {
       "krDate": "2023-07-13",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-08-21",
       "summary": "로도스 아일랜드를 떠난 리드가 빅토리아의 타라 난민을 돕습니다. 더블린과 빅토리아의 압박 속에서 자매의 그림자를 벗어나려 합니다. 리드는 난민을 이끌며 언니 에블라나의 명령과 다른 길을 택하고, 에블라나는 런디니움을 향한 전쟁을 선언합니다.",
       "factions": [
         "빅토리아",
@@ -2578,6 +2593,7 @@ window.STORY_DATA = {
       "krDate": "2023-07-28",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-07-18",
       "summary": "세월의 부활에 대비해 이동하는 염국의 국경도시 옥문이 재앙과 산해중의 공격을 동시에 맞습니다. 오랫동안 옥문을 지킨 중악은 옛 인연과 대결하고 동료들과 도시를 지킨 뒤, 다음 길을 향해 떠납니다.",
       "factions": [
         "염국",
@@ -2726,7 +2742,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2023-04-06",
       "krDate": "2023-10-24",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "살카즈의 탑이 전쟁의 무기로 작동하자 빅토리아 대공들이 움직입니다. 로도스 아일랜드와 런디니움 자구군은 침투와 내부 배신으로 큰 피해를 입고, 시즈 일행은 봉쇄된 노포트에서 주민들을 지키려 합니다.",
@@ -2812,6 +2827,7 @@ window.STORY_DATA = {
       "krDate": "2023-11-07",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-11-21",
       "summary": "크리스틴의 실종 뒤 컬럼비아 트라이마운츠의 연구와 군사 세력이 움직입니다. 라인 랩과 로도스 아일랜드가 맞물린 가운데 하늘을 향한 실험이 테라를 바꿉니다. 크리스틴은 하늘을 뚫고 우주에 남으며, 사리아와 사일런스는 분열된 라인 랩을 다시 세우기 시작합니다.",
       "factions": [
         "컬럼비아",
@@ -2878,6 +2894,7 @@ window.STORY_DATA = {
       "krDate": "2023-12-21",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2024-12-24",
       "summary": "60년간 사라졌던 라테라노의 이동 수도원이 구조 신호를 보냅니다. 공증소의 조사팀은 안에서 예상 밖의 주민들과 오랜 갈등을 발견합니다. 주민들은 라테라노의 보호를 받지만 아르투리아는 라이타니엔으로 떠나고, 페데리코의 추적은 츠빌링슈튀르메로 이어집니다.",
       "factions": [
         "라테라노",
@@ -2931,6 +2948,7 @@ window.STORY_DATA = {
       "krDate": "2024-01-16",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2025-01-03",
       "summary": "에이야퍄들라가 부모의 지인에게 초대받아 새 시스타의 화산을 조사합니다. 돌리라는 존재와 만나며 가족의 기억을 따라가는 여정을 시작합니다. 에이야퍄들라는 부모의 연구와 자신을 지키려 했던 선택을 알게 되고, 새 시스타 주민들은 옛 마을의 기억을 안고 이주합니다.",
       "factions": [
         "시스타",
@@ -3026,6 +3044,7 @@ window.STORY_DATA = {
       "krDate": "2024-03-19",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2025-02-28",
       "summary": "블랙스틸 팀이 붕괴 직전의 컬럼비아 도시 데이비스타운에 파견됩니다. 제시카는 은행의 부패가 낳은 위기 앞에서 회사의 명령과 주민 보호 사이에서 선택합니다. 제시카는 주민을 구하려 회사 지시를 거스른 대가로 변경에서 복무하고, 무너진 도시를 외면하지 않기로 합니다.",
       "factions": [
         "컬럼비아",
@@ -3068,7 +3087,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2023-10-08",
       "krDate": "2024-04-16",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": null,
       "summary": "노포트의 봉쇄를 돌파한 시즈가 빅토리아의 향방을 스스로 정하려 합니다. 아미야가 고해신부에게 납치되자 독타가 추적에 나서고, 로도스 아일랜드는 살카즈의 피의 의식과 테라 전체에 번질 재앙을 발견합니다.",
@@ -3161,6 +3179,7 @@ window.STORY_DATA = {
       "krDate": "2024-04-30",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2025-05-22",
       "summary": "라이타니엔의 수도가 쌍여제 즉위를 기념하는 동안 아르투리아와 추종자들이 마왕의 부활을 꾀합니다. 과거의 공포와 현재의 권력이 맞섭니다. 페데리코는 아르투리아를 쫓고 에벤홀츠는 마왕의 유산과 맞섭니다. 사건 뒤 라테라노의 율법이 더 큰 재앙을 예고합니다.",
       "factions": [
         "라이타니엔",
@@ -3217,6 +3236,7 @@ window.STORY_DATA = {
       "krDate": "2024-06-21",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2025-06-20",
       "summary": "쉐라그가 관광과 근대화로 변한 지 3년 뒤 첫 빅토리아 외교 사절이 찾아옵니다. 은심호 열차에서 쉐라그의 자립과 외세의 압력이 충돌합니다. 외교 갈등이 끝난 뒤 쉐라그의 비밀 무기 공장이 드러나며, 지도자들은 외세에 맞설 준비를 서두릅니다.",
       "factions": [
         "쉐라그",
@@ -3317,6 +3337,7 @@ window.STORY_DATA = {
       "krDate": "2024-07-31",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2025-07-03",
       "summary": "옥문 사건 뒤 좌락은 염국의 곡창 대황에서 천 년 넘게 농민과 살아온 슈를 만납니다. 병든 땅과 수확을 위협하는 힘에 맞서는 동안 슈의 가족과 염국 조정이 세월의 부활을 놓고 품은 계획이 얽힙니다.",
       "factions": [
         "염국",
@@ -3434,6 +3455,7 @@ window.STORY_DATA = {
       "krDate": "2024-10-10",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2025-09-30",
       "storyFocus": "카즈델 내전 · 바벨",
       "storyArc": "카즈델·바벨 흐름",
       "summary": "테레시아의 바벨은 카즈델 내전에서 살카즈의 공존을 꿈꾸지만 테레시스의 군사위원회와 전쟁을 치릅니다. 독타는 오리지늄 계획과 바벨 사이에서 갈등하다 함선 방어를 해제해 테레시아 암살의 길을 엽니다. 테레시아는 죽기 전 독타의 기억을 지우고 아미야와 켈시에게 자신의 뜻을 맡깁니다.",
@@ -3492,7 +3514,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2024-05-01",
       "krDate": "2024-10-31",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
       "summary": "런디니움의 탑에서 오리지늄 재앙이 번지고 살카즈의 오랜 비극이 다시 드러납니다. 로도스 아일랜드는 테레시아와 대면해 그녀가 준비한 선택을 받아들이고, 도시와 테라를 집어삼킬 전쟁을 끝내려 합니다.",
@@ -3576,6 +3597,7 @@ window.STORY_DATA = {
       "krDate": "2024-12-03",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2025-11-27",
       "storyFocus": "에기르 해저 도시 · 이베리아 사절단",
       "storyArc": "심해 연작",
       "storyArcSource": "https://arknights.wiki.gg/wiki/Story/Movements/Glimpse_of_the_Depths",
@@ -3637,6 +3659,7 @@ window.STORY_DATA = {
       "krDate": "2025-01-16",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2026-01-06",
       "summary": "페페가 사르곤 고향의 유물을 찾으러 돌아옵니다. 박물관 전시를 준비하던 중 고대 미라가 깨어나며 탐험이 예상 밖의 방향으로 흘러갑니다. 페페는 보석에 묶인 고대 미라를 멈춘 뒤 그의 마지막 부탁을 들어주고, 박물관의 유물을 계기로 새 탐사에 나섭니다.",
       "factions": [
         "사르곤",
@@ -3779,6 +3802,7 @@ window.STORY_DATA = {
       "krDate": "2025-04-08",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2026-02-24",
       "summary": "런디니움 전쟁 뒤 주민들이 도시를 다시 세우기 시작합니다. 시즈와 글래스고 갱은 승리 이후 빅토리아의 통치와 자신들의 삶을 돌아봅니다. 국회 의장이 된 시즈는 공적 책임 때문에 옛 친구들과 멀어지지만, 글래스고 갱과 다시 만나 함께했던 시간을 잊지 않겠다고 약속합니다.",
       "factions": [
         "빅토리아",
@@ -3832,6 +3856,7 @@ window.STORY_DATA = {
       "krDate": "2025-04-24",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2026-05-07",
       "summary": "마피아의 영향에서 벗어나려는 새 볼시니가 축제를 준비합니다. 시장 대행 비질의 사고가 도시를 다시 혼란에 빠뜨릴 음모로 이어집니다. 축제의 음모가 정리된 뒤 라플란드는 늑대 군주들의 새 대표가 되고, 새 볼시니는 마피아의 잔재와 계속 마주합니다.",
       "factions": [
         "시라쿠사",
@@ -3895,6 +3920,7 @@ window.STORY_DATA = {
       "krDate": "2025-06-05",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2026-06-05",
       "storyFocus": "이베리아 창백한 바다 · 쏜즈",
       "storyArc": "심해 연작",
       "storyArcSource": "https://arknights.wiki.gg/wiki/Story/Movements/Glimpse_of_the_Depths",
@@ -3941,6 +3967,7 @@ window.STORY_DATA = {
       "krDate": "2025-07-17",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2026-07-06",
       "summary": "염국 수도 백조에서 세월 조각과 가족들이 다시 얽힙니다. 요리 축제와 오래된 정치적 비밀을 둘러싸고 도시의 평온이 흔들립니다. 요리사 유가 세월의 막내 조각임이 드러나고, 형 왕은 가족의 물건을 모아 세월 본체와의 결전을 향합니다.",
       "factions": [
         "염국",
@@ -4074,6 +4101,7 @@ window.STORY_DATA = {
       "krDate": "2025-08-28",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2026-08-27",
       "summary": "타라 수도에서 일어난 사건을 한 여인과 작가의 대화로 되짚습니다. 더블린이 몰락에 이르기까지의 선택과 후유증을 기록합니다. 죽은 줄 알았던 에블라나가 사건의 뒤편에서 모습을 드러내고, 이후 로도스 아일랜드에 오퍼레이터로 들어옵니다.",
       "factions": [
         "빅토리아",
@@ -4114,7 +4142,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2025-04-07",
       "krDate": "2025-09-16",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
       "summary": "런디니움 위기에서 몇 년이 흐른 뒤 로도스 아일랜드 함선에 설명하기 어려운 현상이 퍼집니다. 프리스티스가 오리지늄과 연결된 계획을 드러내며 함선이 무너지고, 독타와 아미야는 켈시를 잃은 채 새로운 위협과 마주합니다.",
@@ -4168,6 +4195,7 @@ window.STORY_DATA = {
       "krDate": "2025-10-14",
       "dateStatus": "confirmed",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
+      "krRerunDate": "2026-11-05",
       "storyFocus": "라테라노 · 두 번째 만국 정상회담",
       "storyArc": "라테라노 흐름",
       "summary": "두 번째 만국 정상회담이 열린 라테라노에서 산크타의 날개와 후광이 변하고, 엑시아는 귀향해 도시의 이상을 추적합니다. 프리스티스가 개입한 '율법'은 모든 종족에게 후광을 주려 하고, 페데리코와 안도아인은 그 체계를 파괴해 재앙을 멈춥니다. 산크타의 공감 방식이 바뀌면서 도시의 신앙과 질서가 다시 쓰입니다.",
@@ -4443,7 +4471,6 @@ window.STORY_DATA = {
       "dateStatus": "confirmed",
       "cnDate": "2025-10-09",
       "krDate": "2026-03-19",
-      "projectionMonth": null,
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
       "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
       "summary": "켈시를 되살릴 단서를 찾아 로도스 아일랜드가 우르수스로 돌아갑니다. 거대한 오리지늄 광맥의 변화와 제국의 탄압 속에서 새로운 혁명의 조짐이 나타납니다. 광산 학살의 생존자들이 리유니온에 소식을 전하고, 제국의 탄압에 맞선 시위가 여러 군단을 움직이게 합니다.",
@@ -4868,18 +4895,17 @@ window.STORY_DATA = {
     },
     {
       "id": "main-17",
-      "date": "2026-10-15",
+      "date": "2026-10-14",
       "title": "17장 · 임계 상전이",
       "original": "相变临界",
       "lane": "ursus",
       "type": "main",
-      "koreanStatus": "provisional",
-      "dateStatus": "projected",
+      "koreanStatus": "official",
+      "dateStatus": "confirmed",
       "cnDate": "2026-05-01",
-      "krDate": null,
-      "projectionMonth": "2026-10",
+      "krDate": "2026-10-14",
       "source": "https://arknights.wiki.gg/wiki/Main_Theme",
-      "krSource": null,
+      "krSource": "https://github.com/PuppiizSunniiz/ArknightsGameData_YoStar/blob/master/ko_KR/gamedata/excel/activity_table.json",
       "summary": "로도스 아일랜드가 켈시를 찾을 단서를 따라 우르수스의 위성도시 젤그라드로 갑니다. 제국군의 파벌 갈등과 석관 연구가 충돌하며 나라 전체의 위기로 번집니다. 우르수스 제1군의 석관 연구와 제4군의 도시 장악 시도가 겹치며 로도스의 구조 임무가 제국의 권력 싸움에 휘말립니다.",
       "factions": [
         "우르수스",
@@ -4905,6 +4931,12 @@ window.STORY_DATA = {
         "prts-elita-valuyeva",
         "prts-klim",
         "talulah",
+        "closure",
+        "wiki-mon3tr",
+        "raidian",
+        "wiki-eloysius-gorchekova",
+        "wiki-fyodor-vladimirovich",
+        "wiki-hierda",
         "kaltsit",
         "prts-andrian",
         "prts-ivan-turin",
@@ -4933,17 +4965,19 @@ window.STORY_DATA = {
     },
     {
       "id": "foam-thunder",
-      "date": "2026-11-15",
-      "title": "거품 그림자와 푸른 천둥",
+      "date": "2026-11-16",
+      "title": "포영을 뚫는 창뢰",
       "original": "泡影苍霆",
       "lane": "rhodes",
       "type": "side",
-      "koreanStatus": "provisional",
+      "koreanStatus": "official",
       "source": "https://wiki.biligame.com/arknights/%E6%B3%A1%E5%BD%B1%E8%8B%8D%E9%9C%86",
+      "activityId": "act50side",
       "cnDate": "2026-06-01",
-      "projectionMonth": "2026-11",
-      "krDate": null,
-      "dateStatus": "projected",
+      "krSourceLabel": "한국 공식 공지",
+      "krDate": "2026-11-16",
+      "dateStatus": "confirmed",
+      "krSource": "https://m.cafe.naver.com/arknightskor/1250127",
       "summary": "낯선 포영국에서 깨어난 예비 A6팀의 오키드와 캐터펄트는 모습이 달라진 동료들을 만납니다. 두 사람은 나라의 저주와 '뇌의 주인'을 둘러싼 수수께끼를 풀기 위해 새 무기를 들고 사냥에 나섭니다.",
       "factions": [
         "로도스 아일랜드",
@@ -4951,7 +4985,7 @@ window.STORY_DATA = {
         "포영국"
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream",
-      "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.7",
+      "koreanInfoUrl": "https://namu.moe/w/%ED%8F%AC%EC%98%81%EC%9D%84%20%EB%9A%AB%EB%8A%94%20%EC%B0%BD%EB%A2%B0",
       "protagonists": [
         "orchid",
         "prts-bokuka",
@@ -4964,15 +4998,14 @@ window.STORY_DATA = {
         "prts-dream-midnight",
         "catapult",
         "midnight",
+        "prts-dream-spot",
         "prts-previous-ruler",
         "spot",
-        "popukar",
-        "prts-dream-spot"
+        "popukar"
       ],
       "lowImpactPeople": [
         "spot",
-        "popukar",
-        "prts-dream-spot"
+        "popukar"
       ],
       "sequences": [
         "monster-hunter"
@@ -5041,7 +5074,7 @@ window.STORY_DATA = {
     {
       "id": "lime",
       "date": "2027-01-15",
-      "title": "대지가 라임이 될 때까지",
+      "title": "대지가 오렌지 한 알이 될 때까지",
       "original": "直到大地变成一颗酸橙",
       "lane": "rim-billiton",
       "type": "side",
@@ -5114,6 +5147,7 @@ window.STORY_DATA = {
         "로도스 아일랜드"
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Sur_le_lac_lune_vivante",
+      "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.12",
       "protagonists": [
         "makoto-yuki",
         "amiya",
@@ -5147,6 +5181,133 @@ window.STORY_DATA = {
       ],
       "sequences": [
         "other-crossovers"
+      ]
+    },
+    {
+      "id": "yesterday-sea",
+      "date": "2027-03-15",
+      "title": "어제의 바다",
+      "original": "昨日海",
+      "lane": "iberia",
+      "type": "side",
+      "koreanStatus": "provisional",
+      "source": "https://ak.hypergryph.com/news/5101.html",
+      "activityId": "act52side",
+      "cnDate": "2026-10-09",
+      "projectionMonth": "2027-03",
+      "krDate": null,
+      "dateStatus": "projected",
+      "summary": "에기르 집정관 클레멘티아는 이베리아 심문회와 함께 대정적 때 가라앉은 항구 도시 레아 이베리아의 인양을 추진합니다. 섬 주민 출신 기술자 나초와 선원 테피가 사업에 얽히고, 심해 교회의 아울루스와 옛 성도 발레리오가 각자의 목적을 위해 인양을 흔듭니다. 도시의 위치를 가리키던 옛 좌표가 사라진 뒤, 나초 일행은 조상들이 남긴 볼트를 이용해 새 좌표를 밝힙니다. 테피는 조선소 사람들과 함께 시민 함대를 꾸려 인양에 나섭니다.",
+      "factions": [
+        "이베리아",
+        "에기르",
+        "이베리아 심문회",
+        "심해 교회",
+        "섬 주민 상호부조회",
+        "어비설 헌터스"
+      ],
+      "summarySource": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7",
+      "summarySourceLabel": "게임 대사 (중국어)",
+      "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.13",
+      "protagonists": [
+        "wiki-clementia",
+        "homebound",
+        "de-toledo",
+        "wiki-aulus"
+      ],
+      "peopleOrder": [
+        "wiki-clementia",
+        "homebound",
+        "de-toledo",
+        "wiki-aulus",
+        "wiki-carmen",
+        "irene",
+        "gladiia",
+        "prts-valerio",
+        "prts-drusa",
+        "prts-nando-rubio",
+        "prts-fedaira",
+        "prts-tacita",
+        "prts-aquila",
+        "prts-gaius-iberia",
+        "prts-rufina",
+        "prts-salvador-iberia",
+        "prts-ignacio-iberia"
+      ],
+      "lowImpactPeople": [],
+      "sequences": [
+        "depths"
+      ]
+    },
+    {
+      "id": "time-forward",
+      "date": "2027-04-15",
+      "title": "시간이여, 앞으로!",
+      "original": "时间啊，向前！",
+      "lane": "ursus",
+      "type": "side",
+      "koreanStatus": "provisional",
+      "source": "https://ak.hypergryph.com/news/0787",
+      "activityId": "act55side",
+      "cnDate": "2026-11-01",
+      "projectionMonth": "2027-04",
+      "krDate": null,
+      "dateStatus": "projected",
+      "summary": "제17장의 젤그라드 사태 이후 우르수스 집단군의 대립이 국경 전투와 수도의 봉기로 번집니다. 탈룰라와 밀라나의 리유니온은 국경의 감염자들을 구하고, 헬라그가 설득한 제5집단군과 함께 수도로 향합니다. 수도에서는 알로이즈와 노동자들이 탄압에 맞서고, 표도르는 궁을 벗어나 제국 바깥에서 사람들이 살아가는 모습을 마주합니다. 제1집단군의 배신을 넘어 혁명이 제국을 무너뜨린 뒤, 밀라나는 새 우르수스의 미래를 선포하고 탈룰라는 리유니온의 첫 깃발을 남겨 둔 채 떠납니다.",
+      "factions": [
+        "우르수스",
+        "리유니온",
+        "우르수스 제국군",
+        "로도스 아일랜드",
+        "카시미어"
+      ],
+      "summarySource": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81",
+      "summarySourceLabel": "게임 대사 (중국어)",
+      "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.14",
+      "protagonists": [
+        "talulah",
+        "prts-milana-turin",
+        "wiki-fyodor-vladimirovich",
+        "wiki-eloysius-gorchekova"
+      ],
+      "peopleOrder": [
+        "talulah",
+        "prts-milana-turin",
+        "wiki-fyodor-vladimirovich",
+        "wiki-eloysius-gorchekova",
+        "prts-katerina-zolotareva",
+        "wiki-hellagur",
+        "wiki-nine",
+        "antosha",
+        "wiki-olga-trepleva",
+        "prts-jaromir",
+        "prts-lavrent-karnov",
+        "prts-rodion-ursus",
+        "prts-kader",
+        "prts-taras",
+        "prts-onira",
+        "prts-taisiya",
+        "prts-zoraida",
+        "prts-grand-duchess-elizaveta",
+        "prts-valentina-volgina",
+        "prts-svetlana-buterina",
+        "wiki-islam-witte",
+        "chen",
+        "crownslayer",
+        "prts-silka",
+        "prts-aglaya",
+        "prts-vladimir-ivanovich",
+        "prts-angelia-ursus",
+        "territoriya"
+      ],
+      "lowImpactPeople": [
+        "prts-aglaya",
+        "prts-vladimir-ivanovich",
+        "prts-angelia-ursus",
+        "territoriya"
+      ],
+      "sequences": [
+        "wildfire"
       ]
     }
   ],
@@ -10460,7 +10621,7 @@ window.STORY_DATA = {
     },
     {
       "id": "prts-silka",
-      "name": "실카",
+      "name": "시르카",
       "kind": "nonoperator",
       "cnName": "西尔卡",
       "portrait": "assets/portraits/prts-silka.png",
@@ -10475,7 +10636,7 @@ window.STORY_DATA = {
     },
     {
       "id": "prts-elita-valuyeva",
-      "name": "엘리타 발루예바",
+      "name": "알리타 발루예바",
       "kind": "nonoperator",
       "cnName": "艾丽塔·瓦卢耶娃",
       "portrait": "assets/portraits/prts-elita-valuyeva.png",
@@ -10505,13 +10666,13 @@ window.STORY_DATA = {
     },
     {
       "id": "prts-ivan-turin",
-      "name": "이반 투린",
+      "name": "이반 튜린",
       "kind": "nonoperator",
       "cnName": "伊凡·图林"
     },
     {
       "id": "prts-milana-turin",
-      "name": "밀라나 (이반 투린)",
+      "name": "밀라나 (이반 튜린)",
       "kind": "nonoperator",
       "cnName": "“伊凡·图林”",
       "portrait": "assets/portraits/prts-milana-turin.png",
@@ -10975,6 +11136,270 @@ window.STORY_DATA = {
       "cnName": "维韦塔"
     },
     {
+      "id": "prts-valerio",
+      "name": "성도 발레리오",
+      "kind": "nonoperator",
+      "cnName": "圣徒瓦列里奥",
+      "portrait": "assets/portraits/prts-valerio.png",
+      "portraitSource": "https://media.prts.wiki/6/6b/Avg_avg_npc_2280_1-1$1.png",
+      "portraitCrop": {
+        "width": 1560,
+        "height": 1560,
+        "x": 0.225,
+        "y": 0.083,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-drusa",
+      "name": "드루사",
+      "kind": "nonoperator",
+      "cnName": "德鲁莎",
+      "portrait": "assets/portraits/prts-drusa.png",
+      "portraitSource": "https://media.prts.wiki/4/42/Avg_avg_npc_2267_1-1$1.png",
+      "portraitCrop": {
+        "width": 1304,
+        "height": 1304,
+        "x": 0.525,
+        "y": 0.087,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-nando-rubio",
+      "name": "난도 가르시아 루비오",
+      "kind": "nonoperator",
+      "cnName": "南多·加西亚·鲁比奥",
+      "portrait": "assets/portraits/prts-nando-rubio.png",
+      "portraitSource": "https://media.prts.wiki/2/2c/Avg_avg_npc_2269_1-1$1.png",
+      "portraitCrop": {
+        "width": 1688,
+        "height": 1688,
+        "x": 0.47,
+        "y": 0.222,
+        "zoom": 7.0
+      }
+    },
+    {
+      "id": "prts-fedaira",
+      "name": "페다이라",
+      "kind": "nonoperator",
+      "cnName": "斐戴拉",
+      "portrait": "assets/portraits/prts-fedaira.png",
+      "portraitSource": "https://media.prts.wiki/e/e5/Avg_avg_npc_2270_1$1.png",
+      "portraitCrop": {
+        "width": 1456,
+        "height": 1456,
+        "x": 0.55,
+        "y": 0.18,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-tacita",
+      "name": "타키타",
+      "kind": "nonoperator",
+      "cnName": "塔西塔",
+      "portrait": "assets/portraits/prts-tacita.png",
+      "portraitSource": "https://media.prts.wiki/7/76/Avg_avg_npc_2268_1-1$1.png",
+      "portraitCrop": {
+        "width": 1408,
+        "height": 1408,
+        "x": 0.51,
+        "y": 0.097,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-aquila",
+      "name": "아퀼라",
+      "kind": "nonoperator",
+      "cnName": "阿奎拉",
+      "portrait": "assets/portraits/prts-aquila.png",
+      "portraitSource": "https://media.prts.wiki/a/a5/Avg_avg_npc_2271_1-1$1.png",
+      "portraitCrop": {
+        "width": 1664,
+        "height": 1664,
+        "x": 0.54,
+        "y": 0.105,
+        "zoom": 7.0
+      }
+    },
+    {
+      "id": "prts-gaius-iberia",
+      "name": "가이우스",
+      "kind": "nonoperator",
+      "cnName": "盖乌斯"
+    },
+    {
+      "id": "prts-rufina",
+      "name": "루피나",
+      "kind": "nonoperator",
+      "cnName": "鲁菲纳"
+    },
+    {
+      "id": "prts-salvador-iberia",
+      "name": "살바도르",
+      "kind": "nonoperator",
+      "cnName": "萨尔瓦多"
+    },
+    {
+      "id": "prts-ignacio-iberia",
+      "name": "성도 이그나시오",
+      "kind": "nonoperator",
+      "cnName": "伊格纳西奥"
+    },
+    {
+      "id": "prts-jaromir",
+      "name": "야로미르",
+      "kind": "nonoperator",
+      "cnName": "雅罗米尔",
+      "portrait": "assets/portraits/prts-jaromir.png",
+      "portraitSource": "https://media.prts.wiki/7/77/Avg_avg_npc_2423_1-1$1.png",
+      "portraitCrop": {
+        "width": 1484,
+        "height": 1484,
+        "x": 0.49,
+        "y": 0.107,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-lavrent-karnov",
+      "name": "라브렌티 카르노프",
+      "kind": "nonoperator",
+      "cnName": "拉夫连·卡尔诺夫",
+      "portrait": "assets/portraits/prts-lavrent-karnov.png",
+      "portraitSource": "https://media.prts.wiki/e/e3/Avg_avg_npc_2427_1-1$1.png",
+      "portraitCrop": {
+        "width": 1484,
+        "height": 1484,
+        "x": 0.465,
+        "y": 0.08,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-katerina-zolotareva",
+      "name": "카테리나 졸로타료바",
+      "kind": "nonoperator",
+      "cnName": "卡特琳娜·佐洛塔列娃",
+      "portrait": "assets/portraits/prts-katerina-zolotareva.png",
+      "portraitSource": "https://media.prts.wiki/9/93/Avg_avg_npc_2421_1-1$1.png",
+      "portraitCrop": {
+        "width": 1356,
+        "height": 1356,
+        "x": 0.29,
+        "y": 0.083,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-rodion-ursus",
+      "name": "로디온",
+      "kind": "nonoperator",
+      "cnName": "罗季昂",
+      "portrait": "assets/portraits/prts-rodion-ursus.png",
+      "portraitSource": "https://media.prts.wiki/2/2a/Avg_avg_npc_2428_1-1$1.png",
+      "portraitCrop": {
+        "width": 1664,
+        "height": 1664,
+        "x": 0.49,
+        "y": 0.101,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-kader",
+      "name": "카데르",
+      "kind": "nonoperator",
+      "cnName": "卡德尔",
+      "portrait": "assets/portraits/prts-kader.png",
+      "portraitSource": "https://media.prts.wiki/4/46/Avg_avg_npc_2430_1-1$1.png",
+      "portraitCrop": {
+        "width": 1456,
+        "height": 1456,
+        "x": 0.485,
+        "y": 0.091,
+        "zoom": 7.0
+      }
+    },
+    {
+      "id": "prts-taras",
+      "name": "타라스",
+      "kind": "nonoperator",
+      "cnName": "塔拉斯",
+      "portrait": "assets/portraits/prts-taras.png",
+      "portraitSource": "https://media.prts.wiki/1/1f/Avg_avg_npc_2432_1-1$2.png",
+      "portraitCrop": {
+        "width": 1124,
+        "height": 1124,
+        "x": 0.475,
+        "y": 0.1,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-onira",
+      "name": "오니라",
+      "kind": "nonoperator",
+      "cnName": "奥妮拉",
+      "portrait": "assets/portraits/prts-onira.png",
+      "portraitSource": "https://media.prts.wiki/6/6e/Avg_avg_npc_2431_1-1$2.png",
+      "portraitCrop": {
+        "width": 1124,
+        "height": 1124,
+        "x": 0.45,
+        "y": 0.135,
+        "zoom": 6.3
+      }
+    },
+    {
+      "id": "prts-aglaya",
+      "name": "아글라야",
+      "kind": "nonoperator",
+      "cnName": "阿格拉娅",
+      "portrait": "assets/portraits/prts-aglaya.png",
+      "portraitSource": "https://media.prts.wiki/0/06/Avg_avg_npc_2429_1-1$1.png",
+      "portraitCrop": {
+        "width": 1508,
+        "height": 1508,
+        "x": 0.5,
+        "y": 0.08,
+        "zoom": 7.0
+      }
+    },
+    {
+      "id": "prts-taisiya",
+      "name": "타이시야",
+      "kind": "nonoperator",
+      "cnName": "塔伊西亚"
+    },
+    {
+      "id": "prts-zoraida",
+      "name": "조라이다",
+      "kind": "nonoperator",
+      "cnName": "佐莱达"
+    },
+    {
+      "id": "prts-vladimir-ivanovich",
+      "name": "블라디미르 이바노비치",
+      "kind": "nonoperator",
+      "cnName": "弗拉基米尔·伊凡诺维奇"
+    },
+    {
+      "id": "prts-angelia-ursus",
+      "name": "안겔리아",
+      "kind": "nonoperator",
+      "cnName": "安格利亚"
+    },
+    {
+      "id": "prts-grand-duchess-elizaveta",
+      "name": "옐리자베타 대공",
+      "kind": "nonoperator",
+      "cnName": "叶莉莎女大公"
+    },
+    {
       "id": "future-thumpy",
       "name": "썸피",
       "kind": "operator",
@@ -11013,6 +11438,38 @@ window.STORY_DATA = {
       "wikiTitle": "Koromaru",
       "portrait": "assets/portraits/future-koromaru.png",
       "portraitSource": "https://arknights.wiki.gg/images/Koromaru_icon.png?b55f2a"
+    },
+    {
+      "id": "homebound",
+      "name": "홈바운드",
+      "kind": "operator",
+      "wikiTitle": "Homebound",
+      "portrait": "assets/portraits/homebound.png",
+      "portraitSource": "https://media.prts.wiki/2/29/%E5%A4%B4%E5%83%8F_%E6%97%85%E9%AA%A8.png"
+    },
+    {
+      "id": "de-toledo",
+      "name": "데 톨레도",
+      "kind": "operator",
+      "wikiTitle": "De Toledo",
+      "portrait": "assets/portraits/de-toledo.png",
+      "portraitSource": "https://media.prts.wiki/1/16/%E5%A4%B4%E5%83%8F_%E5%BE%B7%C2%B7%E6%89%98%E8%8E%B1%E5%A4%9A.png"
+    },
+    {
+      "id": "territoriya",
+      "name": "테리토리야",
+      "kind": "operator",
+      "wikiTitle": "Territoriya",
+      "portrait": "assets/portraits/territoriya.png",
+      "portraitSource": "https://media.prts.wiki/a/ab/%E5%A4%B4%E5%83%8F_%E5%9B%BD%E5%BA%A6.png"
+    },
+    {
+      "id": "closure",
+      "name": "클로저",
+      "kind": "operator",
+      "wikiTitle": "Closure",
+      "portrait": "assets/portraits/closure.png",
+      "portraitSource": "https://media.prts.wiki/a/a5/%E5%A4%B4%E5%83%8F_%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94.png"
     }
   ],
   "affiliations": [
@@ -13116,6 +13573,118 @@ window.STORY_DATA = {
       "role": "appears",
       "certainty": "story",
       "source": "https://arknights.wiki.gg/wiki/Sur_le_lac_lune_vivante"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-clementia",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "homebound",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "de-toledo",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-aulus",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-carmen",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "irene",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "gladiia",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "time-forward",
+      "person": "talulah",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-milana-turin",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-fyodor-vladimirovich",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-eloysius-gorchekova",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-hellagur",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-nine",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "antosha",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-olga-trepleva",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-silka",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
     },
     {
       "event": "main-00-04",
@@ -20559,6 +21128,167 @@ window.STORY_DATA = {
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
+      "event": "yesterday-sea",
+      "person": "prts-valerio",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-drusa",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-nando-rubio",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-fedaira",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-tacita",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-aquila",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-gaius-iberia",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-rufina",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-salvador-iberia",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-ignacio-iberia",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-jaromir",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-lavrent-karnov",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-katerina-zolotareva",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-rodion-ursus",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-kader",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-taras",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-onira",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-aglaya",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-taisiya",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-zoraida",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-vladimir-ivanovich",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-angelia-ursus",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-grand-duchess-elizaveta",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
       "event": "main-17",
       "person": "kaltsit",
       "role": "appears",
@@ -20582,6 +21312,13 @@ window.STORY_DATA = {
     {
       "event": "main-17",
       "person": "gummy",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "closure",
       "role": "appears",
       "certainty": "story",
       "source": "https://arknights.wiki.gg/wiki/Episode_17"
@@ -20627,6 +21364,13 @@ window.STORY_DATA = {
       "role": "appears",
       "certainty": "story",
       "source": "https://arknights.wiki.gg/wiki/Sur_le_lac_lune_vivante"
+    },
+    {
+      "event": "time-forward",
+      "person": "territoriya",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
     },
     {
       "event": "main-00-04",
@@ -20718,6 +21462,76 @@ window.STORY_DATA = {
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-svetlana-buterina",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-valentina-volgina",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-islam-witte",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "chen",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "crownslayer",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "main-17",
+      "person": "raidian",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-hierda",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-eloysius-gorchekova",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-fyodor-vladimirovich",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-mon3tr",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
     }
   ],
   "actions": [
@@ -21404,6 +22218,20 @@ window.STORY_DATA = {
       "text": "라테라노에 나타난 특별과외활동부가 돌아갈 길을 찾도록 돕습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Sur_le_lac_lune_vivante"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-clementia",
+      "text": "대정적 때 가라앉은 항구 도시를 찾아 이베리아 심문회와 공동 인양 사업을 시작합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "time-forward",
+      "person": "talulah",
+      "text": "리유니온을 이끌고 국경에 고립된 감염자를 구한 뒤 제5집단군과 함께 수도로 향합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
     },
     {
       "event": "main-00-04",
@@ -23415,6 +24243,34 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Sur_le_lac_lune_vivante"
     },
     {
+      "event": "yesterday-sea",
+      "person": "homebound",
+      "text": "섬 주민 출신 측량 기술자로 인양에 참여합니다. 할머니 루피나가 만든 의수에 들어 있던 특수 볼트가 항구의 좌표를 잡을 수 있음을 알아냅니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "de-toledo",
+      "text": "테피라는 이름으로 조선소 사람들과 어울리고, 항구 좌표가 사라진 뒤에도 살바도르의 격려를 받아 인양을 계속할 길을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-milana-turin",
+      "text": "리유니온의 국경 작전부터 수도 진격까지 함께합니다. 제국이 무너진 뒤 시민들 앞에서 불공정한 제도를 폐지하겠다고 밝히고 새 우르수스를 선포합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-fyodor-vladimirovich",
+      "text": "궁을 탈출한 뒤 타이시야와 조라이다의 도움을 받고, 거리와 피난길에서 평소 궁 안에선 보지 못했던 사람들의 삶을 접합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
       "event": "main-00-04",
       "person": "wiki-misha",
       "text": "용문에서 로도스와 리유니온 양쪽의 추적을 받으며 스컬슈레더가 자신의 형제임을 알게 됩니다.",
@@ -23795,21 +24651,21 @@ window.STORY_DATA = {
     {
       "event": "main-17",
       "person": "talulah",
-      "text": "실카를 구해 주고 리유니온과 함께 제르그라드의 공장을 습격합니다.",
+      "text": "시르카를 구해 주고 리유니온과 함께 젤그라드의 공장을 습격합니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
       "event": "main-17",
       "person": "prts-svetlana-buterina",
-      "text": "제1집단군 원수로 제르그라드 철수를 결정하고, 반역으로 받아들인 아들 아나톨리의 칼에 찔립니다.",
+      "text": "제1집단군 원수로 젤그라드 철수를 결정하고, 반역으로 받아들인 아들 아나톨리의 칼에 찔립니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
       "event": "main-17",
       "person": "prts-anatoly-buterinin",
-      "text": "제르그라드의 감염자와 연구원들을 학살하고 포격을 명령하다, 어머니를 찌른 뒤 실카의 도움도 받지 못한 채 죽습니다.",
+      "text": "젤그라드의 감염자와 연구원들을 학살하고 포격을 명령하다, 어머니를 찌른 뒤 시르카의 도움도 받지 못한 채 죽습니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
@@ -23837,7 +24693,7 @@ window.STORY_DATA = {
     {
       "event": "main-17",
       "person": "prts-evgeny-kuznetsov",
-      "text": "제4집단군의 이익을 위해 스초파를 압박해 제1집단군의 비밀 병기를 빼앗도록 지시합니다.",
+      "text": "제4집단군의 이익을 위해 스치오파를 압박해 제1집단군의 비밀 병기를 빼앗도록 지시합니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
@@ -30021,6 +30877,377 @@ window.STORY_DATA = {
       "text": "상실을 겪은 사람에게 자신의 경험을 비추어 살아갈 이유를 함께 찾습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Sur_le_lac_lune_vivante"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-clementia",
+      "text": "옛 항구의 중심 구역이 어디로 갔는지 밝히라고 아울루스에게 요구하고, 나초가 물려받은 볼트를 이용해 새 좌표를 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-clementia",
+      "text": "인양 뒤 드루사에게 육상순찰대 지휘를 맡기고, 글래디아와 에기르에 연결할 협력 계획을 논의합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "homebound",
+      "text": "클레멘티아가 되찾은 새 좌표에 이름을 붙여 달라고 하자, 기적이나 구원자를 기다리기보다 주민이 스스로 만들어 온 삶을 떠올립니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "de-toledo",
+      "text": "새 좌표가 밝혀지자 조선소 노동자들과 이베리아 시민 함대를 꾸려 밤중에 인양에 나섭니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-aulus",
+      "text": "섬 주민 상호부조회의 지도자 행세를 하며 차별에 분노한 주민들을 모읍니다. 가이우스에게 시본을 이용한 수술을 시행해 그를 동화시킵니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-aulus",
+      "text": "인양을 막으려다 클레멘티아와 마주합니다. 상호부조회가 흩어지자 남은 주민들을 에기르 측에 부탁하고 따로 떠납니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-carmen",
+      "text": "레아 이베리아 인양 계획을 알리고, 과거에 같은 성도였던 발레리오가 결투를 청하자 항구를 되찾으려는 주민들의 목소리를 함께 듣자고 합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-valerio",
+      "text": "이베리아가 옛 항구를 되찾을 준비가 되지 않았다고 판단해 테피에게 접근합니다. 항구의 옛 좌표를 지운 뒤 카르멘에게 결투를 청하지만 결국 항구 지하에 갇힙니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-drusa",
+      "text": "섬 출신이라는 이유로 정식 대원이 되지 못한 징계군 교관입니다. 아울루스의 계획을 추적하다 다치고, 회복한 뒤 육상순찰대를 맡습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-fedaira",
+      "text": "대심문관으로 아퀼라를 심문하고 그의 죽음을 지켜봅니다. 이후 드루사와 맞서며 심문의 기준을 되돌아보고, 카르멘에게 자신의 과오를 인정하기로 합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-tacita",
+      "text": "처음엔 클레멘티아의 판단에 회의적이지만, 사건 뒤 이베리아에 남기 어려운 섬 주민들에게 에기르가 피난처를 제공한다고 알립니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-aquila",
+      "text": "나초가 잃어버린 볼트를 찾아 드루사에게 돌려주라고 맡깁니다. 차별에 맞서 부조회에 가담했고 심문 도중 이베리아에 대한 분노를 드러냅니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-rufina",
+      "text": "과거 레아 이베리아 건설에 참여해 다른 노동자들과 좌표용 볼트를 만듭니다. 훗날 팔을 잃은 손자 나초의 의수에 볼트를 넣어 물려줍니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-gaius-iberia",
+      "text": "가족이 겪은 박해에 복수하려고 아울루스의 수술을 받아들였다가 시본에 동화됩니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-salvador-iberia",
+      "text": "좌표가 사라져 낙담한 테피를 격려하고, 좌표를 다시 밝히면 따르겠다는 내기를 지켜 시민 함대에 합류합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-nando-rubio",
+      "text": "징계군 순찰조로 사건에 휘말리고, 테피와 함께 화난 섬 주민들에게 위협받는 살바도르를 구합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "prts-ignacio-iberia",
+      "text": "과거 심해 교회에 넘어간 성도로, 발레리오가 죽을 뻔한 임무의 회상에 등장합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "gladiia",
+      "text": "인양 사건 뒤 클레멘티아와 어비설 헌터스의 협력을 이어가고 육상순찰대의 연락망을 논의합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "irene",
+      "text": "카르멘과 클레멘티아의 인양 논의에 참여하고, 항구에서 섬 주민들과 징계군 사이에 벌어진 사건을 지켜봅니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7"
+    },
+    {
+      "event": "time-forward",
+      "person": "talulah",
+      "text": "야로미르가 지키는 국경에서 감염자들을 구출하고, 헬라그와 라브렌티가 이끄는 제5집단군과 협력해 수도로 진격합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "talulah",
+      "text": "제1집단군이 협력을 깨뜨린 뒤 수도에서 전쟁 캐스터들을 막아냅니다. 혁명이 끝나자 첫 리유니온 깃발을 밀라나에게 넘기고 우르수스를 떠납니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-fyodor-vladimirovich",
+      "text": "내전 막바지에 위트와 제국의 향방을 두고 대화하고, 승패가 갈린 뒤 황제로서의 우르수스에 작별을 고합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-eloysius-gorchekova",
+      "text": "노동자들과 학생들이 탄압받는 수도에서 현장을 오가며 동료들을 돕습니다. 카테리나의 집안이 사라진 일과 자기 아버지 바실리의 연관을 알게 됩니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-eloysius-gorchekova",
+      "text": "혁명 뒤 위트에게 그간의 정치 경험을 새 정부에 보태 달라고 제안하고, 격앙된 군중을 피해 나갈 차량을 불러 주려 합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-hellagur",
+      "text": "수도에서 일어난 탄압 소식을 전하고, 라브렌티를 설득해 제5집단군이 대공에게 맞서고 리유니온과 힘을 합치도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-lavrent-karnov",
+      "text": "자모레스 탈환에 병력을 투입하고 수도를 포위한 제2·제4집단군을 물리칩니다. 철수 명령을 어기고 탈룰라가 전쟁 캐스터들과 맞서도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-jaromir",
+      "text": "아나톨리의 죽음을 알고 카시미어 접경의 감염자를 공격합니다. 스베틀라나가 리유니온을 이용하고 돌아선 뒤에는 지시를 따르지 않고 국경에 남습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-katerina-zolotareva",
+      "text": "특할국을 지휘해 귀족들을 숙청하고 노동자 파업을 진압합니다. 제5창고 작전 때는 알로이즈가 빠져나갈 방향을 로도스 아일랜드에 몰래 알립니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-katerina-zolotareva",
+      "text": "부모의 죽음에 관여한 바실리를 다시 만나지만 그 자리에서 죽이지 않고, 혁명 뒤 모아 둔 증거와 함께 새 우르수스의 재판에 넘깁니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-kader",
+      "text": "탈영한 감염자들을 모아 리유니온의 이름으로 활동하다 첸의 안내로 탈룰라와 합류합니다. 불사의 검은 뱀의 영향에 저항한 뒤 자모레스 탈환 작전에서 전사합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-rodion-ursus",
+      "text": "특할국의 귀족 숙청과 파업 진압을 수행하고 올가의 저택을 포위합니다. 수도의 대화재 속에서 안토샤에게 살해됩니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "antosha",
+      "text": "수도에서 특할국에 맞서 로디온을 쓰러뜨립니다. 정권이 바뀔 때 기록이 파괴되지 않도록 보존해 새 우르수스에 넘기라고 지시합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-olga-trepleva",
+      "text": "특할국의 포위에 휘말린 뒤에도 노동자들과 함께 움직입니다. 혁명이 끝나자 희생자들의 이름을 기억하자는 의견을 내고 안토샤와 함께 걸으며 사과합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-svetlana-buterina",
+      "text": "제1집단군을 움직여 카시미어 국경을 공격하고, 수도에서 다른 집단군과 싸우는 리유니온의 협력을 이용한 뒤 배신합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-valentina-volgina",
+      "text": "카테리나 집안의 불행이 단순한 사고가 아니었음을 알로이즈에게 설명하며, 바실리의 선택과 특할국의 개입을 드러냅니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-islam-witte",
+      "text": "표도르의 곁에서 궁정과 군의 움직임에 대응하고, 혁명 뒤 알로이즈에게 새 정부에서 일해 달라는 제안을 받습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-grand-duchess-elizaveta",
+      "text": "수도에서 특할국과 군대를 통해 반대 세력을 누르려 하지만 노동자 봉기와 집단군 간 대립이 커지면서 권력을 잃습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "wiki-nine",
+      "text": "밀라나·시르카와 함께 국경에 선 리유니온 병력의 움직임을 조율하고, 수도에 이른 뒤 시민들이 감염자 대원들을 환대하는 광경을 지켜봅니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-taras",
+      "text": "리유니온 대원으로 국경과 수도 작전에 참여합니다. 수도의 시민들이 자신을 감염자로 알고도 음식과 인사를 건네자 놀랍니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-onira",
+      "text": "국경에서 리유니온의 구출 작전에 참여하고, 수도에 들어간 뒤 타라스와 함께 시민들의 환대를 받습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-taisiya",
+      "text": "힐다를 따라 탈출한 표도르를 보호하고, 그를 쫓던 병력을 스스로 다른 방향으로 유인합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "prts-zoraida",
+      "text": "타이시야가 추격대를 유인하는 사이 표도르 곁에 남아 도피를 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "chen",
+      "text": "카데르가 진짜 리유니온과 합류할 수 있도록 국경으로 안내합니다. 수도의 소요 속에서 주민에게 피하라고 말한 뒤 찾고 있던 사람을 계속 추적합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "time-forward",
+      "person": "crownslayer",
+      "text": "혁명 뒤 탈룰라의 행방을 숨기기로 합니다. 탈룰라가 스스로 마쳐야 할 일이 끝나기 전까지는 누구에게도 그 위치를 알리지 않겠다고 말합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
+    },
+    {
+      "event": "main-17",
+      "person": "closure",
+      "text": "우르수스와 협력할 통로를 열기 위해 로도스의 연구 자료에 안전장치를 두자고 제안합니다. 젤그라드에서는 라이디언과 함께 군의 방화벽을 우회하고 아미야의 석관 조사에 협력합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "raidian",
+      "text": "젤그라드에서 로도스 일행의 정보 수집과 통신을 지원하고, 클로저와 함께 군 시설의 정보를 확인합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-hierda",
+      "text": "아미야 일행이 젤그라드의 감염자 환자들을 만나는 데 관여하고, 아나톨리와 리유니온이 얽힌 시점에도 현장에 남습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-eloysius-gorchekova",
+      "text": "표도르와 위트가 만나는 정치 협의에 참여합니다. 젤그라드 내부에서 보고 들은 일과 노동자들이 겪는 탄압을 마주합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-fyodor-vladimirovich",
+      "text": "위트와 알로이즈를 만나 로도스가 제안한 협력에 관여하고, 각 집단군이 석관과 도시 통제권을 놓고 움직이는 상황에 대응합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "wiki-mon3tr",
+      "text": "아미야와 클로저의 젤그라드 조사에 동행하고, 석관을 둘러싼 충돌 속에서 되돌아온 켈시와 마주합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-dream-spot",
+      "text": "포영국의 대장장이로 특제 격룡창을 만들어 저주에 물든 괴물들이 몰려들 때 사냥단의 방어를 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-bokuka",
+      "text": "어륜이 폭주하자 이를 억누르기 위해 천둥의 주인의 힘이 필요하다는 것을 깨닫고, 오키드와 캐터펄트, 대장장이, 장군에게 힘을 모아 달라고 요청합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-dream-midnight",
+      "text": "폭발에 휘말려 의식을 잃은 동안 천둥의 주인에게 구출됩니다. 회복한 뒤 오키드의 편지를 읽고 보우카를 도우러 갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
     }
   ],
   "art": {
@@ -30099,6 +31326,7 @@ window.STORY_DATA = {
     "sunset": "assets/banners/sunset.png",
     "sylvan": "assets/banners/sylvan.jpg",
     "the-riders": "assets/banners/the-riders.jpg",
+    "time-forward": "assets/banners/time-forward.png",
     "to-be-continued": "assets/banners/to-be-continued.png",
     "to-the-grinning": "assets/banners/to-the-grinning.jpg",
     "under-tides": "assets/banners/under-tides.jpg",
@@ -30112,6 +31340,7 @@ window.STORY_DATA = {
     "who-is-real": "assets/banners/who-is-real.png",
     "wolumonde": "assets/banners/wolumonde.png",
     "xiangjianhuan": "assets/banners/xiangjianhuan.jpg",
+    "yesterday-sea": "assets/banners/yesterday-sea.jpg",
     "zwilling": "assets/banners/zwilling.jpg"
   },
   "sequences": [
@@ -30146,7 +31375,8 @@ window.STORY_DATA = {
         "under-tides",
         "stultifera",
         "path-of-life",
-        "pale-sea"
+        "pale-sea",
+        "yesterday-sea"
       ]
     },
     {
@@ -30309,7 +31539,8 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Story/Movements/Wildfire",
       "events": [
         "ursas-children",
-        "people-us"
+        "people-us",
+        "time-forward"
       ]
     },
     {
@@ -30560,12 +31791,19 @@ window.STORY_DATA = {
       "label": "라인 랩의 조사",
       "note": "라인 랩 연구진이 쉐라그 재앙의 발견을 공중 도시 사건 뒤에도 추적합니다.",
       "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
+    },
+    {
+      "from": "main-17",
+      "to": "time-forward",
+      "label": "젤그라드 사태 이후",
+      "note": "젤그라드에서 아나톨리가 사망했다는 소식이 국경에 전해지고, 제1집단군의 야로미르와 리유니온 사이의 충돌로 이어집니다.",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
     }
   ],
-  "asOf": "2026-09-26",
+  "asOf": "2026-11-16",
   "projection": {
-    "basis": "2026-09-16 KR 사람들, 우리들 − 2026-04-07 CN 人们，我们",
-    "offsetDays": 162,
+    "basis": "최근 한국·중국 공통 공개작 3편의 공개 간격 중앙값",
+    "offsetDays": 166,
     "display": "월 단위 예상 표기. 카드 좌표는 표시를 위해 해당 월 15일에 둠.",
     "note": "향후 한국 공개일의 공식 발표가 아닙니다."
   },
@@ -30661,6 +31899,8 @@ window.STORY_DATA = {
     "moon-water": "https://web.hycdn.cn/upload/image/20260828/eb03f1083fa59e528da66b2d0c50b629.jpg",
     "lime": "https://web.hycdn.cn/upload/image/20260724/1e8b24d5d0d9f2423b7429ccdd71d503.jpg",
     "main-17": "https://patchwiki.biligame.com/images/arknights/3/3a/bc3r8l2pjecplm2041wb6ou8uvbrmlg.jpg",
-    "main-00-04": "https://images.alphacoders.com/107/1070339.jpg"
+    "main-00-04": "https://images.alphacoders.com/107/1070339.jpg",
+    "yesterday-sea": "https://web.hycdn.cn/upload/image/20260929/77e4be6e8952f9027dd611befc59111a.jpg",
+    "time-forward": "https://i0.hdslb.com/bfs/new_dyn/f518c5b7d917ddf2f1921a12da23e3af161775300.png"
   }
 };
