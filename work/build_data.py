@@ -195,6 +195,7 @@ for id, date, title, original, lane, cn_date, translation in main:
         krSource=KR_ACTIVITY_SOURCE if id in ('main-14','main-15','main-16','main-17') else None))
 
 story_index = json.loads((ROOT / 'work' / 'story_index.json').read_text(encoding='utf-8'))
+narratives = json.loads((ROOT / 'work' / 'story_narratives.json').read_text(encoding='utf-8'))
 summary_expansions = json.loads((ROOT / 'work' / 'summary_expansions.json').read_text(encoding='utf-8'))
 wiki_map = json.loads((ROOT / 'work' / 'event-wiki-map.json').read_text(encoding='utf-8'))
 korean_story_links = json.loads((ROOT / 'work' / 'korean_story_links.json').read_text(encoding='utf-8'))
@@ -205,11 +206,16 @@ if set(korean_info_links) - set(story_index) or set(korean_info_links) & set(kor
     raise ValueError('Korean information link is invalid or duplicates a story link')
 if set(summary_expansions) - set(story_index):
     raise ValueError('Summary expansion refers to an unknown story')
+if set(narratives) - set(story_index):
+    raise ValueError('Narrative refers to an unknown story')
 for event in base['events']:
     story = story_index[event['id']]
     event['lane'] = story.get('lane', event['lane'])
     event['summary'] = story['summary'] + (' ' + summary_expansions[event['id']] if event['id'] in summary_expansions else '')
     event['factions'] = story['factions']
+    if event['id'] in narratives:
+        event['narrative'] = narratives[event['id']]
+        event['narrativeSource'] = story['narrativeSource']
     titles = wiki_map.get(event['id'], [])
     wiki_title = story.get('wikiTitle') or next((title for title in titles if '/' not in title), None)
     if event['type'] == 'main':
@@ -722,6 +728,12 @@ for name, script in ((b'data.js', data_script), (b'app.js', (ROOT / 'app.js').re
     index, count = re.subn(pattern, b'src="' + name + b'?v=' + version + b'"', index)
     if count != 1:
         raise ValueError(f'Expected one script tag for {name.decode()} in index.html')
+stylesheet = (ROOT / 'style.css').read_bytes().replace(b'\r\n', b'\n')
+style_version = hashlib.sha256(stylesheet).hexdigest()[:12].encode('ascii')
+index, count = re.subn(rb'href="style\.css(?:\?v=[a-f0-9]+)?"',
+                       b'href="style.css?v=' + style_version + b'"', index)
+if count != 1:
+    raise ValueError('Expected one style.css link in index.html')
 if index != original_index:
     index_path.write_bytes(index)
 print('events', len(base['events']), 'confirmed', sum(e['dateStatus']=='confirmed' for e in base['events']),

@@ -23,8 +23,9 @@
     const names = [person.name, person.wikiTitle, person.id].filter(Boolean).join(' ');
     personSearchByEvent.set(appearance.event, `${personSearchByEvent.get(appearance.event) || ''} ${names}`);
   }
+  const openedAt = new Date();
   const firstYear = 2020;
-  const lastYear = 2027;
+  const lastYear = Math.max(2027, openedAt.getFullYear(), ...data.events.map(event => Number(event.date.slice(0, 4))));
   const years = lastYear - firstYear + 1;
   const start = Date.UTC(firstYear, 0, 1);
   const end = Date.UTC(lastYear + 1, 0, 1);
@@ -60,7 +61,8 @@
     axis.className = 'axis';
     axis.innerHTML = '<div class="axis-corner">FACTION / YEAR</div><div class="axis-track"></div>';
     const axisTrack = axis.lastElementChild;
-    const futureX = xOf(data.asOf);
+    const openedDate = `${openedAt.getFullYear()}-${String(openedAt.getMonth() + 1).padStart(2, '0')}-${String(openedAt.getDate()).padStart(2, '0')}`;
+    const futureX = Math.max(0, Math.min(range, xOf(openedDate)));
     axisTrack.innerHTML = `<div class="future-axis" style="left:${futureX}px;width:${range-futureX}px"></div>`;
     for (let year = firstYear; year <= lastYear; year++) {
       const mark = document.createElement('div');
@@ -170,6 +172,8 @@
       const content = `<span class="action-copy"><strong>${esc(person?.name || '')}</strong> · ${esc(action.text)}</span>`;
       return `<p class="action-item">${actionPortraitHtml(person)}${content}</p>`;
     }).join('');
+    const narrative = event.narrative || [];
+    const narrativeHtml = narrative.map(section => `<section class="narrative-chapter"><h4>${esc(section.title)}</h4>${section.paragraphs.map(paragraph => `<p>${esc(paragraph)}</p>`).join('')}</section>`).join('');
     const sequenceHtml = (event.sequences || []).map(sequenceId => {
       const sequence = sequenceById.get(sequenceId);
       const links = sequence.events.map((id, index) => {
@@ -199,6 +203,7 @@
       </dl></div>
       ${people.length ? `<div class="drawer-section"><h3>확인된 등장인물 <small>${people.length}</small></h3>${peopleHtml(people, event.protagonists, event.lowImpactPeople, true)}</div>` : ''}
       ${actions.length ? `<div class="drawer-section"><h3>이야기 속 주요 행동</h3>${actionsHtml}</div>` : ''}
+      ${narrative.length ? `<details class="story-reading"><summary>이야기 읽기</summary><div class="narrative-body">${narrativeHtml}${event.narrativeSource ? `<a class="source-link" href="${esc(event.narrativeSource)}" target="_blank" rel="noopener noreferrer">게임 대사 원문 (중국어) ↗</a>` : ''}</div></details>` : ''}
       <div class="drawer-section"><h3>자료</h3>${event.koreanStoryUrl ? `<a class="source-link" href="${esc(event.koreanStoryUrl)}" target="_blank" rel="noopener noreferrer">줄거리 자료 (한국어) ↗</a> ` : ''}${event.koreanStoryExtraUrl ? `<a class="source-link" href="${esc(event.koreanStoryExtraUrl)}" target="_blank" rel="noopener noreferrer">4장 요약 (한국어) ↗</a> ` : ''}${event.koreanInfoUrl ? `<a class="source-link" href="${esc(event.koreanInfoUrl)}" target="_blank" rel="noopener noreferrer">사건 정보 (한국어) ↗</a> ` : ''}<a class="source-link" href="${esc(event.source)}" target="_blank" rel="noopener noreferrer">스토리 출처 ↗</a>${event.summarySource ? ` <a class="source-link" href="${esc(event.summarySource)}" target="_blank" rel="noopener noreferrer">${esc(event.summarySourceLabel || '줄거리 자료 (영어)')} ↗</a>` : ''}${event.krSource ? ` <a class="source-link" href="${esc(event.krSource)}" target="_blank" rel="noopener noreferrer">${esc(event.krSourceLabel || '한국 게임 데이터')} ↗</a>` : ''}${data.artCredits?.[event.id] ? ` <a class="source-link" href="${esc(data.artCredits[event.id])}" target="_blank" rel="noopener noreferrer">이미지 출처 ↗</a>` : ''}${event.dateStatus === 'projected' ? `<p class="empty-note">최근 공통 공개작 세 편의 서버 간 간격 중앙값 ${data.projection.offsetDays}일을 적용했습니다.</p>` : ''}</div>
     `);
   }

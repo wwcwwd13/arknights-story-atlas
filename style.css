@@ -59,6 +59,13 @@
 .event-stem.collection{height:27px}
 .drawer-banner:before{display:none}
 .story-summary{font-size:13px;line-height:1.7;color:#e4e9e2;margin:0}
+.story-reading{margin-top:25px;border-top:1px solid #435155}
+.story-reading>summary{cursor:pointer;padding:19px 0;color:#e7d1a2;font-size:13px;font-weight:700;list-style-position:inside}
+.story-reading>summary:focus-visible{outline:2px solid #d2ba8a;outline-offset:3px}
+.narrative-body{padding:2px 0 8px;color:#e4e9e2;overflow-wrap:anywhere;word-break:keep-all}
+.narrative-chapter+.narrative-chapter{margin-top:30px;padding-top:25px;border-top:1px solid #405358}
+.narrative-chapter h4{margin:0 0 17px;color:#e7d1a2;font-size:15px;line-height:1.5}
+.narrative-chapter p{margin:0 0 16px;font-size:14px;line-height:1.95;letter-spacing:-.01em}
 .story-sequence{margin:16px 0;border:1px solid #405358;background:#1b292e}
 .story-sequence summary{cursor:pointer;padding:11px 13px;color:#ede7d8;font-size:12px;font-weight:700;list-style-position:inside}
 .story-sequence summary small{margin-left:7px;color:#9eb7b2;font-size:10px;font-weight:400}
