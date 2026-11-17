@@ -35,6 +35,7 @@
   let filter = 'all';
   let query = '';
   let lastFocus = null;
+  let closingDrawer = false;
 
   function esc(value) {
     return String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -161,8 +162,32 @@
     portraitPreview.hidden = true;
     if (lastFocus && lastFocus.isConnected) lastFocus.focus();
   }
-  function openEvent(eventId) {
+  function rememberDrawer(type, id) {
+    if (closingDrawer) return false;
+    const state = { ...history.state, storyAtlasPanel: { type, id } };
+    try {
+      if (drawer.classList.contains('open') && history.state?.storyAtlasPanel) {
+        history.replaceState(state, '');
+      } else {
+        history.pushState(state, '');
+      }
+    } catch (error) {
+      // The panel remains usable when the browser cannot write history.
+    }
+    return true;
+  }
+  function requestCloseDrawer() {
+    if (!drawer.classList.contains('open') || closingDrawer) return;
+    if (history.state?.storyAtlasPanel) {
+      closingDrawer = true;
+      history.back();
+    } else {
+      closeDrawer();
+    }
+  }
+  function openEvent(eventId, recordHistory = true) {
     const event = eventById.get(eventId);
+    if (!event || (recordHistory && !rememberDrawer('event', eventId))) return;
     const lane = laneById.get(event.lane);
     const people = event.peopleOrder;
     const actions = data.actions.filter(action => action.event === eventId);
@@ -207,8 +232,9 @@
       <div class="drawer-section"><h3>자료</h3>${event.koreanStoryUrl ? `<a class="source-link" href="${esc(event.koreanStoryUrl)}" target="_blank" rel="noopener noreferrer">줄거리 자료 (한국어) ↗</a> ` : ''}${event.koreanStoryExtraUrl ? `<a class="source-link" href="${esc(event.koreanStoryExtraUrl)}" target="_blank" rel="noopener noreferrer">4장 요약 (한국어) ↗</a> ` : ''}${event.koreanInfoUrl ? `<a class="source-link" href="${esc(event.koreanInfoUrl)}" target="_blank" rel="noopener noreferrer">사건 정보 (한국어) ↗</a> ` : ''}<a class="source-link" href="${esc(event.source)}" target="_blank" rel="noopener noreferrer">스토리 출처 ↗</a>${event.summarySource ? ` <a class="source-link" href="${esc(event.summarySource)}" target="_blank" rel="noopener noreferrer">${esc(event.summarySourceLabel || '줄거리 자료 (영어)')} ↗</a>` : ''}${event.krSource ? ` <a class="source-link" href="${esc(event.krSource)}" target="_blank" rel="noopener noreferrer">${esc(event.krSourceLabel || '한국 게임 데이터')} ↗</a>` : ''}${data.artCredits?.[event.id] ? ` <a class="source-link" href="${esc(data.artCredits[event.id])}" target="_blank" rel="noopener noreferrer">이미지 출처 ↗</a>` : ''}${event.dateStatus === 'projected' ? `<p class="empty-note">최근 공통 공개작 세 편의 서버 간 간격 중앙값 ${data.projection.offsetDays}일을 적용했습니다.</p>` : ''}</div>
     `);
   }
-  function openLane(laneId) {
+  function openLane(laneId, recordHistory = true) {
     const lane = laneById.get(laneId);
+    if (!lane || (recordHistory && !rememberDrawer('lane', laneId))) return;
     const associated = [...new Set(data.affiliations.filter(relation => relation.lane === laneId).map(relation => relation.person))];
     const linkedEvents = data.events.filter(event => event.lane === laneId);
     const eventList = linkedEvents.map(event => `<button class="lane-event-link" type="button" data-open-event="${esc(event.id)}"><strong>${esc(event.title)}</strong><small>${displayDate(event)}${event.storyFocus ? ` · ${esc(event.storyFocus)}` : ''}</small></button>`).join('');
@@ -264,9 +290,17 @@
   content.addEventListener('focusout', event => {
     if (event.target.closest('.person-pill')) portraitPreview.hidden = true;
   });
-  $('drawerClose').addEventListener('click', closeDrawer);
-  backdrop.addEventListener('click', closeDrawer);
-  document.addEventListener('keydown', event => { if (event.key === 'Escape' && drawer.classList.contains('open')) closeDrawer(); });
+  $('drawerClose').addEventListener('click', requestCloseDrawer);
+  backdrop.addEventListener('click', requestCloseDrawer);
+  document.addEventListener('keydown', event => { if (event.key === 'Escape') requestCloseDrawer(); });
+  function restoreDrawer(state) {
+    closingDrawer = false;
+    const panel = state?.storyAtlasPanel;
+    if (panel?.type === 'event' && eventById.has(panel.id)) openEvent(panel.id, false);
+    else if (panel?.type === 'lane' && laneById.has(panel.id)) openLane(panel.id, false);
+    else if (drawer.classList.contains('open')) closeDrawer();
+  }
+  window.addEventListener('popstate', event => restoreDrawer(event.state));
   $('search').addEventListener('input', event => { query = event.target.value.trim().toLowerCase(); applyFilter(); });
   document.querySelectorAll('.chip').forEach(button => button.addEventListener('click', () => {
     filter = button.dataset.type;
@@ -323,4 +357,5 @@
   dataDate.dateTime = data.asOf;
   dataDate.textContent = `${shortDate(data.asOf)} 기준`;
   render();
+  restoreDrawer(history.state);
 })();
