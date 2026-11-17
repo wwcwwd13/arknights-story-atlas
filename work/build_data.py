@@ -215,7 +215,8 @@ for event in base['events']:
     event['factions'] = story['factions']
     if event['id'] in narratives:
         event['narrative'] = narratives[event['id']]
-        event['narrativeSource'] = story['narrativeSource']
+        if story.get('narrativeSource'):
+            event['narrativeSource'] = story['narrativeSource']
     titles = wiki_map.get(event['id'], [])
     wiki_title = story.get('wikiTitle') or next((title for title in titles if '/' not in title), None)
     if event['type'] == 'main':
