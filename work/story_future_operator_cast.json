@@ -1,21 +1,123 @@
 {
   "people": [
-    {"id": "future-thumpy", "name": "썸피", "kind": "operator", "wikiTitle": "Thumpy"},
-    {"id": "future-jacinta", "name": "자신타", "kind": "operator", "wikiTitle": "Jacinta"},
-    {"id": "future-yukari", "name": "타케바 유카리", "kind": "operator", "wikiTitle": "Yukari Takeba"},
-    {"id": "future-aegis", "name": "아이기스", "kind": "operator", "wikiTitle": "Aegis"},
-    {"id": "future-koromaru", "name": "코로마루", "kind": "operator", "wikiTitle": "Koromaru"},
-    {"id": "homebound", "name": "홈바운드", "kind": "operator", "wikiTitle": "Homebound"},
-    {"id": "de-toledo", "name": "데 톨레도", "kind": "operator", "wikiTitle": "De Toledo"},
-    {"id": "territoriya", "name": "테리토리야", "kind": "operator", "wikiTitle": "Territoriya"},
-    {"id": "closure", "name": "클로저", "kind": "operator", "wikiTitle": "Closure"}
+    {
+      "id": "future-thumpy",
+      "name": "썸피",
+      "kind": "operator",
+      "wikiTitle": "Thumpy"
+    },
+    {
+      "id": "future-jacinta",
+      "name": "자신타",
+      "kind": "operator",
+      "wikiTitle": "Jacinta"
+    },
+    {
+      "id": "future-yukari",
+      "name": "타케바 유카리",
+      "kind": "operator",
+      "wikiTitle": "Yukari Takeba"
+    },
+    {
+      "id": "future-aegis",
+      "name": "아이기스",
+      "kind": "operator",
+      "wikiTitle": "Aegis"
+    },
+    {
+      "id": "future-koromaru",
+      "name": "코로마루",
+      "kind": "operator",
+      "wikiTitle": "Koromaru"
+    },
+    {
+      "id": "homebound",
+      "name": "홈바운드",
+      "kind": "operator",
+      "wikiTitle": "Homebound"
+    },
+    {
+      "id": "de-toledo",
+      "name": "데 톨레도",
+      "kind": "operator",
+      "wikiTitle": "De Toledo"
+    },
+    {
+      "id": "territoriya",
+      "name": "테리토리야",
+      "kind": "operator",
+      "wikiTitle": "Territoriya"
+    },
+    {
+      "id": "closure",
+      "name": "클로저",
+      "kind": "operator",
+      "wikiTitle": "Closure"
+    },
+    {
+      "id": "lin",
+      "name": "린",
+      "kind": "operator",
+      "wikiTitle": "Lin"
+    }
   ],
   "events": {
-    "main-17": ["kaltsit", "talulah", "crownslayer", "gummy", "closure"],
-    "jungle-knot": ["wiki-dobermann"],
-    "lime": ["future-thumpy", "future-jacinta"],
-    "moon-water": ["future-yukari", "future-aegis", "future-koromaru"],
-    "yesterday-sea": ["homebound", "de-toledo"],
-    "time-forward": ["territoriya"]
+    "main-17": [
+      "kaltsit",
+      "talulah",
+      "crownslayer",
+      "gummy",
+      "closure"
+    ],
+    "jungle-knot": [
+      "wiki-dobermann"
+    ],
+    "lime": [
+      "future-thumpy",
+      "future-jacinta"
+    ],
+    "moon-water": [
+      "future-yukari",
+      "future-aegis",
+      "future-koromaru"
+    ],
+    "yesterday-sea": [
+      "homebound",
+      "de-toledo"
+    ],
+    "time-forward": [
+      "territoriya",
+      "amiya",
+      "wiki-red-npc"
+    ],
+    "dossoles": [
+      "lin"
+    ],
+    "mass-travels": [
+      "virtuosa",
+      "wiki-priestess",
+      "doctor"
+    ],
+    "afternoon": [
+      "ceobe"
+    ],
+    "ancient-forge": [
+      "closure"
+    ],
+    "unfinished": [
+      "wiki-sciurus-browntail",
+      "wiki-yucatan",
+      "wiki-roy",
+      "wiki-monique",
+      "wiki-jesselton-williams",
+      "wiki-eurill-pides",
+      "wiki-herman-doykos"
+    ],
+    "see-you-tomorrow": [
+      "wiki-nowell"
+    ],
+    "dreamtalk": [
+      "wiki-bena"
+    ]
   }
 }

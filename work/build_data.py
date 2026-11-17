@@ -414,6 +414,9 @@ with (ROOT / 'work' / 'story_action_dense.tsv').open(encoding='utf-8', newline='
             'spoiler': 'medium', 'source': event_lookup[event_id]['summarySource'],
         })
 
+# Keep the existing cast ranking when scene entries are consolidated.
+cast_activity = Counter((item['event'], item['person']) for item in base['actions'])
+
 # The first character-centered rewrite replaces the older scene-by-scene entries.
 foam_actions = json.loads((ROOT / 'work' / 'foam_character_actions.json').read_text(encoding='utf-8'))
 if any(item['event'] != 'foam-thunder' or item['person'] not in known_people or not item['text'].strip() for item in foam_actions):
@@ -438,14 +441,34 @@ for event_id, items in main_actions.items():
 base['actions'] = [item for item in base['actions'] if item['event'] not in main_ids]
 base['actions'].extend(item for items in main_actions.values() for item in items)
 
+# Reviewed side stories replace fragmented scene entries with character summaries.
+side_actions = json.loads((ROOT / 'work' / 'side_character_actions.json').read_text(encoding='utf-8'))
+if set(side_actions) - (set(event_lookup) - main_ids - {'foam-thunder'}):
+    raise ValueError('Unknown reviewed side story')
+for event_id, items in side_actions.items():
+    present = {item['person'] for item in base['appearances'] if item['event'] == event_id}
+    persons = [item['person'] for item in items]
+    if not persons or len(persons) != len(set(persons)) or not set(persons) <= present:
+        raise ValueError(f'Invalid reviewed side-story cast: {event_id}')
+    if any(item['event'] != event_id or not item['text'].strip() for item in items):
+        raise ValueError(f'Invalid side-story character summary: {event_id}')
+base['actions'] = [item for item in base['actions'] if item['event'] not in side_actions]
+base['actions'].extend(item for items in side_actions.values() for item in items)
+
 protagonist_overrides = json.loads((ROOT / 'work' / 'story_protagonists.json').read_text(encoding='utf-8'))
+# Reassessed leads whose importance changed during the story review.
+protagonist_overrides.update({
+    'dossoles': ['chen', 'lin', 'tequila', 'wiki-pancho-salas'],
+    'moon-water': ['makoto-yuki', 'prts-giada', 'prts-giulio'],
+    'time-forward': ['talulah', 'prts-milana-turin', 'wiki-fyodor-vladimirovich', 'wiki-nine'],
+})
 sourced_evidence = json.loads((ROOT / 'work' / 'story_cast_evidence.json').read_text(encoding='utf-8'))
 if set(protagonist_overrides) - set(event_lookup):
     raise ValueError('Protagonist list refers to an unknown story')
 people_by_id = {person['id']: person for person in base['people']}
 for event_id, event in event_lookup.items():
     present = {item['person'] for item in base['appearances'] if item['event'] == event_id}
-    activity = Counter(item['person'] for item in base['actions'] if item['event'] == event_id)
+    activity = Counter({person_id: cast_activity[(event_id, person_id)] for person_id in present})
     cast_seed = list(dict.fromkeys(story_cast[event_id]['cast'] + cast_expansions.get(event_id, []) + sourced_cast.get(event_id, [])
                                     + ['prts-' + person_id for person_id, _, _ in prts_cast.get(event_id, [])]
                                     + future_operator_cast['events'].get(event_id, [])))
@@ -456,6 +479,18 @@ for event_id, event in event_lookup.items():
         other_leads = sorted((person_id for person_id in present if person_id != lead and activity[person_id] >= 2),
                              key=lambda person_id: (-activity[person_id], cast_rank.get(person_id, 999)))
         protagonists = [lead, *other_leads]
+    reviewed_rank = {item['person']: index for index, item in enumerate(side_actions.get(event_id, []))}
+    if reviewed_rank:
+        # The curated order is the reviewed influence order, including the
+        # point where its leading roles end. Do not let stale auto-generated
+        # protagonist labels pull less important characters ahead of it.
+        old_leads = set(protagonists)
+        ordered_reviewed = list(reviewed_rank)
+        protagonists = []
+        for person_id in ordered_reviewed:
+            if person_id not in old_leads and protagonists:
+                break
+            protagonists.append(person_id)
     if not protagonists or len(protagonists) != len(set(protagonists)) or set(protagonists) - present:
         raise ValueError(f'Invalid protagonists: {event_id} / {protagonists}')
     lead_rank = {person_id: index for index, person_id in enumerate(protagonists)}
@@ -471,12 +506,14 @@ for event_id, event in event_lookup.items():
     def prominence(person_id):
         if person_id in lead_rank:
             return (0, lead_rank[person_id], 0, '')
+        if person_id in reviewed_rank:
+            return (1, reviewed_rank[person_id], 0, '')
         name = people_by_id[person_id]['name']
-        return (1, -influence(person_id), cast_rank.get(person_id, 999), name)
+        return (2, -influence(person_id), cast_rank.get(person_id, 999), name)
     event['protagonists'] = protagonists
     event['peopleOrder'] = sorted(present, key=prominence)
     event['lowImpactPeople'] = [person_id for person_id in event['peopleOrder']
-                                if person_id not in lead_rank and influence(person_id) < 5]
+                                if person_id not in lead_rank and person_id not in reviewed_rank and influence(person_id) < 5]
 
 base['sequences'] = json.loads((ROOT / 'work' / 'story_sequences.json').read_text(encoding='utf-8'))
 events_by_id = {event['id']: event for event in base['events']}
