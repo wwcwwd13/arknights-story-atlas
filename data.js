@@ -263,16 +263,16 @@ window.STORY_DATA = {
         "wiki-misha",
         "wiki-skullshatterer",
         "talulah",
+        "frostnova",
         "kaltsit",
+        "wiki-mephisto",
         "wiki-frostleaf",
+        "jessica",
+        "wiki-meteorite",
         "nearl",
         "w",
         "wiki-ace",
         "crownslayer",
-        "frostnova",
-        "wiki-mephisto",
-        "jessica",
-        "wiki-meteorite",
         "hoshiguma"
       ],
       "lowImpactPeople": [
@@ -432,16 +432,15 @@ window.STORY_DATA = {
       "peopleOrder": [
         "chen",
         "amiya",
-        "hoshiguma",
         "swire",
         "wiki-mephisto",
+        "hoshiguma",
         "wiki-wei-yenwu",
         "wiki-blaze",
         "wiki-faust",
         "wiki-fumizuki"
       ],
       "lowImpactPeople": [
-        "wiki-faust",
         "wiki-fumizuki"
       ],
       "sequences": [
@@ -801,21 +800,20 @@ window.STORY_DATA = {
         "chen",
         "wiki-mephisto",
         "wiki-faust",
+        "kaltsit",
         "crownslayer",
         "swire",
         "wiki-blaze",
+        "wiki-greythroat",
         "wiki-nine",
-        "kaltsit",
         "talulah",
         "wiki-wei-yenwu",
-        "wiki-greythroat",
         "wiki-mon3tr",
         "wiki-taihe",
         "wiki-jie-zhen"
       ],
       "lowImpactPeople": [
         "wiki-wei-yenwu",
-        "wiki-greythroat",
         "wiki-mon3tr",
         "wiki-taihe",
         "wiki-jie-zhen"
@@ -1338,6 +1336,7 @@ window.STORY_DATA = {
         "kaltsit",
         "rosmontis",
         "w",
+        "wiki-mephisto",
         "wiki-guard-npc",
         "hoshiguma",
         "wiki-wei-yenwu",
@@ -1345,7 +1344,6 @@ window.STORY_DATA = {
         "wiki-fumizuki",
         "wiki-scout",
         "crownslayer",
-        "wiki-mephisto",
         "theresa",
         "wiki-islam-witte",
         "wiki-edward-artorius",
@@ -1356,7 +1354,6 @@ window.STORY_DATA = {
         "wiki-fumizuki",
         "wiki-scout",
         "crownslayer",
-        "wiki-mephisto",
         "theresa",
         "wiki-islam-witte",
         "wiki-edward-artorius",
@@ -1730,17 +1727,16 @@ window.STORY_DATA = {
         "wiki-alina",
         "rosmontis",
         "kaltsit",
+        "patriot",
         "wiki-deathless-black-snake",
+        "w",
         "wiki-nine",
         "frostnova",
-        "patriot",
-        "w",
         "theresa",
         "wiki-guard-npc",
         "wiki-wei-yenwu"
       ],
       "lowImpactPeople": [
-        "w",
         "theresa",
         "wiki-guard-npc",
         "wiki-wei-yenwu"
@@ -2636,19 +2632,18 @@ window.STORY_DATA = {
       "peopleOrder": [
         "horn",
         "bagpipe",
-        "wiki-outcast",
-        "reed",
         "wiki-hamilton",
+        "wiki-outcast",
         "saileach",
+        "reed",
         "wiki-mandragora",
+        "wiki-nine",
         "kaltsit",
-        "harmonie",
-        "wiki-nine"
+        "harmonie"
       ],
       "lowImpactPeople": [
         "kaltsit",
-        "harmonie",
-        "wiki-nine"
+        "harmonie"
       ],
       "sequences": [
         "main"
@@ -3304,39 +3299,35 @@ window.STORY_DATA = {
         "wiki-manfred",
         "horn",
         "theresis",
+        "theresa",
         "rockrock",
         "kaltsit",
         "heidi",
         "wiki-mandragora",
         "wiki-dagda",
         "wiki-clovisia",
+        "doctor",
+        "logos",
         "stainless",
+        "wiki-damazti-cluster",
+        "wiki-allerdale",
+        "wiki-nine",
         "w",
         "hoederer",
-        "theresa",
         "wiki-indra",
-        "doctor",
         "morgan",
         "ines",
-        "logos",
         "jessica",
         "wiki-qui-sartustaj",
-        "wiki-damazti-cluster",
         "ascalon",
-        "wiki-allerdale",
-        "wiki-deathless-black-snake",
-        "wiki-nine"
+        "wiki-deathless-black-snake"
       ],
       "lowImpactPeople": [
         "ines",
-        "logos",
         "jessica",
         "wiki-qui-sartustaj",
-        "wiki-damazti-cluster",
         "ascalon",
-        "wiki-allerdale",
-        "wiki-deathless-black-snake",
-        "wiki-nine"
+        "wiki-deathless-black-snake"
       ],
       "sequences": [
         "main"
@@ -4036,15 +4027,16 @@ window.STORY_DATA = {
         "siege",
         "amiya",
         "wiki-allerdale",
+        "kaltsit",
         "doctor",
         "wiki-catherine",
+        "theresis",
         "logos",
         "stainless",
         "horn",
-        "kaltsit",
-        "theresis",
-        "bagpipe",
         "shining",
+        "wiki-manfred",
+        "bagpipe",
         "wiki-charles-lynch",
         "harmonie",
         "wiki-edward-artorius",
@@ -4052,13 +4044,10 @@ window.STORY_DATA = {
         "leto",
         "wiki-duq-arael",
         "wiki-ailshie",
-        "wiki-manfred",
         "wiki-duke-of-wellington"
       ],
       "lowImpactPeople": [
-        "theresis",
         "bagpipe",
-        "shining",
         "wiki-charles-lynch",
         "harmonie",
         "wiki-edward-artorius",
@@ -4066,7 +4055,6 @@ window.STORY_DATA = {
         "leto",
         "wiki-duq-arael",
         "wiki-ailshie",
-        "wiki-manfred",
         "wiki-duke-of-wellington"
       ],
       "sequences": [
@@ -4643,23 +4631,25 @@ window.STORY_DATA = {
       "peopleOrder": [
         "siege",
         "amiya",
+        "ines",
+        "logos",
         "wiki-delphine",
         "wiki-damazti-cluster",
-        "wiki-baird",
-        "ines",
         "doctor",
         "morgan",
+        "wiki-baird",
         "wiki-golding",
+        "wiki-duke-of-caster",
+        "ascalon",
         "wiki-clovisia",
-        "logos",
+        "wiki-nine",
+        "talulah",
         "wiki-cador",
         "paprika",
         "theresis",
-        "wiki-duke-of-caster",
         "leto",
         "kaltsit",
         "wiki-duke-of-wellington",
-        "ascalon",
         "wiki-molly",
         "wiki-duke-of-windermere",
         "wiki-the-brigadier",
@@ -4667,19 +4657,15 @@ window.STORY_DATA = {
         "theresa",
         "wiki-red-npc",
         "wiki-percival",
-        "wiki-nine",
-        "talulah",
         "wiki-nezzsalem"
       ],
       "lowImpactPeople": [
         "wiki-cador",
         "paprika",
         "theresis",
-        "wiki-duke-of-caster",
         "leto",
         "kaltsit",
         "wiki-duke-of-wellington",
-        "ascalon",
         "wiki-molly",
         "wiki-duke-of-windermere",
         "wiki-the-brigadier",
@@ -4687,8 +4673,6 @@ window.STORY_DATA = {
         "theresa",
         "wiki-red-npc",
         "wiki-percival",
-        "wiki-nine",
-        "talulah",
         "wiki-nezzsalem"
       ],
       "sequences": [
@@ -5259,33 +5243,33 @@ window.STORY_DATA = {
         "doctor",
         "siege",
         "logos",
-        "wiki-confessarii",
-        "wiki-delphine",
-        "wiki-salus",
-        "wiki-ermengarde",
-        "talulah",
-        "wiki-nowell",
-        "w",
-        "paprika",
         "shining",
+        "wiki-confessarii",
         "ines",
+        "wiki-delphine",
         "hoederer",
         "kaltsit",
         "wiki-nine",
         "nightingale",
-        "wiki-ulsulah",
+        "wiki-salus",
+        "wiki-ermengarde",
+        "talulah",
         "rockrock",
-        "wiki-duq-arael",
-        "wiki-qui-sartustaj",
-        "wiki-lifebone",
+        "wiki-nowell",
+        "w",
+        "paprika",
         "wiki-duke-of-windermere",
         "ascalon",
         "wiki-guard-npc",
+        "wiki-damazti-cluster",
+        "wiki-ulsulah",
+        "wiki-duq-arael",
+        "wiki-qui-sartustaj",
+        "wiki-lifebone",
         "wiki-duke-of-caster",
         "wiki-duke-of-gododdin",
         "bagpipe",
         "wiki-duke-of-wellington",
-        "wiki-damazti-cluster",
         "wiki-shearer",
         "wiki-red-npc",
         "wiki-percival",
@@ -5294,18 +5278,13 @@ window.STORY_DATA = {
       ],
       "lowImpactPeople": [
         "wiki-ulsulah",
-        "rockrock",
         "wiki-duq-arael",
         "wiki-qui-sartustaj",
         "wiki-lifebone",
-        "wiki-duke-of-windermere",
-        "ascalon",
-        "wiki-guard-npc",
         "wiki-duke-of-caster",
         "wiki-duke-of-gododdin",
         "bagpipe",
         "wiki-duke-of-wellington",
-        "wiki-damazti-cluster",
         "wiki-shearer",
         "wiki-red-npc",
         "wiki-percival",
@@ -6012,28 +5991,28 @@ window.STORY_DATA = {
         "theresa",
         "doctor",
         "siege",
-        "hoederer",
-        "w",
         "logos",
         "kaltsit",
         "wiki-lifebone",
+        "hoederer",
         "wiki-manfred",
         "ascalon",
-        "ines",
-        "wiki-nezzsalem",
         "shining",
         "theresis",
         "nightingale",
         "bagpipe",
+        "w",
         "wiki-confessarii",
-        "wiki-ulsulah",
-        "wiki-bellingham",
         "wiki-duke-of-wellington",
         "horn",
+        "wiki-priestess",
+        "ines",
+        "wiki-nezzsalem",
+        "wiki-ulsulah",
+        "wiki-bellingham",
         "wiki-nadine",
         "wiki-qalid-coa",
         "wiki-salus",
-        "wiki-priestess",
         "wiki-damazti-cluster",
         "wiki-duke-of-gododdin",
         "talulah",
@@ -6041,16 +6020,11 @@ window.STORY_DATA = {
         "wiki-nine"
       ],
       "lowImpactPeople": [
-        "bagpipe",
-        "wiki-confessarii",
         "wiki-ulsulah",
         "wiki-bellingham",
-        "wiki-duke-of-wellington",
-        "horn",
         "wiki-nadine",
         "wiki-qalid-coa",
         "wiki-salus",
-        "wiki-priestess",
         "wiki-damazti-cluster",
         "wiki-duke-of-gododdin",
         "talulah",
@@ -7163,11 +7137,11 @@ window.STORY_DATA = {
         "amiya",
         "kaltsit",
         "wiki-priestess",
-        "theresis",
         "wiki-hierda",
         "wiki-prts",
-        "ascalon",
+        "theresis",
         "warfarin",
+        "ascalon",
         "rosmontis",
         "theresa",
         "wiki-civilight-eterna",
@@ -7783,13 +7757,13 @@ window.STORY_DATA = {
         "amiya",
         "wiki-rankin",
         "raidian",
-        "wiki-elisabeth",
-        "crownslayer",
-        "wiki-nikto",
-        "wiki-eloysius-gorchekova",
         "wiki-vetochki",
         "wiki-mon3tr",
         "wiki-yurodstvo",
+        "wiki-elisabeth",
+        "wiki-nikto",
+        "crownslayer",
+        "wiki-eloysius-gorchekova",
         "wiki-islam-witte",
         "wiki-hierda"
       ],
@@ -8652,11 +8626,11 @@ window.STORY_DATA = {
       "krDate": "2026-11-16",
       "dateStatus": "confirmed",
       "krSource": "https://m.cafe.naver.com/arknightskor/1250127",
-      "summary": "낯선 포영국에서 깨어난 예비 A6팀의 오키드와 캐터펄트는 모습이 달라진 동료들을 만납니다. 두 사람은 나라의 저주와 '뇌의 주인'을 둘러싼 수수께끼를 풀기 위해 새 무기를 들고 사냥에 나섭니다.",
+      "summary": "사르곤에서 임무를 수행하던 오키드와 캐터펄트는 낯선 호우에이국으로 넘어갑니다. 두 사람은 국주 호후카와 함께 이쥬를 사냥하고, 교린과 번개의 주인을 둘러싼 저주의 진실을 마주합니다.",
       "factions": [
         "로도스 아일랜드",
         "예비 A6팀",
-        "포영국"
+        "호우에이국"
       ],
       "narrative": [
         {
@@ -8664,86 +8638,86 @@ window.STORY_DATA = {
           "paragraphs": [
             "로도스 아일랜드 예비 A6팀은 사르곤에서 의료 물자를 빼앗아 간 사막 도적을 추적한다. 대장 오키드는 스팟과 미드나이트가 적의 시선을 끌고, 포푸카가 우두머리를 상대하도록 작전을 짠다. 오랫동안 함께한 팀이지만 대원들은 제각각이다. 스팟은 틈만 나면 만화를 읽고, 미드나이트는 임무를 핑계 삼아 유흥가에서 정보를 모은다. 사냥에 관심이 많은 캐터펄트는 회의 도중 주변을 살피러 나가 있다가 돌아온다. 오키드는 대원들이 서로를 잘 아는 만큼 느슨해진 것이 걱정이다. 반면 캐터펄트는 지금까지도 어떻게든 해 왔으니 앞으로도 괜찮을 거라고 생각한다.",
             "둘은 높은 곳에서 팀을 지원하던 중 모래폭풍이 빠르게 다가오는 것을 발견한다. 오키드는 이미 적과 접촉한 동료들에게 후퇴를 지시하지만, 통신 너머 상황이 심상치 않자 캐터펄트와 함께 직접 구하러 간다. 거센 모래바람 속에서 동료들이 있던 방향으로 빛이 번쩍인다.",
-            "두 사람이 다시 주위를 살폈을 때 사막은 사라지고 낯선 대숲이 펼쳐져 있다. 떨어진 동료들을 찾던 오키드와 캐터펄트는 포푸카의 목소리를 듣고 달려간다. 그곳에는 포푸카와 똑같이 생긴 어린아이가 무사들에게 길을 막힌 채 실랑이를 벌이고 있다. 하지만 아이는 두 사람을 알아보지 못한다. 자신을 포영국의 국주 보우카라고 소개할 뿐이다. 대숲에 검은 기운을 두른 야수들이 나타나자 보우카는 오키드와 캐터펄트에게 함께 싸워 달라고 요청한다. 그녀는 이들을 자신이 찾던 ‘이수 사냥꾼’이라고 부른다.",
-            "오키드는 상황을 파악할 틈도 없이 전투를 지휘하지만, 평소 쓰던 우산의 아츠가 작동하지 않는다. 야수들은 웬만한 공격에도 쓰러지지 않는다. 그때 스팟을 닮은 대장장이가 하늘을 나는 연을 타고 나타난다. 그 역시 두 사람을 모른다. 대장장이가 야심 차게 꺼낸 발사기는 제대로 작동하지 않고, 강한 악취를 내는 탄이 주위에 퍼진다. 사람들까지 고생하지만 야수들이 냄새에 물러선 덕분에 일행은 위기를 넘긴다. 보우카에게는 미드나이트와 같은 얼굴을 한 장군도 있다.",
+            "두 사람이 다시 주위를 살폈을 때 사막은 사라지고 낯선 대숲이 펼쳐져 있다. 떨어진 동료들을 찾던 오키드와 캐터펄트는 포푸카의 목소리를 듣고 달려간다. 그곳에는 포푸카와 똑같이 생긴 어린아이가 무사들에게 길을 막힌 채 실랑이를 벌이고 있다. 하지만 아이는 두 사람을 알아보지 못한다. 자신을 호우에이국의 국주 호후카라고 소개할 뿐이다. 대숲에 검은 기운을 두른 야수들이 나타나자 호후카는 오키드와 캐터펄트에게 함께 싸워 달라고 요청한다. 그녀는 이들을 자신이 찾던 ‘이쥬헌터’이라고 부른다.",
+            "오키드는 상황을 파악할 틈도 없이 전투를 지휘하지만, 평소 쓰던 우산의 아츠가 작동하지 않는다. 야수들은 웬만한 공격에도 쓰러지지 않는다. 그때 스팟을 닮은 대장장이가 하늘을 나는 연을 타고 나타난다. 그 역시 두 사람을 모른다. 대장장이가 야심 차게 꺼낸 발사기는 제대로 작동하지 않고, 강한 악취를 내는 탄이 주위에 퍼진다. 사람들까지 고생하지만 야수들이 냄새에 물러선 덕분에 일행은 위기를 넘긴다. 호후카에게는 미드나이트와 같은 얼굴을 한 장군도 있다.",
             "그림 속 그의 단정하고 진지한 모습은 두 사람이 아는 동료와 너무나 달라, 낯선 땅에 왔다는 혼란을 더한다."
           ]
         },
         {
-          "title": "국주의 약속과 천둥의 주인",
+          "title": "국주의 약속과 번개의 주인",
           "paragraphs": [
-            "보우카는 포영국에 전해지는 시련을 설명한다. 십 년마다 산 위의 거대한 철제 문 ‘어륜’에서 강력한 이수와 그 이수가 가져오는 저주, 그리고 두 명의 사냥꾼이 나타난다. 국주와 사냥꾼이 함께 이수를 쓰러뜨리면 국주가 저주를 정화하고, 어륜을 다시 열어 사냥꾼들을 고향으로 돌려보낸다. 오키드에게는 지나치게 잘 짜인 이야기처럼 들리지만, 돌아갈 길에 관한 유일한 단서이기도 하다. 수도에 들어선 보우카는 주민들 앞에서 오키드와 캐터펄트를 이번 시련의 사냥꾼이라고 소개한다. 그녀는 이수를 물리친 다음 ‘천둥의 주인’도 사냥하겠다고 선언한다.",
-            "오키드는 동의하기도 전에 사람들의 기대를 떠안게 된 데 당황한다. 보우카는 두 사람을 이용한 사실을 인정하고, 왜 그토록 서둘렀는지 털어놓는다.",
-            "십 년 전 보우카의 어머니인 선대 국주는 이전 세대의 사냥꾼들과 함께 천둥의 주인을 상대했다가 사라졌다. 살아남은 사람들은 시련을 완수하지 못한 결과를 두려워했고, 저주받은 야수의 습격도 이어졌다. 보우카는 어머니가 끝내지 못한 일을 마무리하고 싶다. 그러나 장군 미드나이트는 어린 국주를 잃을 수 없다며, 선대처럼 세 차례의 시련을 마칠 때까지 그 괴물에 도전하지 말라고 막아 왔다. 십 년에 한 번인 시련 세 차례는 보우카에게 너무 긴 기다림이다.",
-            "정찰대가 대숲에서 불을 품은 달팽이 모양 야수 무리를 발견하자 보우카는 이번에는 자신이 처리하겠다며 앞장선다. 따로 남은 오키드와 캐터펄트 앞에도 같은 야수가 나타난다. 둘은 이것이 대형 오리지늄충과 닮았다고 생각하고 대나무를 쓰러뜨려 막아 보지만, 뜨거운 껍질에 닿은 대나무가 불붙는다. 위기의 순간 청록색 비늘과 번개를 두른 거대한 짐승이 나타나 야수를 단숨에 제압한다.",
-            "오키드는 그 짐승이 천둥의 주인임을 짐작한다. 캐터펄트가 공격하지만 상처조차 입히지 못하고, 오키드가 대장장이의 악취탄을 주워 둔 덕분에 둘은 빠져나온다. 보우카가 일대를 정리한 뒤 무사들은 쓰러진 야수의 껍질과 고기를 거두어 간다. 이들에게 사냥은 위협을 막는 일인 동시에 추운 겨울을 날 연료와 식량을 구하는 일이기도 하다."
+            "호후카는 호우에이국에 전해지는 시련을 설명한다. 십 년마다 산 위의 거대한 철제 문 ‘교린’에서 강력한 이쥬와 그 이쥬가 가져오는 저주, 그리고 두 명의 사냥꾼이 나타난다. 국주와 사냥꾼이 함께 이쥬를 쓰러뜨리면 국주가 저주를 정화하고, 교린을 다시 열어 사냥꾼들을 고향으로 돌려보낸다. 오키드에게는 지나치게 잘 짜인 이야기처럼 들리지만, 돌아갈 길에 관한 유일한 단서이기도 하다. 수도에 들어선 호후카는 주민들 앞에서 오키드와 캐터펄트를 이번 시련의 사냥꾼이라고 소개한다. 그녀는 이쥬를 물리친 다음 ‘번개의 주인’도 사냥하겠다고 선언한다.",
+            "오키드는 동의하기도 전에 사람들의 기대를 떠안게 된 데 당황한다. 호후카는 두 사람을 이용한 사실을 인정하고, 왜 그토록 서둘렀는지 털어놓는다.",
+            "십 년 전 호후카의 어머니인 선대 국주는 이전 세대의 사냥꾼들과 함께 번개의 주인을 상대했다가 사라졌다. 살아남은 사람들은 시련을 완수하지 못한 결과를 두려워했고, 저주받은 야수의 습격도 이어졌다. 호후카는 어머니가 끝내지 못한 일을 마무리하고 싶다. 그러나 장군 미츠도키는 어린 국주를 잃을 수 없다며, 선대처럼 세 차례의 시련을 마칠 때까지 그 괴물에 도전하지 말라고 막아 왔다. 십 년에 한 번인 시련 세 차례는 호후카에게 너무 긴 기다림이다.",
+            "정찰대가 대숲에서 불을 품은 달팽이 모양 야수 무리를 발견하자 호후카는 이번에는 자신이 처리하겠다며 앞장선다. 따로 남은 오키드와 캐터펄트 앞에도 같은 야수가 나타난다. 둘은 이것이 대형 오리지늄충과 닮았다고 생각하고 대나무를 쓰러뜨려 막아 보지만, 뜨거운 껍질에 닿은 대나무가 불붙는다. 위기의 순간 청록색 비늘과 번개를 두른 거대한 짐승이 나타나 야수를 단숨에 제압한다.",
+            "오키드는 그 짐승이 번개의 주인임을 짐작한다. 캐터펄트가 공격하지만 상처조차 입히지 못하고, 오키드가 대장장이의 악취탄을 주워 둔 덕분에 둘은 빠져나온다. 호후카가 일대를 정리한 뒤 무사들은 쓰러진 야수의 껍질과 고기를 거두어 간다. 이들에게 사냥은 위협을 막는 일인 동시에 추운 겨울을 날 연료와 식량을 구하는 일이기도 하다."
           ]
         },
         {
           "title": "서로 다른 세계의 사람들",
           "paragraphs": [
-            "오키드는 이 땅이 사르곤 어딘가에 꾸며진 장소일지도 모른다는 의심을 버리지 못한다. 주민들에게 이동 도시와 재앙, 오리지늄병을 물어보지만 누구도 알아듣지 못한다. 마침 대장장이의 공방에서 폭발이 일어나자 오키드는 몸에 박힌 결정 때문에 그가 감염될까 걱정한다. 그러나 파편은 오리지늄이 아니다. 스팟에게 있던 광석병의 흔적도 대장장이의 몸에는 없다. 오키드는 달팽이의 시체에 진짜 오리지늄이 숨겨진 것은 아닌지 확인하러 간다. 캐터펄트는 따로 보우카가 야수의 시체를 정화하는 의식을 몰래 지켜본다.",
-            "보우카가 춤을 추자 시체에서 나온 검은 기운이 그녀의 몸으로 빨려 들어간다. 괴로운 표정을 본 캐터펄트는 사람들이 포푸카와 닮은 아이를 희생시키고 있다고 오해해 의식을 막으려 한다. 그 앞을 말하는 고양이 마사무네가 가로막는다. 마사무네는 정화를 중단하면 오히려 국주가 다친다고 말하지만, 캐터펄트는 믿지 못하고 공방에 있던 검과 방패를 집어 든다.",
-            "두 사람이 다투는 사이 오키드는 창고에서 야수의 껍질을 조사한다. 결정은 아츠를 전도하지 않는 평범한 돌이다. 그런데 죽어 있던 야수가 검은 기운에 휩싸여 다시 움직이기 시작한다. 아츠를 쓸 수 없는 오키드는 쓰러진 경비병의 활을 집어 들어 시간을 번다. 뒤늦게 도착한 미드나이트가 상황을 정리하고, 이것은 생명체가 되살아난 것이 아니라 저주가 시체를 움직이는 현상이라고 판단한다. 의식을 마친 보우카는 캐터펄트에게 정화가 국주에게 대대로 이어진 책임이라고 설명한다.",
+            "오키드는 이 땅이 사르곤 어딘가에 꾸며진 장소일지도 모른다는 의심을 버리지 못한다. 주민들에게 이동 도시와 재앙, 오리지늄병을 물어보지만 누구도 알아듣지 못한다. 마침 대장장이의 공방에서 폭발이 일어나자 오키드는 몸에 박힌 결정 때문에 그가 감염될까 걱정한다. 그러나 파편은 오리지늄이 아니다. 스팟에게 있던 광석병의 흔적도 대장장이의 몸에는 없다. 오키드는 달팽이의 시체에 진짜 오리지늄이 숨겨진 것은 아닌지 확인하러 간다. 캐터펄트는 따로 호후카가 야수의 시체를 정화하는 의식을 몰래 지켜본다.",
+            "호후카가 춤을 추자 시체에서 나온 검은 기운이 그녀의 몸으로 빨려 들어간다. 괴로운 표정을 본 캐터펄트는 사람들이 포푸카와 닮은 아이를 희생시키고 있다고 오해해 의식을 막으려 한다. 그 앞을 말하는 고양이 마사무네가 가로막는다. 마사무네는 정화를 중단하면 오히려 국주가 다친다고 말하지만, 캐터펄트는 믿지 못하고 공방에 있던 검과 방패를 집어 든다.",
+            "두 사람이 다투는 사이 오키드는 창고에서 야수의 껍질을 조사한다. 결정은 아츠를 전도하지 않는 평범한 돌이다. 그런데 죽어 있던 야수가 검은 기운에 휩싸여 다시 움직이기 시작한다. 아츠를 쓸 수 없는 오키드는 쓰러진 경비병의 활을 집어 들어 시간을 번다. 뒤늦게 도착한 미츠도키가 상황을 정리하고, 이것은 생명체가 되살아난 것이 아니라 저주가 시체를 움직이는 현상이라고 판단한다. 의식을 마친 호후카는 캐터펄트에게 정화가 국주에게 대대로 이어진 책임이라고 설명한다.",
             "그녀는 캐터펄트가 아는 포푸카와 자신이 다르다는 증거로 상처와 결정이 없는 팔을 보여 준다. 대장장이에게서도 같은 사실을 확인한 오키드는 마침내 이곳이 자신들의 상식이 통하지 않는 다른 세계일 가능성을 받아들인다.",
-            "장군 미드나이트는 선대 국주가 이미 세 차례나 시련을 이겨 낸 강자였음에도 천둥의 주인과의 사냥에서 사라졌다고 말한다. 저주를 정화할 무녀는 보우카뿐이다. 그마저 잃으면 나라가 무방비로 남기에 장군은 오키드와 캐터펄트가 이번 이수만 사냥하고 귀향하기를 바란다. 보우카의 복수에 동참하지 말아 달라는 뜻이다."
+            "장군 미츠도키는 선대 국주가 이미 세 차례나 시련을 이겨 낸 강자였음에도 번개의 주인과의 사냥에서 사라졌다고 말한다. 저주를 정화할 무녀는 호후카뿐이다. 그마저 잃으면 나라가 무방비로 남기에 장군은 오키드와 캐터펄트가 이번 이쥬만 사냥하고 귀향하기를 바란다. 호후카의 복수에 동참하지 말아 달라는 뜻이다."
           ]
         },
         {
           "title": "사냥을 배우다",
           "paragraphs": [
             "마사무네는 십 년 전 선대 국주와 함께 사냥했던 전대 사냥꾼이다. 그의 동료 요시쓰네는 도시 밖에 머물고 있다. 마사무네는 탄약이 떨어져 가는 캐터펄트와 아츠를 쓸 수 없는 오키드에게 새 장비가 필요하다고 말하며 대장장이의 공방으로 데려간다. 귀찮다며 거절하던 대장장이는 캐터펄트의 발사기를 연구할 수 있다는 말에 마음을 바꾼다. 의상 디자이너인 오키드는 직접 설계도를 손봐 두 사람에게 맞는 옷을 준비한다. 마사무네는 오키드에게 활을, 캐터펄트에게 검과 방패를 도끼로 합칠 수 있는 차지액스를 가르친다.",
-            "실을 뿜는 벌레를 이용해 몸을 빠르게 움직이는 법도 익힌다. 캐터펄트가 연습 중 높은 곳에서 떨어질 뻔하자 오키드가 벌레의 실로 그를 붙잡는다. 공방에서 두 사람을 기다리던 보우카와 미드나이트는 서로 상대를 돌려보내려 하다가도 끝내 나란히 기다린다. 오키드는 마사무네에게 천둥의 주인과 함께 이곳에 오게 된 경위를 듣는다. 그와 요시쓰네는 염호 마을에서 정찰 임무를 수행하다 진오우거를 추적했고, 그러던 중 포영국에 도착했다. 마사무네는 이곳의 저주가 자기 고향에 알려진 광룡 바이러스와 비슷하다고 의심한다.",
+            "실을 뿜는 벌레를 이용해 몸을 빠르게 움직이는 법도 익힌다. 캐터펄트가 연습 중 높은 곳에서 떨어질 뻔하자 오키드가 벌레의 실로 그녀를 붙잡는다. 공방에서 두 사람을 기다리던 호후카와 미츠도키는 서로 상대를 돌려보내려 하다가도 끝내 나란히 기다린다. 오키드는 마사무네에게 번개의 주인과 함께 이곳에 오게 된 경위를 듣는다. 그와 요시쓰네는 카무라 마을에서 소재를 찾는 임무를 수행하다 진오우거를 추적했고, 그러던 중 호우에이국에 도착했다. 마사무네는 이곳의 저주가 자기 고향에 알려진 광룡증와 비슷하다고 의심한다.",
             "아직 같은 것이라고 단정할 수는 없지만, 만약 고향에서 건너온 재앙이라면 자신에게도 이를 해결할 책임이 있다고 생각한다.",
-            "오키드는 이번 시련의 이수 사냥에는 함께하되, 아직 준비되지 않은 채 천둥의 주인에게 도전하는 일은 거절하겠다고 보우카에게 전한다. 그것은 장군의 부탁을 따르기보다 자신이 위험을 보고 내린 판단이다. 훈련이 끝난 뒤 오키드는 보우카의 찢어진 옷을 꿰매 준다. 그 모습을 본 미드나이트는 오래전 같은 공방에서 어린 보우카에게 무기를 가르쳐 주던 선대 국주를 떠올린다. 곧 눈 덮인 산에서 열기가 감지됐다는 소식이 온다. 오키드와 캐터펄트는 새 장비를 받고 보우카, 마사무네, 요시쓰네와 함께 산으로 향한다.",
-            "장군은 저주받은 야수들이 서로 싸운 흔적을 조사하겠다며 별도로 움직인다. 출발 전 마사무네는 사냥꾼에게 식사는 빠질 수 없다며 일행에게 염호 마을의 경단을 대접한다."
+            "오키드는 이번 시련의 이쥬 사냥에는 함께하되, 아직 준비되지 않은 채 번개의 주인에게 도전하는 일은 거절하겠다고 호후카에게 전한다. 그것은 장군의 부탁을 따르기보다 자신이 위험을 보고 내린 판단이다. 훈련이 끝난 뒤 오키드는 호후카의 찢어진 옷을 꿰매 준다. 그 모습을 본 미츠도키는 오래전 같은 공방에서 어린 호후카에게 무기를 가르쳐 주던 선대 국주를 떠올린다. 곧 눈 덮인 산에서 열기가 감지됐다는 소식이 온다. 오키드와 캐터펄트는 새 장비를 받고 호후카, 마사무네, 요시쓰네와 함께 산으로 향한다.",
+            "장군은 저주받은 야수들이 서로 싸운 흔적을 조사하겠다며 별도로 움직인다. 출발 전 마사무네는 사냥꾼에게 식사는 빠질 수 없다며 일행에게 카무라 마을의 경단을 대접한다."
           ]
         },
         {
           "title": "첫 시련과 열리지 않는 귀향길",
           "paragraphs": [
-            "산에 오르자 눈이 녹고 검은 화산암이 드러난다. 저주의 힘이 설산을 용암 지대로 바꾸고 있는 것이다. 보우카는 서로 다른 두 곳에서 힘을 감지하지만, 땅이 갈라지면서 일행은 나뉜다. 그녀는 더 큰 기운을 찾아 홀로 향하고, 오키드와 캐터펄트는 남은 야수와 싸운다. 마사무네와 요시쓰네는 두 사람이 배운 것을 스스로 시험해 보도록 물러선다. 오키드는 활로 야수의 움직임을 제한하고 캐터펄트는 차지액스를 휘두른다. 캐터펄트가 위험한 공격을 정면으로 받아 내자 마사무네는 무모하다고 놀란다. 둘은 야수를 쓰러뜨리지만 캐터펄트는 부상을 입는다.",
-            "상처를 돌봐 주면서 오키드는 명령도 듣지 않은 채 목숨을 건 행동을 나무란다. 캐터펄트에게는 강한 상대를 온 힘을 다해 이겨 내는 것이 사냥의 즐거움이지만, 오키드는 그 마음을 쉽게 이해하지 못한다. 한편 보우카는 더 거대한 이수를 쓰러뜨리지만 땅속 깊은 곳에서 자신을 잡아당기는 듯한 힘을 느낀다. 쓰러진 이수는 검은 기운을 뿜으며 다시 일어서고, 갈라진 껍질 아래에는 공간이 찢어진 듯한 형체가 드러난다. 보우카가 고전하는 사이 오키드 일행이 합류한다. 캐터펄트가 차지액스로 결정타를 날리고, 이수가 쓰러지자 보우카를 끌어당기던 힘도 사라진다.",
-            "뒤따라온 장군과 보우카는 사냥꾼을 보내는 축제를 놓고 다시 의견이 갈린다. 보우카는 전통대로 감사와 작별의 자리를 마련하고 싶지만, 장군은 천둥의 주인이 남아 있는 상황을 우려한다. 오키드는 하루빨리 돌아가야 한다며 축제를 생략하자고 한다. 그러면서도 보우카에게 이것으로 정말 괜찮은지 묻는다. 보우카는 그렇다고 답하고 이수의 저주를 정화해 어륜을 연다. 하얗게 빛나던 귀향의 문은 갑자기 검게 변한다. 문 안에서 저주에 물든 이빨짐승, ‘주귀’들이 쏟아진다. 장군은 과거 이런 짐승 떼가 옛 포영국을 멸망시킨 적이 있다고 설명한다.",
-            "멀리 절벽 위에는 천둥의 주인이 나타나 있고, 일행은 그것이 어륜을 방해하고 있다고 생각한다. 산과 대숲의 야수들이 수도로 몰려온다는 경보까지 울린다. 캐터펄트는 지금 천둥의 주인을 쫓자고 하지만, 오키드는 저주를 정화할 수 있는 보우카가 자리를 비운 사이 도시가 무너질 수 있다고 말한다. 오랫동안 원수를 쫓고 싶었던 보우카도 국주로서 우선 백성을 지키기로 한다. 그녀는 절벽의 괴물을 한 번 더 바라본 뒤 일행과 함께 수도로 돌아간다."
+            "산에 오르자 눈이 녹고 검은 화산암이 드러난다. 저주의 힘이 설산을 용암 지대로 바꾸고 있는 것이다. 호후카는 서로 다른 두 곳에서 힘을 감지하지만, 땅이 갈라지면서 일행은 나뉜다. 그녀는 더 큰 기운을 찾아 홀로 향하고, 오키드와 캐터펄트는 남은 야수와 싸운다. 마사무네와 요시쓰네는 두 사람이 배운 것을 스스로 시험해 보도록 물러선다. 오키드는 활로 야수의 움직임을 제한하고 캐터펄트는 차지액스를 휘두른다. 캐터펄트가 위험한 공격을 정면으로 받아 내자 마사무네는 무모하다고 놀란다. 둘은 야수를 쓰러뜨리지만 캐터펄트는 부상을 입는다.",
+            "상처를 돌봐 주면서 오키드는 명령도 듣지 않은 채 목숨을 건 행동을 나무란다. 캐터펄트에게는 강한 상대를 온 힘을 다해 이겨 내는 것이 사냥의 즐거움이지만, 오키드는 그 마음을 쉽게 이해하지 못한다. 한편 호후카는 더 거대한 이쥬를 쓰러뜨리지만 땅속 깊은 곳에서 자신을 잡아당기는 듯한 힘을 느낀다. 쓰러진 이쥬는 검은 기운을 뿜으며 다시 일어서고, 갈라진 껍질 아래에는 공간이 찢어진 듯한 형체가 드러난다. 호후카가 고전하는 사이 오키드 일행이 합류한다. 캐터펄트가 차지액스로 결정타를 날리고, 이쥬가 쓰러지자 호후카를 끌어당기던 힘도 사라진다.",
+            "뒤따라온 장군과 호후카는 사냥꾼을 보내는 축제를 놓고 다시 의견이 갈린다. 호후카는 전통대로 감사와 작별의 자리를 마련하고 싶지만, 장군은 번개의 주인이 남아 있는 상황을 우려한다. 오키드는 하루빨리 돌아가야 한다며 축제를 생략하자고 한다. 그러면서도 호후카에게 이것으로 정말 괜찮은지 묻는다. 호후카는 그렇다고 답하고 이쥬의 저주를 정화해 교린을 연다. 하얗게 빛나던 귀향의 문은 갑자기 검게 변한다. 문 안에서 저주에 물든 이빨짐승, ‘주귀’들이 쏟아진다. 장군은 과거 이런 짐승 떼가 옛 호우에이국을 멸망시킨 적이 있다고 설명한다.",
+            "멀리 절벽 위에는 번개의 주인이 나타나 있고, 일행은 그것이 교린을 방해하고 있다고 생각한다. 산과 대숲의 야수들이 수도로 몰려온다는 경보까지 울린다. 캐터펄트는 지금 번개의 주인을 쫓자고 하지만, 오키드는 저주를 정화할 수 있는 호후카가 자리를 비운 사이 도시가 무너질 수 있다고 말한다. 오랫동안 원수를 쫓고 싶었던 호후카도 국주로서 우선 백성을 지키기로 한다. 그녀는 절벽의 괴물을 한 번 더 바라본 뒤 일행과 함께 수도로 돌아간다."
           ]
         },
         {
           "title": "수도의 방어와 장군의 부상",
           "paragraphs": [
-            "어륜 쪽에서 밀려오는 짐승들은 끝이 보이지 않았다. 보우카는 백성을 지키려면 천둥의 주인을 먼저 쓰러뜨려야 한다고 주장했지만, 포영국의 미드나이트는 우선 짐승 떼를 갈라놓을 계획을 세웠다. 보우카가 사냥한 용암 달팽이의 사체에 남은 저주가 다른 짐승을 끌어당긴다는 점을 이용하기로 한 것이다.",
-            "미드나이트가 고른 장소는 수도 밖 대숲이었다. 그 아래에는 오래된 지하 공동이 있었고, 그곳은 보우카가 오랫동안 찾아 헤맨 천둥의 주인의 둥지이기도 했다. 포영국의 대장장이이 만든 폭약으로 땅을 무너뜨려 짐승들을 떨어뜨리되, 보우카는 수도에 남아 방어를 맡기로 했다. 캐터펄트와 요시쓰네는 미드나이트의 유인대에 합류했다.",
-            "사체를 끌고 이동하던 병사들이 짐승 떼에 둘러싸이자 캐터펄트와 요시쓰네가 뒤를 막았다. 마침내 짐승들이 사체 주위에 몰려들었고 폭약이 터지면서 대숲이 무너졌다. 작전은 성공했지만 예상보다 넓게 땅이 갈라졌다. 미드나이트는 병사들을 구하다가 일행과 떨어졌고, 캐터펄트가 그를 찾았을 때 그는 중상을 입고 쓰러져 있었다.",
-            "근처에는 천둥의 주인이 있었다. 캐터펄트는 그것이 죽은 짐승들의 검은 기운을 빨아들이는 모습을 보았고, 그때 나타난 빛이 보우카의 무녀의 힘과 같다는 사실도 알아차렸다. 현장에 도착한 보우카는 어머니를 죽인 천둥의 주인이 어머니의 힘까지 빼앗았다고 여겼다."
+            "교린 쪽에서 밀려오는 짐승들은 끝이 보이지 않았다. 호후카는 백성을 지키려면 번개의 주인을 먼저 쓰러뜨려야 한다고 주장했지만, 미츠도키는 우선 짐승 떼를 갈라놓을 계획을 세웠다. 호후카가 사냥한 용암 달팽이의 사체에 남은 저주가 다른 짐승을 끌어당긴다는 점을 이용하기로 한 것이다.",
+            "미츠도키가 고른 장소는 수도 밖 대숲이었다. 그 아래에는 오래된 지하 공동이 있었고, 그곳은 호후카가 오랫동안 찾아 헤맨 번개의 주인의 둥지이기도 했다. 스파노스케가 만든 폭약으로 땅을 무너뜨려 짐승들을 떨어뜨리되, 호후카는 수도에 남아 방어를 맡기로 했다. 캐터펄트와 요시쓰네는 미츠도키의 유인대에 합류했다.",
+            "사체를 끌고 이동하던 병사들이 짐승 떼에 둘러싸이자 캐터펄트와 요시쓰네가 뒤를 막았다. 마침내 짐승들이 사체 주위에 몰려들었고 폭약이 터지면서 대숲이 무너졌다. 작전은 성공했지만 예상보다 넓게 땅이 갈라졌다. 미츠도키는 병사들을 구하다가 일행과 떨어졌고, 캐터펄트가 그를 찾았을 때 장군은 중상을 입고 쓰러져 있었다.",
+            "근처에는 번개의 주인이 있었다. 캐터펄트는 그것이 죽은 짐승들의 검은 기운을 빨아들이는 모습을 보았고, 그때 나타난 빛이 호후카의 무녀의 힘과 같다는 사실도 알아차렸다. 현장에 도착한 호후카는 어머니를 죽인 번개의 주인이 어머니의 힘까지 빼앗았다고 여겼다."
           ]
         },
         {
           "title": "오키드가 내린 결정",
           "paragraphs": [
-            "장군이 쓰러진 모습을 본 병사들은 동요했다. 또 다른 용암 달팽이가 나타나자 보우카는 혼자 달려들어 힘을 소모하면서까지 그것을 제압했다. 보우카는 복수심에 사로잡혀 곧장 구덩이 아래로 내려가려 했고, 미드나이트의 부하들은 장군의 방침에 따라 그녀를 막아섰다.",
-            "오키드는 우선 미드나이트를 수도로 옮겨 치료하고 일부 병사들은 구덩이를 지키라고 지시했다. 그리고 보우카에게 함께 천둥의 주인을 찾아가자고 제안했다. 당장 그녀를 설득하기 어렵다는 것을 알았기에 곁에서 지켜보려 한 선택이었다. 오키드와 캐터펄트, 마사무네와 요시쓰네가 보우카와 함께 지하로 향하는 동안, 수도에서는 대장장이가 캐터펄트의 무기를 참고해 만든 대형 병기로 방어를 도왔다.",
-            "의식을 되찾은 미드나이트는 보우카가 자신 때문에 사냥에 나섰다는 말을 듣고 낙담했다. 그는 선대 국주처럼 보우카도 자기 목숨을 아끼지 않고 책임을 떠안을까 두려웠다. 그러나 오키드가 남긴 편지는 국주를 위해 희생하려는 장군 자신도 모든 짐을 혼자 지고 있지 않느냐고 묻는다. 미드나이트는 보우카를 보호할 대상이라고만 여겼던 태도를 돌아보고 병사들과 함께 그녀를 뒤쫓았다."
+            "장군이 쓰러진 모습을 본 병사들은 동요했다. 또 다른 용암 달팽이가 나타나자 호후카는 혼자 달려들어 힘을 소모하면서까지 그것을 제압했다. 호후카는 복수심에 사로잡혀 곧장 구덩이 아래로 내려가려 했고, 미츠도키의 부하들은 장군의 방침에 따라 그녀를 막아섰다.",
+            "오키드는 우선 미츠도키를 수도로 옮겨 치료하고 일부 병사들은 구덩이를 지키라고 지시했다. 그리고 호후카에게 함께 번개의 주인을 찾아가자고 제안했다. 당장 그녀를 설득하기 어렵다는 것을 알았기에 곁에서 지켜보려 한 선택이었다. 오키드와 캐터펄트, 마사무네와 요시쓰네가 호후카와 함께 지하로 향하는 동안, 수도에서는 대장장이가 캐터펄트의 무기를 참고해 만든 대형 병기로 방어를 도왔다.",
+            "의식을 되찾은 미츠도키는 호후카가 자신 때문에 사냥에 나섰다는 말을 듣고 낙담했다. 그는 선대 국주처럼 호후카도 자기 목숨을 아끼지 않고 책임을 떠안을까 두려웠다. 그러나 오키드가 남긴 편지는 국주를 위해 희생하려는 장군 자신도 모든 짐을 혼자 지고 있지 않느냐고 묻는다. 미츠도키는 호후카를 보호할 대상이라고만 여겼던 태도를 돌아보고 병사들과 함께 그녀를 뒤쫓았다."
           ]
         },
         {
           "title": "대숲에서 밝혀진 진실",
           "paragraphs": [
-            "지하의 대숲에서 보우카가 어머니에게 받은 작은 병 속 벌레가 빛나기 시작했다. 마사무네는 그것이 진오우거와 함께 사는 뇌광충이라고 알아보았다. 풀려난 뇌광충들은 무리를 지어 안개 속 길을 밝혔고, 일행은 그 길에서 선대 국주가 남긴 듯한 목소리도 들었다. 보우카는 목소리를 쫓아 앞질러 가 천둥의 주인과 홀로 싸웠다.",
-            "보우카는 자신의 힘을 선대의 힘과 공명시켜 천둥의 주인과 함께 목숨을 버릴 각오까지 한다. 오키드와 캐터펄트는 짐승들이 제단으로 몰려드는 것을 막고 그녀에게 도착했다. 오키드는 보우카의 결단력을 인정하면서도, 혼자 모든 것을 해결하려 하지 말고 다른 사람에게 기대어 달라고 말한다.",
-            "뒤이어 도착한 미드나이트는 자신이 쓰러졌을 때 천둥의 주인이 저주받은 짐승들을 물리치고 자신을 구했다고 전한다. 캐터펄트가 보았던 정화의 빛도 공격의 흔적이 아니라 구조 직후의 광경이었을 가능성이 드러났다. 선대의 말과 그동안의 사건을 되짚은 일행은 천둥의 주인이 저주의 원흉이라기보다 저주의 피해자이며, 진짜 원인은 어륜과 관련돼 있다고 판단한다."
+            "지하의 대숲에서 호후카가 어머니에게 받은 작은 병 속 벌레가 빛나기 시작했다. 마사무네는 그것이 진오우거와 함께 사는 뇌광충이라고 알아보았다. 풀려난 뇌광충들은 무리를 지어 안개 속 길을 밝혔고, 일행은 그 길에서 선대 국주가 남긴 듯한 목소리도 들었다. 호후카는 목소리를 쫓아 앞질러 가 번개의 주인과 홀로 싸웠다.",
+            "호후카는 자신의 힘을 선대의 힘과 공명시켜 번개의 주인과 함께 목숨을 버릴 각오까지 한다. 오키드와 캐터펄트는 짐승들이 제단으로 몰려드는 것을 막고 그녀에게 도착했다. 오키드는 호후카의 결단력을 인정하면서도, 혼자 모든 것을 해결하려 하지 말고 다른 사람에게 기대어 달라고 말한다.",
+            "뒤이어 도착한 미츠도키는 자신이 쓰러졌을 때 번개의 주인이 저주받은 짐승들을 물리치고 자신을 구했다고 전한다. 캐터펄트가 보았던 정화의 빛도 공격의 흔적이 아니라 구조 직후의 광경이었을 가능성이 드러났다. 선대의 말과 그동안의 사건을 되짚은 일행은 번개의 주인이 저주의 원흉이라기보다 저주의 피해자이며, 진짜 원인은 교린과 관련돼 있다고 판단한다."
           ]
         },
         {
           "title": "마지막 사냥과 돌아가는 길",
           "paragraphs": [
-            "일행은 천둥의 주인을 죽이는 대신 저주에서 벗어나도록 돕고 그 힘을 빌리기로 했다. 오키드가 작전을 맡고, 미드나이트와 사냥단은 길을 열었으며 대장장이는 병기로 지원했다. 천둥의 주인은 괴로워하며 저항했지만 뇌광충들이 모이고 번개가 내리친 뒤, 스스로 저주를 이겨 내 힘의 일부로 삼았다.",
-            "그러나 진오우거는 순순히 힘을 빌려주지 않았다. 보우카와 오키드, 캐터펄트는 다시 사냥에 나섰고, 미드나이트는 병사들과 그 모습을 지켜보았다. 마침내 보우카가 진오우거를 다룰 기회를 잡는다. 그녀의 눈에서 나온 빛과 진오우거의 번개가 어륜을 완전히 작동시키자, 퍼져 나간 파동이 짐승들에게 남은 저주를 지웠다.",
-            "어륜의 빛 속에서 보우카는 선대의 기억과 마주했다. 전해 내려온 시련은 어륜이 고장 나 일어난 사고였으며, 선대는 죽음에 이르렀을 때 진오우거에게 무녀의 힘을 맡겨 후대가 문제를 해결할 가능성을 남겼다. 이후 오키드와 캐터펄트는 포영국과 작별하고 마사무네, 요시쓰네와 함께 자신들이 왔던 길로 향했다.",
-            "두 사람이 돌아온 사막에서는 로도스의 미드나이트와 스팟이 포푸카를 지키며 싸우고 있었다. 동료들이 체감한 실종 시간은 겨우 1분 남짓이었다. 오키드는 무사한 대원들에게 자신의 지휘를 돌아보며 말을 건넸고, 낯설 정도로 부드러운 반응에 동료들이 놀리자 곧 임무 보고를 재촉했다. 한편 포영국에서는 일행과 천둥의 주인을 기억할 조각상을 의논하고, 고향으로 돌아간 진오우거는 숲에서 새로운 사냥꾼을 마주한다."
+            "일행은 번개의 주인을 죽이는 대신 저주에서 벗어나도록 돕고 그 힘을 빌리기로 했다. 오키드가 작전을 맡고, 미츠도키와 사냥단은 길을 열었으며 대장장이는 병기로 지원했다. 번개의 주인은 괴로워하며 저항했지만 뇌광충들이 모이고 번개가 내리친 뒤, 스스로 저주를 이겨 내 힘의 일부로 삼았다.",
+            "그러나 진오우거는 순순히 힘을 빌려주지 않았다. 호후카와 오키드, 캐터펄트는 다시 사냥에 나섰고, 미츠도키는 병사들과 그 모습을 지켜보았다. 마침내 호후카가 진오우거를 다룰 기회를 잡는다. 그녀의 눈에서 나온 빛과 진오우거의 번개가 교린을 완전히 작동시키자, 퍼져 나간 파동이 짐승들에게 남은 저주를 지웠다.",
+            "교린의 빛 속에서 호후카는 선대의 기억과 마주했다. 전해 내려온 시련은 교린이 고장 나 일어난 사고였으며, 선대는 죽음에 이르렀을 때 진오우거에게 무녀의 힘을 맡겨 후대가 문제를 해결할 가능성을 남겼다. 이후 오키드와 캐터펄트는 호우에이국과 작별하고 마사무네, 요시쓰네와 함께 자신들이 왔던 길로 향했다.",
+            "두 사람이 돌아온 사막에서는 로도스의 미드나이트와 스팟이 포푸카를 지키며 싸우고 있었다. 동료들이 체감한 실종 시간은 겨우 1분 남짓이었다. 오키드는 무사한 대원들에게 자신의 지휘를 돌아보며 말을 건넸고, 낯설 정도로 부드러운 반응에 동료들이 놀리자 곧 임무 보고를 재촉했다. 한편 호우에이국에서는 일행과 번개의 주인을 기억할 조각상을 의논하고, 고향으로 돌아간 진오우거는 숲에서 새로운 사냥꾼을 마주한다."
           ]
         }
       ],
-      "narrativeSource": "https://github.com/Kengxxiao/ArknightsGameData/tree/master/zh_CN/gamedata/story/activities/act50side",
+      "narrativeSource": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side",
       "summarySource": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream",
       "koreanInfoUrl": "https://namu.moe/w/%ED%8F%AC%EC%98%81%EC%9D%84%20%EB%9A%AB%EB%8A%94%20%EC%B0%BD%EB%A2%B0",
       "protagonists": [
@@ -8758,15 +8732,14 @@ window.STORY_DATA = {
         "prts-dream-midnight",
         "catapult",
         "midnight",
+        "spot",
+        "popukar",
         "prts-dream-spot",
         "prts-previous-ruler",
-        "spot",
-        "popukar"
+        "prts-foam-masamune",
+        "prts-foam-yoshitsune"
       ],
-      "lowImpactPeople": [
-        "spot",
-        "popukar"
-      ],
+      "lowImpactPeople": [],
       "sequences": [
         "monster-hunter"
       ]
@@ -14757,7 +14730,7 @@ window.STORY_DATA = {
     },
     {
       "id": "prts-bokuka",
-      "name": "보우카",
+      "name": "호후카",
       "kind": "nonoperator",
       "cnName": "宝巫迦",
       "portrait": "assets/portraits/prts-bokuka.png",
@@ -14772,7 +14745,7 @@ window.STORY_DATA = {
     },
     {
       "id": "prts-dream-midnight",
-      "name": "포영국 미드나이트",
+      "name": "미츠도키",
       "kind": "nonoperator",
       "cnName": "月见夜",
       "portrait": "assets/portraits/prts-dream-midnight.png",
@@ -14787,7 +14760,7 @@ window.STORY_DATA = {
     },
     {
       "id": "prts-dream-spot",
-      "name": "포영국 스팟",
+      "name": "스파노스케",
       "kind": "nonoperator",
       "cnName": "斑弥罗",
       "portrait": "assets/portraits/prts-dream-spot.png",
@@ -14805,6 +14778,18 @@ window.STORY_DATA = {
       "name": "전대 국주",
       "kind": "nonoperator",
       "cnName": "前代国主"
+    },
+    {
+      "id": "prts-foam-masamune",
+      "name": "마사무네",
+      "kind": "nonoperator",
+      "cnName": "Masamune"
+    },
+    {
+      "id": "prts-foam-yoshitsune",
+      "name": "요시츠네",
+      "kind": "nonoperator",
+      "cnName": "Yoshitsune"
     },
     {
       "id": "prts-gillian-aranda",
@@ -24921,6 +24906,20 @@ window.STORY_DATA = {
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
+      "event": "foam-thunder",
+      "person": "prts-foam-masamune",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-foam-yoshitsune",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
       "event": "jungle-knot",
       "person": "prts-gillian-aranda",
       "role": "appears",
@@ -25670,25 +25669,11 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
     },
     {
-      "event": "main-00-04",
-      "person": "amiya",
-      "text": "체르노보그에서 독타를 구출하고 용문에서 리유니온의 계획을 추적합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
       "event": "grani",
       "person": "grani",
       "text": "듀빌 마을 사람을 구하며 기사단의 보물을 둘러싼 싸움에 뛰어듭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Grani_and_the_Knights%27_Treasure/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "chen",
-      "text": "리유니온이 점거한 용문 근위국 본부를 되찾기 위해 반격을 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
     },
     {
       "event": "operational",
@@ -25710,13 +25695,6 @@ window.STORY_DATA = {
       "text": "펭귄 로지스틱스와 함께 용문의 축제 밤에 벌어진 마피아의 음모를 헤쳐 나갑니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "frostnova",
-      "text": "용문 전투에서 로도스와 마지막으로 맞서며 자신의 선택을 끝까지 지킵니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
     },
     {
       "event": "ancient-forge",
@@ -25754,13 +25732,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Darknights_Memoir/Synopsis"
     },
     {
-      "event": "main-07",
-      "person": "doctor",
-      "text": "체르노보그에 잠입해 탈룰라의 계획을 막을 길을 열고 패트리어트와 맞섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
       "event": "gavial",
       "person": "gavial",
       "text": "고향 아카후알라에서 폭주한 기계를 멈추고 부족의 새 지도자를 정합니다.",
@@ -25780,13 +25751,6 @@ window.STORY_DATA = {
       "text": "니어 가문의 기사 작위를 지키려 대회에 출전하고 죽음에 가까운 경기를 견딥니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Maria_Nearl/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "amiya",
-      "text": "첸과 함께 관제탑에 도달해 탈룰라의 과거와 카셰이의 영향에 맞섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
     },
     {
       "event": "mansfield",
@@ -25845,13 +25809,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
     },
     {
-      "event": "main-09",
-      "person": "horn",
-      "text": "백파이프와 함께 군용 오리지늄 무기 도난을 추적하다 더블린의 봉기를 발견합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
       "event": "pinus",
       "person": "flametail",
       "text": "감염자 기사단을 이끌며 동료들을 지키고 기업 기사 사회에 맞섭니다.",
@@ -25878,13 +25835,6 @@ window.STORY_DATA = {
       "text": "세실리아를 보호하며 첫 만국 정상회담을 둘러싼 갈등을 조사합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "siege",
-      "text": "런디니움으로 돌아가 글래스고 갱과 도시 자구군에 합류합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
     {
       "event": "lingering",
@@ -25929,13 +25879,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
-      "event": "main-11",
-      "person": "siege",
-      "text": "빅토리아 왕권의 검을 찾아 과거의 계승 문제와 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
       "event": "firelight",
       "person": "reed",
       "text": "타라 난민을 이끌며 언니 에블라나와 다른 길을 선택합니다.",
@@ -25964,13 +25907,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis"
     },
     {
-      "event": "main-12",
-      "person": "siege",
-      "text": "봉쇄된 노포트에서 주민을 지키며 런디니움 전쟁을 이어 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
       "event": "hortus",
       "person": "executor",
       "text": "사라졌던 이동 수도원의 주민을 조사하고 아르투리아를 추적합니다.",
@@ -25997,13 +25933,6 @@ window.STORY_DATA = {
       "text": "회사 지시를 거슬러 데이비스타운 주민을 지키기로 결정합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "doctor",
-      "text": "납치된 아미야를 추적하며 카즈델의 의식과 재앙을 알아냅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
     {
       "event": "zwilling",
@@ -26039,13 +25968,6 @@ window.STORY_DATA = {
       "text": "도솔레스의 빈민가 예술가들과 힘을 합쳐 부패한 세력에 맞섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Operation_Lucent_Arrowhead/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "amiya",
-      "text": "테레시아와 대면해 런디니움의 오리지늄 재앙을 멈추려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
     {
       "event": "sunset",
@@ -26111,13 +26033,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis"
     },
     {
-      "event": "main-15",
-      "person": "doctor",
-      "text": "프리스티스의 계획으로 무너지는 함선에서 동료들과 새 위협에 맞섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
       "event": "mass-travels",
       "person": "executor",
       "text": "율법이 퍼뜨리는 재앙을 막기 위해 안도아인과 체계를 파괴합니다.",
@@ -26151,13 +26066,6 @@ window.STORY_DATA = {
       "text": "모르페우스의 꿈에 갇힌 아베 무지카 멤버를 깨워 다시 무대에 세웁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/SS-8/Story"
-    },
-    {
-      "event": "main-16",
-      "person": "doctor",
-      "text": "켈시를 되살릴 단서를 찾아 우르수스의 오리지늄 광맥을 조사합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
     },
     {
       "event": "snow-1101",
@@ -26195,20 +26103,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
     {
-      "event": "main-17",
-      "person": "doctor",
-      "text": "켈시의 단서를 찾아 젤그라드로 가서 제국군의 석관 연구를 조사합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "orchid",
-      "text": "낯선 포영국에서 동료들과 나라의 저주를 조사하며 괴물을 사냥합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
       "event": "jungle-knot",
       "person": "beagle",
       "text": "볼리바르 테코마의 피난민을 지키기 위해 이동 경로를 바꾸고 검은 흐름에 휩쓸립니다.",
@@ -26244,27 +26138,6 @@ window.STORY_DATA = {
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
     },
     {
-      "event": "main-00-04",
-      "person": "amiya",
-      "text": "재앙이 닥친 체르노보그에서 독타를 깨워 탈출시키고, 로도스 대원들과 리유니온의 포위망을 뚫습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "chen",
-      "text": "용문 근위국의 협력을 받아 미샤를 추적하지만, 그녀와 스컬슈레더의 관계가 드러나면서 작전의 의미가 달라집니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "amiya",
-      "text": "미샤와 스컬슈레더를 잃은 뒤에도 감염자를 구하려는 로도스의 원칙을 붙잡습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
       "event": "grani",
       "person": "skadi",
       "text": "기사단의 보물이 있는 마을에 먼저 도착해 자신이 쫓는 단서를 확보하려 합니다.",
@@ -26298,27 +26171,6 @@ window.STORY_DATA = {
       "text": "보물의 열쇠를 켈시에게 가져가 스펙터를 둘러싼 심해의 문제와 연결합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Grani_and_the_Knights%27_Treasure/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "chen",
-      "text": "용문 근위국 본부가 점령되자 부하들을 모아 내부 침투와 탈환을 지휘합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "hoshiguma",
-      "text": "첸과 함께 리유니온의 함정을 돌파하며 근위국의 전열을 유지합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "amiya",
-      "text": "용문과의 공동 작전에서 감염자에게 가해지는 폭력이 로도스의 목표와 충돌함을 확인합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
     },
     {
       "event": "operational",
@@ -26382,27 +26234,6 @@ window.STORY_DATA = {
       "text": "사건이 끝난 뒤 용문에 나타나 과거를 공유한 텍사스를 찾아옵니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "amiya",
-      "text": "리유니온을 몰아내는 과정에서 메피스토의 군단과 맞서고, 적으로 만난 감염자들을 구하려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "frostnova",
-      "text": "패트리어트의 유격대와 로도스 사이에서 자신의 뜻을 지키며 마지막 전투에 나섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "chen",
-      "text": "용문의 검은 우비 부대가 감염자를 숙청하는 광경을 보고 승리 뒤의 책임과 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
     },
     {
       "event": "ancient-forge",
@@ -26510,27 +26341,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Darknights_Memoir/Synopsis"
     },
     {
-      "event": "main-07",
-      "person": "doctor",
-      "text": "체르노보그 핵심 구역에 잠입해 도시가 용문과 충돌하기 전에 관제탑에 닿을 작전을 세웁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "patriot",
-      "text": "탈룰라의 선택을 의심하면서도 유격대를 이끌고 자신의 방식으로 감염자를 지키려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "amiya",
-      "text": "패트리어트와의 대결에서 리유니온의 이상과 현실이 얼마나 멀어졌는지 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
       "event": "gavial",
       "person": "gavial",
       "text": "격추된 비행기의 엔진을 찾으려 아카후알라 부족들을 돌며 옛 친구들을 만납니다.",
@@ -26592,27 +26402,6 @@ window.STORY_DATA = {
       "text": "마리아가 함정에 빠진 경기장으로 돌아와 동생을 구합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Maria_Nearl/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "talulah",
-      "text": "감염자 운동을 키우며 알리나와 나눈 약속을 지키려 했으나 상실 뒤 점차 달라집니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "chen",
-      "text": "탈룰라와 자신의 과거를 마주한 채 관제탑으로 올라갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "amiya",
-      "text": "탈룰라를 조종해 온 카셰이의 의지와 맞서 도시 충돌을 막으려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
     },
     {
       "event": "mansfield",
@@ -26804,27 +26593,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
     },
     {
-      "event": "main-09",
-      "person": "bagpipe",
-      "text": "혼과 함께 군용 오리지늄 무기의 도난을 조사하며 힐록으로 향합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "horn",
-      "text": "타라 민족의 분노와 더블린의 무장 준비를 알아채고 부대에 위험을 알립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "reed",
-      "text": "더블린과 타라의 갈등 속에서 자매와 다른 길을 선택할 가능성을 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
       "event": "pinus",
       "person": "flametail",
       "text": "감염자 기사들을 모아 붉은 솔 기사단을 만들고 서로의 생존을 책임집니다.",
@@ -26928,27 +26696,6 @@ window.STORY_DATA = {
       "text": "리유니온 잔당과 러스트해머 사이의 생존 문제를 살펴 새로운 협력의 여지를 찾습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "siege",
-      "text": "런디니움으로 돌아가 글래스고 갱과 자구군을 모으고 왕위 계승의 부담을 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "amiya",
-      "text": "살카즈 군사위원회가 장악한 도시에 잠입해 로도스의 구조 작전을 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "theresis",
-      "text": "런디니움의 군수 시설과 살카즈 군대를 통해 전쟁을 확대합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
     {
       "event": "guide-ahead",
@@ -27119,27 +26866,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
-      "event": "main-11",
-      "person": "siege",
-      "text": "빅토리아 왕권의 상징인 검을 찾으며 자신이 왕위를 이어야 하는지 고민합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "amiya",
-      "text": "살카즈 왕정의 역사와 자신의 힘이 연결되어 있음을 알게 됩니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "doctor",
-      "text": "자구군과 함께 카즈델의 군수 생산 시설을 끊을 작전을 세웁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
       "event": "siracusano",
       "person": "texas",
       "text": "시라쿠사로 돌아와 자신이 떠났던 마피아 가문의 싸움에 다시 휘말립니다.",
@@ -27243,27 +26969,6 @@ window.STORY_DATA = {
       "text": "오리지늄에 잠식된 괴물을 막으며 두 세계가 서로 다른 위험을 품고 있음을 확인합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "doctor",
-      "text": "살카즈의 탑이 전쟁 무기로 작동하자 런디니움의 침투 작전을 다시 세웁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "siege",
-      "text": "봉쇄된 노포트에서 식량과 피난 문제를 풀며 주민들을 지키려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "amiya",
-      "text": "내부의 배신으로 큰 피해를 본 뒤에도 자구군과 함께 전선을 유지합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
     {
       "event": "lone-trail",
@@ -27413,27 +27118,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis"
     },
     {
-      "event": "main-13",
-      "person": "siege",
-      "text": "노포트 봉쇄를 뚫고 빅토리아의 미래를 왕가의 혈통만으로 정하지 않겠다고 결심합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "doctor",
-      "text": "납치된 아미야를 추적하다 살카즈의 피의 의식과 테라로 번질 재앙을 발견합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "amiya",
-      "text": "살카즈 왕정의 유산과 자신의 역할을 마주한 채 로도스와 다시 합류합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
       "event": "zwilling",
       "person": "ebenholz",
       "text": "쌍여제의 즉위식이 열리는 라이타니엔에서 마왕의 잔향을 추적합니다.",
@@ -27572,27 +27256,6 @@ window.STORY_DATA = {
       "text": "죽기 전 독타의 기억을 지우고 아미야와 켈시에게 자신의 뜻을 맡깁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Babel_(event)/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "doctor",
-      "text": "런디니움 탑에서 번지는 오리지늄 재앙을 막으려 로도스를 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "theresa",
-      "text": "살카즈의 오랜 비극을 끝내기 위해 아미야에게 자신의 선택을 전합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "amiya",
-      "text": "테레시아와 대면한 뒤 도시와 테라 전체를 덮칠 전쟁을 끝낼 결정을 내립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
     {
       "event": "path-of-life",
@@ -27826,27 +27489,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis"
     },
     {
-      "event": "main-15",
-      "person": "doctor",
-      "text": "함선에 퍼진 이상 현상을 추적하다 프리스티스의 오리지늄 계획을 알아냅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "kaltsit",
-      "text": "로도스가 무너지는 과정에서 동료들을 위해 마지막 선택을 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "amiya",
-      "text": "켈시를 잃은 뒤 독타와 함께 함선을 지키고 새로운 위협을 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
       "event": "mass-travels",
       "person": "exusiai",
       "text": "라테라노에 돌아와 산크타의 날개와 후광이 달라지는 현상을 조사합니다.",
@@ -27978,27 +27620,6 @@ window.STORY_DATA = {
       "text": "멤버들과 함께 악몽을 벗어나 다시 무대에 섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/SS-8/Story"
-    },
-    {
-      "event": "main-16",
-      "person": "doctor",
-      "text": "석관 연구원 크세니야를 구하고 광부들에게 노출된 수수께끼 물질 오카의 인체 실험을 알아냅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "amiya",
-      "text": "제국의 탄압 아래 있는 사람들의 소식을 듣고 로도스의 구조 임무를 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "crownslayer",
-      "text": "광산 학살의 생존자들이 전한 소식이 리유니온과 학생 시위에 번지는 것을 지켜봅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
     },
     {
       "event": "snow-1101",
@@ -28141,55 +27762,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
     },
     {
-      "event": "main-17",
-      "person": "doctor",
-      "text": "켈시의 단서를 따라 우르수스 위성도시 젤그라드로 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "main-17",
-      "person": "amiya",
-      "text": "제국군 파벌 싸움과 석관 연구 사이에서 로도스의 구조 임무를 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "main-17",
-      "person": "doctor",
-      "text": "제1군의 연구와 제4군의 도시 장악 시도가 충돌하며 나라 전체가 위험해지는 것을 확인합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "orchid",
-      "text": "낯선 포영국에서 눈을 뜨고 모습이 달라진 예비 A6팀 동료들을 찾습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "catapult",
-      "text": "오키드와 함께 새 무기를 들고 나라의 저주를 조사합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "midnight",
-      "text": "달라진 모습의 예비 A6팀 동료로 오키드와 캐터펄트의 수색에 얽힙니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "orchid",
-      "text": "뇌의 주인을 둘러싼 수수께끼를 풀기 위해 동료들과 사냥에 나섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
       "event": "jungle-knot",
       "person": "tequila",
       "text": "도솔레스 시장으로서 난민 대피를 위해 로도스 아일랜드에 지원을 요청합니다.",
@@ -28281,41 +27853,6 @@ window.STORY_DATA = {
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
     },
     {
-      "event": "main-00-04",
-      "person": "wiki-misha",
-      "text": "용문에서 로도스와 리유니온 양쪽의 추적을 받으며 스컬슈레더가 자신의 형제임을 알게 됩니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "wiki-skullshatterer",
-      "text": "미샤와 다시 만나 로도스와 맞서고, 남매의 비극이 아미야의 선택에 깊은 상처를 남깁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "wiki-ace",
-      "text": "체르노보그 탈출 작전에서 후방을 지키며 독타와 아미야가 빠져나갈 시간을 법니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-06",
-      "person": "wiki-mephisto",
-      "text": "자신의 군대를 앞세워 로도스와 용문을 공격하고 리유니온 내부의 갈등까지 키웁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "wiki-faust",
-      "text": "메피스토를 지키기 위해 마지막까지 전장에 남아 그의 퇴로를 엽니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
       "event": "afternoon",
       "person": "vanilla",
       "text": "함선에서 돌보는 동물과 동료들을 통해 로도스의 일상에 적응합니다.",
@@ -28337,25 +27874,11 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Twilight_of_Wolumonde/Synopsis"
     },
     {
-      "event": "main-07",
-      "person": "talulah",
-      "text": "체르노보그의 핵심 구역을 용문으로 움직여 두 나라가 충돌할 위험을 만듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
       "event": "gavial",
       "person": "tomimi",
       "text": "가비알을 고향에 붙잡아 두려 일행의 비행기를 격추한 사실을 뒤늦게 털어놓습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/The_Great_Chief_Returns/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "wiki-alina",
-      "text": "탈룰라가 감염자들과 함께 살아갈 길을 찾던 시절에 곁을 지키며 그의 신념에 영향을 줍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
     },
     {
       "event": "mansfield",
@@ -28414,13 +27937,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis"
     },
     {
-      "event": "main-13",
-      "person": "wiki-confessarii",
-      "text": "아미야를 납치해 살카즈의 피의 의식에 끌어들이고 로도스의 추적을 받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
       "event": "grinning-valley",
       "person": "wiki-warmy",
       "text": "알라나와 함께 낡은 트럭을 바꾸러 림 빌리턴으로 향합니다.",
@@ -28447,13 +27963,6 @@ window.STORY_DATA = {
       "text": "해적단의 새 선장을 인정하고 다시 바다로 떠나면서도 시본의 위협을 마주합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Exodus_from_the_Pale_Sea/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "wiki-priestess",
-      "text": "오리지늄과 연결된 자신의 계획을 드러내며 로도스 함선에 새로운 위기를 불러옵니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
     },
     {
       "event": "people-us",
@@ -28659,76 +28168,6 @@ window.STORY_DATA = {
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
-      "event": "main-17",
-      "person": "talulah",
-      "text": "시르카를 구해 주고 리유니온과 함께 젤그라드의 공장을 습격합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-svetlana-buterina",
-      "text": "제1집단군 원수로 젤그라드 철수를 결정하고, 반역으로 받아들인 아들 아나톨리의 칼에 찔립니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-anatoly-buterinin",
-      "text": "젤그라드의 감염자와 연구원들을 학살하고 포격을 명령하다, 어머니를 찌른 뒤 시르카의 도움도 받지 못한 채 죽습니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-silka",
-      "text": "아나톨리 암살에 실패한 뒤 탈룰라와 합류해 공장을 급습하고, 자신의 출생 비밀을 공개해 포격을 멈추게 합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-elita-valuyeva",
-      "text": "구미의 어머니로서 석관의 에너지가 감염자의 희생에서 온다는 사실을 알아내고 로도스 일행을 연구소의 기밀 구역으로 안내합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-klim",
-      "text": "연구소의 비밀을 외부에 전하고, 석관 사태가 끝난 뒤 주민에게 에너지를 공급한 다음 딸 라다를 찾아 떠납니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-evgeny-kuznetsov",
-      "text": "제4집단군의 이익을 위해 스치오파를 압박해 제1집단군의 비밀 병기를 빼앗도록 지시합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-bokuka",
-      "text": "포영국의 어린 국주로 시련을 치른 뒤 ‘뇌의 주인’을 사냥하려 하고, 동료들의 도움으로 선대 국주가 남긴 진실에 도달합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-dream-midnight",
-      "text": "포영국의 장군으로 보우카가 무리하게 사냥에 나서지 못하게 막다가, 위기 속에서 진실을 알리고 사냥단을 이끌고 지원합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-previous-ruler",
-      "text": "선대 국주로서 ‘뇌의 주인’과 어륜에 관한 진실을 남기고, 보우카에게 마지막 말을 전합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
       "event": "jungle-knot",
       "person": "prts-gillian-aranda",
       "text": "페드로의 기억을 바탕으로 만든 이야기 속에서 농장을 지키려 무너지는 벽을 방패로 받치다가 목숨을 잃습니다.",
@@ -28848,62 +28287,6 @@ window.STORY_DATA = {
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
-      "event": "main-00-04",
-      "person": "crownslayer",
-      "text": "독타 구출대를 체르노보그에서 가로막고 로도스 아일랜드가 감염자의 투쟁을 외면한다고 비난합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "nearl",
-      "text": "체르노보그에서 에이스와 함께 구출대에 합류해 리유니온의 추격을 막고 탈출로를 엽니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "talulah",
-      "text": "재앙이 닥친 체르노보그에서 불꽃 아츠로 구출대를 압박하고 니어의 방어를 무너뜨립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "w",
-      "text": "체르노보그 외곽에서 독타와 아미야를 알아보지만 이유를 밝히지 않은 채 일행을 보내 줍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "kaltsit",
-      "text": "용문 총독 웨이 옌우와 협상하며 리유니온의 위협에 대비한 로도스의 공동 작전을 제안합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "wiki-misha",
-      "text": "알렉스가 죽은 뒤 그의 장비와 스컬슈레더의 이름을 이어받아 리유니온 전선에 섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "amiya",
-      "text": "독타에게 달려드는 스컬슈레더를 막으려 검은 아츠를 발동하지만, 그가 미샤의 형제였음을 알고 충격을 받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "wiki-frostleaf",
-      "text": "폐허가 된 도시 구획을 정찰하다 건물에 번지는 서리를 보고 설괴 소대의 접근을 알아챕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
       "event": "grani",
       "person": "grani",
       "text": "현상금 사냥꾼에게 납치된 듀빌 촌장 캐럴을 구해 안전한 곳으로 데려갑니다.",
@@ -28951,62 +28334,6 @@ window.STORY_DATA = {
       "text": "스카디가 가져온 열쇠를 분석 대상으로 받고 스펙터에게 쓰인 신경 작용 약물의 기원을 알려 주기로 합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Grani_and_the_Knights%27_Treasure/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "swire",
-      "text": "로도스와 연락해 체르노보그 폐허에 남겨졌던 아미야 일행을 구출하고 근위국 본부의 지원군으로 보냅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "chen",
-      "text": "리유니온에게 붙잡힌 정보원 팔을 구하러 호시구마와 묵오 창고에 진입하지만 그의 죽음을 확인합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "chen",
-      "text": "가문 저택에서 어린 시절 탈룰라와 함께 찍은 사진을 발견하고 리유니온이 찾는 인물을 의심합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "hoshiguma",
-      "text": "파시 광장에서 바닥이 무너질 때 방패로 잔해를 받쳐 첸을 구하고 부상을 입습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "wiki-mephisto",
-      "text": "용문 근위국 본부 옥상에 함정을 놓고 쓰러진 리유니온 병사들을 아츠로 다시 움직이게 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "chen",
-      "text": "옥상에서 적의 포위를 벗어나기 위해 적소검을 뽑으려다 통제에 실패해 스스로도 다칩니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "wiki-blaze",
-      "text": "아미야와 함께 본부 탈환전에 뛰어들고, 전투 뒤 웨이 옌우가 로도스와 근위국을 미끼로 썼다고 추궁합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
-    },
-    {
-      "event": "main-05",
-      "person": "wiki-wei-yenwu",
-      "text": "본부 탈환 후 스와이어에게 로도스의 도움 없이 용문에 남은 리유니온을 하루 안에 소탕하라고 명령합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
     },
     {
       "event": "operational",
@@ -29217,69 +28544,6 @@ window.STORY_DATA = {
       "text": "공연과 배송을 밀어붙이는 와중에도 팀원들이 위협받자 마피아에게 맞섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "chen",
-      "text": "빈민가 정리 작전에서 감염자를 가리지 않고 죽이는 검은 우비 부대를 발견하고 용문의 지휘 방식에 반발합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "swire",
-      "text": "첸과 함께 리유니온 잔당을 추적하다 빈민가에서 벌어지는 숙청을 목격합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "wiki-faust",
-      "text": "메피스토의 폭주를 막으려 그에게 아츠 사용을 그만두라고 당부하고 남은 병력을 이끌어 탈출로를 만듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "wiki-mephisto",
-      "text": "감염자 군대를 통제하지 못한 채 로도스와 리유니온 모두를 위협하는 싸움을 이어 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "crownslayer",
-      "text": "켈시와 레드에게 아버지의 죽음에 관한 단서를 듣고 로도스와 자신의 인연을 되짚습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "wiki-nine",
-      "text": "용문의 숙청에 환멸을 느껴 근위국을 떠나 리유니온으로 향합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "wiki-blaze",
-      "text": "검은 우비 부대와 맞부딪치고, 첸의 개입으로 위기에서 벗어납니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "frostnova",
-      "text": "살아남은 유격대원을 지키려 로도스와 맞서지만 끝내 쓰러져 독타 곁에서 마지막을 맞습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "amiya",
-      "text": "빈민가 숙청을 용납할 수 없다며 웨이와의 로도스·용문 협력 계약을 끝냅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
     },
     {
       "event": "ancient-forge",
@@ -29597,76 +28861,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Darknights_Memoir/Synopsis"
     },
     {
-      "event": "main-07",
-      "person": "talulah",
-      "text": "패트리어트가 자신의 계획에 반발하자 리유니온 내부의 균열을 감수하고도 도시를 계속 움직입니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "chen",
-      "text": "웨이의 명령을 거스르고 탈룰라를 추격하기 위해 체르노보그로 향합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "hoshiguma",
-      "text": "첸의 결심을 알고도 길을 열어 주며 그녀가 용문 밖에서 자신의 답을 찾도록 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "rosmontis",
-      "text": "로도스 돌입조와 함께 진입로를 열어 체르노보그 중심부로 가는 작전을 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "wiki-guard-npc",
-      "text": "체르노보그에서 생존한 리유니온 대원으로 로도스에 조직 내부의 변화를 전합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "patriot",
-      "text": "탈룰라의 계획을 막으려 하면서도 감염자를 지키겠다는 신념을 버리지 않고 로도스와 전투합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "amiya",
-      "text": "패트리어트와 싸우며 그의 선택을 받아들이고 탈룰라에게 가야 할 책임을 짊어집니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "w",
-      "text": "체르노보그에서 탈룰라와 맞서며 리유니온 내부가 무너지는 계기를 만듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "kaltsit",
-      "text": "패트리어트와의 대화에서 그가 탈룰라를 막으려는 이유를 듣고 로도스의 진입을 계속 지휘합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "doctor",
-      "text": "패트리어트의 유격대와 충돌하면서도 체르노보그가 용문에 닿기 전 중심부에 도달할 작전을 짭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
-    },
-    {
       "event": "gavial",
       "person": "tomimi",
       "text": "가비알이 고향을 떠나지 않기를 바라 로도스의 비행기를 떨어뜨리고, 자신의 행동이 일으킨 소동을 감춥니다.",
@@ -29847,76 +29041,6 @@ window.STORY_DATA = {
       "text": "차르니가 몰락한 뒤 기사 경기 운영의 새로운 담당자로 올라섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Maria_Nearl/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "talulah",
-      "text": "우르수스의 감염자 마을을 순찰대의 학살에서 구하고 생존자들과 함께 리유니온의 터전을 만듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "wiki-alina",
-      "text": "탈룰라와 함께 도망치는 감염자를 돌보다 보복 공격으로 치명상을 입고, 그녀의 죽음은 탈룰라를 바꿉니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "frostnova",
-      "text": "초기 리유니온에 합류해 탈룰라가 말한 감염자의 미래를 함께 고민합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "rosmontis",
-      "text": "방패병들과 힘을 합쳐 체르노보그 관제탑으로 향하는 로도스의 진로를 엽니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "chen",
-      "text": "탈룰라에게 먼저 도달해 과거와 현재의 선택을 묻고, 아미야가 싸울 수 있도록 길을 남깁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "amiya",
-      "text": "첸의 검에 남은 감정을 읽고 탈룰라 안에 자리한 검은 뱀의 논리와 맞섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "wiki-deathless-black-snake",
-      "text": "탈룰라의 몸과 기억을 이용해 전쟁이 역사를 움직인다는 사상을 아미야에게 강요합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "kaltsit",
-      "text": "석관과 체르노보그의 충돌을 멈출 방법을 찾으며 탈룰라 사태의 배후를 확인합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "talulah",
-      "text": "알리나가 죽은 뒤 황제의 칼날이 퍼뜨린 불신 속에서 리유니온을 전진시키는 데 집착합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "wiki-nine",
-      "text": "리유니온이 체르노보그에서 패한 뒤 생존자들을 다시 모을 길을 찾습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
     },
     {
       "event": "mansfield",
@@ -30430,62 +29554,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
     },
     {
-      "event": "main-09",
-      "person": "horn",
-      "text": "힐록의 주민을 지키려 현지 지휘관과 협력하려 하지만 감염자 탄압과 더블린의 침투를 알아챕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "bagpipe",
-      "text": "혼의 지시로 도시 밖 연락책을 호위하다 포격과 매복 속에서 살아남아 소식을 전합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "wiki-hamilton",
-      "text": "힐록의 타라 주민을 반란 세력으로 몰아 포격을 명령하고 대규모 민간인 피해를 냅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "wiki-outcast",
-      "text": "로도스 지부의 사람들을 구출한 뒤 백파이프를 만나 정보를 넘기고 추격자를 홀로 막아섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "reed",
-      "text": "더블린의 작전에 얽혀 자신의 출신과 세력이 빅토리아에 남긴 상처를 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "wiki-mandragora",
-      "text": "더블린의 병력을 이끌어 혼의 소대를 공격하고 도시를 혼란에 빠뜨립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "saileach",
-      "text": "힐록의 주민과 로도스 사이에서 연락을 돕고 전투가 민간인에게 끼치는 피해를 살핍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
-      "event": "main-09",
-      "person": "wiki-outcast",
-      "text": "더블린의 추격자를 막으며 자신의 마지막 총알을 동료들의 생존을 위해 씁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
-    },
-    {
       "event": "pinus",
       "person": "flametail",
       "text": "감염자 기사들을 붉은 솔 기사단에 모으고 이들을 넘기라는 무갑 연합의 요구를 거절합니다.",
@@ -30918,83 +29986,6 @@ window.STORY_DATA = {
       "text": "세실리아가 탑에서 노래한 뒤 도시의 종이 울리는 모습을 보고 그녀를 지킬 결심을 굳힙니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "kaltsit",
-      "text": "런디니움 외곽에 함선을 정박시키고 도시 자구군과 접촉할 진입 작전을 지휘합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "siege",
-      "text": "글래스고 갱과 함께 고향으로 돌아와 시민을 구하고 왕위 계승 문제에 휘말립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "stainless",
-      "text": "런디니움 자구군의 일원으로 로도스와 협력 조건을 논의하고 억류된 하이디 구출에 나섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "heidi",
-      "text": "도시 안 켈시의 연락책으로 활동하다 붙잡혀 로도스와 자구군의 공동 구출 목표가 됩니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "horn",
-      "text": "억류된 동료에게 약을 가져가고 만드라고라와 맞서며 빅토리아 군인으로서 책임을 다합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "wiki-manfred",
-      "text": "도시의 혼란을 파악하고 로도스의 내부 협력자를 찾도록 외드레르에게 지시합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "wiki-mandragora",
-      "text": "군사위원회의 명령에 따라 공장 감옥을 지키며 혼 일행을 가로막습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "wiki-dagda",
-      "text": "글래스고 갱의 일원으로 블랙스틸의 추락한 항공기를 찾아 포로 구출에 나섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "rockrock",
-      "text": "자구군의 일원으로 로도스의 협력이 실제 런디니움 주민을 구할 수 있는지 따집니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "w",
-      "text": "군사위원회 내부의 혼란을 이용해 독자적으로 움직이며 맨프레드의 감시를 받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "wiki-clovisia",
-      "text": "노동자 조직을 이끌어 런디니움 주민이 점령군에 맞설 방법을 마련합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
     {
       "event": "stultifera",
@@ -31529,62 +30520,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
-      "event": "main-11",
-      "person": "siege",
-      "text": "왕의 검이 보관된 묘소로 들어가 어릴 적의 기억과 빅토리아 왕위의 무게를 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "wiki-allerdale",
-      "text": "시즈를 묘소로 안내하다 숨겨 둔 계획을 실행해 왕의 검을 둘러싼 신뢰를 깨뜨립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "wiki-catherine",
-      "text": "군수 공장의 노동자들을 모아 사르카즈의 생산 명령에 맞설 수단을 찾습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "stainless",
-      "text": "공장에 남은 기술자와 로도스의 작전을 연결해 군수 시설을 멈추려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "amiya",
-      "text": "살카즈 왕정의 오래된 힘을 마주하며 자신의 힘이 카즈델의 역사와 이어졌음을 알아갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "logos",
-      "text": "살카즈의 주술과 왕정의 기록을 해독해 로도스가 전쟁의 다음 단계를 이해하도록 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "wiki-allerdale",
-      "text": "시즈의 어린 시절부터 이어진 인연을 이야기하며 왜 왕의 검을 빼앗으려 했는지 드러냅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "horn",
-      "text": "런디니움의 성벽에 선 병사들을 모아 카즈델 점령군에 맞설 반격을 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
       "event": "siracusano",
       "person": "texas",
       "text": "과거를 떠나온 시라쿠사에 돌아와 벨로네 가문의 레온투초를 만나 도시의 변화를 돕습니다.",
@@ -31961,83 +30896,6 @@ window.STORY_DATA = {
       "text": "마을의 낡은 장비를 수리하고 어린 사냥꾼에게 필요한 경험을 전합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-golding",
-      "text": "자구군 정보망이 발각되자 동료를 팔지 않고 스스로 목숨을 끊습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "siege",
-      "text": "노포트가 봉쇄되자 왕위보다 거리의 주민을 지키는 일을 우선하기로 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-delphine",
-      "text": "남은 방송 시설의 위치를 알려 도시 봉쇄 사실을 밖에 전할 작전을 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-damazti-cluster",
-      "text": "자구군의 내부로 스며들어 정보망을 뒤흔들고 골딩을 압박합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "ines",
-      "text": "로도스 일행과 재회해 군사위원회의 움직임을 전하고 위험한 거래를 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "morgan",
-      "text": "시즈와 함께 식량과 물이 줄어드는 구역에서 주민을 보호합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-baird",
-      "text": "봉쇄된 노포트에서 자구군과 연락하며 거리에 남은 사람들의 소식을 전합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-clovisia",
-      "text": "방송을 통해 노포트의 참상을 알리려 남은 설비와 사람을 모읍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-damazti-cluster",
-      "text": "골딩이 정보를 넘기지 않자 그녀의 죽음마저 자구군을 흔드는 수단으로 삼습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-delphine",
-      "text": "방송 시설까지 가는 길을 설명하며 도시 밖 공작들이 봉쇄를 보도록 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-baird",
-      "text": "노포트 주민을 대피시키던 중 혼란에 빠진 시민을 진정시키려다 다치고 시즈가 떠나는 길을 지킵니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
     {
       "event": "lone-trail",
@@ -32423,76 +31281,6 @@ window.STORY_DATA = {
       "text": "변경의 총잡이로 제시카에게 도시 밖에서 살아가는 방법을 보여줍니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-salus",
-      "text": "고해신부 무리를 이끌고 아미야를 납치해 살카즈의 피 의식 현장으로 끌고 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "doctor",
-      "text": "아미야를 쫓아 유적에 들어가 로고스·아스카론과 함께 피의 제단을 조사합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "w",
-      "text": "외드레르·이네스와 마주친 환영 속에서 바벨의 기억과 지금의 전쟁을 비교합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "siege",
-      "text": "왕의 검을 실제 전선에서 쓰겠다는 조건으로 빅토리아 공작들과 협상을 이어 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "talulah",
-      "text": "런디니움 바깥에서 감염된 탈영병과 난민을 모아 피난길을 마련합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "logos",
-      "text": "살카즈 제단에 담긴 의식의 구조를 읽고 사태가 도시 밖까지 번질 수 있음을 알립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-delphine",
-      "text": "시즈와 함께 가족의 정치적 선택이 시민의 목숨에 미칠 영향을 고민합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-ermengarde",
-      "text": "W 일행을 환영 속에 가두어 바벨의 기억을 다시 체험하게 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "paprika",
-      "text": "피의 제단을 지키던 살카즈로 나타나 독타 일행과 대화하며 자신이 따른 명령을 의심합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-nowell",
-      "text": "리유니온에 합류한 난민 사이에 섞여 자신의 오래된 정체를 숨깁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
     {
       "event": "zwilling",
@@ -32934,104 +31722,6 @@ window.STORY_DATA = {
       "text": "참상을 수습한 뒤 아미야와 독타를 로도스의 다음 여정으로 이끕니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Babel_(event)/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "siege",
-      "text": "왕의 검을 들고 빅토리아 전선에 나서 살카즈 군과 대공들의 충돌을 가로막습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "w",
-      "text": "정찰대가 사라진 북부 협곡을 조사하며 맨프레드의 부대와 맞붙습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "hoederer",
-      "text": "로도스가 버틸 시간을 벌기 위해 맨프레드를 암살하는 계획을 제안합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "ascalon",
-      "text": "외드레르의 위험한 작전을 받아들이고 침투조를 움직입니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "amiya",
-      "text": "테레시아와 대면해 그녀가 준비한 선택과 지금 살아 있는 사람들의 뜻을 비교합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "logos",
-      "text": "살카즈의 피와 주술이 재앙에 쓰이는 방식을 파악하고 이를 끊을 방법을 찾습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "wiki-manfred",
-      "text": "로도스의 침투와 빅토리아의 반격을 막으려 군사위원회의 잔여 전력을 지휘합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "kaltsit",
-      "text": "파편이 도시를 덮는 상황에서 전선과 함선 사이의 구조 순서를 정합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "wiki-lifebone",
-      "text": "살카즈의 피 의식을 전장에 퍼뜨려 로도스가 탑에 닿기 어렵게 만듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "w",
-      "text": "맨프레드 부대의 약점을 찾아 외드레르의 침투 작전에 필요한 정보를 전합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "theresa",
-      "text": "아미야에게 전쟁을 끝내기 위한 자신의 마지막 판단을 설명합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "amiya",
-      "text": "테레시아의 뜻을 이어받되 지금 살아 있는 사람의 미래는 스스로 결정해야 한다고 답합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "siege",
-      "text": "대공 군대와 더블린 세력이 뒤엉킨 전장에서 빅토리아 시민의 탈출로를 확보합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "hoederer",
-      "text": "암살 실패의 위험을 알고도 동료들이 탑으로 갈 하루를 벌려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
     {
       "event": "path-of-life",
@@ -33797,97 +32487,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis"
     },
     {
-      "event": "main-15",
-      "person": "amiya",
-      "text": "힐다가 결정화되는 소리를 듣고 동료들과 함께 사태의 근원으로 향합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "theresis",
-      "text": "오리지늄에 스며든 존재의 환영과 맞서 살카즈의 역사를 지우려는 계획을 거부합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "doctor",
-      "text": "함선의 이상과 프리스티스의 계획을 연결하며 자신이 과거에 남긴 선택을 되짚습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "ascalon",
-      "text": "테레시스가 남긴 물건을 카즈델로 가져가기로 하고 남은 동료를 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "kaltsit",
-      "text": "오리지늄의 변화가 로도스와 테라에 줄 영향을 밝히려다 독타와 아미야에게 자신의 뜻을 맡깁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "wiki-priestess",
-      "text": "독타가 오래전 받아들인 오리지늄 계획을 다시 가동해 로도스 함선을 흔듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "wiki-prts",
-      "text": "함선의 기록과 시스템을 통해 일행에게 옛 계획이 현재 어디까지 진행됐는지 보여줍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "warfarin",
-      "text": "원인을 알 수 없는 증상이 퍼지는 함선에서 동료를 치료하며 의료팀을 지휘합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "rosmontis",
-      "text": "로도스의 붕괴 속에서 동료와 함께 함선의 생존자를 구합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "wiki-hierda",
-      "text": "결정화 뒤에도 낯선 공간에서 깨어나 자신에게 일어난 일을 이해하려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "theresis",
-      "text": "옛 존재가 살카즈의 삶을 실수로 여기는 태도에 맞서 그 역사를 지키겠다고 선언합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "ascalon",
-      "text": "켈시를 잃은 일행이 흩어지지 않도록 함선의 남은 인력을 모읍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "amiya",
-      "text": "독타와 함께 켈시가 남긴 단서를 따라 다음 목적지를 정합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
       "event": "mass-travels",
       "person": "exusiai",
       "text": "이동 고해소에서 자신의 상태를 확인한 뒤 총포 공방을 방문해 도시의 새 규칙을 직접 체감합니다.",
@@ -34264,83 +32863,6 @@ window.STORY_DATA = {
       "text": "모두를 현실로 데려온 뒤 아베 무지카와 함께 무대에 섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/SS-8/Story"
-    },
-    {
-      "event": "main-16",
-      "person": "raidian",
-      "text": "우르수스 극북 광산 지역을 조사하다 연락이 끊겨 로도스가 구조 작전에 나서는 계기를 만듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "doctor",
-      "text": "라이디언의 마지막 위치를 따라 광산에 들어가 제국군이 감춘 일을 조사합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-eloysius-gorchekova",
-      "text": "신분을 이용해 로도스가 대공비를 만나도록 돕고 광산으로 향할 길을 엽니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-elisabeth",
-      "text": "로도스와의 회담에서 광산 폐쇄와 황제의 칼날이 움직인 이유를 설명하려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "amiya",
-      "text": "광산 학살 생존자들의 목소리를 듣고 제국의 탄압이 새 감염자 운동으로 번지는 것을 봅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "crownslayer",
-      "text": "우르수스에서 다시 떠오르는 리유니온과 함께 생존자에게 피난길을 마련합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-elisabeth",
-      "text": "광산 구역을 봉쇄하면서 로도스에게 사건을 공개할 범위를 정합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-nikto",
-      "text": "생존자를 통해 광산에서 벌어진 학살의 소식을 리유니온에 전합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-rankin",
-      "text": "극북의 이상 현상을 관측하고 라이디언 실종의 단서를 남깁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "amiya",
-      "text": "광부와 감염자들의 시위가 군대와 충돌할 때 다친 사람을 먼저 구조합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "doctor",
-      "text": "켈시를 되살릴 방법을 찾는 임무와 우르수스 주민을 돕는 일 사이에서 현장의 우선순위를 정합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
     },
     {
       "event": "snow-1101",
@@ -34763,48 +33285,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
     {
-      "event": "main-17",
-      "person": "prts-yakov-petrov",
-      "text": "젤그라드에서 로도스 일행을 맞고 제국군과 석관 연구소 사이의 위험을 알려줍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-silka",
-      "text": "아나톨리의 도시 포격을 막기 위해 자신의 출생에 관한 비밀을 공개합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "orchid",
-      "text": "캐터펄트와 함께 낯선 포영국에서 깨어나 흩어진 예비 A6팀을 찾습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "catapult",
-      "text": "동료들의 모습이 달라진 사실을 확인하고 나라의 저주를 풀 무기를 듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-dream-midnight",
-      "text": "포영국에서 원래의 미드나이트와 다른 모습으로 나타나 일행에게 혼란을 줍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-bokuka",
-      "text": "뇌의 주인을 둘러싼 수수께끼에서 오키드 일행이 추적할 단서를 제공합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
       "event": "jungle-knot",
       "person": "beagle",
       "text": "테코마의 피난민을 보호하려다 검은 흐름에 휩쓸려 동료들과 떨어집니다.",
@@ -35197,6 +33677,1371 @@ window.STORY_DATA = {
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81"
     },
     {
+      "event": "foam-thunder",
+      "person": "orchid",
+      "text": "사르곤에서 동료들을 구하러 나섰다가 캐터펄트와 함께 호우에이국으로 넘어갑니다. 아츠를 쓸 수 없는 상황에서 활과 밧줄벌레를 익혀 사냥을 지휘하고, 호후카와 미츠도키가 서로를 지키려 혼자 짐을 지는 모습을 돌아보게 합니다. 번개의 주인이 저주의 원흉이 아니라는 진실에 도달한 뒤 힘을 합쳐 교린을 바로잡고 동료들에게 돌아갑니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "catapult",
+      "text": "오키드와 함께 낯선 세계에 떨어져 호후카를 만납니다. 국주가 자신을 희생한다고 오해해 정화 의식을 막으려 하지만 사정을 알게 되고, 차지액스와 밧줄벌레를 배워 이쥬와 주귀 사냥에 나섭니다. 번개의 주인이 저주를 정화하는 빛을 목격해 진실의 단서를 남기고, 마지막 사냥에도 힘을 보탭니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-bokuka",
+      "text": "호우에이국의 국주로 어머니를 잃은 뒤 번개의 주인을 원수로 여기며 이쥬헌터를 기다립니다. 오키드 일행과 시련을 치르고 주귀가 쏟아지자 백성을 지키지만, 장군의 부상 뒤 복수를 위해 홀로 목숨을 걸려 합니다. 동료들의 도움으로 선대의 진심과 저주의 원인을 알고, 진오우거의 힘을 빌려 교린을 정상화합니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-dream-midnight",
+      "text": "호우에이국의 장군 미츠도키는 선대처럼 호후카를 잃을까 두려워 번개의 주인 사냥을 반대합니다. 주귀를 유인해 막는 작전을 이끌다 중상을 입고 번개의 주인에게 구출됩니다. 오키드의 편지를 읽고 국주를 혼자 보호하려던 태도를 돌아본 뒤 병사들과 그녀를 도우러 갑니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-dream-spot",
+      "text": "대장장이 스파노스케는 낯선 두 사냥꾼을 특제 악취탄으로 구하고, 캐터펄트의 장비에 관심을 보여 사냥 장비 제작을 돕습니다. 주귀가 몰려오자 폭약과 대형 병기를 마련해 수도와 사냥단의 방어를 지원합니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-foam-masamune",
+      "text": "카무라 마을 출신 동반자로 10년 전 요시츠네와 함께 호우에이국에 왔습니다. 오키드와 캐터펄트에게 무기와 밧줄벌레 사용법을 가르치고, 번개의 주인이 진오우거임을 알려 줍니다. 저주가 고향의 광룡증과 닮았다고 의심하며 마지막 사냥까지 동행합니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-foam-yoshitsune",
+      "text": "마사무네와 함께 카무라 마을에서 건너온 동반자입니다. 호우에이국에 남아 사냥을 돕고, 새로 무기를 배운 오키드와 캐터펄트를 지켜봅니다. 주귀 유인 작전에 참여하고 번개의 주인과 교린을 둘러싼 마지막 사냥에도 동행합니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "prts-previous-ruler",
+      "text": "호후카의 어머니이자 선대 국주로, 10년 전 이쥬헌터 마사무네와 요시츠네와 함께 번개의 주인을 사냥하다 사라졌습니다. 죽음에 이르러 무녀의 힘을 진오우거에게 맡겼으며, 남긴 기억은 호후카가 교린의 진실에 도달하는 단서가 됩니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "midnight",
+      "text": "사르곤에서 스팟과 함께 도적의 시선을 끌며 임무를 수행합니다. 오키드와 캐터펄트가 돌아왔을 때 스팟과 포푸카를 지키며 싸우고 있었고, 두 사람의 실종은 그에게 잠깐의 일로 느껴졌습니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "spot",
+      "text": "사르곤에서 미드나이트와 적의 시선을 끌고 포푸카를 지원합니다. 동료들이 돌아왔을 때도 함께 싸우고 있었으며, 호우에이국의 대장장이 스파노스케와는 닮은 얼굴을 한 별개의 인물입니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "popukar",
+      "text": "사르곤 임무에서 도적 우두머리를 상대합니다. 오키드와 캐터펄트가 돌아올 때까지 다른 동료들과 함께 있었으며, 두 사람이 만난 호우에이국의 국주 호후카와는 별개의 인물입니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+    },
+    {
+      "event": "main-00-04",
+      "person": "amiya",
+      "text": "체르노보그의 석관에서 독타를 깨워 구출대를 이끌고 재앙과 리유니온의 포위망을 뚫습니다. 용문에서는 미샤를 보호하려 하지만, 독타를 공격한 스컬슈레더를 막다가 그가 미샤의 형제라는 사실을 알게 됩니다. 남매를 모두 잃은 충격 속에서도 감염자를 구하겠다는 로도스의 원칙을 붙잡습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "chen",
+      "text": "용문 근위국의 협력을 받아 미샤를 추적하지만, 그녀와 스컬슈레더의 관계가 드러나면서 작전의 의미가 달라집니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "wiki-misha",
+      "text": "용문에서 로도스와 리유니온 양쪽의 추적을 받다가 스컬슈레더가 자신의 형제 알렉스라는 사실과 마주합니다. 알렉스가 죽은 뒤 그의 장비와 이름을 이어받아 리유니온 편에 서고, 아미야 일행과의 비극적인 대결에 이릅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "wiki-skullshatterer",
+      "text": "미샤와 다시 만나 로도스와 맞서고, 남매의 비극이 아미야의 선택에 깊은 상처를 남깁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "wiki-ace",
+      "text": "체르노보그 탈출 작전에서 후방을 지키며 독타와 아미야가 빠져나갈 시간을 법니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "crownslayer",
+      "text": "독타 구출대를 체르노보그에서 가로막고 로도스 아일랜드가 감염자의 투쟁을 외면한다고 비난합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "nearl",
+      "text": "체르노보그에서 에이스와 함께 구출대에 합류해 리유니온의 추격을 막고 탈출로를 엽니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "talulah",
+      "text": "재앙이 닥친 체르노보그에서 불꽃 아츠로 구출대를 압박하고 니어의 방어를 무너뜨립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "w",
+      "text": "체르노보그 외곽에서 독타와 아미야를 알아보지만 이유를 밝히지 않은 채 일행을 보내 줍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "kaltsit",
+      "text": "용문 총독 웨이 옌우와 협상하며 리유니온의 위협에 대비한 로도스의 공동 작전을 제안합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "wiki-frostleaf",
+      "text": "폐허가 된 도시 구획을 정찰하다 건물에 번지는 서리를 보고 설괴 소대의 접근을 알아챕니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "doctor",
+      "text": "체르노보그의 석관에서 기억을 잃은 채 깨어나 아미야와 구조팀을 따라 탈출합니다. 이후 로도스의 지휘를 맡아 용문 작전에 참여하고, 미샤를 둘러싼 충돌에서는 알렉스의 공격 대상이 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "frostnova",
+      "text": "폐허가 된 체르노보그 구획에서 설괴 소대를 이끌고 로도스 정찰대 앞에 나타납니다. 강력한 냉기 아츠로 주변의 열을 빼앗아 구조팀을 위협하고, 아미야는 정면 승부를 피하기 위해 퇴각합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "wiki-mephisto",
+      "text": "체르노보그에서 독타 구출대의 탈출을 가로막는 리유니온 간부로 나타납니다. 이후 재앙이 지나간 도시 구획에서 로도스 정찰대를 추격해 구조팀을 압박합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "jessica",
+      "text": "프로스트리프, 메테오라이트와 함께 재앙 뒤의 도시 구획을 정찰하다 리유니온과 마주칩니다. 퇴로가 위험해지자 동료들과 구조를 기다리고, 아미야 일행의 도움으로 후퇴합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "wiki-meteorite",
+      "text": "재앙 이후 도시 구획에 남은 생존자와 정보를 찾으러 프로스트리프, 제시카와 함께 나섭니다. 설괴 소대와 마주한 뒤에는 프로스트리프와 함께 시간을 벌어 구조팀이 빠져나가도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-05",
+      "person": "chen",
+      "text": "리유니온에게 붙잡힌 정보원 팔을 구하려 호시구마와 묵오 창고에 들어가지만 그의 죽음을 확인합니다. 가문 저택에서는 탈룰라와 찍은 옛 사진을 보고 적이 찾는 인물을 의심합니다. 이후 점령된 근위국 본부 탈환을 지휘하고 옥상에서 적소검을 뽑으려다 통제하지 못해 자신도 다칩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-05",
+      "person": "hoshiguma",
+      "text": "첸과 함께 묵오 창고에서 정보원을 찾고, 리유니온이 점령한 근위국 본부의 함정을 돌파합니다. 파시 광장에서 바닥이 무너졌을 때는 방패로 잔해를 받쳐 첸을 구하다가 부상을 입습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-05",
+      "person": "amiya",
+      "text": "용문과의 공동 작전에서 감염자에게 가해지는 폭력이 로도스의 목표와 충돌함을 확인합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-05",
+      "person": "swire",
+      "text": "로도스와 연락해 체르노보그 폐허에 남겨졌던 아미야 일행을 구출하고 근위국 본부의 지원군으로 보냅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-05",
+      "person": "wiki-mephisto",
+      "text": "용문 근위국 본부 옥상에 함정을 놓고 쓰러진 리유니온 병사들을 아츠로 다시 움직이게 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-05",
+      "person": "wiki-blaze",
+      "text": "아미야와 함께 본부 탈환전에 뛰어들고, 전투 뒤 웨이 옌우가 로도스와 근위국을 미끼로 썼다고 추궁합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-05",
+      "person": "wiki-wei-yenwu",
+      "text": "본부 탈환 후 스와이어에게 로도스의 도움 없이 용문에 남은 리유니온을 하루 안에 소탕하라고 명령합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-05",
+      "person": "wiki-faust",
+      "text": "메피스토와 함께 근위국 본부 옥상에서 첸을 기다리며 석궁과 병력으로 포위합니다. 아미야와 블레이즈의 지원으로 전세가 바뀌자 메피스토를 설득해 함께 철수합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "frostnova",
+      "text": "설괴 소대와 유격대를 지키려 하면서 로도스와 용문 전선에서 맞섭니다. 패트리어트와도 다른 자신의 뜻을 지키며 마지막 힘을 다해 싸우지만 결국 쓰러지고, 독타 곁에서 마지막을 맞습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "amiya",
+      "text": "로도스 대원들과 메피스토의 군단과 맞서면서도 적으로 만난 감염자를 구하려 합니다. 용문이 빈민가에서 감염자들을 숙청한 사실을 알고 이를 용납할 수 없다며 웨이와 맺은 협력 계약을 끝냅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "chen",
+      "text": "리유니온 잔당을 추격하다 검은 우비 부대가 빈민가의 감염자들을 가리지 않고 죽이는 현장을 목격합니다. 그녀는 용문의 지휘 방식에 반발하고, 숙청 부대와 충돌한 블레이즈가 위기에서 벗어나도록 개입합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "wiki-mephisto",
+      "text": "감염자들을 아츠로 부려 용문과 로도스를 공격하지만, 전투가 격해지면서 군대를 통제하지 못해 자신과 리유니온까지 위험에 빠뜨립니다. 파우스트는 그를 살리기 위해 힘을 그만 쓰라고 당부하고 퇴로를 마련합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "wiki-faust",
+      "text": "메피스토가 감염자들을 계속 부리는 것을 말리면서도 그를 홀로 버리지 않습니다. 남은 병력을 이끌고 로도스에 맞서 메피스토가 탈출할 시간을 벌다가 전장에 남습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "swire",
+      "text": "첸과 함께 리유니온 잔당을 추적하다 빈민가에서 벌어지는 숙청을 목격합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "crownslayer",
+      "text": "켈시와 레드에게 아버지의 죽음에 관한 단서를 듣고 로도스와 자신의 인연을 되짚습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "wiki-nine",
+      "text": "용문의 숙청에 환멸을 느껴 근위국을 떠나 리유니온으로 향합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "wiki-blaze",
+      "text": "검은 우비 부대와 맞부딪치고, 첸의 개입으로 위기에서 벗어납니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "kaltsit",
+      "text": "레드와 함께 크라운슬레이어를 막아선 뒤, 그녀가 아버지의 죽음에 관해 품은 오해와 석관 연구진이 봉인을 택한 이유를 설명합니다. 이후 체르노보그의 핵심 도시가 용문으로 향하고 있다는 급보를 전합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "wiki-greythroat",
+      "text": "용문에서 로도스의 작전에 참여해 파우스트가 부하들을 보내고 홀로 남는 마지막을 목격합니다. 그가 죽었다는 소식을 아미야에게 전하고, 이후 프로스트노바와의 싸움에도 나섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "doctor",
+      "text": "체르노보그의 핵심 구역이 용문에 충돌하기 전에 관제탑에 도달할 작전을 세웁니다. 유격대와 패트리어트가 가로막는 길을 돌입조와 함께 돌파하며 도시를 멈출 가능성을 찾아갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "patriot",
+      "text": "탈룰라의 변화와 도시 충돌 계획을 의심하면서도 유격대를 이끌며 감염자들을 지키려 합니다. 로도스와 맞선 그는 자신의 신념과 리유니온의 앞날을 걸고 싸우며 아미야에게 무거운 질문을 남깁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "amiya",
+      "text": "체르노보그를 멈추기 위해 돌입조에 합류해 패트리어트와 맞섭니다. 감염자를 지키려는 그의 신념과 리유니온이 처한 현실 사이의 간극을 마주하고, 그를 넘어 탈룰라에게 가야 할 책임을 받아들입니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "talulah",
+      "text": "체르노보그의 핵심 구역을 용문으로 향하게 해 두 나라의 충돌을 부르려 합니다. 패트리어트가 계획에 반발하고 조직 내부가 갈라지는 가운데서도 도시를 계속 움직입니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "chen",
+      "text": "웨이의 명령을 거스르고 탈룰라를 추격하기 위해 체르노보그로 향합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "hoshiguma",
+      "text": "첸의 결심을 알고도 길을 열어 주며 그녀가 용문 밖에서 자신의 답을 찾도록 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "rosmontis",
+      "text": "로도스 돌입조와 함께 진입로를 열어 체르노보그 중심부로 가는 작전을 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "wiki-guard-npc",
+      "text": "체르노보그에서 생존한 리유니온 대원으로 로도스에 조직 내부의 변화를 전합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "w",
+      "text": "체르노보그에서 탈룰라와 맞서며 리유니온 내부가 무너지는 계기를 만듭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "kaltsit",
+      "text": "패트리어트와의 대화에서 그가 탈룰라를 막으려는 이유를 듣고 로도스의 진입을 계속 지휘합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "wiki-mephisto",
+      "text": "파우스트를 잃은 뒤 고통스러운 기억을 지우려 석관으로 향합니다. 로도스가 관제탑으로 나아가는 동안 리유니온이 겪은 상실은 그의 선택에도 남습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "amiya",
+      "text": "첸과 함께 관제탑에 올라 도시 충돌을 막고 탈룰라와 맞섭니다. 첸의 검에 남은 감정과 탈룰라의 과거를 마주한 뒤, 그녀 안에 자리한 불사의 검은 뱀이 강요하는 전쟁의 논리에 맞서 탈룰라를 되찾으려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "talulah",
+      "text": "우르수스에서 감염자들을 구하고 알리나와 함께 살아갈 터전을 만들며 리유니온을 키웁니다. 알리나를 잃고 배신과 불신을 겪는 가운데 검은 뱀의 영향은 깊어지고, 체르노보그에서 첸과 아미야의 대면을 맞습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "chen",
+      "text": "탈룰라와 함께한 어린 시절을 돌아보며 체르노보그 관제탑으로 향합니다. 먼저 탈룰라에게 도달해 지금의 선택을 묻고, 아미야와 함께 그녀를 멈추려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "wiki-alina",
+      "text": "탈룰라 곁에서 도망치는 감염자들을 돌보고 함께 살아갈 미래를 고민합니다. 마을에서 보복 공격으로 치명상을 입고 죽으며, 그녀의 상실은 탈룰라의 삶과 리유니온에 깊은 영향을 남깁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "frostnova",
+      "text": "초기 리유니온에 합류해 탈룰라가 말한 감염자의 미래를 함께 고민합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "rosmontis",
+      "text": "방패병들과 힘을 합쳐 체르노보그 관제탑으로 향하는 로도스의 진로를 엽니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "wiki-deathless-black-snake",
+      "text": "탈룰라의 몸과 기억을 이용해 전쟁이 역사를 움직인다는 사상을 아미야에게 강요합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "kaltsit",
+      "text": "석관과 체르노보그의 충돌을 멈출 방법을 찾으며 탈룰라 사태의 배후를 확인합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "wiki-nine",
+      "text": "리유니온이 체르노보그에서 패한 뒤 생존자들을 다시 모을 길을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "patriot",
+      "text": "프로스트노바와 자신의 유격대 사람들을 이끌며 탈룰라와 알리나가 만든 감염자 공동체의 여정에 합류합니다. 추위와 추격 속에서 서로를 지키려는 이들의 시작은 훗날 리유니온이 겪는 변화와 대비됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
+      "person": "w",
+      "text": "체르노보그를 정지시키려 하지만 건네받은 열쇠의 권한이 부족하다는 사실을 알게 됩니다. 탈룰라가 깨어나 진짜 열쇠를 알려 준 뒤에야 도시를 멈출 수 있게 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "horn",
+      "text": "도난당한 군용 오리지늄 무기를 추적해 힐록으로 향하고, 더블린의 봉기 준비와 현지의 감염자 탄압을 알아챕니다. 부대에 위험을 알리고 주민을 지키려 하지만 도시가 포격과 전투에 휩싸입니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "bagpipe",
+      "text": "혼과 함께 도난 무기를 조사하던 중 힐록의 위기에 휘말립니다. 도시 밖으로 연락을 전하는 과정에서 매복과 포격을 겪고, 아웃캐스트와 만나 살아남은 사람들의 소식을 이어 줍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "reed",
+      "text": "더블린의 작전에 얽혀 타라의 독립과 빅토리아 사이의 갈등 속에 놓입니다. 자신의 출신과 자매가 이끄는 세력을 마주하면서, 그들이 정한 역할과 다른 길을 택할 가능성을 바라봅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "wiki-hamilton",
+      "text": "힐록의 타라 주민을 반란 세력으로 몰아 포격을 명령하고 대규모 민간인 피해를 냅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "wiki-outcast",
+      "text": "로도스 지부 사람들의 탈출을 돕고 백파이프에게 정보를 전합니다. 뒤쫓아 오는 더블린 병력을 홀로 막아서며 동료들이 살아서 빠져나갈 시간을 위해 마지막 총알을 사용합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "wiki-mandragora",
+      "text": "더블린의 병력을 이끌어 혼의 소대를 공격하고 도시를 혼란에 빠뜨립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "saileach",
+      "text": "힐록의 주민과 로도스 사이에서 연락을 돕고 전투가 민간인에게 끼치는 피해를 살핍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "wiki-nine",
+      "text": "새로 모은 리유니온을 이끌고 로도스 함선에 들어와 탈룰라를 찾아갑니다. 과거의 잘못에 대한 책임을 묻겠다며 그녀를 데려가려 하고, 탈룰라는 로도스의 감시 아래 남는 대신 이들과 떠나기로 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "siege",
+      "text": "글래스고 갱과 함께 점령된 런디니움으로 돌아와 시민과 자구군을 돕습니다. 고향에서 싸우는 동안 자신을 둘러싼 왕위 계승 문제가 다시 떠오르고, 거리의 동료이자 왕가의 후예로서 감당해야 할 책임과 마주합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "amiya",
+      "text": "살카즈 군사위원회가 장악한 도시에 잠입해 로도스의 구조 작전을 이끕니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "theresis",
+      "text": "런디니움의 군수 시설과 살카즈 군대를 통해 전쟁을 확대합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "kaltsit",
+      "text": "런디니움 외곽에 함선을 정박시키고 도시 자구군과 접촉할 진입 작전을 지휘합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "stainless",
+      "text": "런디니움 자구군의 일원으로 로도스와 협력 조건을 논의하고 억류된 하이디 구출에 나섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "heidi",
+      "text": "도시 안 켈시의 연락책으로 활동하다 붙잡혀 로도스와 자구군의 공동 구출 목표가 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "horn",
+      "text": "억류된 동료에게 약을 가져가고 만드라고라와 맞서며 빅토리아 군인으로서 책임을 다합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-manfred",
+      "text": "도시의 혼란을 파악하고 로도스의 내부 협력자를 찾도록 외드레르에게 지시합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-mandragora",
+      "text": "군사위원회의 명령에 따라 공장 감옥을 지키며 혼 일행을 가로막습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-dagda",
+      "text": "글래스고 갱의 일원으로 블랙스틸의 추락한 항공기를 찾아 포로 구출에 나섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "rockrock",
+      "text": "자구군의 일원으로 로도스의 협력이 실제 런디니움 주민을 구할 수 있는지 따집니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "w",
+      "text": "군사위원회 내부의 혼란을 이용해 독자적으로 움직이며 맨프레드의 감시를 받습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-clovisia",
+      "text": "노동자 조직을 이끌어 런디니움 주민이 점령군에 맞설 방법을 마련합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "theresa",
+      "text": "테레시스와 군사위원회가 런디니움을 전쟁의 발판으로 삼는 가운데 다시 모습을 드러냅니다. 그녀의 귀환은 살카즈의 왕정과 과거 바벨에 연결된 로도스에게 중요한 의미를 갖습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "doctor",
+      "text": "켈시가 함선을 수도 밖에 두자 아미야, 엘리트 오퍼레이터, 글래스고 갱과 함께 점령된 런디니움에 들어갑니다. 자구군과 접촉해 억류된 사람들을 구하고 군사위원회의 계획을 파악하려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "logos",
+      "text": "로도스가 여러 갈래로 나뉘어 런디니움에 들어갈 때 각자의 진입을 돕는 엘리트 오퍼레이터로 움직입니다. 도시 안에서 자구군과 로도스가 군사위원회의 감시를 뚫고 활동할 길을 마련합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-damazti-cluster",
+      "text": "자구군 내부에서 동료인 척하며 거점과 연락망의 정보를 빼냅니다. 피의 군주의 습격과 함께 정체가 드러나자 로도스와 자구군은 발각된 은신처를 버리고 열차로 탈출합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-allerdale",
+      "text": "런디니움에서 탈출한 시즈 일행을 맞아 그녀가 왕위 계승자 알렉산드리나임을 밝힙니다. 왕권의 유물을 찾아 나라를 이끌어 달라고 제안해 시즈가 자신의 혈통과 책임을 다시 마주하게 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-nine",
+      "text": "살아남은 리유니온을 이끌며 북쪽에서 탈룰라와 다시 만납니다. 이후 그녀와 함께 빅토리아로 향해 감염자들을 위한 새로운 길을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "siege",
+      "text": "왕권의 상징인 검을 찾아 묘소로 향하며 어린 시절과 자신의 계승 문제를 돌아봅니다. 알레데일이 숨겨 온 목적을 드러내자 오랜 인연과 신뢰가 흔들리고, 시즈는 빅토리아의 미래에서 자신이 맡을 자리를 고민합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "amiya",
+      "text": "런디니움에서 로도스의 작전을 이어 가는 한편 살카즈 왕정에 얽힌 기억과 오래된 힘을 마주합니다. 그 과정을 통해 자신의 힘이 카즈델의 역사와 이어져 있다는 사실을 알아갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "doctor",
+      "text": "자구군과 함께 카즈델의 군수 생산 시설을 끊을 작전을 세웁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "wiki-allerdale",
+      "text": "어린 시절부터 인연이 있는 시즈를 왕의 검이 잠든 묘소로 안내합니다. 그러나 그곳에서 숨겨 둔 계획을 실행해 검을 차지하려 하고, 자신의 선택과 목적을 드러내면서 시즈와의 신뢰를 깨뜨립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "wiki-catherine",
+      "text": "군수 공장의 노동자들을 모아 사르카즈의 생산 명령에 맞설 수단을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "stainless",
+      "text": "공장에 남은 기술자와 로도스의 작전을 연결해 군수 시설을 멈추려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "logos",
+      "text": "살카즈의 주술과 왕정의 기록을 해독해 로도스가 전쟁의 다음 단계를 이해하도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "horn",
+      "text": "런디니움의 성벽에 선 병사들을 모아 카즈델 점령군에 맞설 반격을 이끕니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "kaltsit",
+      "text": "지상의 전투에서 독타와 로도스 일행을 지키며 군사위원회의 강적과 맞섭니다. 테레시스가 나타났을 때 독타를 보호하려다 중상을 입고, 샤이닝의 응급 처치로 목숨을 건진 뒤 철수합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "theresis",
+      "text": "런디니움 지상 전투에 나타나 로도스 일행을 압박합니다. 독타를 지키려는 켈시가 중상을 입으면서 전세는 더욱 기울고, 로도스는 철수를 선택합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "shining",
+      "text": "테레시스와의 전투에서 중상을 입은 켈시를 응급 처치합니다. 그녀가 급한 생명의 위기를 넘기도록 돕지만, 로도스는 불리한 전장에서 물러나야 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "wiki-manfred",
+      "text": "지상의 군사위원회 병력을 이끌어 로도스와 맞섭니다. 피의 군주와 고해신부까지 가세해 지상 전투가 불리해지면서 왕의 검을 찾는 시즈 일행도 시간을 다투게 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "siege",
+      "text": "봉쇄된 노포트에서 식량과 물이 떨어지고 피난길까지 막히자, 왕위 문제보다 거리의 주민들을 지키는 일을 앞세웁니다. 모건 등과 함께 사람들을 보호하며 봉쇄를 알리고 벗어날 방법을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "doctor",
+      "text": "살카즈의 탑이 전쟁 무기로 작동하자 런디니움의 침투 작전을 다시 세웁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "amiya",
+      "text": "내부의 배신으로 큰 피해를 본 뒤에도 자구군과 함께 전선을 유지합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "wiki-golding",
+      "text": "자구군 정보망이 발각되자 동료를 팔지 않고 스스로 목숨을 끊습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "wiki-delphine",
+      "text": "노포트 봉쇄 사실을 도시 밖에 알릴 수 있도록 남아 있는 방송 시설의 위치와 접근 경로를 알려 줍니다. 자구군은 그녀가 건넨 정보를 바탕으로 외부 공작들이 참상을 보게 할 방법을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "wiki-damazti-cluster",
+      "text": "자구군 내부에 스며들어 정보망을 뒤흔들고 골딩을 압박합니다. 골딩이 동료를 팔지 않고 스스로 목숨을 끊은 뒤에도 그 죽음을 자구군을 흔드는 데 이용합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "ines",
+      "text": "로도스 일행과 재회해 군사위원회의 움직임을 전하고 위험한 거래를 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "morgan",
+      "text": "시즈와 함께 식량과 물이 줄어드는 구역에서 주민을 보호합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "wiki-baird",
+      "text": "봉쇄된 노포트에서 자구군과 연락하며 거리에 남은 주민들의 상황을 전합니다. 대피 도중 혼란에 빠진 사람들을 진정시키려다 다치지만, 시즈가 떠나는 길을 지킵니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "wiki-clovisia",
+      "text": "방송을 통해 노포트의 참상을 알리려 남은 설비와 사람을 모읍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "logos",
+      "text": "정보망에 침투한 다마즈티와 맞서며 새 생명이 무엇인지 질문을 주고받습니다. 대화 뒤 군집은 스스로 삶을 끝내고 다시 태어나며, 로도스는 그중 한 존재와 이어지게 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "wiki-duke-of-caster",
+      "text": "자신의 부대를 통해 로도스에 협력을 제안합니다. 노포트 봉쇄를 뚫고 주민을 구하는 데 뜻을 같이하지만, 살카즈 비행함의 기술을 확보하려는 목적도 갖고 있습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "ascalon",
+      "text": "아미야와 함께 빼앗긴 방송 장치를 찾으러 살카즈의 비행함에 오릅니다. 배를 움직이는 힘이 살카즈 망자들의 원한과 이어져 있음을 마주하고, 에블라나가 나타나 불꽃으로 위기를 밀어냅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "wiki-nine",
+      "text": "탈룰라와 함께 리유니온을 이끌고 런디니움 밖에 도착합니다. 현지 감염자 노동자들을 구하며, 도시를 둘러싼 다른 세력들과는 별도의 목표를 향해 움직입니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "talulah",
+      "text": "나인과 살아남은 리유니온을 이끌고 런디니움 밖에 도착합니다. 전쟁과 노동 현장에 놓인 감염자들을 구하려 하며 체르노보그 이후의 길을 이어 갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "doctor",
+      "text": "함선이 습격당하고 아미야가 납치되자 그녀의 행방을 쫓습니다. 로고스·아스카론과 함께 유적의 피의 제단을 조사하며 살카즈의 의식과 그 영향이 도시 밖으로도 번질 위험을 알아냅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "siege",
+      "text": "노포트 봉쇄 속에서 주민들을 이끌며 빅토리아의 미래가 왕가의 혈통만으로 정해져서는 안 된다는 생각을 굳힙니다. 한편 왕의 검을 전선에서 쓰는 문제를 놓고 공작들과 협상을 이어 갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "amiya",
+      "text": "살카즈 왕정의 유산과 자신의 역할을 마주한 채 로도스와 다시 합류합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-confessarii",
+      "text": "아미야를 납치해 살카즈의 피의 의식에 끌어들이고 로도스의 추적을 받습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-salus",
+      "text": "고해신부 무리를 이끌고 아미야를 납치해 살카즈의 피 의식 현장으로 끌고 갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "w",
+      "text": "외드레르·이네스와 마주친 환영 속에서 바벨의 기억과 지금의 전쟁을 비교합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "talulah",
+      "text": "런디니움 바깥에서 감염된 탈영병과 난민을 모아 피난길을 마련합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "logos",
+      "text": "살카즈 제단에 담긴 의식의 구조를 읽고 사태가 도시 밖까지 번질 수 있음을 알립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-delphine",
+      "text": "시즈와 함께 가족의 정치적 선택이 시민의 목숨에 미칠 영향을 고민합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-ermengarde",
+      "text": "W 일행을 환영 속에 가두어 바벨의 기억을 다시 체험하게 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "paprika",
+      "text": "피의 제단을 지키던 살카즈로 나타나 독타 일행과 대화하며 자신이 따른 명령을 의심합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-nowell",
+      "text": "리유니온에 합류한 난민 사이에 섞여 자신의 오래된 정체를 숨깁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "shining",
+      "text": "고해신부의 술법에 나이팅게일이 납치되자 그녀를 찾으러 나섭니다. 자신의 혈통을 둘러싼 고해신부의 계획에 흔들리면서도, 나이팅게일을 되찾기로 결심합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "nightingale",
+      "text": "샤이닝의 보호를 받던 중 고해신부의 술법에 이끌려 납치됩니다. 그녀를 이용하려는 계획이 드러나면서 샤이닝은 고해신부와 자신의 과거를 다시 마주합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "ines",
+      "text": "W, 외드레르와 함께 리치 에르망가르드와 조우해 살카즈의 오래된 역사를 비추는 환영을 겪습니다. 환영을 벗어난 뒤 동료들과 지하의 라이프 스파인과 의식의 흔적을 발견합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "hoederer",
+      "text": "W, 이네스와 함께 에르망가르드가 보여 주는 살카즈 역사의 환영을 겪습니다. 이후 지하에서 라이프 스파인을 발견하고, 이를 관리하던 옛 동료와도 마주합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "kaltsit",
+      "text": "살카즈의 제단과 탑 뒤에 숨은 계획을 추적하며 군사위원회의 목표가 런디니움을 넘어선다는 사실을 파악합니다. 최초의 오리지늄을 이용하려는 계획은 테라 전체에 영향을 줄 수 있습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-nine",
+      "text": "탈룰라와 함께 감염된 탈영병과 피난민을 모으고 약을 구하러 양조장으로 향합니다. 현지 리유니온이 다른 감염자에게 가한 폭력과 마주하면서 누구를 지키는 운동인지 다시 시험받습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "rockrock",
+      "text": "스테인리스와 함께 브렌트우드에서 제단 건설에 동원된 주민들을 구하려 합니다. 주민들의 피를 빼앗는 의식이 드러나면서 로도스와 자구군은 라이프 스파인을 둘러싼 전투에 뛰어듭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-duke-of-windermere",
+      "text": "노포트 피난민과 로도스, 글래스고 갱을 함선에 태워 런디니움에서 철수합니다. 이동 중 고해신부와 피의 군주가 침입하고 다마즈티의 함정까지 겹쳐 치명상을 입으며, 델핀은 어머니의 마지막을 지켜봅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "ascalon",
+      "text": "독타와 로고스와 함께 살루스에게 납치된 아미야를 쫓아 살카즈의 유적으로 들어갑니다. 피를 사용하는 제단을 조사하고 아미야를 구한 뒤 일행과 아군에게 돌아갈 길을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-guard-npc",
+      "text": "리유니온의 피난민 보호 활동에 참여하던 중 현지 조직이 같은 감염자인 살카즈에게 가한 폭력과 마주합니다. 감염자를 지킨다는 명분으로 또 다른 억압을 정당화하는 동료들의 행동을 외면할 수 없게 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-damazti-cluster",
+      "text": "윈더미어 공작의 함선이 피난민을 태우고 이동하는 동안 함정을 꾸밉니다. 고해신부와 피의 군주의 침입까지 겹치면서 공작은 치명상을 입고 함선에 탄 사람들도 위기에 놓입니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "amiya",
+      "text": "테레시아와 마주해 전쟁을 끝내기 위해 그녀가 준비한 선택과 살아 있는 사람들의 뜻을 듣습니다. 살카즈의 고통을 외면하지 않으면서도, 현재를 사는 사람들이 자신의 미래를 결정할 수 있도록 런디니움과 테라를 덮칠 재앙에 맞섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "doctor",
+      "text": "런디니움 탑에서 번지는 오리지늄 재앙을 막으려 로도스를 이끕니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "theresa",
+      "text": "살카즈가 겪어 온 비극과 자신이 준비한 전쟁의 끝을 아미야에게 전합니다. 마지막 대면에서 자신의 판단을 설명하고, 아미야가 살아 있는 사람들의 미래를 향해 나아가도록 뜻을 남깁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "siege",
+      "text": "왕의 검을 들고 빅토리아 전선에 서서 살카즈 군과 대공들의 군대가 충돌하는 상황에 맞섭니다. 더블린까지 뒤엉킨 전장에서 왕위의 상징보다 시민들이 빠져나갈 길을 지키는 일을 선택합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "w",
+      "text": "북부 협곡에서 사라진 정찰대의 행방을 조사하며 맨프레드 부대와 맞섭니다. 적의 약점을 찾아 외드레르에게 전달해, 로도스가 탑에 접근할 시간을 벌기 위한 침투 작전을 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "hoederer",
+      "text": "맨프레드가 이끄는 군사위원회 전력을 막기 위해 암살 작전을 제안합니다. 아스카론과 협력해 침투를 준비하며, 실패할 위험을 알면서도 동료들이 탑에 도달할 시간을 벌려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "ascalon",
+      "text": "외드레르의 위험한 작전을 받아들이고 침투조를 움직입니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "logos",
+      "text": "살카즈의 피와 주술이 재앙에 쓰이는 방식을 파악하고 이를 끊을 방법을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "wiki-manfred",
+      "text": "로도스의 침투와 빅토리아의 반격을 막으려 군사위원회의 잔여 전력을 지휘합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "kaltsit",
+      "text": "파편이 도시를 덮는 상황에서 전선과 함선 사이의 구조 순서를 정합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "wiki-lifebone",
+      "text": "살카즈의 피 의식을 전장에 퍼뜨려 로도스가 탑에 닿기 어렵게 만듭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "shining",
+      "text": "나이팅게일을 이용해 왕관을 차지하려는 고해신부의 계획에 맞섭니다. 니어의 도움을 받아 나이팅게일을 깨우고 그녀를 되찾으려 하지만 그 과정에서 큰 대가를 치릅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "nightingale",
+      "text": "고해신부가 왕관을 차지하기 위해 이용하려는 대상이 됩니다. 샤이닝과 니어가 그녀를 깨우고 구하려 하면서 샤이닝과 고해신부 사이의 대립도 절정에 이릅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "theresis",
+      "text": "런디니움에서 전쟁을 계속 지휘하며 살카즈의 미래를 위한 계획을 밀어붙입니다. 비행함이 추락하고 전쟁이 끝을 향하는 가운데 최초의 오리지늄을 손에 넣습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "bagpipe",
+      "text": "혼과 함께 런디니움 주변의 빅토리아 전선에 섭니다. 공작들의 군대와 살카즈, 더블린이 뒤엉킨 가운데 전투에 참여하고 동료들과 전장을 지킵니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "horn",
+      "text": "백파이프와 함께 빅토리아 전선에서 살카즈 군사위원회에 맞섭니다. 공작들의 군대와 더블린까지 충돌하는 상황에서 병사들과 함께 싸웁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "wiki-confessarii",
+      "text": "나이팅게일을 이용해 살카즈의 왕관을 차지하려 합니다. 이를 막고 나이팅게일을 되찾으려는 샤이닝과 니어가 맞서면서 고해신부의 계획은 전장의 또 다른 대립으로 이어집니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "wiki-duke-of-wellington",
+      "text": "런디니움 주변의 전장으로 함선을 이끌고 전진합니다. 에블라나가 살카즈 제단을 파괴하는 사이 공격을 이어 가지만 나흐체러의 습격으로 큰 피해를 입습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "wiki-priestess",
+      "text": "독타가 오리지늄 속에서 겪는 먼 과거의 환영에 모습을 드러냅니다. 독타와 옛 로도스의 관계를 떠올리게 하는 이 장면은 현재의 전쟁 너머에 남은 과거의 계획을 암시합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "doctor",
+      "text": "로도스 함선에 이상 현상이 퍼지자 원인을 쫓고 프리스티스의 오리지늄 계획과 자신이 과거에 내린 선택을 마주합니다. 함선이 무너지고 켈시를 잃은 뒤에는 아미야와 함께 살아남은 동료들과 다음 길을 찾습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "kaltsit",
+      "text": "함선과 테라를 위협하는 오리지늄의 변화를 마주하며 프리스티스의 계획을 저지하려 합니다. 붕괴하는 로도스에서 동료들을 위해 마지막 선택을 하고, 독타와 아미야에게 자신의 뜻과 앞으로 나아갈 단서를 남깁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "amiya",
+      "text": "함선에서 힐다가 결정화되는 소리를 듣고 동료들과 이상 현상의 근원으로 향합니다. 켈시를 잃는 충격 속에서도 독타와 생존자들을 지키며 남겨진 단서를 따라 다음 목적지를 정합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "wiki-priestess",
+      "text": "오래전 독타와 연결된 오리지늄 계획을 다시 움직여 로도스 함선에 위기를 불러옵니다. 그녀의 행동은 함선의 이상과 과거 문명의 계획이 지금의 테라에 미칠 영향을 드러냅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "theresis",
+      "text": "오리지늄에 스며든 옛 존재의 환영과 대면합니다. 살카즈의 삶과 역사를 지워야 할 실수로 여기는 시선에 맞서, 자신들이 살아온 역사를 지키겠다는 뜻을 밝힙니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "ascalon",
+      "text": "로도스의 위기와 켈시의 상실 속에서 남은 동료들을 모아 흩어지지 않도록 이끕니다. 테레시스가 남긴 물건을 카즈델로 가져가는 일도 맡습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "wiki-prts",
+      "text": "함선의 기록과 시스템을 통해 일행에게 옛 계획이 현재 어디까지 진행됐는지 보여줍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "warfarin",
+      "text": "원인을 알 수 없는 증상이 퍼지는 함선에서 동료를 치료하며 의료팀을 지휘합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "rosmontis",
+      "text": "로도스의 붕괴 속에서 동료와 함께 함선의 생존자를 구합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "wiki-hierda",
+      "text": "결정화 뒤에도 낯선 공간에서 깨어나 자신에게 일어난 일을 이해하려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "doctor",
+      "text": "켈시를 되살릴 단서를 찾아 우르수스 극북의 광맥을 조사하고, 연락이 끊긴 라이디언의 행방을 쫓아 광산으로 향합니다. 석관 연구원 크세니야를 구한 뒤 광부들에게 노출된 물질 오카와 인체 실험, 제국군이 감춘 학살을 알아가며 주민들의 구조와 조사를 함께 감당합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "amiya",
+      "text": "극북의 광부와 감염자들이 제국의 탄압을 겪는 상황에서 구조 임무를 이끕니다. 생존자들의 증언과 시위가 퍼지는 과정을 지켜보고, 군대와 충돌해 다친 사람들을 먼저 구하려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "crownslayer",
+      "text": "극북 광산의 생존자들이 학살 소식을 전하며 리유니온과 학생들의 움직임으로 이어지는 과정을 지켜봅니다. 다시 모이는 리유니온과 함께 위험에 놓인 사람들의 피난을 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "raidian",
+      "text": "우르수스 극북 광산 지역을 조사하다 연락이 끊겨 로도스가 구조 작전에 나서는 계기를 만듭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-eloysius-gorchekova",
+      "text": "신분을 이용해 로도스가 대공비를 만나도록 돕고 광산으로 향할 길을 엽니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-elisabeth",
+      "text": "광산 구역을 봉쇄하고 황제의 칼날이 움직인 사건에 대응합니다. 로도스와의 회담에서는 폐쇄의 이유와 사건을 공개할 범위를 둘러싸고 자신의 입장을 밝힙니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-nikto",
+      "text": "생존자를 통해 광산에서 벌어진 학살의 소식을 리유니온에 전합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-rankin",
+      "text": "극북 광산에서 강제 실험을 당하던 광부들을 이끌고 탈출합니다. 추적 장치를 제거하며 사람들과 국경으로 향하고, 동료에게 자신의 선택을 강요했음을 돌아봅니다. 네바 호수 근처의 전초기지를 확보하지만 제4집단군의 포격을 받습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-vetochki",
+      "text": "광산에서 사라진 광부들이 돌아오지 않는 사실을 렌킨에게 알려 반란의 계기를 만듭니다. 탈출한 사람들과 함께 이동하며 종소리로 유로지비의 영향에 사로잡힌 이들이 정신을 차리도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-mon3tr",
+      "text": "독타와 아미야를 따라 실종된 라이디언과 석관의 단서를 찾아 극북으로 갑니다. 광산 깊은 곳에서 독타와 함께 액체 오리지늄의 강을 발견하고, 호수에서 포격을 피해 달아나는 사람들을 구하는 데 힘을 보탭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-yurodstvo",
+      "text": "나디아의 모습으로 피난민들 사이에 숨어 사람들의 인식에 영향을 미칩니다. 만트라가 정신적으로 맞서고 베토치키가 종을 울리면서 광부들은 자신이 무엇을 믿고 있었는지 돌아보고 영향에서 벗어납니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-17",
+      "person": "doctor",
+      "text": "켈시의 단서를 따라 우르수스의 위성도시 젤그라드로 가서 제국군의 석관 연구를 조사합니다. 감염자의 희생을 바탕으로 한 연구와 제1·제4집단군의 권력 다툼을 마주하면서 아미야 일행과 도시의 위기에 대응합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "amiya",
+      "text": "제국군 파벌 싸움과 석관 연구 사이에서 로도스의 구조 임무를 이끕니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "talulah",
+      "text": "시르카를 구해 주고 리유니온과 함께 젤그라드의 공장을 습격합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-svetlana-buterina",
+      "text": "제1집단군 원수로 젤그라드 철수를 결정하고, 반역으로 받아들인 아들 아나톨리의 칼에 찔립니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-anatoly-buterinin",
+      "text": "젤그라드의 감염자와 연구원들을 학살하고 포격을 명령하다, 어머니를 찌른 뒤 시르카의 도움도 받지 못한 채 죽습니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-silka",
+      "text": "아나톨리 암살에 실패한 뒤 탈룰라와 만나 리유니온의 공장 급습에 합류합니다. 도시를 향한 포격을 막기 위해 자신과 아나톨리의 출생에 관한 비밀을 공개하고, 그 선택으로 위기를 멈추게 합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-elita-valuyeva",
+      "text": "구미의 어머니로서 석관의 에너지가 감염자의 희생에서 온다는 사실을 알아내고 로도스 일행을 연구소의 기밀 구역으로 안내합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-klim",
+      "text": "연구소의 비밀을 외부에 전하고, 석관 사태가 끝난 뒤 주민에게 에너지를 공급한 다음 딸 라다를 찾아 떠납니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-evgeny-kuznetsov",
+      "text": "제4집단군의 이익을 위해 스치오파를 압박해 제1집단군의 비밀 병기를 빼앗도록 지시합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-yakov-petrov",
+      "text": "젤그라드에서 로도스 일행을 맞고 제국군과 석관 연구소 사이의 위험을 알려줍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
       "event": "main-17",
       "person": "closure",
       "text": "우르수스와 협력할 통로를 열기 위해 로도스의 연구 자료에 안전장치를 두자고 제안합니다. 젤그라드에서는 라이디언과 함께 군의 방화벽을 우회하고 아미야의 석관 조사에 협력합니다.",
@@ -35237,27 +35082,6 @@ window.STORY_DATA = {
       "text": "아미야와 클로저의 젤그라드 조사에 동행하고, 석관을 둘러싼 충돌 속에서 되돌아온 켈시와 마주합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-dream-spot",
-      "text": "포영국의 대장장이로 특제 격룡창을 만들어 저주에 물든 괴물들이 몰려들 때 사냥단의 방어를 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-bokuka",
-      "text": "어륜이 폭주하자 이를 억누르기 위해 천둥의 주인의 힘이 필요하다는 것을 깨닫고, 오키드와 캐터펄트, 대장장이, 장군에게 힘을 모아 달라고 요청합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
-    },
-    {
-      "event": "foam-thunder",
-      "person": "prts-dream-midnight",
-      "text": "폭발에 휘말려 의식을 잃은 동안 천둥의 주인에게 구출됩니다. 회복한 뒤 오키드의 편지를 읽고 보우카를 도우러 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
     }
   ],
   "art": {

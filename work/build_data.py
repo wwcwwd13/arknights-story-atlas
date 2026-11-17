@@ -414,6 +414,30 @@ with (ROOT / 'work' / 'story_action_dense.tsv').open(encoding='utf-8', newline='
             'spoiler': 'medium', 'source': event_lookup[event_id]['summarySource'],
         })
 
+# The first character-centered rewrite replaces the older scene-by-scene entries.
+foam_actions = json.loads((ROOT / 'work' / 'foam_character_actions.json').read_text(encoding='utf-8'))
+if any(item['event'] != 'foam-thunder' or item['person'] not in known_people or not item['text'].strip() for item in foam_actions):
+    raise ValueError('Invalid foam-thunder character action')
+if len({item['person'] for item in foam_actions}) != len(foam_actions):
+    raise ValueError('Duplicate foam-thunder character action')
+base['actions'] = [item for item in base['actions'] if item['event'] != 'foam-thunder'] + foam_actions
+
+# Main-story summaries are grouped by person, rather than by individual scene.
+main_actions = json.loads((ROOT / 'work' / 'main_character_actions.json').read_text(encoding='utf-8'))
+main_ids = {event_id for event_id in event_lookup if event_id.startswith('main-')}
+if set(main_actions) != main_ids:
+    raise ValueError('Main-story character summaries do not cover every chapter')
+for event_id, items in main_actions.items():
+    existing = {item['person'] for item in base['actions'] if item['event'] == event_id}
+    persons = [item['person'] for item in items]
+    present = {item['person'] for item in base['appearances'] if item['event'] == event_id}
+    if len(persons) != len(set(persons)) or not existing <= set(persons) or not set(persons) <= present:
+        raise ValueError(f'Main-story character summary mismatch: {event_id}')
+    if any(item['event'] != event_id or not item['text'].strip() for item in items):
+        raise ValueError(f'Invalid main-story character summary: {event_id}')
+base['actions'] = [item for item in base['actions'] if item['event'] not in main_ids]
+base['actions'].extend(item for items in main_actions.values() for item in items)
+
 protagonist_overrides = json.loads((ROOT / 'work' / 'story_protagonists.json').read_text(encoding='utf-8'))
 sourced_evidence = json.loads((ROOT / 'work' / 'story_cast_evidence.json').read_text(encoding='utf-8'))
 if set(protagonist_overrides) - set(event_lookup):

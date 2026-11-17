@@ -1,0 +1,79 @@
+[
+  {
+    "event": "foam-thunder",
+    "person": "orchid",
+    "text": "사르곤에서 동료들을 구하러 나섰다가 캐터펄트와 함께 호우에이국으로 넘어갑니다. 아츠를 쓸 수 없는 상황에서 활과 밧줄벌레를 익혀 사냥을 지휘하고, 호후카와 미츠도키가 서로를 지키려 혼자 짐을 지는 모습을 돌아보게 합니다. 번개의 주인이 저주의 원흉이 아니라는 진실에 도달한 뒤 힘을 합쳐 교린을 바로잡고 동료들에게 돌아갑니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "catapult",
+    "text": "오키드와 함께 낯선 세계에 떨어져 호후카를 만납니다. 국주가 자신을 희생한다고 오해해 정화 의식을 막으려 하지만 사정을 알게 되고, 차지액스와 밧줄벌레를 배워 이쥬와 주귀 사냥에 나섭니다. 번개의 주인이 저주를 정화하는 빛을 목격해 진실의 단서를 남기고, 마지막 사냥에도 힘을 보탭니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "prts-bokuka",
+    "text": "호우에이국의 국주로 어머니를 잃은 뒤 번개의 주인을 원수로 여기며 이쥬헌터를 기다립니다. 오키드 일행과 시련을 치르고 주귀가 쏟아지자 백성을 지키지만, 장군의 부상 뒤 복수를 위해 홀로 목숨을 걸려 합니다. 동료들의 도움으로 선대의 진심과 저주의 원인을 알고, 진오우거의 힘을 빌려 교린을 정상화합니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "prts-dream-midnight",
+    "text": "호우에이국의 장군 미츠도키는 선대처럼 호후카를 잃을까 두려워 번개의 주인 사냥을 반대합니다. 주귀를 유인해 막는 작전을 이끌다 중상을 입고 번개의 주인에게 구출됩니다. 오키드의 편지를 읽고 국주를 혼자 보호하려던 태도를 돌아본 뒤 병사들과 그녀를 도우러 갑니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "prts-dream-spot",
+    "text": "대장장이 스파노스케는 낯선 두 사냥꾼을 특제 악취탄으로 구하고, 캐터펄트의 장비에 관심을 보여 사냥 장비 제작을 돕습니다. 주귀가 몰려오자 폭약과 대형 병기를 마련해 수도와 사냥단의 방어를 지원합니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "prts-foam-masamune",
+    "text": "카무라 마을 출신 동반자로 10년 전 요시츠네와 함께 호우에이국에 왔습니다. 오키드와 캐터펄트에게 무기와 밧줄벌레 사용법을 가르치고, 번개의 주인이 진오우거임을 알려 줍니다. 저주가 고향의 광룡증과 닮았다고 의심하며 마지막 사냥까지 동행합니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "prts-foam-yoshitsune",
+    "text": "마사무네와 함께 카무라 마을에서 건너온 동반자입니다. 호우에이국에 남아 사냥을 돕고, 새로 무기를 배운 오키드와 캐터펄트를 지켜봅니다. 주귀 유인 작전에 참여하고 번개의 주인과 교린을 둘러싼 마지막 사냥에도 동행합니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "prts-previous-ruler",
+    "text": "호후카의 어머니이자 선대 국주로, 10년 전 이쥬헌터 마사무네와 요시츠네와 함께 번개의 주인을 사냥하다 사라졌습니다. 죽음에 이르러 무녀의 힘을 진오우거에게 맡겼으며, 남긴 기억은 호후카가 교린의 진실에 도달하는 단서가 됩니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "midnight",
+    "text": "사르곤에서 스팟과 함께 도적의 시선을 끌며 임무를 수행합니다. 오키드와 캐터펄트가 돌아왔을 때 스팟과 포푸카를 지키며 싸우고 있었고, 두 사람의 실종은 그에게 잠깐의 일로 느껴졌습니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "spot",
+    "text": "사르곤에서 미드나이트와 적의 시선을 끌고 포푸카를 지원합니다. 동료들이 돌아왔을 때도 함께 싸우고 있었으며, 호우에이국의 대장장이 스파노스케와는 닮은 얼굴을 한 별개의 인물입니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  },
+  {
+    "event": "foam-thunder",
+    "person": "popukar",
+    "text": "사르곤 임무에서 도적 우두머리를 상대합니다. 오키드와 캐터펄트가 돌아올 때까지 다른 동료들과 함께 있었으며, 두 사람이 만난 호우에이국의 국주 호후카와는 별개의 인물입니다.",
+    "spoiler": "medium",
+    "source": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side"
+  }
+]

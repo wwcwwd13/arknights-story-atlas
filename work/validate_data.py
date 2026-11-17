@@ -103,7 +103,11 @@ assert all((item['event'], item['person']) in appearance_pairs for item in data[
 appearances_by_event = Counter(item['event'] for item in data['appearances'])
 actions_by_event = Counter(item['event'] for item in data['actions'])
 assert all(appearances_by_event[event_id] >= 1 for event_id in events)
-assert all(actions_by_event[event_id] >= 10 for event_id in events)
+grouped_events = {event_id for event_id in events if event_id.startswith('main-')} | {'foam-thunder'}
+assert all(actions_by_event[event_id] >= 10 for event_id in events if event_id not in grouped_events)
+for event_id in grouped_events:
+    persons = [item['person'] for item in data['actions'] if item['event'] == event_id]
+    assert persons and len(persons) == len(set(persons)), event_id
 assert {'wiki-botani', 'wiki-fyodor-vladimirovich', 'prts-faddey', 'prts-leonid-grashvili'} <= {
     item['person'] for item in data['appearances'] if item['event'] == 'people-us'}
 assert all(appearances_by_event[event_id] >= 9 for event_id in

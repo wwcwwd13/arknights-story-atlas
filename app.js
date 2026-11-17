@@ -190,7 +190,9 @@
     if (!event || (recordHistory && !rememberDrawer('event', eventId))) return;
     const lane = laneById.get(event.lane);
     const people = event.peopleOrder;
-    const actions = data.actions.filter(action => action.event === eventId);
+    const personRank = new Map(people.map((personId, index) => [personId, index]));
+    const actions = data.actions.filter(action => action.event === eventId)
+      .sort((left, right) => (personRank.get(left.person) ?? Infinity) - (personRank.get(right.person) ?? Infinity));
     const art = artUrl(event);
     const actionsHtml = actions.map(action => {
       const person = personById.get(action.person);

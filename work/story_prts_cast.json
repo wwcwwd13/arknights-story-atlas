@@ -59,10 +59,36 @@
     ["sami-shaman", "사미 샤먼", "萨满"]
   ],
   "foam-thunder": [
-    ["bokuka", "보우카", "宝巫迦"],
-    ["dream-midnight", "포영국 미드나이트", "月见夜"],
-    ["dream-spot", "포영국 스팟", "斑弥罗"],
-    ["previous-ruler", "전대 국주", "前代国主"]
+    [
+      "bokuka",
+      "호후카",
+      "宝巫迦"
+    ],
+    [
+      "dream-midnight",
+      "미츠도키",
+      "月见夜"
+    ],
+    [
+      "dream-spot",
+      "스파노스케",
+      "斑弥罗"
+    ],
+    [
+      "previous-ruler",
+      "전대 국주",
+      "前代国主"
+    ],
+    [
+      "foam-masamune",
+      "마사무네",
+      "Masamune"
+    ],
+    [
+      "foam-yoshitsune",
+      "요시츠네",
+      "Yoshitsune"
+    ]
   ],
   "jungle-knot": [
     ["gillian-aranda", "질리언 아란다", "吉莉安·阿兰达"],
