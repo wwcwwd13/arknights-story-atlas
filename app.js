@@ -185,6 +185,34 @@
       closeDrawer();
     }
   }
+  function readingNavigation(event, crosslinks) {
+    const previous = new Set();
+    const next = new Set();
+    for (const sequenceId of event.sequences || []) {
+      const sequence = sequenceById.get(sequenceId);
+      if (!sequence || sequence.kind === 'theme') continue;
+      const index = sequence.events.indexOf(event.id);
+      if (index < 0) continue;
+      if (index > 0) previous.add(sequence.events[index - 1]);
+      if (index + 1 < sequence.events.length) next.add(sequence.events[index + 1]);
+    }
+    for (const link of crosslinks) {
+      const target = link.from === event.id ? next : previous;
+      target.add(link.other.id);
+    }
+
+    function buttons(ids, label) {
+      return [...ids].map(id => {
+        const linked = eventById.get(id);
+        if (!linked || id === event.id) return '';
+        return `<button class="reading-link" type="button" data-open-event="${esc(id)}" data-read-story><span>${label}</span><strong>${esc(linked.title)}</strong></button>`;
+      }).join('');
+    }
+
+    const links = buttons(previous, '‹ 이전 이야기') + buttons(next, '다음 이야기 ›');
+    return links ? `<nav class="reading-navigation" aria-label="이전·다음 이야기">${links}</nav>` : '';
+  }
+
   function openEvent(eventId, recordHistory = true) {
     const event = eventById.get(eventId);
     if (!event || (recordHistory && !rememberDrawer('event', eventId))) return;
@@ -230,7 +258,7 @@
       </dl></div>
       ${people.length ? `<div class="drawer-section"><h3>확인된 등장인물 <small>${people.length}</small></h3>${peopleHtml(people, event.protagonists, event.lowImpactPeople, true)}</div>` : ''}
       ${actions.length ? `<div class="drawer-section"><h3>이야기 속 주요 행동</h3>${actionsHtml}</div>` : ''}
-      ${narrative.length ? `<details class="story-reading"><summary>이야기 읽기</summary><div class="narrative-body">${narrativeHtml}${event.narrativeSource ? `<a class="source-link" href="${esc(event.narrativeSource)}" target="_blank" rel="noopener noreferrer">게임 대사 원문 (중국어) ↗</a>` : ''}</div></details>` : ''}
+      ${narrative.length ? `<details class="story-reading"><summary>이야기 읽기</summary><div class="narrative-body">${narrativeHtml}${event.narrativeSource ? `<a class="source-link" href="${esc(event.narrativeSource)}" target="_blank" rel="noopener noreferrer">게임 대사 원문 (중국어) ↗</a>` : ''}${readingNavigation(event, crosslinks)}</div></details>` : ''}
       <div class="drawer-section"><h3>자료</h3>${event.koreanStoryUrl ? `<a class="source-link" href="${esc(event.koreanStoryUrl)}" target="_blank" rel="noopener noreferrer">줄거리 자료 (한국어) ↗</a> ` : ''}${event.koreanStoryExtraUrl ? `<a class="source-link" href="${esc(event.koreanStoryExtraUrl)}" target="_blank" rel="noopener noreferrer">4장 요약 (한국어) ↗</a> ` : ''}${event.koreanInfoUrl ? `<a class="source-link" href="${esc(event.koreanInfoUrl)}" target="_blank" rel="noopener noreferrer">사건 정보 (한국어) ↗</a> ` : ''}<a class="source-link" href="${esc(event.source)}" target="_blank" rel="noopener noreferrer">스토리 출처 ↗</a>${event.summarySource ? ` <a class="source-link" href="${esc(event.summarySource)}" target="_blank" rel="noopener noreferrer">${esc(event.summarySourceLabel || '줄거리 자료 (영어)')} ↗</a>` : ''}${event.krSource ? ` <a class="source-link" href="${esc(event.krSource)}" target="_blank" rel="noopener noreferrer">${esc(event.krSourceLabel || '한국 게임 데이터')} ↗</a>` : ''}${data.artCredits?.[event.id] ? ` <a class="source-link" href="${esc(data.artCredits[event.id])}" target="_blank" rel="noopener noreferrer">이미지 출처 ↗</a>` : ''}${event.dateStatus === 'projected' ? `<p class="empty-note">최근 공통 공개작 세 편의 서버 간 간격 중앙값 ${data.projection.offsetDays}일을 적용했습니다.</p>` : ''}</div>
     `);
   }
@@ -255,7 +283,19 @@
   });
   content.addEventListener('click', event => {
     const link = event.target.closest('[data-open-event]');
-    if (link) openEvent(link.dataset.openEvent);
+    if (!link) return;
+    openEvent(link.dataset.openEvent);
+    if (link.hasAttribute('data-read-story')) {
+      const reading = content.querySelector('.story-reading');
+      if (reading) {
+        reading.open = true;
+        const heading = reading.querySelector('summary');
+        heading.focus({ preventScroll: true });
+        heading.scrollIntoView({ block: 'start' });
+      } else {
+        drawer.scrollTop = 0;
+      }
+    }
   });
   function positionPortrait(x, y) {
     const width = 126;
