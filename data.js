@@ -246,11 +246,6 @@ window.STORY_DATA = {
       "summarySource": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20initium",
       "koreanStoryExtraUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A0#s-2",
-      "protagonists": [
-        "amiya",
-        "doctor",
-        "chen"
-      ],
       "peopleOrder": [
         "amiya",
         "doctor",
@@ -258,17 +253,23 @@ window.STORY_DATA = {
         "wiki-misha",
         "wiki-skullshatterer",
         "talulah",
-        "kaltsit",
-        "wiki-frostleaf",
-        "nearl",
-        "w",
         "wiki-ace",
+        "kaltsit",
+        "nearl",
         "crownslayer",
+        "w",
         "frostnova",
         "wiki-mephisto",
+        "wiki-frostleaf",
         "jessica",
         "wiki-meteorite",
         "hoshiguma"
+      ],
+      "protagonists": [
+        "amiya",
+        "doctor",
+        "chen",
+        "wiki-misha"
       ],
       "lowImpactPeople": [
         "hoshiguma"
@@ -339,11 +340,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Grani_and_the_Knights%27_Treasure/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B9%8A%EC%9D%80%20%EB%B0%94%EB%8B%B7%EC%86%8D%EC%9C%BC%EB%A1%9C#s-2",
-      "protagonists": [
-        "grani",
-        "skadi",
-        "big-bob"
-      ],
       "peopleOrder": [
         "grani",
         "skadi",
@@ -351,6 +347,12 @@ window.STORY_DATA = {
         "carol",
         "kaltsit",
         "mudrock"
+      ],
+      "protagonists": [
+        "grani",
+        "skadi",
+        "big-bob",
+        "carol"
       ],
       "lowImpactPeople": [
         "mudrock"
@@ -411,23 +413,22 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A0#s-3",
-      "protagonists": [
-        "chen",
-        "amiya"
-      ],
       "peopleOrder": [
         "chen",
-        "amiya",
         "hoshiguma",
-        "swire",
         "wiki-mephisto",
-        "wiki-wei-yenwu",
+        "swire",
+        "amiya",
         "wiki-blaze",
         "wiki-faust",
+        "wiki-wei-yenwu",
         "wiki-fumizuki"
       ],
+      "protagonists": [
+        "chen",
+        "hoshiguma"
+      ],
       "lowImpactPeople": [
-        "wiki-faust",
         "wiki-fumizuki"
       ],
       "sequences": [
@@ -508,41 +509,54 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-6",
-      "protagonists": [
-        "wiki-guard-npc"
-      ],
       "peopleOrder": [
         "wiki-guard-npc",
         "patriot",
         "wiki-hellagur",
-        "w",
+        "wiki-scout",
         "flamebringer",
+        "w",
+        "liskarm",
+        "jessica",
+        "wiki-franka",
         "executor",
         "wiki-vermeil",
         "ifrit",
         "magallan",
         "santalla",
+        "closure",
         "kaltsit",
+        "amiya",
+        "muelsyse",
+        "wiki-heavyrain",
+        "wiki-frostleaf",
+        "silence",
+        "warfarin",
+        "wiki-projekt-red"
+      ],
+      "protagonists": [
+        "wiki-guard-npc",
+        "patriot",
+        "wiki-hellagur",
+        "flamebringer",
+        "w",
         "liskarm",
         "jessica",
-        "amiya",
-        "wiki-scout",
-        "wiki-franka",
-        "wiki-heavyrain",
-        "wiki-frostleaf",
-        "silence",
-        "warfarin",
-        "wiki-projekt-red",
-        "muelsyse"
+        "executor",
+        "wiki-vermeil",
+        "ifrit",
+        "magallan",
+        "santalla",
+        "closure",
+        "kaltsit"
       ],
       "lowImpactPeople": [
-        "wiki-franka",
+        "muelsyse",
         "wiki-heavyrain",
         "wiki-frostleaf",
         "silence",
         "warfarin",
-        "wiki-projekt-red",
-        "muelsyse"
+        "wiki-projekt-red"
       ],
       "sequences": [
         "terra-tales"
@@ -605,14 +619,10 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Heart_of_Surging_Flame/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%A6%AC%EB%93%AC#s-2",
-      "protagonists": [
-        "ceylon",
-        "wiki-cronin"
-      ],
       "peopleOrder": [
         "ceylon",
-        "wiki-cronin",
         "wiki-schwarz",
+        "wiki-cronin",
         "wiki-provence",
         "wiki-skyfire",
         "thorns",
@@ -623,6 +633,11 @@ window.STORY_DATA = {
         "wiki-hellagur",
         "wiki-emperor",
         "wiki-destructive-dragon-demon"
+      ],
+      "protagonists": [
+        "ceylon",
+        "wiki-schwarz",
+        "wiki-cronin"
       ],
       "lowImpactPeople": [
         "amiya",
@@ -692,18 +707,15 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-2",
-      "protagonists": [
-        "bison"
-      ],
       "peopleOrder": [
         "bison",
-        "wiki-rat-king",
         "mostima",
+        "wiki-rat-king",
+        "texas",
+        "exusiai",
         "wiki-emperor",
         "wiki-capone",
         "wiki-gambino",
-        "texas",
-        "exusiai",
         "croissant",
         "wiki-butler",
         "lappland",
@@ -712,6 +724,13 @@ window.STORY_DATA = {
         "wiki-eurill-pides",
         "wiki-jaye",
         "wiki-sora"
+      ],
+      "protagonists": [
+        "bison",
+        "mostima",
+        "wiki-rat-king",
+        "texas",
+        "exusiai"
       ],
       "lowImpactPeople": [
         "lee",
@@ -783,32 +802,33 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A0#s-4",
-      "protagonists": [
-        "frostnova",
-        "amiya",
-        "chen"
-      ],
       "peopleOrder": [
         "frostnova",
         "amiya",
         "chen",
-        "wiki-mephisto",
         "wiki-faust",
+        "wiki-mephisto",
+        "wiki-greythroat",
         "crownslayer",
-        "swire",
-        "wiki-blaze",
-        "wiki-nine",
         "kaltsit",
+        "wiki-nine",
+        "wiki-blaze",
+        "swire",
         "talulah",
         "wiki-wei-yenwu",
-        "wiki-greythroat",
         "wiki-mon3tr",
         "wiki-taihe",
         "wiki-jie-zhen"
       ],
+      "protagonists": [
+        "frostnova",
+        "amiya",
+        "chen",
+        "wiki-faust",
+        "wiki-mephisto"
+      ],
       "lowImpactPeople": [
         "wiki-wei-yenwu",
-        "wiki-greythroat",
         "wiki-mon3tr",
         "wiki-taihe",
         "wiki-jie-zhen"
@@ -870,10 +890,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Ancient_Forge/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-2",
-      "protagonists": [
-        "nian",
-        "lava"
-      ],
       "peopleOrder": [
         "nian",
         "lava",
@@ -882,6 +898,11 @@ window.STORY_DATA = {
         "hoshiguma",
         "wiki-snowsant",
         "chen"
+      ],
+      "protagonists": [
+        "nian",
+        "lava",
+        "closure"
       ],
       "lowImpactPeople": [
         "chen"
@@ -960,9 +981,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Stories_of_Afternoon/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-7",
-      "protagonists": [
-        "vanilla"
-      ],
       "peopleOrder": [
         "vanilla",
         "ptilopsis",
@@ -972,11 +990,11 @@ window.STORY_DATA = {
         "orchid",
         "midnight",
         "wiki-dobermann",
+        "wiki-steward",
         "gummy",
         "wiki-ethan",
         "kaltsit",
         "hibiscus",
-        "wiki-steward",
         "popukar",
         "catapult",
         "beagle",
@@ -992,6 +1010,17 @@ window.STORY_DATA = {
         "wiki-fang",
         "cliffheart",
         "amiya"
+      ],
+      "protagonists": [
+        "vanilla",
+        "ptilopsis",
+        "wiki-matterhorn",
+        "wiki-vulcan",
+        "ceobe",
+        "orchid",
+        "wiki-dobermann",
+        "wiki-steward",
+        "gummy"
       ],
       "lowImpactPeople": [
         "warfarin",
@@ -1076,16 +1105,11 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Children_of_Ursus/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%93%A4%EB%B6%88#s-2",
-      "protagonists": [
-        "zima",
-        "rosa",
-        "gummy"
-      ],
       "peopleOrder": [
         "zima",
-        "rosa",
-        "gummy",
         "wiki-istina",
+        "gummy",
+        "rosa",
         "leto",
         "absinthe",
         "amiya",
@@ -1097,6 +1121,15 @@ window.STORY_DATA = {
         "ceobe",
         "silence",
         "wiki-dobermann"
+      ],
+      "protagonists": [
+        "zima",
+        "wiki-istina",
+        "gummy",
+        "rosa",
+        "leto",
+        "absinthe",
+        "amiya"
       ],
       "lowImpactPeople": [
         "nearl",
@@ -1165,11 +1198,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Twilight_of_Wolumonde/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B3%A0%ED%83%91%EC%9D%98%20%EA%B7%B8%EB%A6%BC%EC%9E%90#s-2",
-      "protagonists": [
-        "folinic",
-        "mudrock",
-        "suzuran"
-      ],
       "peopleOrder": [
         "folinic",
         "mudrock",
@@ -1179,6 +1207,12 @@ window.STORY_DATA = {
         "ayerscarpe",
         "wiki-click",
         "wiki-tatjana"
+      ],
+      "protagonists": [
+        "folinic",
+        "mudrock",
+        "suzuran",
+        "wiki-severin-hawthorn"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -1241,19 +1275,22 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Darknights_Memoir/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%A9%EC%A3%BC#s-2",
-      "protagonists": [
-        "w"
-      ],
       "peopleOrder": [
         "w",
-        "theresa",
         "ines",
         "hoederer",
+        "theresa",
         "theresis",
         "kaltsit",
         "talulah",
         "amiya",
         "wiki-scout"
+      ],
+      "protagonists": [
+        "w",
+        "ines",
+        "hoederer",
+        "theresa"
       ],
       "lowImpactPeople": [
         "amiya",
@@ -1310,39 +1347,39 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A0#s-5",
-      "protagonists": [
-        "doctor",
-        "amiya",
-        "patriot"
-      ],
       "peopleOrder": [
+        "patriot",
         "doctor",
         "amiya",
-        "patriot",
         "talulah",
         "chen",
-        "kaltsit",
-        "rosmontis",
-        "w",
-        "wiki-guard-npc",
         "hoshiguma",
+        "rosmontis",
+        "wiki-guard-npc",
+        "w",
+        "kaltsit",
+        "wiki-mephisto",
         "wiki-wei-yenwu",
         "nearl",
         "wiki-fumizuki",
         "wiki-scout",
         "crownslayer",
-        "wiki-mephisto",
         "theresa",
         "wiki-islam-witte",
         "wiki-edward-artorius",
         "theresis",
         "wiki-deathless-black-snake"
       ],
+      "protagonists": [
+        "patriot",
+        "doctor",
+        "amiya",
+        "talulah"
+      ],
       "lowImpactPeople": [
         "wiki-fumizuki",
         "wiki-scout",
         "crownslayer",
-        "wiki-mephisto",
         "theresa",
         "wiki-islam-witte",
         "wiki-edward-artorius",
@@ -1409,11 +1446,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/The_Great_Chief_Returns/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%A6%AC%EB%93%AC#s-3",
-      "protagonists": [
-        "gavial",
-        "tomimi",
-        "eunectes"
-      ],
       "peopleOrder": [
         "gavial",
         "tomimi",
@@ -1428,6 +1460,12 @@ window.STORY_DATA = {
         "wiki-flint",
         "wiki-utage",
         "wiki-high-priest"
+      ],
+      "protagonists": [
+        "gavial",
+        "tomimi",
+        "eunectes",
+        "ceobe"
       ],
       "lowImpactPeople": [
         "croissant",
@@ -1517,31 +1555,47 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-8",
-      "protagonists": [
-        "mudrock"
-      ],
       "peopleOrder": [
-        "mudrock",
-        "logos",
-        "phantom",
-        "wiki-mint",
         "wiki-surtr",
-        "wiki-meteorite",
+        "arene",
+        "wiki-adnachiel",
         "elysium",
         "thorns",
-        "orchid",
+        "mudrock",
+        "logos",
+        "april",
+        "wiki-ansel",
+        "phantom",
+        "wiki-mint",
         "suzuran",
-        "wiki-purestream",
         "wiki-shamare",
-        "popukar",
         "wiki-mousse",
-        "wiki-adnachiel",
+        "popukar",
+        "wiki-meteorite",
+        "orchid",
+        "wiki-purestream",
         "absinthe",
         "grani",
         "shalem"
       ],
-      "lowImpactPeople": [
+      "protagonists": [
+        "wiki-surtr",
+        "arene",
         "wiki-adnachiel",
+        "elysium",
+        "thorns",
+        "mudrock",
+        "logos",
+        "april",
+        "wiki-ansel",
+        "phantom",
+        "wiki-mint",
+        "suzuran",
+        "wiki-shamare",
+        "wiki-mousse",
+        "popukar"
+      ],
+      "lowImpactPeople": [
         "absinthe",
         "grani",
         "shalem"
@@ -1604,14 +1658,10 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Maria_Nearl/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%84%A4%EC%98%A8%20%EB%B6%88%EB%B9%9B%20%EC%95%84%EB%9E%98#s-2",
-      "protagonists": [
-        "maria-nearl",
-        "nearl"
-      ],
       "peopleOrder": [
         "maria-nearl",
-        "nearl",
         "whislash",
+        "nearl",
         "flametail",
         "fartooth",
         "platinum",
@@ -1631,6 +1681,12 @@ window.STORY_DATA = {
         "wiki-kowal",
         "wiki-vogelweide",
         "wiki-corrupted-knight"
+      ],
+      "protagonists": [
+        "maria-nearl",
+        "whislash",
+        "nearl",
+        "flametail"
       ],
       "lowImpactPeople": [
         "wiki-marcin",
@@ -1695,29 +1751,30 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A0#s-6",
-      "protagonists": [
-        "amiya",
-        "chen",
-        "talulah"
-      ],
       "peopleOrder": [
+        "talulah",
         "amiya",
         "chen",
-        "talulah",
         "wiki-alina",
+        "wiki-deathless-black-snake",
+        "frostnova",
         "rosmontis",
         "kaltsit",
-        "wiki-deathless-black-snake",
         "wiki-nine",
-        "frostnova",
         "patriot",
         "w",
         "theresa",
         "wiki-guard-npc",
         "wiki-wei-yenwu"
       ],
+      "protagonists": [
+        "talulah",
+        "amiya",
+        "chen",
+        "wiki-alina",
+        "wiki-deathless-black-snake"
+      ],
       "lowImpactPeople": [
-        "w",
         "theresa",
         "wiki-guard-npc",
         "wiki-wei-yenwu"
@@ -1779,20 +1836,26 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Mansfield_Break/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EC%9E%A1%EB%8A%94%20%EC%82%AC%EB%9E%8C#s-2",
-      "protagonists": [
-        "mountain"
-      ],
       "peopleOrder": [
         "mountain",
-        "kafka",
         "robin",
+        "kafka",
         "wiki-domma",
+        "wiki-jesselton-williams",
         "saria",
         "silence",
         "muelsyse",
-        "wiki-jesselton-williams",
         "wiki-mayer",
         "ifrit"
+      ],
+      "protagonists": [
+        "mountain",
+        "robin",
+        "kafka",
+        "wiki-domma",
+        "wiki-jesselton-williams",
+        "saria",
+        "silence"
       ],
       "lowImpactPeople": [
         "ifrit"
@@ -1876,16 +1939,13 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Beyond_Here/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-9",
-      "protagonists": [
-        "hoshiguma",
-        "wiki-chiave"
-      ],
       "peopleOrder": [
         "hoshiguma",
         "wiki-chiave",
         "wiki-aosta",
         "wiki-broca",
         "iris",
+        "beyond-hildegard",
         "chen",
         "leonhardt",
         "quintus",
@@ -1903,6 +1963,14 @@ window.STORY_DATA = {
         "rosmontis",
         "wiki-shirayuki",
         "wiki-bena"
+      ],
+      "protagonists": [
+        "hoshiguma",
+        "wiki-chiave",
+        "wiki-aosta",
+        "wiki-broca",
+        "iris",
+        "beyond-hildegard"
       ],
       "lowImpactPeople": [
         "rosmontis",
@@ -1972,21 +2040,24 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Who_is_Real/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-3",
-      "protagonists": [
-        "lava",
-        "dusk",
-        "nian",
-        "kroos"
-      ],
       "peopleOrder": [
         "lava",
         "dusk",
-        "nian",
-        "kroos",
         "saga",
+        "nian",
+        "wiki-dawn",
+        "kroos",
         "mr-nothing",
-        "ling",
-        "wiki-dawn"
+        "ling"
+      ],
+      "protagonists": [
+        "lava",
+        "dusk",
+        "saga",
+        "nian",
+        "wiki-dawn",
+        "kroos",
+        "mr-nothing"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -2052,27 +2123,28 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%BD%9C%EB%9D%BC%EB%B3%B4%EB%A0%88%EC%9D%B4%EC%85%98#s-2",
-      "protagonists": [
-        "ash"
-      ],
       "peopleOrder": [
         "ash",
         "wiki-miarow",
         "wiki-levi-klitschko",
-        "wiki-drudge-tulla",
         "wiki-picale-tulla",
-        "wiki-schwarz",
-        "liskarm",
-        "wiki-franka",
         "blitz",
         "tachanka",
         "frost-r6",
+        "wiki-franka",
+        "liskarm",
+        "wiki-schwarz",
+        "wiki-drudge-tulla",
         "doctor",
-        "iana",
         "wiki-rangers"
       ],
+      "protagonists": [
+        "ash",
+        "wiki-miarow",
+        "wiki-levi-klitschko",
+        "wiki-picale-tulla"
+      ],
       "lowImpactPeople": [
-        "iana",
         "wiki-rangers"
       ],
       "sequences": [
@@ -2140,21 +2212,25 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/A_Walk_in_the_Dust/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%A9%EC%A3%BC#s-3",
-      "protagonists": [
-        "kaltsit"
-      ],
       "peopleOrder": [
         "kaltsit",
         "wiki-passenger",
-        "wiki-old-isin",
         "wiki-lillia",
         "heidi",
+        "wiki-old-isin",
         "wiki-vanya",
         "folinic",
         "wiki-mon3tr",
         "doctor",
         "wiki-vincent",
         "wiki-islam-witte"
+      ],
+      "protagonists": [
+        "kaltsit",
+        "wiki-passenger",
+        "wiki-lillia",
+        "heidi",
+        "wiki-old-isin"
       ],
       "lowImpactPeople": [
         "wiki-vincent",
@@ -2223,27 +2299,29 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Under_Tides/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B9%8A%EC%9D%80%20%EB%B0%94%EB%8B%B7%EC%86%8D%EC%9C%BC%EB%A1%9C#s-3",
-      "protagonists": [
-        "skadi",
-        "gladiia",
-        "specter",
-        "irene"
-      ],
       "peopleOrder": [
         "skadi",
         "gladiia",
         "specter",
         "irene",
-        "quintus",
-        "first-to-talk",
         "anita",
+        "quintus",
         "dario",
+        "first-to-talk",
         "kaltsit",
         "prts-old-jose",
         "prts-bench",
         "prts-tin",
         "prts-grandmother-petra",
         "prts-wall-ash"
+      ],
+      "protagonists": [
+        "skadi",
+        "gladiia",
+        "specter",
+        "irene",
+        "anita",
+        "quintus"
       ],
       "lowImpactPeople": [
         "prts-wall-ash"
@@ -2321,15 +2399,15 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-10",
-      "protagonists": [
-        "pallas"
-      ],
       "peopleOrder": [
         "pallas",
+        "preluding-gares",
+        "preluding-ila",
         "wiki-heavyrain",
         "wiki-bena",
         "wiki-glaucus",
         "wiki-blue-poison",
+        "preluding-aria",
         "wiki-carnelian",
         "cliffheart",
         "wiki-courier",
@@ -2340,6 +2418,19 @@ window.STORY_DATA = {
         "wiki-matterhorn",
         "skadi",
         "weedy"
+      ],
+      "protagonists": [
+        "pallas",
+        "preluding-gares",
+        "preluding-ila",
+        "wiki-heavyrain",
+        "wiki-bena",
+        "wiki-glaucus",
+        "wiki-blue-poison",
+        "preluding-aria",
+        "wiki-carnelian",
+        "cliffheart",
+        "wiki-courier"
       ],
       "lowImpactPeople": [
         "elysium",
@@ -2405,19 +2496,14 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%A6%AC%EB%93%AC#s-4",
-      "protagonists": [
-        "chen",
-        "lin",
-        "tequila",
-        "wiki-pancho-salas"
-      ],
       "peopleOrder": [
         "chen",
         "lin",
-        "tequila",
         "wiki-pancho-salas",
-        "la-pluma",
+        "tequila",
         "wiki-candela-sanchez",
+        "la-pluma",
+        "dossoles-sideroca",
         "hoshiguma",
         "swire",
         "wiki-mizuki",
@@ -2425,6 +2511,14 @@ window.STORY_DATA = {
         "eyjafjalla",
         "wiki-wei-yenwu",
         "wiki-rat-king"
+      ],
+      "protagonists": [
+        "chen",
+        "lin",
+        "wiki-pancho-salas",
+        "tequila",
+        "wiki-candela-sanchez",
+        "la-pluma"
       ],
       "lowImpactPeople": [
         "wiki-fumizuki",
@@ -2501,22 +2595,27 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%A9%EC%A3%BC#s-4",
-      "protagonists": [
-        "doctor"
-      ],
       "peopleOrder": [
         "doctor",
         "amiya",
-        "theresa",
         "kaltsit",
+        "theresa",
         "wiki-scout",
+        "vigilo-marco",
         "wiki-prts",
+        "vigilo-cannot",
         "wiki-priestess",
         "ascalon",
         "hoederer",
         "w",
         "eyjafjalla",
         "wiki-blaze"
+      ],
+      "protagonists": [
+        "doctor",
+        "amiya",
+        "kaltsit",
+        "theresa"
       ],
       "lowImpactPeople": [
         "w",
@@ -2573,26 +2672,30 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A1#s-2",
-      "protagonists": [
-        "horn",
-        "bagpipe"
-      ],
       "peopleOrder": [
         "horn",
         "bagpipe",
         "wiki-outcast",
-        "reed",
         "wiki-hamilton",
         "saileach",
+        "reed",
         "wiki-mandragora",
+        "hillock-saoirse",
+        "wiki-nine",
         "kaltsit",
-        "harmonie",
-        "wiki-nine"
+        "harmonie"
+      ],
+      "protagonists": [
+        "horn",
+        "bagpipe",
+        "wiki-outcast",
+        "wiki-hamilton",
+        "saileach",
+        "reed"
       ],
       "lowImpactPeople": [
         "kaltsit",
-        "harmonie",
-        "wiki-nine"
+        "harmonie"
       ],
       "sequences": [
         "main"
@@ -2670,23 +2773,30 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_(event)/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%84%A4%EC%98%A8%20%EB%B6%88%EB%B9%9B%20%EC%95%84%EB%9E%98#s-3",
-      "protagonists": [
-        "flametail",
-        "ashlock"
-      ],
       "peopleOrder": [
         "flametail",
         "ashlock",
         "wild-mane",
         "fartooth",
+        "platinum",
         "nearl",
         "mlynar",
-        "platinum",
         "wiki-malkiewicz",
+        "pinus-justice-knight",
         "whislash",
         "wiki-szewczyk",
         "shining",
         "nightingale"
+      ],
+      "protagonists": [
+        "flametail",
+        "ashlock",
+        "wild-mane",
+        "fartooth",
+        "platinum",
+        "nearl",
+        "mlynar",
+        "wiki-malkiewicz"
       ],
       "lowImpactPeople": [
         "wiki-szewczyk",
@@ -2759,20 +2869,16 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Near_Light/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%84%A4%EC%98%A8%20%EB%B6%88%EB%B9%9B%20%EC%95%84%EB%9E%98#s-4",
-      "protagonists": [
-        "nearl",
-        "flametail"
-      ],
       "peopleOrder": [
         "nearl",
         "flametail",
-        "platinum",
         "wiki-dikaiopolis",
         "viviana",
-        "mlynar",
-        "wiki-tola",
+        "platinum",
         "maria-nearl",
+        "mlynar",
         "wiki-malkiewicz",
+        "wiki-tola",
         "wiki-roy",
         "shining",
         "wiki-szewczyk",
@@ -2792,6 +2898,13 @@ window.STORY_DATA = {
         "wiki-marcin",
         "wiki-ioleta-russell",
         "wiki-mob"
+      ],
+      "protagonists": [
+        "nearl",
+        "flametail",
+        "wiki-dikaiopolis",
+        "viviana",
+        "platinum"
       ],
       "lowImpactPeople": [
         "wiki-mckee",
@@ -2876,28 +2989,31 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%84%A4%EC%82%B0%EA%B3%BC%20%EC%9D%80%EC%B2%A0#s-2",
-      "protagonists": [
-        "silverash",
-        "pramanix",
-        "gnosis"
-      ],
       "peopleOrder": [
         "silverash",
         "pramanix",
+        "doctor",
         "gnosis",
         "wiki-ratatos-browntail",
-        "doctor",
         "cliffheart",
         "kjera",
+        "wiki-arctosz-paleroche",
         "degenbrecher",
+        "break-ice-sharp",
         "wiki-great-elder",
         "wiki-aurora",
-        "wiki-arctosz-paleroche",
         "wiki-monch",
         "wiki-gulo",
         "wiki-valais",
         "wiki-yucatan",
         "wiki-sciurus-browntail"
+      ],
+      "protagonists": [
+        "silverash",
+        "pramanix",
+        "doctor",
+        "gnosis",
+        "wiki-ratatos-browntail"
       ],
       "lowImpactPeople": [
         "wiki-monch",
@@ -2970,28 +3086,34 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-4",
-      "protagonists": [
-        "ling",
-        "nian"
-      ],
       "peopleOrder": [
+        "lee",
         "ling",
+        "invitation-second-brother",
+        "wiki-liang-xun",
+        "wiki-zuo-le",
+        "wiki-du-yaoye",
         "nian",
         "kroos",
         "mr-nothing",
-        "lee",
-        "wiki-zuo-le",
-        "wiki-du-yaoye",
+        "dusk",
         "wiki-shen-lou",
         "wiki-grand-tutor",
         "wiki-taihe",
-        "wiki-liang-xun",
-        "dusk",
         "leizi",
         "lava",
         "wiki-ning-ciqiu",
         "wiki-zheng-qingyue",
         "wiki-shang-zhong"
+      ],
+      "protagonists": [
+        "lee",
+        "ling",
+        "invitation-second-brother",
+        "wiki-liang-xun",
+        "wiki-zuo-le",
+        "wiki-du-yaoye",
+        "nian"
       ],
       "lowImpactPeople": [
         "lava",
@@ -3069,23 +3191,25 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-11",
-      "protagonists": [
-        "goldenglow",
-        "wiki-haze",
-        "quercus",
-        "grani",
-        "wiki-skyfire"
-      ],
       "peopleOrder": [
         "goldenglow",
         "wiki-haze",
         "quercus",
+        "spark-viscount-bisme",
         "grani",
         "wiki-skyfire",
         "wiki-red-npc",
+        "spark-minnie",
         "wiki-nine",
         "wiki-angst",
         "wiki-kazemaru"
+      ],
+      "protagonists": [
+        "goldenglow",
+        "wiki-haze",
+        "quercus",
+        "spark-viscount-bisme",
+        "grani"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -3151,23 +3275,26 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B7%B8%20%EC%B6%95%EB%B3%B5%EB%B0%9B%EC%9D%80#s-2",
-      "protagonists": [
-        "enforcer",
-        "andoain"
-      ],
       "peopleOrder": [
         "enforcer",
-        "andoain",
         "wiki-cecelia",
+        "andoain",
         "fiammetta",
-        "mostima",
         "wiki-yvangelista-xi",
-        "wiki-oren-argiolas",
+        "mostima",
         "wiki-lemuen",
+        "wiki-oren-argiolas",
         "executor",
         "exusiai",
         "wiki-patia",
         "wiki-velliv"
+      ],
+      "protagonists": [
+        "enforcer",
+        "wiki-cecelia",
+        "andoain",
+        "fiammetta",
+        "wiki-yvangelista-xi"
       ],
       "lowImpactPeople": [
         "exusiai",
@@ -3233,49 +3360,49 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A1#s-3",
-      "protagonists": [
-        "siege",
-        "amiya"
-      ],
       "peopleOrder": [
         "siege",
         "amiya",
-        "wiki-manfred",
+        "heidi",
+        "stainless",
+        "wiki-clovisia",
         "horn",
-        "theresis",
+        "wiki-manfred",
+        "wiki-damazti-cluster",
+        "doctor",
+        "wiki-mandragora",
         "rockrock",
         "kaltsit",
-        "heidi",
-        "wiki-mandragora",
-        "wiki-dagda",
-        "wiki-clovisia",
-        "stainless",
-        "w",
-        "hoederer",
+        "theresis",
         "theresa",
+        "wiki-allerdale",
+        "w",
+        "wiki-dagda",
+        "logos",
+        "wiki-nine",
+        "hoederer",
         "wiki-indra",
-        "doctor",
         "morgan",
         "ines",
-        "logos",
         "jessica",
         "wiki-qui-sartustaj",
-        "wiki-damazti-cluster",
         "ascalon",
-        "wiki-allerdale",
-        "wiki-deathless-black-snake",
-        "wiki-nine"
+        "wiki-deathless-black-snake"
+      ],
+      "protagonists": [
+        "siege",
+        "amiya",
+        "heidi",
+        "stainless",
+        "wiki-clovisia",
+        "horn"
       ],
       "lowImpactPeople": [
         "ines",
-        "logos",
         "jessica",
         "wiki-qui-sartustaj",
-        "wiki-damazti-cluster",
         "ascalon",
-        "wiki-allerdale",
-        "wiki-deathless-black-snake",
-        "wiki-nine"
+        "wiki-deathless-black-snake"
       ],
       "sequences": [
         "main"
@@ -3340,10 +3467,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Stultifera_Navis/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B9%8A%EC%9D%80%20%EB%B0%94%EB%8B%B7%EC%86%8D%EC%9C%BC%EB%A1%9C#s-4",
-      "protagonists": [
-        "irene",
-        "lumen"
-      ],
       "peopleOrder": [
         "irene",
         "lumen",
@@ -3351,17 +3474,26 @@ window.STORY_DATA = {
         "specter",
         "ulpianus",
         "gladiia",
+        "skadi",
+        "wiki-the-endspeaker",
         "wiki-amaia",
         "wiki-alfonso",
         "wiki-garcia",
         "wiki-thiago",
         "wiki-carmen",
         "kaltsit",
-        "wiki-the-endspeaker",
-        "skadi",
         "elysium",
         "nian",
         "wiki-the-last-knight"
+      ],
+      "protagonists": [
+        "irene",
+        "lumen",
+        "dario",
+        "specter",
+        "ulpianus",
+        "gladiia",
+        "skadi"
       ],
       "lowImpactPeople": [
         "elysium",
@@ -3431,22 +3563,23 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Lingering_Echoes/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B3%A0%ED%83%91%EC%9D%98%20%EA%B7%B8%EB%A6%BC%EC%9E%90#s-3",
-      "protagonists": [
-        "ebenholz",
-        "wiki-kreide",
-        "czerny",
-        "hibiscus"
-      ],
       "peopleOrder": [
         "ebenholz",
         "wiki-kreide",
+        "wiki-gertrude-strollo",
         "czerny",
         "hibiscus",
-        "wiki-gertrude-strollo",
+        "wiki-witch-king",
         "wiki-biegler",
         "virtuosa",
-        "wiki-lachmann",
-        "wiki-witch-king"
+        "wiki-lachmann"
+      ],
+      "protagonists": [
+        "ebenholz",
+        "wiki-kreide",
+        "wiki-gertrude-strollo",
+        "czerny",
+        "hibiscus"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -3513,23 +3646,25 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Ideal_City/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%A6%AC%EB%93%AC#s-5",
-      "protagonists": [
-        "gavial",
-        "minimalist",
-        "pozemka"
-      ],
       "peopleOrder": [
-        "gavial",
         "minimalist",
+        "gavial",
         "pozemka",
-        "wiki-inam",
         "wiki-catch-lightrace",
-        "eunectes",
+        "wiki-inam",
         "elysium",
+        "eunectes",
         "wiki-croque-diamondface",
         "wiki-edge-eartheart",
         "wiki-deculture-silvermint",
         "wiki-high-priest"
+      ],
+      "protagonists": [
+        "minimalist",
+        "gavial",
+        "pozemka",
+        "wiki-catch-lightrace",
+        "wiki-inam"
       ],
       "lowImpactPeople": [
         "wiki-deculture-silvermint",
@@ -3609,9 +3744,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-12",
-      "protagonists": [
-        "wiki-sciurus-browntail"
-      ],
       "peopleOrder": [
         "wiki-sciurus-browntail",
         "wiki-yucatan",
@@ -3619,11 +3751,12 @@ window.STORY_DATA = {
         "wiki-roy",
         "wiki-monique",
         "wiki-dikaiopolis",
-        "wiki-jesselton-williams",
-        "wiki-eurill-pides",
-        "wiki-herman-doykos",
         "wiki-zuo-le",
         "leizi",
+        "wiki-eurill-pides",
+        "wiki-herman-doykos",
+        "wiki-jesselton-williams",
+        "wiki-gambino",
         "bison",
         "wiki-rat-king",
         "silverash",
@@ -3631,6 +3764,19 @@ window.STORY_DATA = {
         "wiki-liang-xun",
         "lee",
         "ifrit"
+      ],
+      "protagonists": [
+        "wiki-sciurus-browntail",
+        "wiki-yucatan",
+        "lappland",
+        "wiki-roy",
+        "wiki-monique",
+        "wiki-dikaiopolis",
+        "wiki-zuo-le",
+        "leizi",
+        "wiki-eurill-pides",
+        "wiki-herman-doykos",
+        "wiki-jesselton-williams"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -3689,26 +3835,29 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EC%9E%A1%EB%8A%94%20%EC%82%AC%EB%9E%8C#s-3",
-      "protagonists": [
-        "dorothy",
-        "silence",
-        "saria",
-        "ptilopsis",
-        "astgenne"
-      ],
       "peopleOrder": [
         "dorothy",
         "silence",
+        "wiki-ferdinand-clooney",
+        "wiki-sonny-romano",
         "saria",
         "ptilopsis",
         "astgenne",
-        "wiki-sonny-romano",
-        "wiki-ferdinand-clooney",
         "muelsyse",
+        "wiki-greyy",
         "kristen",
         "ifrit",
         "wiki-ho-olheyak",
         "wiki-mary-banner"
+      ],
+      "protagonists": [
+        "dorothy",
+        "silence",
+        "wiki-ferdinand-clooney",
+        "wiki-sonny-romano",
+        "saria",
+        "ptilopsis",
+        "astgenne"
       ],
       "lowImpactPeople": [
         "ifrit",
@@ -3792,18 +3941,21 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%84%A4%EC%98%A8%20%EB%B6%88%EB%B9%9B%20%EC%95%84%EB%9E%98#s-5",
-      "protagonists": [
-        "mlynar",
-        "wiki-toland-cash"
-      ],
       "peopleOrder": [
         "mlynar",
-        "wiki-toland-cash",
         "wiki-czcibor",
+        "wiki-toland-cash",
         "flametail",
         "ashlock",
+        "wanderer-xeno",
         "wiki-szewczyk",
         "nearl"
+      ],
+      "protagonists": [
+        "mlynar",
+        "wiki-czcibor",
+        "wiki-toland-cash",
+        "flametail"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -3875,13 +4027,12 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%BD%9C%EB%9D%BC%EB%B3%B4%EB%A0%88%EC%9D%B4%EC%85%98#s-3",
-      "protagonists": [
-        "luo-xiaohei"
-      ],
       "peopleOrder": [
         "luo-xiaohei",
         "wiki-luo-xiaobai",
         "wiki-ah-gen",
+        "long-time-xiaoyuan",
+        "long-time-cloudbeast-67",
         "suzuran",
         "lee",
         "wiki-emperor",
@@ -3890,6 +4041,13 @@ window.STORY_DATA = {
         "wiki-sora",
         "wiki-biu",
         "croissant"
+      ],
+      "protagonists": [
+        "luo-xiaohei",
+        "wiki-luo-xiaobai",
+        "wiki-ah-gen",
+        "long-time-xiaoyuan",
+        "long-time-cloudbeast-67"
       ],
       "lowImpactPeople": [
         "croissant"
@@ -3952,23 +4110,20 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A1#s-4",
-      "protagonists": [
-        "siege",
-        "amiya"
-      ],
       "peopleOrder": [
         "siege",
-        "amiya",
         "wiki-allerdale",
-        "doctor",
-        "wiki-catherine",
-        "logos",
+        "amiya",
         "stainless",
-        "horn",
+        "wiki-catherine",
+        "doctor",
         "kaltsit",
         "theresis",
-        "bagpipe",
+        "wiki-manfred",
+        "logos",
         "shining",
+        "horn",
+        "bagpipe",
         "wiki-charles-lynch",
         "harmonie",
         "wiki-edward-artorius",
@@ -3976,13 +4131,17 @@ window.STORY_DATA = {
         "leto",
         "wiki-duq-arael",
         "wiki-ailshie",
-        "wiki-manfred",
         "wiki-duke-of-wellington"
       ],
+      "protagonists": [
+        "siege",
+        "wiki-allerdale",
+        "amiya",
+        "stainless",
+        "wiki-catherine"
+      ],
       "lowImpactPeople": [
-        "theresis",
         "bagpipe",
-        "shining",
         "wiki-charles-lynch",
         "harmonie",
         "wiki-edward-artorius",
@@ -3990,7 +4149,6 @@ window.STORY_DATA = {
         "leto",
         "wiki-duq-arael",
         "wiki-ailshie",
-        "wiki-manfred",
         "wiki-duke-of-wellington"
       ],
       "sequences": [
@@ -4064,23 +4222,20 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%9D%BC%EA%B3%B1%20%EC%96%B8%EB%8D%95%EC%9D%98%20%EC%83%88%EC%8B%B9#s-2",
-      "protagonists": [
-        "texas"
-      ],
       "peopleOrder": [
         "texas",
         "vigil",
         "penance",
         "lappland",
-        "wiki-giovanna-rossati",
         "wiki-bernardo-bellone",
-        "wiki-rubio",
         "wiki-zaaro",
-        "wiki-sora",
+        "wiki-giovanna-rossati",
+        "wiki-rubio",
         "demetri",
+        "wiki-signora-sicilia",
+        "wiki-sora",
         "crownslayer",
         "exusiai",
-        "wiki-signora-sicilia",
         "wiki-emperor",
         "wiki-capone",
         "wiki-gambino",
@@ -4089,6 +4244,15 @@ window.STORY_DATA = {
         "wiki-agenir",
         "wiki-alberto-saluzzo",
         "wiki-danbrown-leopardi"
+      ],
+      "protagonists": [
+        "texas",
+        "vigil",
+        "penance",
+        "lappland",
+        "wiki-bernardo-bellone",
+        "wiki-zaaro",
+        "wiki-giovanna-rossati"
       ],
       "lowImpactPeople": [
         "wiki-emperor",
@@ -4164,22 +4328,26 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/What_the_Firelight_Casts/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%8B%A4%EC%8B%9C%20%EB%B6%88%EB%B6%99%EC%9D%80%20%EC%9E%A5%EC%9E%91#s-2",
-      "protagonists": [
-        "reed"
-      ],
       "peopleOrder": [
         "reed",
         "wiki-fionn",
         "wiki-selmon",
+        "eblana",
         "bagpipe",
         "harmonie",
-        "eblana",
+        "firelight-fisher",
         "chen",
         "wiki-the-brigadier",
         "wiki-duke-of-wellington",
         "wiki-duke-of-caster",
         "wiki-earl-of-warwick",
         "wiki-moran"
+      ],
+      "protagonists": [
+        "reed",
+        "wiki-fionn",
+        "wiki-selmon",
+        "eblana"
       ],
       "lowImpactPeople": [
         "wiki-duke-of-wellington",
@@ -4251,19 +4419,15 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-5",
-      "protagonists": [
-        "chongyue",
-        "wiki-zuo-le"
-      ],
       "peopleOrder": [
         "chongyue",
-        "wiki-zuo-le",
         "wiki-jieyun",
-        "qiubai",
+        "wiki-zuo-le",
         "wiki-meng-tieyi",
-        "wiki-huai-tianpei",
         "wiki-ya",
+        "wiki-huai-tianpei",
         "wiki-zuo-xuanliao",
+        "qiubai",
         "wiki-wei-yenwu",
         "lee",
         "wiki-taihe",
@@ -4275,6 +4439,14 @@ window.STORY_DATA = {
         "wiki-grand-tutor",
         "wiki-liang-xun",
         "wiki-rat-king"
+      ],
+      "protagonists": [
+        "chongyue",
+        "wiki-jieyun",
+        "wiki-zuo-le",
+        "wiki-meng-tieyi",
+        "wiki-ya",
+        "wiki-huai-tianpei"
       ],
       "lowImpactPeople": [
         "chen",
@@ -4352,12 +4524,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/A_Death_in_Chunfen/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-6",
-      "protagonists": [
-        "qiubai",
-        "wiki-fang-xiaoshi",
-        "wiki-zhou-shun",
-        "wind-chimes"
-      ],
       "peopleOrder": [
         "qiubai",
         "wiki-fang-xiaoshi",
@@ -4365,12 +4531,18 @@ window.STORY_DATA = {
         "wind-chimes",
         "saga",
         "wiki-mulberry",
-        "dusk",
-        "wiki-click"
+        "wiki-click",
+        "dusk"
+      ],
+      "protagonists": [
+        "qiubai",
+        "wiki-fang-xiaoshi",
+        "wiki-zhou-shun",
+        "wind-chimes",
+        "saga"
       ],
       "lowImpactPeople": [
-        "dusk",
-        "wiki-click"
+        "dusk"
       ],
       "sequences": [
         "through-ages"
@@ -4434,12 +4606,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%BD%9C%EB%9D%BC%EB%B3%B4%EB%A0%88%EC%9D%B4%EC%85%98#s-4",
-      "protagonists": [
-        "yato",
-        "noir-corne",
-        "wiki-yoshitaka-kashiwau",
-        "wiki-rathalos"
-      ],
       "peopleOrder": [
         "yato",
         "noir-corne",
@@ -4448,6 +4614,12 @@ window.STORY_DATA = {
         "wiki-mirai-takii",
         "wiki-akira-kashiwau",
         "wiki-ataru-takii"
+      ],
+      "protagonists": [
+        "yato",
+        "noir-corne",
+        "wiki-yoshitaka-kashiwau",
+        "wiki-rathalos"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -4509,30 +4681,29 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A1#s-5",
-      "protagonists": [
-        "siege",
-        "amiya"
-      ],
       "peopleOrder": [
         "siege",
-        "amiya",
-        "wiki-delphine",
-        "wiki-damazti-cluster",
-        "wiki-baird",
         "ines",
-        "doctor",
-        "morgan",
+        "amiya",
+        "wiki-damazti-cluster",
+        "wiki-delphine",
         "wiki-golding",
+        "wiki-baird",
+        "eblana",
+        "doctor",
         "wiki-clovisia",
+        "morgan",
         "logos",
+        "ascalon",
+        "wiki-duke-of-caster",
+        "wiki-nine",
+        "talulah",
         "wiki-cador",
         "paprika",
         "theresis",
-        "wiki-duke-of-caster",
         "leto",
         "kaltsit",
         "wiki-duke-of-wellington",
-        "ascalon",
         "wiki-molly",
         "wiki-duke-of-windermere",
         "wiki-the-brigadier",
@@ -4540,19 +4711,22 @@ window.STORY_DATA = {
         "theresa",
         "wiki-red-npc",
         "wiki-percival",
-        "wiki-nine",
-        "talulah",
         "wiki-nezzsalem"
+      ],
+      "protagonists": [
+        "siege",
+        "ines",
+        "amiya",
+        "wiki-damazti-cluster",
+        "wiki-delphine"
       ],
       "lowImpactPeople": [
         "wiki-cador",
         "paprika",
         "theresis",
-        "wiki-duke-of-caster",
         "leto",
         "kaltsit",
         "wiki-duke-of-wellington",
-        "ascalon",
         "wiki-molly",
         "wiki-duke-of-windermere",
         "wiki-the-brigadier",
@@ -4560,8 +4734,6 @@ window.STORY_DATA = {
         "theresa",
         "wiki-red-npc",
         "wiki-percival",
-        "wiki-nine",
-        "talulah",
         "wiki-nezzsalem"
       ],
       "sequences": [
@@ -4650,27 +4822,24 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EC%9E%A1%EB%8A%94%20%EC%82%AC%EB%9E%8C#s-4",
-      "protagonists": [
-        "kristen",
-        "saria",
-        "silence"
-      ],
       "peopleOrder": [
         "kristen",
         "saria",
         "silence",
         "muelsyse",
+        "lone-trail-trevor-friston",
+        "doctor",
         "kaltsit",
         "rosmontis",
         "ifrit",
         "wiki-ho-olheyak",
         "wiki-ahrens-parvis",
+        "wiki-loken-williams",
         "wiki-blake",
         "dorothy",
         "wiki-ferdinand-clooney",
         "wiki-tin-man",
         "amiya",
-        "wiki-loken-williams",
         "wiki-mon3tr",
         "wiki-priestess",
         "wiki-justin-fitzroy-jr",
@@ -4679,9 +4848,17 @@ window.STORY_DATA = {
         "wiki-lillia",
         "wiki-mark-max"
       ],
+      "protagonists": [
+        "kristen",
+        "saria",
+        "silence",
+        "muelsyse",
+        "lone-trail-trevor-friston",
+        "doctor",
+        "kaltsit"
+      ],
       "lowImpactPeople": [
         "amiya",
-        "wiki-loken-williams",
         "wiki-mon3tr",
         "wiki-priestess",
         "wiki-justin-fitzroy-jr",
@@ -4760,25 +4937,28 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Hortus_de_Escapismo/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B7%B8%20%EC%B6%95%EB%B3%B5%EB%B0%9B%EC%9D%80#s-3",
-      "protagonists": [
-        "executor",
-        "virtuosa"
-      ],
       "peopleOrder": [
         "executor",
         "virtuosa",
         "wiki-stefano-torregrossa",
         "wiki-gerald",
-        "spuria",
-        "insider",
         "wiki-clement-dubois",
         "wiki-fortuna",
         "wiki-aulus",
+        "spuria",
+        "insider",
         "wiki-oren-argiolas",
-        "wiki-lemuen",
         "wiki-hyman",
+        "wiki-lemuen",
         "wiki-raimund",
         "wiki-yvangelista-xi"
+      ],
+      "protagonists": [
+        "executor",
+        "virtuosa",
+        "wiki-stefano-torregrossa",
+        "wiki-gerald",
+        "wiki-clement-dubois"
       ],
       "lowImpactPeople": [
         "wiki-raimund",
@@ -4854,24 +5034,29 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/So_Long%2C_Adele/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%A6%AC%EB%93%AC#s-6",
-      "protagonists": [
-        "eyjafjalla"
-      ],
       "peopleOrder": [
         "eyjafjalla",
         "wiki-dolly",
         "prts-adele-keller",
         "swire",
         "bison",
+        "so-long-adele-ennis",
         "ceylon",
-        "wiki-costa",
         "wiki-kahn",
+        "wiki-costa",
         "wiki-herman-doykos",
         "wiki-byrd",
         "wiki-snowsant",
         "wiki-eurill-pides",
         "wiki-harley",
         "wiki-pelipper-brown"
+      ],
+      "protagonists": [
+        "eyjafjalla",
+        "wiki-dolly",
+        "prts-adele-keller",
+        "swire",
+        "bison"
       ],
       "lowImpactPeople": [
         "wiki-byrd",
@@ -4956,20 +5141,22 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/The_Black_Forest_Wills_A_Dream/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-13",
-      "protagonists": [
-        "magallan",
-        "typhon",
-        "santalla"
-      ],
       "peopleOrder": [
         "magallan",
         "typhon",
         "santalla",
         "wiki-gitano",
+        "to-the-grinning-arges",
         "wiki-black-mark",
         "valarqvin",
         "wiki-amma",
         "wiki-emperor"
+      ],
+      "protagonists": [
+        "magallan",
+        "typhon",
+        "santalla",
+        "wiki-gitano"
       ],
       "lowImpactPeople": [
         "wiki-emperor"
@@ -5046,21 +5233,26 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-3",
-      "protagonists": [
-        "jessica"
-      ],
       "peopleOrder": [
         "jessica",
         "prts-leone-davistown",
         "wiki-woodrow-bianchi",
         "wiki-cliff",
-        "liskarm",
         "coldshot",
         "wiki-sylvia",
+        "liskarm",
+        "wiki-benny",
         "almond",
         "wiki-franka",
-        "wiki-benny",
         "wiki-miles"
+      ],
+      "protagonists": [
+        "jessica",
+        "prts-leone-davistown",
+        "wiki-woodrow-bianchi",
+        "wiki-cliff",
+        "coldshot",
+        "wiki-sylvia"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -5122,63 +5314,63 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A1#s-6",
-      "protagonists": [
-        "amiya",
-        "doctor",
-        "siege"
-      ],
       "peopleOrder": [
         "amiya",
-        "doctor",
         "siege",
-        "logos",
-        "wiki-confessarii",
-        "wiki-delphine",
-        "wiki-salus",
-        "wiki-ermengarde",
-        "talulah",
-        "wiki-nowell",
-        "w",
-        "paprika",
-        "shining",
-        "ines",
-        "hoederer",
-        "kaltsit",
-        "wiki-nine",
-        "nightingale",
-        "wiki-ulsulah",
-        "rockrock",
+        "doctor",
         "wiki-duq-arael",
+        "logos",
+        "wiki-salus",
+        "wiki-nine",
+        "wiki-guard-npc",
+        "hoederer",
+        "wiki-delphine",
+        "wiki-duke-of-windermere",
+        "wiki-damazti-cluster",
+        "shining",
+        "nightingale",
+        "talulah",
+        "ascalon",
+        "kaltsit",
+        "w",
+        "ines",
+        "wiki-ermengarde",
+        "rockrock",
+        "wiki-confessarii",
+        "paprika",
+        "wiki-nowell",
+        "wiki-ulsulah",
         "wiki-qui-sartustaj",
         "wiki-lifebone",
-        "wiki-duke-of-windermere",
-        "ascalon",
-        "wiki-guard-npc",
         "wiki-duke-of-caster",
         "wiki-duke-of-gododdin",
         "bagpipe",
         "wiki-duke-of-wellington",
-        "wiki-damazti-cluster",
         "wiki-shearer",
         "wiki-red-npc",
         "wiki-percival",
         "leto",
         "wiki-allerdale"
       ],
+      "protagonists": [
+        "amiya",
+        "siege",
+        "doctor",
+        "wiki-duq-arael",
+        "logos",
+        "wiki-salus",
+        "wiki-nine",
+        "wiki-guard-npc",
+        "hoederer"
+      ],
       "lowImpactPeople": [
         "wiki-ulsulah",
-        "rockrock",
-        "wiki-duq-arael",
         "wiki-qui-sartustaj",
         "wiki-lifebone",
-        "wiki-duke-of-windermere",
-        "ascalon",
-        "wiki-guard-npc",
         "wiki-duke-of-caster",
         "wiki-duke-of-gododdin",
         "bagpipe",
         "wiki-duke-of-wellington",
-        "wiki-damazti-cluster",
         "wiki-shearer",
         "wiki-red-npc",
         "wiki-percival",
@@ -5264,27 +5456,30 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B3%A0%ED%83%91%EC%9D%98%20%EA%B7%B8%EB%A6%BC%EC%9E%90#s-4",
-      "protagonists": [
-        "ebenholz",
-        "virtuosa",
-        "viviana"
-      ],
       "peopleOrder": [
-        "ebenholz",
         "virtuosa",
         "viviana",
-        "executor",
-        "wiki-cora-lowenstein",
+        "ebenholz",
         "wiki-twin-empresses",
-        "wiki-loris-bordin",
-        "wiki-gerhard-hoffmann",
+        "wiki-cora-lowenstein",
+        "executor",
         "wiki-witch-king",
+        "wiki-gerhard-hoffmann",
+        "wiki-loris-bordin",
         "wiki-fremont",
         "lessing",
         "wiki-yulia-schuler",
         "wiki-brandt-reiner",
         "wiki-ermengarde",
         "wiki-yvangelista-xi"
+      ],
+      "protagonists": [
+        "virtuosa",
+        "viviana",
+        "ebenholz",
+        "wiki-twin-empresses",
+        "wiki-cora-lowenstein",
+        "executor"
       ],
       "lowImpactPeople": [
         "wiki-yulia-schuler",
@@ -5363,25 +5558,29 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%84%A4%EC%82%B0%EA%B3%BC%20%EC%9D%80%EC%B2%A0#s-3",
-      "protagonists": [
-        "silverash",
-        "degenbrecher"
-      ],
       "peopleOrder": [
         "silverash",
         "degenbrecher",
-        "leto",
         "harold",
-        "wiki-bellingham",
+        "leto",
         "wiki-arctosz-paleroche",
+        "wiki-bellingham",
         "pramanix",
         "gnosis",
+        "doctor",
         "kjera",
         "wiki-tatyana-larina",
         "wiki-ratatos-browntail",
         "wiki-courier",
         "wiki-sciurus-browntail",
         "wiki-mob"
+      ],
+      "protagonists": [
+        "silverash",
+        "degenbrecher",
+        "harold",
+        "leto",
+        "wiki-arctosz-paleroche"
       ],
       "lowImpactPeople": [
         "wiki-courier",
@@ -5457,22 +5656,24 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-14",
-      "protagonists": [
-        "ray",
-        "wiki-alanna",
-        "wiki-warmy"
-      ],
       "peopleOrder": [
         "ray",
-        "wiki-alanna",
         "wiki-warmy",
+        "wiki-alanna",
         "amiya",
-        "wiki-savage",
         "wiki-jerry",
+        "grinning-valley-kaira",
         "theresa",
+        "wiki-savage",
         "doctor",
         "kaltsit",
         "wiki-asbestos"
+      ],
+      "protagonists": [
+        "ray",
+        "wiki-warmy",
+        "wiki-alanna",
+        "amiya"
       ],
       "lowImpactPeople": [
         "kaltsit",
@@ -5555,19 +5756,17 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-7",
-      "protagonists": [
-        "shu",
-        "wiki-zuo-le"
-      ],
       "peopleOrder": [
         "shu",
         "wiki-zuo-le",
         "wiki-ji",
+        "here-a-people-huasheng",
+        "here-a-people-xiaoman",
+        "wiki-wang",
         "nian",
         "dusk",
-        "wiki-grain-buds",
-        "wiki-wang",
         "wiki-old-tianshi",
+        "wiki-grain-buds",
         "leizi",
         "wiki-wanqing",
         "wiki-grand-tutor",
@@ -5576,6 +5775,14 @@ window.STORY_DATA = {
         "wiki-wan-qincheng",
         "wiki-ning-ciqiu",
         "wiki-grand-commandant"
+      ],
+      "protagonists": [
+        "shu",
+        "wiki-zuo-le",
+        "wiki-ji",
+        "here-a-people-huasheng",
+        "here-a-people-xiaoman",
+        "wiki-wang"
       ],
       "lowImpactPeople": [
         "leizi",
@@ -5657,19 +5864,16 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Operation_Lucent_Arrowhead/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%BD%9C%EB%9D%BC%EB%B3%B4%EB%A0%88%EC%9D%B4%EC%85%98#s-5",
-      "protagonists": [
-        "ela"
-      ],
       "peopleOrder": [
         "ela",
         "wiki-reynell-kowalski",
         "wiki-mateo",
         "wiki-tecno",
         "wiki-diaz-gonzalez",
-        "tequila",
         "iana",
         "doc-r6",
         "fuze",
+        "tequila",
         "wiki-miosz",
         "ash",
         "catapult",
@@ -5677,6 +5881,16 @@ window.STORY_DATA = {
         "tachanka",
         "blitz",
         "frost-r6"
+      ],
+      "protagonists": [
+        "ela",
+        "wiki-reynell-kowalski",
+        "wiki-mateo",
+        "wiki-tecno",
+        "wiki-diaz-gonzalez",
+        "iana",
+        "doc-r6",
+        "fuze"
       ],
       "lowImpactPeople": [
         "tachanka",
@@ -5765,10 +5979,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Babel_(event)/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%A9%EC%A3%BC#s-5",
-      "protagonists": [
-        "theresa",
-        "doctor"
-      ],
       "peopleOrder": [
         "theresa",
         "doctor",
@@ -5785,6 +5995,13 @@ window.STORY_DATA = {
         "wiki-qui-sartustaj",
         "wiki-julie",
         "ines"
+      ],
+      "protagonists": [
+        "theresa",
+        "doctor",
+        "kaltsit",
+        "theresis",
+        "amiya"
       ],
       "lowImpactPeople": [
         "wiki-mon3tr",
@@ -5855,55 +6072,54 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A1#s-7",
-      "protagonists": [
-        "amiya",
-        "theresa",
-        "doctor"
-      ],
       "peopleOrder": [
         "amiya",
         "theresa",
         "doctor",
-        "siege",
-        "hoederer",
         "w",
+        "siege",
         "logos",
         "kaltsit",
-        "wiki-lifebone",
-        "wiki-manfred",
+        "theresis",
         "ascalon",
+        "wiki-manfred",
+        "shining",
+        "nightingale",
+        "wiki-confessarii",
+        "hoederer",
+        "wiki-lifebone",
+        "horn",
+        "bagpipe",
+        "wiki-duke-of-wellington",
+        "wiki-priestess",
         "ines",
         "wiki-nezzsalem",
-        "shining",
-        "theresis",
-        "nightingale",
-        "bagpipe",
-        "wiki-confessarii",
         "wiki-ulsulah",
         "wiki-bellingham",
-        "wiki-duke-of-wellington",
-        "horn",
         "wiki-nadine",
         "wiki-qalid-coa",
         "wiki-salus",
-        "wiki-priestess",
         "wiki-damazti-cluster",
         "wiki-duke-of-gododdin",
         "talulah",
         "wiki-allerdale",
         "wiki-nine"
       ],
+      "protagonists": [
+        "amiya",
+        "theresa",
+        "doctor",
+        "w",
+        "siege",
+        "logos",
+        "kaltsit"
+      ],
       "lowImpactPeople": [
-        "bagpipe",
-        "wiki-confessarii",
         "wiki-ulsulah",
         "wiki-bellingham",
-        "wiki-duke-of-wellington",
-        "horn",
         "wiki-nadine",
         "wiki-qalid-coa",
         "wiki-salus",
-        "wiki-priestess",
         "wiki-damazti-cluster",
         "wiki-duke-of-gododdin",
         "talulah",
@@ -5992,29 +6208,34 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Path_of_Life/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B9%8A%EC%9D%80%20%EB%B0%94%EB%8B%B7%EC%86%8D%EC%9C%BC%EB%A1%9C#s-5",
-      "protagonists": [
-        "ulpianus"
-      ],
       "peopleOrder": [
         "ulpianus",
-        "wiki-blandus",
         "wiki-clementia",
+        "wiki-blandus",
+        "wiki-martus",
         "irene",
         "lumen",
         "gladiia",
         "specter",
-        "wiki-martus",
+        "path-of-life-tullia",
+        "wiki-cassia",
         "skadi",
         "kaltsit",
-        "wiki-cassia",
         "wiki-avitus",
         "wiki-ishar-mla",
         "wiki-lucilla",
         "wiki-carmen",
         "wiki-the-last-knight"
       ],
+      "protagonists": [
+        "ulpianus",
+        "wiki-clementia",
+        "wiki-blandus",
+        "wiki-martus",
+        "irene",
+        "lumen"
+      ],
       "lowImpactPeople": [
-        "wiki-cassia",
         "wiki-avitus",
         "wiki-ishar-mla",
         "wiki-lucilla",
@@ -6098,23 +6319,25 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Adventure_That_Cannot_Wait_for_the_Sun/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%A6%AC%EB%93%AC#s-7",
-      "protagonists": [
-        "pepe",
-        "wiki-zubayr",
-        "narantuya"
-      ],
       "peopleOrder": [
         "pepe",
         "wiki-zubayr",
         "narantuya",
         "wiki-aspasia",
         "papyrus",
+        "sunset-razbar",
         "sand-reckoner",
         "titi",
         "wiki-lugalszargus",
         "wiki-ajazi",
         "wiki-ajani",
         "wiki-mio"
+      ],
+      "protagonists": [
+        "pepe",
+        "wiki-zubayr",
+        "narantuya",
+        "wiki-aspasia"
       ],
       "lowImpactPeople": [
         "wiki-ajazi",
@@ -6190,20 +6413,24 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-15",
-      "protagonists": [
-        "nymph"
-      ],
       "peopleOrder": [
         "nymph",
+        "forge-rekindled-paul",
         "wiki-tin-man",
         "wiki-ermengarde",
-        "w",
         "wiki-fremont",
         "mudrock",
+        "w",
         "wiki-qalaisa",
         "wiki-crownie-mantel",
         "mostima",
         "fiammetta"
+      ],
+      "protagonists": [
+        "nymph",
+        "forge-rekindled-paul",
+        "wiki-tin-man",
+        "wiki-ermengarde"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -6288,11 +6515,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Delicious_On_Terra/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%BD%9C%EB%9D%BC%EB%B3%B4%EB%A0%88%EC%9D%B4%EC%85%98#s-6",
-      "protagonists": [
-        "laios",
-        "wiki-marcille",
-        "wiki-senshi"
-      ],
       "peopleOrder": [
         "laios",
         "wiki-marcille",
@@ -6300,14 +6522,22 @@ window.STORY_DATA = {
         "wiki-chilchuck",
         "ceobe",
         "big-bob",
-        "amiya",
+        "to-the-grinning-arges",
         "dusk",
+        "amiya",
         "kaltsit",
         "wiki-dawn",
         "mountain",
         "eunectes",
         "silverash",
         "anita"
+      ],
+      "protagonists": [
+        "laios",
+        "wiki-marcille",
+        "wiki-senshi",
+        "wiki-chilchuck",
+        "ceobe"
       ],
       "lowImpactPeople": [
         "mountain",
@@ -6385,16 +6615,14 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Ending_a_Grand_Overture/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%A9%EC%A3%BC#s-6",
-      "protagonists": [
-        "siege"
-      ],
       "peopleOrder": [
         "siege",
         "wiki-diane-weber",
         "wiki-allerdale",
-        "wiki-charles-lynch",
         "morgan",
+        "wiki-charles-lynch",
         "wiki-clovisia",
+        "west-sunset-elicio",
         "wiki-nezzsalem",
         "wiki-duke-of-caster",
         "doctor",
@@ -6402,6 +6630,12 @@ window.STORY_DATA = {
         "wiki-duke-of-gododdin",
         "wiki-earl-of-march",
         "wiki-shearer"
+      ],
+      "protagonists": [
+        "siege",
+        "wiki-diane-weber",
+        "wiki-allerdale",
+        "morgan"
       ],
       "lowImpactPeople": [
         "wiki-alistair-ii",
@@ -6487,36 +6721,41 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%9D%BC%EA%B3%B1%20%EC%96%B8%EB%8D%95%EC%9D%98%20%EC%83%88%EC%8B%B9#s-3",
-      "protagonists": [
-        "penance",
-        "vigil"
-      ],
       "peopleOrder": [
         "penance",
-        "vigil",
         "wiki-eirene-lavazza",
         "crownslayer",
+        "vigil",
         "wiki-projekt-red",
         "lappland",
         "wiki-vulpisfoglia",
         "wiki-umberto-de-montano",
         "wiki-antonio-venezia",
+        "wiki-sommer",
+        "texas",
         "wiki-lunacub",
         "wiki-caesar",
-        "wiki-sommer",
         "demetri",
         "suzuran",
         "wiki-alberto-saluzzo",
-        "texas",
         "wiki-lappland-the-decadenza",
         "wiki-vargo",
         "wiki-capone",
         "wiki-gambino",
         "wiki-fabrizio-venezia"
       ],
+      "protagonists": [
+        "penance",
+        "wiki-eirene-lavazza",
+        "crownslayer",
+        "vigil",
+        "wiki-projekt-red",
+        "lappland",
+        "wiki-vulpisfoglia",
+        "wiki-umberto-de-montano"
+      ],
       "lowImpactPeople": [
         "wiki-alberto-saluzzo",
-        "texas",
         "wiki-lappland-the-decadenza",
         "wiki-vargo",
         "wiki-capone",
@@ -6604,19 +6843,22 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Exodus_from_the_Pale_Sea/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B9%8A%EC%9D%80%20%EB%B0%94%EB%8B%B7%EC%86%8D%EC%9C%BC%EB%A1%9C#s-6",
-      "protagonists": [
-        "thorns",
-        "wiki-juana"
-      ],
       "peopleOrder": [
         "thorns",
-        "wiki-juana",
         "rose-salt",
-        "wiki-javier",
+        "wiki-juana",
         "wiki-anastasio",
+        "wiki-javier",
         "elysium",
         "weedy",
         "wiki-silver"
+      ],
+      "protagonists": [
+        "thorns",
+        "rose-salt",
+        "wiki-juana",
+        "wiki-anastasio",
+        "wiki-javier"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -6696,15 +6938,11 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Such_is_the_Joy_of_Our_Reunion/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-8",
-      "protagonists": [
-        "wiki-blaze",
-        "leizi"
-      ],
       "peopleOrder": [
         "wiki-blaze",
         "leizi",
-        "wiki-xingzhu",
         "wiki-gu-quan",
+        "wiki-xingzhu",
         "yu",
         "wiki-ning-shu",
         "wiki-yu-cheng",
@@ -6721,6 +6959,13 @@ window.STORY_DATA = {
         "wiki-wei-yenwu",
         "wiki-jiang",
         "wiki-ji"
+      ],
+      "protagonists": [
+        "wiki-blaze",
+        "leizi",
+        "wiki-gu-quan",
+        "wiki-xingzhu",
+        "yu"
       ],
       "lowImpactPeople": [
         "wiki-jie-zhen",
@@ -6802,21 +7047,19 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%B0%A9%EC%A3%BC#s-7",
-      "protagonists": [
-        "reed",
-        "amiya"
-      ],
       "peopleOrder": [
-        "reed",
         "amiya",
+        "reed",
         "wiki-nezzsalem",
         "w",
+        "tomorrow-big-wrench",
+        "wiki-nowell",
+        "wiki-nine",
         "ines",
         "hoederer",
-        "wiki-nowell",
+        "logos",
         "wiki-clovisia",
         "wiki-entelechia",
-        "wiki-nine",
         "talulah",
         "chen",
         "eblana",
@@ -6835,6 +7078,15 @@ window.STORY_DATA = {
         "wiki-lifebone",
         "ascalon",
         "bagpipe"
+      ],
+      "protagonists": [
+        "amiya",
+        "reed",
+        "wiki-nezzsalem",
+        "w",
+        "tomorrow-big-wrench",
+        "wiki-nowell",
+        "wiki-nine"
       ],
       "lowImpactPeople": [
         "horn",
@@ -6919,19 +7171,24 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%8B%A4%EC%8B%9C%20%EB%B6%88%EB%B6%99%EC%9D%80%20%EC%9E%A5%EC%9E%91#s-3",
-      "protagonists": [
-        "reed",
-        "eblana"
-      ],
       "peopleOrder": [
         "reed",
         "eblana",
         "wiki-nemos",
         "wiki-culann",
-        "brigid",
         "wiki-labhreathach",
+        "brigid",
+        "elegy-theo",
         "wiki-the-brigadier",
         "wiki-moran"
+      ],
+      "protagonists": [
+        "reed",
+        "eblana",
+        "wiki-nemos",
+        "wiki-culann",
+        "wiki-labhreathach",
+        "brigid"
       ],
       "lowImpactPeople": [
         "wiki-moran"
@@ -6991,18 +7248,14 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A2#s-2",
-      "protagonists": [
-        "doctor",
-        "amiya"
-      ],
       "peopleOrder": [
         "doctor",
-        "amiya",
         "kaltsit",
+        "amiya",
         "wiki-priestess",
-        "theresis",
         "wiki-hierda",
         "wiki-prts",
+        "theresis",
         "ascalon",
         "warfarin",
         "rosmontis",
@@ -7012,6 +7265,13 @@ window.STORY_DATA = {
         "wiki-friston-3",
         "wiki-blaze",
         "wiki-oren-argiolas"
+      ],
+      "protagonists": [
+        "doctor",
+        "kaltsit",
+        "amiya",
+        "wiki-priestess",
+        "wiki-hierda"
       ],
       "lowImpactPeople": [
         "wiki-manfred",
@@ -7100,10 +7360,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/The_Masses%27_Travels/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EA%B7%B8%20%EC%B6%95%EB%B3%B5%EB%B0%9B%EC%9D%80#s-4",
-      "protagonists": [
-        "exusiai",
-        "executor"
-      ],
       "peopleOrder": [
         "exusiai",
         "executor",
@@ -7114,13 +7370,13 @@ window.STORY_DATA = {
         "wiki-priestess",
         "doctor",
         "mostima",
+        "wiki-paganini",
+        "wiki-vannini",
         "wiki-yvangelista-xi",
         "fiammetta",
         "wiki-patia",
         "enforcer",
         "wiki-velliv",
-        "wiki-paganini",
-        "wiki-vannini",
         "wiki-amos",
         "wiki-aurela",
         "wiki-mon3tr",
@@ -7128,6 +7384,15 @@ window.STORY_DATA = {
         "wiki-agenir",
         "wiki-woodrow-bianchi",
         "wiki-cecelia"
+      ],
+      "protagonists": [
+        "exusiai",
+        "executor",
+        "virtuosa",
+        "andoain",
+        "wiki-lemuen",
+        "wiki-the-first-saint",
+        "wiki-priestess"
       ],
       "lowImpactPeople": [
         "wiki-cliff",
@@ -7205,26 +7470,27 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Act_or_Die/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-4",
-      "protagonists": [
-        "phantom"
-      ],
       "peopleOrder": [
         "phantom",
         "wiki-moira",
-        "tragodia",
+        "wiki-tragodia-npc",
         "tippi",
         "wiki-greta-stone",
+        "wiki-steven-quay",
         "miss-christine",
         "shalem",
-        "wiki-tragodia-npc",
         "wiki-playwright",
         "wiki-abner",
-        "wiki-melanie-rutherford",
-        "wiki-steven-quay"
+        "wiki-melanie-rutherford"
+      ],
+      "protagonists": [
+        "phantom",
+        "wiki-moira",
+        "wiki-tragodia-npc",
+        "tippi"
       ],
       "lowImpactPeople": [
-        "wiki-melanie-rutherford",
-        "wiki-steven-quay"
+        "wiki-melanie-rutherford"
       ],
       "sequences": [
         "terra-tales"
@@ -7303,18 +7569,15 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Fantasy_in_the_Mirage/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-9",
-      "protagonists": [
-        "leizi",
-        "wiki-mo-yi"
-      ],
       "peopleOrder": [
         "leizi",
+        "mirror-yun-qingping",
         "wiki-mo-yi",
         "wiki-huai-tianpei",
         "wiki-mr-pu",
+        "wiki-liang",
         "wiki-lan-ke",
         "wiki-bai-jin",
-        "wiki-liang",
         "wiki-zuo-le",
         "wiki-waai-fu",
         "lee",
@@ -7323,6 +7586,13 @@ window.STORY_DATA = {
         "wiki-zuo-xuanliao",
         "wiki-old-tianshi",
         "wiki-yi"
+      ],
+      "protagonists": [
+        "leizi",
+        "mirror-yun-qingping",
+        "wiki-mo-yi",
+        "wiki-huai-tianpei",
+        "wiki-mr-pu"
       ],
       "lowImpactPeople": [
         "wiki-zuo-xuanliao",
@@ -7406,11 +7676,6 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Ato/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%97%AC%EB%A6%84%EC%9D%98%20%EB%A6%AC%EB%93%AC#s-8",
-      "protagonists": [
-        "hoshiguma",
-        "haruka",
-        "wiki-kouhei-mifune"
-      ],
       "peopleOrder": [
         "hoshiguma",
         "haruka",
@@ -7424,6 +7689,13 @@ window.STORY_DATA = {
         "chen",
         "wiki-fumizuki",
         "wiki-suzuran-s-father"
+      ],
+      "protagonists": [
+        "hoshiguma",
+        "haruka",
+        "wiki-kouhei-mifune",
+        "wiki-tessai",
+        "wiki-tetsuya-sorimachi"
       ],
       "lowImpactPeople": [
         "chen",
@@ -7505,27 +7777,29 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/SS-8/Story",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%BD%9C%EB%9D%BC%EB%B3%B4%EB%A0%88%EC%9D%B4%EC%85%98#s-7",
-      "protagonists": [
-        "sakiko",
-        "prts-morphis",
-        "mutsumi",
-        "uika"
-      ],
       "peopleOrder": [
         "sakiko",
         "prts-morphis",
         "mutsumi",
         "uika",
         "nyamu",
-        "prts-ann-dream",
         "umiri",
+        "prts-ann-dream",
         "iris",
+        "prts-sachiko-mother",
         "wiki-bena",
         "prts-wolf-dream",
-        "prts-sachiko-mother",
         "prts-francis-dream",
         "prts-mutsumi-mother",
         "prts-sachiko-father"
+      ],
+      "protagonists": [
+        "sakiko",
+        "prts-morphis",
+        "mutsumi",
+        "uika",
+        "nyamu",
+        "umiri"
       ],
       "lowImpactPeople": [
         "prts-francis-dream",
@@ -7593,24 +7867,30 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%A9%94%EC%9D%B8%20Act%20%E2%85%A2#s-3",
-      "protagonists": [
-        "doctor",
-        "amiya"
-      ],
       "peopleOrder": [
         "doctor",
         "amiya",
-        "wiki-rankin",
         "raidian",
-        "wiki-elisabeth",
-        "crownslayer",
-        "wiki-nikto",
-        "wiki-eloysius-gorchekova",
+        "wiki-rankin",
         "wiki-vetochki",
+        "main16-ksenia",
         "wiki-mon3tr",
         "wiki-yurodstvo",
+        "crownslayer",
+        "wiki-eloysius-gorchekova",
+        "wiki-elisabeth",
+        "wiki-nikto",
         "wiki-islam-witte",
         "wiki-hierda"
+      ],
+      "protagonists": [
+        "doctor",
+        "amiya",
+        "raidian",
+        "wiki-rankin",
+        "wiki-vetochki",
+        "main16-ksenia",
+        "wiki-mon3tr"
       ],
       "lowImpactPeople": [
         "wiki-islam-witte",
@@ -7694,22 +7974,17 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%84%A4%EC%82%B0%EA%B3%BC%20%EC%9D%80%EC%B2%A0#s-4",
-      "protagonists": [
-        "pramanix",
-        "silverash",
-        "gnosis",
-        "kjera"
-      ],
       "peopleOrder": [
         "pramanix",
         "silverash",
-        "gnosis",
         "kjera",
+        "gnosis",
         "wiki-adso-browntail",
-        "wiki-ratatos-browntail",
         "wiki-carolin",
+        "wiki-ratatos-browntail",
         "wiki-duke-of-caster",
         "degenbrecher",
+        "silence",
         "muelsyse",
         "wiki-great-elder",
         "harold",
@@ -7717,6 +7992,14 @@ window.STORY_DATA = {
         "wiki-gulo",
         "wiki-sciurus-browntail",
         "wiki-monch"
+      ],
+      "protagonists": [
+        "pramanix",
+        "silverash",
+        "kjera",
+        "gnosis",
+        "wiki-adso-browntail",
+        "wiki-carolin"
       ],
       "lowImpactPeople": [
         "wiki-arctosz-paleroche",
@@ -7794,17 +8077,15 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EC%9E%A1%EB%8A%94%20%EC%82%AC%EB%9E%8C#s-5",
-      "protagonists": [
-        "nasti"
-      ],
       "peopleOrder": [
         "nasti",
         "wiki-vla",
         "wiki-mercia-selene",
         "prts-gordon-tannon",
+        "prts-fernan",
+        "wiki-gustave",
         "wiki-tin-man",
         "wiki-sky-jagger",
-        "wiki-gustave",
         "wiki-andenate-maryam",
         "saria",
         "magallan",
@@ -7812,14 +8093,19 @@ window.STORY_DATA = {
         "wiki-aspen",
         "wiki-conrad-jackson",
         "wiki-jara-wilson",
-        "wiki-054",
+        "wiki-054"
+      ],
+      "protagonists": [
+        "nasti",
+        "wiki-vla",
+        "wiki-mercia-selene",
+        "prts-gordon-tannon",
         "prts-fernan"
       ],
       "lowImpactPeople": [
         "wiki-conrad-jackson",
         "wiki-jara-wilson",
-        "wiki-054",
-        "prts-fernan"
+        "wiki-054"
       ],
       "sequences": [
         "future"
@@ -7891,23 +8177,25 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Medjehtiqedti_Bound/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%ED%85%8C%EB%9D%BC%20%EA%B8%B0%EB%8B%B4#s-5",
-      "protagonists": [
-        "titi",
-        "pallas"
-      ],
       "peopleOrder": [
         "titi",
-        "pallas",
         "wiki-varkaris",
+        "pallas",
+        "wiki-lydia",
         "wiki-behnui-enshi-pah",
         "perfumer-distilled",
-        "wiki-lydia",
         "wiki-kassandra",
         "wiki-lykeion",
         "wiki-hekademos",
         "wiki-mio",
         "wiki-periandros",
         "wiki-cynisca"
+      ],
+      "protagonists": [
+        "titi",
+        "wiki-varkaris",
+        "pallas",
+        "wiki-lydia"
       ],
       "lowImpactPeople": [
         "wiki-periandros",
@@ -7989,28 +8277,23 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%98%81%EC%9B%90%ED%95%9C%20%EC%98%A4%EB%8A%98#s-10",
-      "protagonists": [
-        "wiki-wang",
-        "chen",
-        "wiki-zuo-le"
-      ],
       "peopleOrder": [
         "wiki-wang",
         "chen",
         "wiki-zuo-le",
+        "wiki-ya",
         "wiki-wei-yenwu",
         "wiki-mo-yi",
+        "chongyue",
+        "wiki-old-tianshi",
         "wiki-chun",
         "wiki-jun",
-        "chongyue",
         "ling",
         "nian",
         "dusk",
-        "wiki-ya",
         "wiki-ch-en-chao-ch-ien",
         "yu",
         "wiki-grand-commandant",
-        "wiki-old-tianshi",
         "wiki-grand-tutor",
         "wiki-zuo-xuanliao",
         "wiki-jiang",
@@ -8023,8 +8306,16 @@ window.STORY_DATA = {
         "wiki-yi",
         "wiki-hou"
       ],
+      "protagonists": [
+        "wiki-wang",
+        "chen",
+        "wiki-zuo-le",
+        "wiki-ya",
+        "wiki-wei-yenwu",
+        "wiki-mo-yi",
+        "chongyue"
+      ],
       "lowImpactPeople": [
-        "wiki-old-tianshi",
         "wiki-grand-tutor",
         "wiki-zuo-xuanliao",
         "wiki-jiang",
@@ -8109,25 +8400,31 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Crossing/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%9D%BC%EA%B3%B1%20%EC%96%B8%EB%8D%95%EC%9D%98%20%EC%83%88%EC%8B%B9#s-4",
-      "protagonists": [
-        "demetri",
-        "vigil"
-      ],
       "peopleOrder": [
         "demetri",
         "vigil",
         "ripresa",
-        "prts-elio-fabbri",
-        "wiki-tosia",
-        "prts-betty-crossroads",
-        "prts-nicolo-crossroads",
-        "wiki-lupina",
-        "wiki-eirene-lavazza",
         "prts-paula-meminger",
+        "prts-elio-fabbri",
+        "prts-betty-crossroads",
+        "wiki-tosia",
+        "prts-nicolo-crossroads",
+        "wiki-eirene-lavazza",
+        "penance",
+        "wiki-lupina",
         "wiki-gambino",
         "prts-shale-radoslav",
         "prts-tommaso-esposito",
         "prts-sam-crossroads"
+      ],
+      "protagonists": [
+        "demetri",
+        "vigil",
+        "ripresa",
+        "prts-paula-meminger",
+        "prts-elio-fabbri",
+        "prts-betty-crossroads",
+        "wiki-tosia"
       ],
       "lowImpactPeople": [
         "prts-sam-crossroads"
@@ -8250,33 +8547,28 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis",
       "koreanStoryUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%8A%A4%ED%86%A0%EB%A6%AC/%EB%93%A4%EB%B6%88#s-3",
-      "protagonists": [
-        "zima",
-        "absinthe",
-        "leto"
-      ],
       "peopleOrder": [
         "zima",
         "absinthe",
+        "wiki-fyodor-vladimirovich",
         "leto",
         "rosa",
-        "crownslayer",
-        "wiki-fyodor-vladimirovich",
         "antosha",
+        "crownslayer",
         "wiki-istina",
         "wiki-botani",
         "pavlovich",
         "wiki-gromov",
         "gummy",
         "wiki-olga-trepleva",
-        "wiki-ukusik",
-        "matvey",
-        "prts-leonid-grashvili",
         "prts-faddey",
+        "wiki-ukusik",
+        "prts-leonid-grashvili",
+        "dur-nar",
+        "matvey",
         "prts-danila-treplev",
         "prts-varvara",
         "prts-nika",
-        "dur-nar",
         "wiki-vasily-gorchikov",
         "wiki-islam-witte",
         "wiki-nikto",
@@ -8291,6 +8583,17 @@ window.STORY_DATA = {
         "prts-shergo",
         "prts-rania",
         "prts-pavalo"
+      ],
+      "protagonists": [
+        "zima",
+        "absinthe",
+        "wiki-fyodor-vladimirovich",
+        "leto",
+        "rosa",
+        "antosha",
+        "crownslayer",
+        "wiki-istina",
+        "wiki-botani"
       ],
       "lowImpactPeople": [
         "wiki-vasily-gorchikov",
@@ -8366,29 +8669,23 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Episode_17",
       "koreanStoryUrl": "https://namu.moe/w/%EC%9E%84%EA%B3%84%20%EC%83%81%EC%A0%84%EC%9D%B4",
-      "protagonists": [
-        "doctor",
-        "amiya",
-        "prts-silka",
-        "prts-anatoly-buterinin"
-      ],
       "peopleOrder": [
         "doctor",
-        "amiya",
         "prts-silka",
         "prts-anatoly-buterinin",
-        "prts-yakov-petrov",
+        "amiya",
         "prts-svetlana-buterina",
-        "prts-evgeny-kuznetsov",
+        "talulah",
         "prts-elita-valuyeva",
         "prts-klim",
-        "talulah",
+        "prts-evgeny-kuznetsov",
+        "prts-yakov-petrov",
         "closure",
-        "wiki-mon3tr",
         "raidian",
+        "wiki-hierda",
         "wiki-eloysius-gorchekova",
         "wiki-fyodor-vladimirovich",
-        "wiki-hierda",
+        "wiki-mon3tr",
         "kaltsit",
         "prts-andrian",
         "prts-ivan-turin",
@@ -8399,6 +8696,15 @@ window.STORY_DATA = {
         "prts-sami-shaman",
         "crownslayer",
         "gummy"
+      ],
+      "protagonists": [
+        "doctor",
+        "prts-silka",
+        "prts-anatoly-buterinin",
+        "amiya",
+        "prts-svetlana-buterina",
+        "talulah",
+        "prts-elita-valuyeva"
       ],
       "lowImpactPeople": [
         "prts-andrian",
@@ -8532,31 +8838,28 @@ window.STORY_DATA = {
       "narrativeSource": "https://github.com/ArknightsAssets/ArknightsGamedata/tree/main/kr/gamedata/story/activities/act50side",
       "summarySource": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream",
       "koreanInfoUrl": "https://namu.moe/w/%ED%8F%AC%EC%98%81%EC%9D%84%20%EB%9A%AB%EB%8A%94%20%EC%B0%BD%EB%A2%B0",
-      "protagonists": [
-        "orchid",
-        "prts-bokuka",
-        "prts-dream-midnight",
-        "catapult"
-      ],
       "peopleOrder": [
         "orchid",
+        "catapult",
         "prts-bokuka",
         "prts-dream-midnight",
-        "catapult",
-        "midnight",
+        "foam-zinogre",
         "prts-dream-spot",
+        "prts-foam-masamune",
+        "prts-foam-yoshitsune",
         "prts-previous-ruler",
+        "midnight",
         "spot",
-        "popukar",
-        "prts-foam-masamune",
-        "prts-foam-yoshitsune"
+        "popukar"
       ],
-      "lowImpactPeople": [
-        "spot",
-        "popukar",
-        "prts-foam-masamune",
-        "prts-foam-yoshitsune"
+      "protagonists": [
+        "orchid",
+        "catapult",
+        "prts-bokuka",
+        "prts-dream-midnight",
+        "foam-zinogre"
       ],
+      "lowImpactPeople": [],
       "sequences": [
         "monster-hunter"
       ]
@@ -8643,13 +8946,10 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Bol%C3%ADvar_Diagnosed",
       "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-4.2",
-      "protagonists": [
-        "beagle"
-      ],
       "peopleOrder": [
         "beagle",
-        "prts-lorentz-jungle",
         "prts-pedro-jungle",
+        "prts-lorentz-jungle",
         "wiki-dobermann",
         "prts-hanke",
         "prts-gillian-aranda",
@@ -8658,13 +8958,20 @@ window.STORY_DATA = {
         "prts-piura",
         "prts-alva",
         "tequila",
-        "prts-martin",
         "kroos",
+        "prts-martin",
         "aphrissa",
         "prts-carmelo",
         "prts-jose",
         "prts-sierra",
         "prts-manuel"
+      ],
+      "protagonists": [
+        "beagle",
+        "prts-pedro-jungle",
+        "prts-lorentz-jungle",
+        "wiki-dobermann",
+        "prts-hanke"
       ],
       "lowImpactPeople": [
         "prts-carmelo",
@@ -8750,18 +9057,13 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Till_the_Lands_Become_an_Orange",
       "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.10",
-      "protagonists": [
-        "angelina",
-        "future-thumpy",
-        "future-jacinta"
-      ],
       "peopleOrder": [
-        "angelina",
         "future-thumpy",
-        "future-jacinta",
+        "angelina",
         "timeslot",
-        "prts-martina-messenger",
+        "future-jacinta",
         "prts-inala",
+        "prts-martina-messenger",
         "prts-urulu",
         "prts-ashton-lime",
         "prts-mia-campbell",
@@ -8771,6 +9073,13 @@ window.STORY_DATA = {
         "prts-sunny-valley-contact",
         "prts-barton-lime",
         "prts-mcneil"
+      ],
+      "protagonists": [
+        "future-thumpy",
+        "angelina",
+        "timeslot",
+        "future-jacinta",
+        "prts-inala"
       ],
       "lowImpactPeople": [
         "prts-hunter-lime",
@@ -8848,27 +9157,29 @@ window.STORY_DATA = {
       ],
       "summarySource": "https://arknights.wiki.gg/wiki/Sur_le_lac_lune_vivante",
       "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.12",
-      "protagonists": [
-        "makoto-yuki",
-        "prts-giada",
-        "prts-giulio"
-      ],
       "peopleOrder": [
         "makoto-yuki",
         "prts-giada",
         "prts-giulio",
-        "doctor",
+        "prts-vivetta",
+        "prts-felice-godou",
         "amiya",
+        "doctor",
         "prts-fuuka-yamagishi",
         "future-yukari",
         "future-aegis",
         "prts-ken-amada",
         "future-koromaru",
-        "prts-felice-godou",
-        "prts-vivetta",
         "prts-kara",
         "prts-kyra",
         "prts-perla"
+      ],
+      "protagonists": [
+        "makoto-yuki",
+        "prts-giada",
+        "prts-giulio",
+        "prts-vivetta",
+        "prts-felice-godou"
       ],
       "lowImpactPeople": [
         "prts-kara",
@@ -8949,22 +9260,16 @@ window.STORY_DATA = {
       "summarySource": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%98%A8%E6%97%A5%E6%B5%B7",
       "summarySourceLabel": "게임 대사 (중국어)",
       "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.13",
-      "protagonists": [
-        "wiki-clementia",
-        "homebound",
-        "de-toledo",
-        "wiki-aulus"
-      ],
       "peopleOrder": [
-        "wiki-clementia",
         "homebound",
+        "wiki-clementia",
         "de-toledo",
         "wiki-aulus",
-        "prts-valerio",
-        "prts-fedaira",
-        "wiki-carmen",
-        "prts-drusa",
         "prts-aquila",
+        "prts-valerio",
+        "wiki-carmen",
+        "prts-fedaira",
+        "prts-drusa",
         "prts-gaius-iberia",
         "prts-tacita",
         "irene",
@@ -8973,6 +9278,14 @@ window.STORY_DATA = {
         "prts-rufina",
         "prts-salvador-iberia",
         "prts-ignacio-iberia"
+      ],
+      "protagonists": [
+        "homebound",
+        "wiki-clementia",
+        "de-toledo",
+        "wiki-aulus",
+        "prts-aquila",
+        "prts-valerio"
       ],
       "lowImpactPeople": [],
       "sequences": [
@@ -9050,28 +9363,22 @@ window.STORY_DATA = {
       "summarySource": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4#%E6%97%B6%E9%97%B4%E5%95%8A%EF%BC%8C%E5%90%91%E5%89%8D%EF%BC%81",
       "summarySourceLabel": "게임 대사 (중국어)",
       "koreanInfoUrl": "https://namu.moe/w/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/%EC%9D%B4%EB%B2%A4%ED%8A%B8/2026%EB%85%84#s-3.14",
-      "protagonists": [
-        "talulah",
-        "prts-milana-turin",
-        "wiki-fyodor-vladimirovich",
-        "wiki-nine"
-      ],
       "peopleOrder": [
         "talulah",
         "prts-milana-turin",
         "wiki-fyodor-vladimirovich",
         "wiki-nine",
-        "antosha",
-        "wiki-eloysius-gorchekova",
-        "prts-svetlana-buterina",
-        "wiki-olga-trepleva",
         "wiki-red-npc",
+        "antosha",
+        "prts-grand-duchess-elizaveta",
+        "prts-svetlana-buterina",
+        "wiki-eloysius-gorchekova",
+        "wiki-olga-trepleva",
         "prts-silka",
         "wiki-hellagur",
         "prts-lavrent-karnov",
         "wiki-islam-witte",
         "prts-katerina-zolotareva",
-        "prts-grand-duchess-elizaveta",
         "prts-kader",
         "amiya",
         "prts-taras",
@@ -9087,6 +9394,15 @@ window.STORY_DATA = {
         "prts-vladimir-ivanovich",
         "prts-angelia-ursus",
         "territoriya"
+      ],
+      "protagonists": [
+        "talulah",
+        "prts-milana-turin",
+        "wiki-fyodor-vladimirovich",
+        "wiki-nine",
+        "wiki-red-npc",
+        "antosha",
+        "prts-grand-duchess-elizaveta"
       ],
       "lowImpactPeople": [
         "prts-aglaya",
@@ -9393,6 +9709,18 @@ window.STORY_DATA = {
       "kind": "nonoperator",
       "portrait": "assets/portraits/pavlovich.png",
       "portraitSource": "https://arknights.wiki.gg/images/Pavlovich_icon.png?fc94e5"
+    },
+    {
+      "id": "arene",
+      "name": "아렌",
+      "kind": "operator",
+      "wikiTitle": "Arene"
+    },
+    {
+      "id": "april",
+      "name": "에이프릴",
+      "kind": "operator",
+      "wikiTitle": "April"
     },
     {
       "id": "grani",
@@ -10605,7 +10933,7 @@ window.STORY_DATA = {
     {
       "id": "miss-christine",
       "name": "미스 크리스틴",
-      "kind": "nonoperator",
+      "kind": "operator",
       "wikiTitle": "Miss.Christine",
       "portrait": "assets/portraits/miss-christine.png",
       "portraitSource": "https://arknights.wiki.gg/images/Miss.Christine_icon.png?eef1b4"
@@ -10613,7 +10941,7 @@ window.STORY_DATA = {
     {
       "id": "tippi",
       "name": "티피",
-      "kind": "nonoperator",
+      "kind": "operator",
       "wikiTitle": "Tippi",
       "portrait": "assets/portraits/tippi.png",
       "portraitSource": "https://arknights.wiki.gg/images/Tippi_icon.png?b7b064"
@@ -10621,10 +10949,170 @@ window.STORY_DATA = {
     {
       "id": "tragodia",
       "name": "트라고디아",
-      "kind": "nonoperator",
+      "kind": "operator",
       "wikiTitle": "Tragodia",
       "portrait": "assets/portraits/tragodia.png",
       "portraitSource": "https://arknights.wiki.gg/images/Tragodia_icon.png?ca5ecf"
+    },
+    {
+      "id": "beyond-hildegard",
+      "name": "힐데가르트",
+      "kind": "npc"
+    },
+    {
+      "id": "preluding-gares",
+      "name": "가레스",
+      "kind": "npc"
+    },
+    {
+      "id": "preluding-ila",
+      "name": "일라",
+      "kind": "npc"
+    },
+    {
+      "id": "preluding-aria",
+      "name": "아리아",
+      "kind": "npc"
+    },
+    {
+      "id": "dossoles-sideroca",
+      "name": "시데로카",
+      "kind": "operator"
+    },
+    {
+      "id": "vigilo-cannot",
+      "name": "캔낫",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "vigilo-marco",
+      "name": "마르코",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "hillock-saoirse",
+      "name": "세어샤",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "pinus-justice-knight",
+      "name": "저스티스 나이트",
+      "kind": "operator"
+    },
+    {
+      "id": "break-ice-sharp",
+      "name": "샤프",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "invitation-second-brother",
+      "name": "수이의 둘째 형",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "spark-viscount-bisme",
+      "name": "비슈머 백작",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "spark-minnie",
+      "name": "미니",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "wanderer-xeno",
+      "name": "제노",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "long-time-xiaoyuan",
+      "name": "샤오위안",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "long-time-cloudbeast-67",
+      "name": "67",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "firelight-fisher",
+      "name": "피셔",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "lone-trail-trevor-friston",
+      "name": "트레버 프리스턴",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "so-long-adele-ennis",
+      "name": "에니스",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "to-the-grinning-arges",
+      "name": "아르게스",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "grinning-valley-kaira",
+      "name": "카이라",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "here-a-people-huasheng",
+      "name": "화생",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "here-a-people-xiaoman",
+      "name": "소만",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "path-of-life-tullia",
+      "name": "툴리아",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "sunset-razbar",
+      "name": "라즈바르",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "forge-rekindled-paul",
+      "name": "폴",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "west-sunset-elicio",
+      "name": "엘리시오",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "tomorrow-big-wrench",
+      "name": "빅렌치",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "elegy-theo",
+      "name": "테오",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "mirror-yun-qingping",
+      "name": "운청평",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "main16-ksenia",
+      "name": "크세니야",
+      "kind": "nonoperator"
+    },
+    {
+      "id": "foam-zinogre",
+      "name": "진오우거",
+      "kind": "nonoperator"
     },
     {
       "id": "wiki-054",
@@ -17613,6 +18101,34 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
     },
     {
+      "event": "operational",
+      "person": "closure",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+    },
+    {
+      "event": "operational",
+      "person": "wiki-scout",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+    },
+    {
+      "event": "operational",
+      "person": "wiki-franka",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+    },
+    {
+      "event": "operational",
+      "person": "muelsyse",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+    },
+    {
       "event": "obsidian",
       "person": "amiya",
       "role": "appears",
@@ -17881,6 +18397,27 @@ window.STORY_DATA = {
     {
       "event": "rewinding",
       "person": "shalem",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+    },
+    {
+      "event": "rewinding",
+      "person": "arene",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+    },
+    {
+      "event": "rewinding",
+      "person": "april",
+      "role": "appears",
+      "certainty": "story",
+      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+    },
+    {
+      "event": "rewinding",
+      "person": "wiki-ansel",
       "role": "appears",
       "certainty": "story",
       "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
@@ -19314,13 +19851,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Act_or_Die/Synopsis"
     },
     {
-      "event": "red-velvet",
-      "person": "tragodia",
-      "role": "appears",
-      "certainty": "story",
-      "source": "https://arknights.wiki.gg/wiki/Act_or_Die/Synopsis"
-    },
-    {
       "event": "mirror",
       "person": "chongyue",
       "role": "appears",
@@ -19644,20 +20174,6 @@ window.STORY_DATA = {
     },
     {
       "event": "operational",
-      "person": "wiki-scout",
-      "role": "appears",
-      "certainty": "synopsis",
-      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
-    },
-    {
-      "event": "operational",
-      "person": "wiki-franka",
-      "role": "appears",
-      "certainty": "synopsis",
-      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
-    },
-    {
-      "event": "operational",
       "person": "wiki-heavyrain",
       "role": "appears",
       "certainty": "synopsis",
@@ -19680,13 +20196,6 @@ window.STORY_DATA = {
     {
       "event": "operational",
       "person": "wiki-projekt-red",
-      "role": "appears",
-      "certainty": "synopsis",
-      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
-    },
-    {
-      "event": "operational",
-      "person": "muelsyse",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
@@ -20539,6 +21048,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Beyond_Here/Synopsis"
     },
     {
+      "event": "beyond",
+      "person": "beyond-hildegard",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Beyond_Here/Synopsis"
+    },
+    {
       "event": "who-is-real",
       "person": "wiki-dawn",
       "role": "appears",
@@ -20548,13 +21064,6 @@ window.STORY_DATA = {
     {
       "event": "originium-dust",
       "person": "wiki-miarow",
-      "role": "appears",
-      "certainty": "synopsis",
-      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
-    },
-    {
-      "event": "originium-dust",
-      "person": "iana",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
@@ -20707,6 +21216,27 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
     },
     {
+      "event": "preluding",
+      "person": "preluding-gares",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
+    },
+    {
+      "event": "preluding",
+      "person": "preluding-ila",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
+    },
+    {
+      "event": "preluding",
+      "person": "preluding-aria",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
+    },
+    {
       "event": "dossoles",
       "person": "wiki-mizuki",
       "role": "appears",
@@ -20749,6 +21279,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
     },
     {
+      "event": "dossoles",
+      "person": "dossoles-sideroca",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
+    },
+    {
       "event": "vigilo",
       "person": "wiki-prts",
       "role": "appears",
@@ -20772,6 +21309,20 @@ window.STORY_DATA = {
     {
       "event": "vigilo",
       "person": "wiki-blaze",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
+    },
+    {
+      "event": "vigilo",
+      "person": "vigilo-cannot",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
+    },
+    {
+      "event": "vigilo",
+      "person": "vigilo-marco",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
@@ -20805,6 +21356,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
     },
     {
+      "event": "main-09",
+      "person": "hillock-saoirse",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
       "event": "pinus",
       "person": "wiki-malkiewicz",
       "role": "appears",
@@ -20821,6 +21379,13 @@ window.STORY_DATA = {
     {
       "event": "pinus",
       "person": "wiki-szewczyk",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_(event)/Synopsis"
+    },
+    {
+      "event": "pinus",
+      "person": "pinus-justice-knight",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_(event)/Synopsis"
@@ -20994,6 +21559,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
     },
     {
+      "event": "break-ice",
+      "person": "break-ice-sharp",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
+    },
+    {
       "event": "invitation",
       "person": "wiki-grand-tutor",
       "role": "appears",
@@ -21057,6 +21629,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
     },
     {
+      "event": "invitation",
+      "person": "invitation-second-brother",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
+    },
+    {
       "event": "spark",
       "person": "wiki-haze",
       "role": "appears",
@@ -21094,6 +21673,20 @@ window.STORY_DATA = {
     {
       "event": "spark",
       "person": "wiki-red-npc",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis"
+    },
+    {
+      "event": "spark",
+      "person": "spark-viscount-bisme",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis"
+    },
+    {
+      "event": "spark",
+      "person": "spark-minnie",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis"
@@ -21393,6 +21986,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
     },
     {
+      "event": "unfinished",
+      "person": "wiki-gambino",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
+    },
+    {
       "event": "dorothy",
       "person": "wiki-ho-olheyak",
       "role": "appears",
@@ -21421,6 +22021,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
     },
     {
+      "event": "dorothy",
+      "person": "wiki-greyy",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
+    },
+    {
       "event": "to-be-continued",
       "person": "wiki-czcibor",
       "role": "appears",
@@ -21437,6 +22044,13 @@ window.STORY_DATA = {
     {
       "event": "to-be-continued",
       "person": "wiki-toland-cash",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
+    },
+    {
+      "event": "to-be-continued",
+      "person": "wanderer-xeno",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
@@ -21479,6 +22093,20 @@ window.STORY_DATA = {
     {
       "event": "long-time",
       "person": "wiki-biu",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
+    },
+    {
+      "event": "long-time",
+      "person": "long-time-xiaoyuan",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
+    },
+    {
+      "event": "long-time",
+      "person": "long-time-cloudbeast-67",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
@@ -21696,6 +22324,13 @@ window.STORY_DATA = {
     {
       "event": "firelight",
       "person": "wiki-moran",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/What_the_Firelight_Casts/Synopsis"
+    },
+    {
+      "event": "firelight",
+      "person": "firelight-fisher",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/What_the_Firelight_Casts/Synopsis"
@@ -22009,6 +22644,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
     {
+      "event": "main-12",
+      "person": "eblana",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
       "event": "lone-trail",
       "person": "wiki-ho-olheyak",
       "role": "appears",
@@ -22095,6 +22737,20 @@ window.STORY_DATA = {
     {
       "event": "lone-trail",
       "person": "wiki-mark-max",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis"
+    },
+    {
+      "event": "lone-trail",
+      "person": "doctor",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis"
+    },
+    {
+      "event": "lone-trail",
+      "person": "lone-trail-trevor-friston",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis"
@@ -22233,6 +22889,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/So_Long%2C_Adele/Synopsis"
     },
     {
+      "event": "so-long-adele",
+      "person": "so-long-adele-ennis",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/So_Long%2C_Adele/Synopsis"
+    },
+    {
       "event": "to-the-grinning",
       "person": "wiki-black-mark",
       "role": "appears",
@@ -22256,6 +22919,13 @@ window.STORY_DATA = {
     {
       "event": "to-the-grinning",
       "person": "wiki-emperor",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/The_Black_Forest_Wills_A_Dream/Synopsis"
+    },
+    {
+      "event": "to-the-grinning",
+      "person": "to-the-grinning-arges",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/The_Black_Forest_Wills_A_Dream/Synopsis"
@@ -22618,6 +23288,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
     },
     {
+      "event": "sylvan",
+      "person": "doctor",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
+    },
+    {
       "event": "grinning-valley",
       "person": "wiki-warmy",
       "role": "appears",
@@ -22655,6 +23332,13 @@ window.STORY_DATA = {
     {
       "event": "grinning-valley",
       "person": "wiki-asbestos",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
+    },
+    {
+      "event": "grinning-valley",
+      "person": "grinning-valley-kaira",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
@@ -22739,6 +23423,20 @@ window.STORY_DATA = {
     {
       "event": "here-a-people",
       "person": "wiki-ji",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
+    },
+    {
+      "event": "here-a-people",
+      "person": "here-a-people-huasheng",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
+    },
+    {
+      "event": "here-a-people",
+      "person": "here-a-people-xiaoman",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
@@ -23017,6 +23715,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Path_of_Life/Synopsis"
     },
     {
+      "event": "path-of-life",
+      "person": "path-of-life-tullia",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Path_of_Life/Synopsis"
+    },
+    {
       "event": "sunset",
       "person": "wiki-zubayr",
       "role": "appears",
@@ -23059,6 +23764,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Adventure_That_Cannot_Wait_for_the_Sun/Synopsis"
     },
     {
+      "event": "sunset",
+      "person": "sunset-razbar",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Adventure_That_Cannot_Wait_for_the_Sun/Synopsis"
+    },
+    {
       "event": "forge-rekindled",
       "person": "wiki-ermengarde",
       "role": "appears",
@@ -23089,6 +23801,13 @@ window.STORY_DATA = {
     {
       "event": "forge-rekindled",
       "person": "wiki-crownie-mantel",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis"
+    },
+    {
+      "event": "forge-rekindled",
+      "person": "forge-rekindled-paul",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis"
@@ -23138,6 +23857,13 @@ window.STORY_DATA = {
     {
       "event": "dungeon-meshi",
       "person": "anita",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Delicious_On_Terra/Synopsis"
+    },
+    {
+      "event": "dungeon-meshi",
+      "person": "to-the-grinning-arges",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Delicious_On_Terra/Synopsis"
@@ -23208,6 +23934,13 @@ window.STORY_DATA = {
     {
       "event": "west-sunset",
       "person": "wiki-shearer",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Ending_a_Grand_Overture/Synopsis"
+    },
+    {
+      "event": "west-sunset",
+      "person": "west-sunset-elicio",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Ending_a_Grand_Overture/Synopsis"
@@ -23507,6 +24240,20 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
     },
     {
+      "event": "see-you-tomorrow",
+      "person": "tomorrow-big-wrench",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
+    },
+    {
+      "event": "see-you-tomorrow",
+      "person": "logos",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
+    },
+    {
       "event": "elegy",
       "person": "wiki-nemos",
       "role": "appears",
@@ -23537,6 +24284,13 @@ window.STORY_DATA = {
     {
       "event": "elegy",
       "person": "wiki-moran",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis"
+    },
+    {
+      "event": "elegy",
+      "person": "elegy-theo",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis"
@@ -23829,6 +24583,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Fantasy_in_the_Mirage/Synopsis"
     },
     {
+      "event": "mirror",
+      "person": "mirror-yun-qingping",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Fantasy_in_the_Mirage/Synopsis"
+    },
+    {
       "event": "ruins",
       "person": "wiki-tessai",
       "role": "appears",
@@ -23955,6 +24716,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
     },
     {
+      "event": "main-16",
+      "person": "main16-ksenia",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
       "event": "snow-1101",
       "person": "wiki-duke-of-caster",
       "role": "appears",
@@ -24013,6 +24781,13 @@ window.STORY_DATA = {
     {
       "event": "snow-1101",
       "person": "wiki-monch",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
+    },
+    {
+      "event": "snow-1101",
+      "person": "silence",
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
@@ -24319,6 +25094,13 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
     {
+      "event": "crossroads",
+      "person": "penance",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
+    },
+    {
       "event": "people-us",
       "person": "wiki-istina",
       "role": "appears",
@@ -24380,6 +25162,13 @@ window.STORY_DATA = {
       "role": "appears",
       "certainty": "synopsis",
       "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
+    },
+    {
+      "event": "foam-thunder",
+      "person": "foam-zinogre",
+      "role": "appears",
+      "certainty": "synopsis",
+      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
     },
     {
       "event": "people-us",
@@ -25582,6 +26371,13 @@ window.STORY_DATA = {
     },
     {
       "event": "foam-thunder",
+      "person": "foam-zinogre",
+      "text": "호후카가 어머니의 원수라고 여기던 번개의 주인이다. 미츠도키를 구한 일로 적으로만 여겨지던 처지가 뒤집힌다. 선대 국주의 힘이 자신과 호후카에게 나뉘어 있었고, 두 힘이 모이면서 주귀에 맞서 교린을 완전히 작동시킬 수 있게 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Thunder_in_the_Azure_Dream"
+    },
+    {
+      "event": "foam-thunder",
       "person": "prts-dream-spot",
       "text": "대장장이 스파노스케는 낯선 두 사냥꾼을 특제 악취탄으로 구하고, 캐터펄트의 장비에 관심을 보여 사냥 장비 제작을 돕습니다. 주귀가 몰려오자 폭약과 대형 병기를 마련해 수도와 사냥단의 방어를 지원합니다.",
       "spoiler": "medium",
@@ -25638,6 +26434,13 @@ window.STORY_DATA = {
     },
     {
       "event": "main-00-04",
+      "person": "doctor",
+      "text": "체르노보그의 석관에서 기억을 잃은 채 깨어나 아미야와 구조팀을 따라 탈출합니다. 이후 로도스의 지휘를 맡아 용문 작전에 참여하고, 미샤를 둘러싼 충돌에서는 알렉스의 공격 대상이 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
       "person": "chen",
       "text": "용문 근위국의 협력을 받아 미샤를 추적하지만, 그녀와 스컬슈레더의 관계가 드러나면서 작전의 의미가 달라집니다.",
       "spoiler": "medium",
@@ -25659,27 +26462,6 @@ window.STORY_DATA = {
     },
     {
       "event": "main-00-04",
-      "person": "wiki-ace",
-      "text": "체르노보그 탈출 작전에서 후방을 지키며 독타와 아미야가 빠져나갈 시간을 법니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "crownslayer",
-      "text": "독타 구출대를 체르노보그에서 가로막고 로도스 아일랜드가 감염자의 투쟁을 외면한다고 비난합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
-      "person": "nearl",
-      "text": "체르노보그에서 에이스와 함께 구출대에 합류해 리유니온의 추격을 막고 탈출로를 엽니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
-    },
-    {
-      "event": "main-00-04",
       "person": "talulah",
       "text": "재앙이 닥친 체르노보그에서 불꽃 아츠로 구출대를 압박하고 니어의 방어를 무너뜨립니다.",
       "spoiler": "medium",
@@ -25687,8 +26469,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-00-04",
-      "person": "w",
-      "text": "체르노보그 외곽에서 독타와 아미야를 알아보지만 이유를 밝히지 않은 채 일행을 보내 줍니다.",
+      "person": "wiki-ace",
+      "text": "체르노보그 탈출 작전에서 후방을 지키며 독타와 아미야가 빠져나갈 시간을 법니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
     },
@@ -25701,15 +26483,22 @@ window.STORY_DATA = {
     },
     {
       "event": "main-00-04",
-      "person": "wiki-frostleaf",
-      "text": "폐허가 된 도시 구획을 정찰하다 건물에 번지는 서리를 보고 설괴 소대의 접근을 알아챕니다.",
+      "person": "nearl",
+      "text": "체르노보그에서 에이스와 함께 구출대에 합류해 리유니온의 추격을 막고 탈출로를 엽니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
     },
     {
       "event": "main-00-04",
-      "person": "doctor",
-      "text": "체르노보그의 석관에서 기억을 잃은 채 깨어나 아미야와 구조팀을 따라 탈출합니다. 이후 로도스의 지휘를 맡아 용문 작전에 참여하고, 미샤를 둘러싼 충돌에서는 알렉스의 공격 대상이 됩니다.",
+      "person": "crownslayer",
+      "text": "독타 구출대를 체르노보그에서 가로막고 로도스 아일랜드가 감염자의 투쟁을 외면한다고 비난합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "w",
+      "text": "체르노보그 외곽에서 독타와 아미야를 알아보지만 이유를 밝히지 않은 채 일행을 보내 줍니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
     },
@@ -25724,6 +26513,13 @@ window.STORY_DATA = {
       "event": "main-00-04",
       "person": "wiki-mephisto",
       "text": "체르노보그에서 독타 구출대의 탈출을 가로막는 리유니온 간부로 나타납니다. 이후 재앙이 지나간 도시 구획에서 로도스 정찰대를 추격해 구조팀을 압박합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
+    },
+    {
+      "event": "main-00-04",
+      "person": "wiki-frostleaf",
+      "text": "폐허가 된 도시 구획을 정찰하다 건물에 번지는 서리를 보고 설괴 소대의 접근을 알아챕니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Story/Movements/Main_Theme"
     },
@@ -25757,8 +26553,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-05",
-      "person": "amiya",
-      "text": "용문과의 공동 작전에서 감염자에게 가해지는 폭력이 로도스의 목표와 충돌함을 확인합니다.",
+      "person": "wiki-mephisto",
+      "text": "용문 근위국 본부 옥상에 함정을 놓고 쓰러진 리유니온 병사들을 아츠로 다시 움직이게 합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
     },
@@ -25771,8 +26567,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-05",
-      "person": "wiki-mephisto",
-      "text": "용문 근위국 본부 옥상에 함정을 놓고 쓰러진 리유니온 병사들을 아츠로 다시 움직이게 합니다.",
+      "person": "amiya",
+      "text": "용문과의 공동 작전에서 감염자에게 가해지는 폭력이 로도스의 목표와 충돌함을 확인합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
     },
@@ -25785,15 +26581,15 @@ window.STORY_DATA = {
     },
     {
       "event": "main-05",
-      "person": "wiki-wei-yenwu",
-      "text": "본부 탈환 후 스와이어에게 로도스의 도움 없이 용문에 남은 리유니온을 하루 안에 소탕하라고 명령합니다.",
+      "person": "wiki-faust",
+      "text": "메피스토와 함께 근위국 본부 옥상에서 첸을 기다리며 석궁과 병력으로 포위합니다. 아미야와 블레이즈의 지원으로 전세가 바뀌자 메피스토를 설득해 함께 철수합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
     },
     {
       "event": "main-05",
-      "person": "wiki-faust",
-      "text": "메피스토와 함께 근위국 본부 옥상에서 첸을 기다리며 석궁과 병력으로 포위합니다. 아미야와 블레이즈의 지원으로 전세가 바뀌자 메피스토를 설득해 함께 철수합니다.",
+      "person": "wiki-wei-yenwu",
+      "text": "본부 탈환 후 스와이어에게 로도스의 도움 없이 용문에 남은 리유니온을 하루 안에 소탕하라고 명령합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_05/Synopsis"
     },
@@ -25820,13 +26616,6 @@ window.STORY_DATA = {
     },
     {
       "event": "main-06",
-      "person": "wiki-mephisto",
-      "text": "감염자들을 아츠로 부려 용문과 로도스를 공격하지만, 전투가 격해지면서 군대를 통제하지 못해 자신과 리유니온까지 위험에 빠뜨립니다. 파우스트는 그를 살리기 위해 힘을 그만 쓰라고 당부하고 퇴로를 마련합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
       "person": "wiki-faust",
       "text": "메피스토가 감염자들을 계속 부리는 것을 말리면서도 그를 홀로 버리지 않습니다. 남은 병력을 이끌고 로도스에 맞서 메피스토가 탈출할 시간을 벌다가 전장에 남습니다.",
       "spoiler": "medium",
@@ -25834,8 +26623,15 @@ window.STORY_DATA = {
     },
     {
       "event": "main-06",
-      "person": "swire",
-      "text": "첸과 함께 리유니온 잔당을 추적하다 빈민가에서 벌어지는 숙청을 목격합니다.",
+      "person": "wiki-mephisto",
+      "text": "감염자들을 아츠로 부려 용문과 로도스를 공격하지만, 전투가 격해지면서 군대를 통제하지 못해 자신과 리유니온까지 위험에 빠뜨립니다. 파우스트는 그를 살리기 위해 힘을 그만 쓰라고 당부하고 퇴로를 마련합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "wiki-greythroat",
+      "text": "용문에서 로도스의 작전에 참여해 파우스트가 부하들을 보내고 홀로 남는 마지막을 목격합니다. 그가 죽었다는 소식을 아미야에게 전하고, 이후 프로스트노바와의 싸움에도 나섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
     },
@@ -25843,6 +26639,13 @@ window.STORY_DATA = {
       "event": "main-06",
       "person": "crownslayer",
       "text": "켈시와 레드에게 아버지의 죽음에 관한 단서를 듣고 로도스와 자신의 인연을 되짚습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
+    },
+    {
+      "event": "main-06",
+      "person": "kaltsit",
+      "text": "레드와 함께 크라운슬레이어를 막아선 뒤, 그녀가 아버지의 죽음에 관해 품은 오해와 석관 연구진이 봉인을 택한 이유를 설명합니다. 이후 체르노보그의 핵심 도시가 용문으로 향하고 있다는 급보를 전합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
     },
@@ -25862,29 +26665,22 @@ window.STORY_DATA = {
     },
     {
       "event": "main-06",
-      "person": "kaltsit",
-      "text": "레드와 함께 크라운슬레이어를 막아선 뒤, 그녀가 아버지의 죽음에 관해 품은 오해와 석관 연구진이 봉인을 택한 이유를 설명합니다. 이후 체르노보그의 핵심 도시가 용문으로 향하고 있다는 급보를 전합니다.",
+      "person": "swire",
+      "text": "첸과 함께 리유니온 잔당을 추적하다 빈민가에서 벌어지는 숙청을 목격합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-06",
-      "person": "wiki-greythroat",
-      "text": "용문에서 로도스의 작전에 참여해 파우스트가 부하들을 보내고 홀로 남는 마지막을 목격합니다. 그가 죽었다는 소식을 아미야에게 전하고, 이후 프로스트노바와의 싸움에도 나섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_06/Synopsis"
-    },
-    {
-      "event": "main-07",
-      "person": "doctor",
-      "text": "체르노보그의 핵심 구역이 용문에 충돌하기 전에 관제탑에 도달할 작전을 세웁니다. 유격대와 패트리어트가 가로막는 길을 돌입조와 함께 돌파하며 도시를 멈출 가능성을 찾아갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
     },
     {
       "event": "main-07",
       "person": "patriot",
       "text": "탈룰라의 변화와 도시 충돌 계획을 의심하면서도 유격대를 이끌며 감염자들을 지키려 합니다. 로도스와 맞선 그는 자신의 신념과 리유니온의 앞날을 걸고 싸우며 아미야에게 무거운 질문을 남깁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
+    },
+    {
+      "event": "main-07",
+      "person": "doctor",
+      "text": "체르노보그의 핵심 구역이 용문에 충돌하기 전에 관제탑에 도달할 작전을 세웁니다. 유격대와 패트리어트가 가로막는 길을 돌입조와 함께 돌파하며 도시를 멈출 가능성을 찾아갑니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_07/Synopsis"
     },
@@ -25953,15 +26749,15 @@ window.STORY_DATA = {
     },
     {
       "event": "main-08",
-      "person": "amiya",
-      "text": "첸과 함께 관제탑에 올라 도시 충돌을 막고 탈룰라와 맞섭니다. 첸의 검에 남은 감정과 탈룰라의 과거를 마주한 뒤, 그녀 안에 자리한 불사의 검은 뱀이 강요하는 전쟁의 논리에 맞서 탈룰라를 되찾으려 합니다.",
+      "person": "talulah",
+      "text": "우르수스에서 감염자들을 구하고 알리나와 함께 살아갈 터전을 만들며 리유니온을 키웁니다. 알리나를 잃고 배신과 불신을 겪는 가운데 검은 뱀의 영향은 깊어지고, 체르노보그에서 첸과 아미야의 대면을 맞습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
     },
     {
       "event": "main-08",
-      "person": "talulah",
-      "text": "우르수스에서 감염자들을 구하고 알리나와 함께 살아갈 터전을 만들며 리유니온을 키웁니다. 알리나를 잃고 배신과 불신을 겪는 가운데 검은 뱀의 영향은 깊어지고, 체르노보그에서 첸과 아미야의 대면을 맞습니다.",
+      "person": "amiya",
+      "text": "첸과 함께 관제탑에 올라 도시 충돌을 막고 탈룰라와 맞섭니다. 첸의 검에 남은 감정과 탈룰라의 과거를 마주한 뒤, 그녀 안에 자리한 불사의 검은 뱀이 강요하는 전쟁의 논리에 맞서 탈룰라를 되찾으려 합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
     },
@@ -25981,6 +26777,13 @@ window.STORY_DATA = {
     },
     {
       "event": "main-08",
+      "person": "wiki-deathless-black-snake",
+      "text": "탈룰라의 몸과 기억을 이용해 전쟁이 역사를 움직인다는 사상을 아미야에게 강요합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
+    },
+    {
+      "event": "main-08",
       "person": "frostnova",
       "text": "초기 리유니온에 합류해 탈룰라가 말한 감염자의 미래를 함께 고민합니다.",
       "spoiler": "medium",
@@ -25990,13 +26793,6 @@ window.STORY_DATA = {
       "event": "main-08",
       "person": "rosmontis",
       "text": "방패병들과 힘을 합쳐 체르노보그 관제탑으로 향하는 로도스의 진로를 엽니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
-    },
-    {
-      "event": "main-08",
-      "person": "wiki-deathless-black-snake",
-      "text": "탈룰라의 몸과 기억을 이용해 전쟁이 역사를 움직인다는 사상을 아미야에게 강요합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_08/Synopsis"
     },
@@ -26044,8 +26840,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-09",
-      "person": "reed",
-      "text": "더블린의 작전에 얽혀 타라의 독립과 빅토리아 사이의 갈등 속에 놓입니다. 자신의 출신과 자매가 이끄는 세력을 마주하면서, 그들이 정한 역할과 다른 길을 택할 가능성을 바라봅니다.",
+      "person": "wiki-outcast",
+      "text": "로도스 지부 사람들의 탈출을 돕고 백파이프에게 정보를 전합니다. 뒤쫓아 오는 더블린 병력을 홀로 막아서며 동료들이 살아서 빠져나갈 시간을 위해 마지막 총알을 사용합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
     },
@@ -26058,8 +26854,15 @@ window.STORY_DATA = {
     },
     {
       "event": "main-09",
-      "person": "wiki-outcast",
-      "text": "로도스 지부 사람들의 탈출을 돕고 백파이프에게 정보를 전합니다. 뒤쫓아 오는 더블린 병력을 홀로 막아서며 동료들이 살아서 빠져나갈 시간을 위해 마지막 총알을 사용합니다.",
+      "person": "saileach",
+      "text": "힐록에서 제인이라는 이름으로 주민과 감염자를 돕고 로도스의 아웃캐스트와 가까워진다. 타라 주민들의 모임을 혼 일행에게 알려 주고, 친구 세어샤가 더블린에 가까워지면서 타라 주민들이 겪는 압박을 마주한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
+    },
+    {
+      "event": "main-09",
+      "person": "reed",
+      "text": "더블린 편에서 힐록의 봉기에 참가하지만 포격과 전투가 이어지는 가운데 부상을 입는다. 아웃캐스트가 자신을 쫓는 더블린 지휘관들을 막는 동안, 백파이프의 도움으로 현장을 빠져나간다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
     },
@@ -26072,8 +26875,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-09",
-      "person": "saileach",
-      "text": "힐록의 주민과 로도스 사이에서 연락을 돕고 전투가 민간인에게 끼치는 피해를 살핍니다.",
+      "person": "hillock-saoirse",
+      "text": "제인의 친구인 타라 주민이다. 빅토리아군에 의해 사촌이 처형된 뒤 더블린과 관계를 맺는다. 제인과 가까웠던 그의 선택은 포격 이전부터 힐록에서 커지던 타라 주민들의 분노를 드러낸다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_09/Synopsis"
     },
@@ -26100,15 +26903,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-10",
-      "person": "theresis",
-      "text": "런디니움의 군수 시설과 살카즈 군대를 통해 전쟁을 확대합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "kaltsit",
-      "text": "런디니움 외곽에 함선을 정박시키고 도시 자구군과 접촉할 진입 작전을 지휘합니다.",
+      "person": "heidi",
+      "text": "켈시와 런디니움 자구군을 잇던 연락책이다. 공장 감옥에 갇힌 뒤에도 안에서 포로들을 일으켜 세우고, 바깥에서 로도스와 자구군이 벌이는 구출에 호응한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
@@ -26121,8 +26917,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-10",
-      "person": "heidi",
-      "text": "도시 안 켈시의 연락책으로 활동하다 붙잡혀 로도스와 자구군의 공동 구출 목표가 됩니다.",
+      "person": "wiki-clovisia",
+      "text": "런디니움 자구군을 이끌고 로도스와 협력해 하이디와 공장 포로들의 구출에 나선다. 다마즈티가 빼낸 정보 때문에 지하 거점이 공격받자 드러난 통로에서 사람들을 대피시키려 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
@@ -26142,43 +26938,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-10",
-      "person": "wiki-mandragora",
-      "text": "군사위원회의 명령에 따라 공장 감옥을 지키며 혼 일행을 가로막습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "wiki-dagda",
-      "text": "글래스고 갱의 일원으로 블랙스틸의 추락한 항공기를 찾아 포로 구출에 나섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "rockrock",
-      "text": "자구군의 일원으로 로도스의 협력이 실제 런디니움 주민을 구할 수 있는지 따집니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "w",
-      "text": "군사위원회 내부의 혼란을 이용해 독자적으로 움직이며 맨프레드의 감시를 받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "wiki-clovisia",
-      "text": "노동자 조직을 이끌어 런디니움 주민이 점령군에 맞설 방법을 마련합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
-    },
-    {
-      "event": "main-10",
-      "person": "theresa",
-      "text": "테레시스와 군사위원회가 런디니움을 전쟁의 발판으로 삼는 가운데 다시 모습을 드러냅니다. 그녀의 귀환은 살카즈의 왕정과 과거 바벨에 연결된 로도스에게 중요한 의미를 갖습니다.",
+      "person": "wiki-damazti-cluster",
+      "text": "자구군 내부에서 동료인 척하며 거점과 연락망의 정보를 빼냅니다. 피의 군주의 습격과 함께 정체가 드러나자 로도스와 자구군은 발각된 은신처를 버리고 열차로 탈출합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
@@ -26191,15 +26952,36 @@ window.STORY_DATA = {
     },
     {
       "event": "main-10",
-      "person": "logos",
-      "text": "로도스가 여러 갈래로 나뉘어 런디니움에 들어갈 때 각자의 진입을 돕는 엘리트 오퍼레이터로 움직입니다. 도시 안에서 자구군과 로도스가 군사위원회의 감시를 뚫고 활동할 길을 마련합니다.",
+      "person": "wiki-mandragora",
+      "text": "더블린의 잃어버린 동료를 찾아 감옥으로 쓰이는 공장에 잠입한다. 부하들을 구하러 온 혼과 다시 마주치고, 공장을 지키는 살카즈 병력과도 싸우게 된다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
     {
       "event": "main-10",
-      "person": "wiki-damazti-cluster",
-      "text": "자구군 내부에서 동료인 척하며 거점과 연락망의 정보를 빼냅니다. 피의 군주의 습격과 함께 정체가 드러나자 로도스와 자구군은 발각된 은신처를 버리고 열차로 탈출합니다.",
+      "person": "rockrock",
+      "text": "자구군의 일원으로 로도스의 협력이 실제 런디니움 주민을 구할 수 있는지 따집니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "kaltsit",
+      "text": "런디니움 외곽에 함선을 정박시키고 도시 자구군과 접촉할 진입 작전을 지휘합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "theresis",
+      "text": "런디니움의 군수 시설과 살카즈 군대를 통해 전쟁을 확대합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "theresa",
+      "text": "테레시스와 군사위원회가 런디니움을 전쟁의 발판으로 삼는 가운데 다시 모습을 드러냅니다. 그녀의 귀환은 살카즈의 왕정과 과거 바벨에 연결된 로도스에게 중요한 의미를 갖습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
@@ -26207,6 +26989,27 @@ window.STORY_DATA = {
       "event": "main-10",
       "person": "wiki-allerdale",
       "text": "런디니움에서 탈출한 시즈 일행을 맞아 그녀가 왕위 계승자 알렉산드리나임을 밝힙니다. 왕권의 유물을 찾아 나라를 이끌어 달라고 제안해 시즈가 자신의 혈통과 책임을 다시 마주하게 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "w",
+      "text": "군사위원회 내부의 혼란을 이용해 독자적으로 움직이며 맨프레드의 감시를 받습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "wiki-dagda",
+      "text": "글래스고 갱의 일원으로 블랙스틸의 추락한 항공기를 찾아 포로 구출에 나섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
+    },
+    {
+      "event": "main-10",
+      "person": "logos",
+      "text": "로도스가 여러 갈래로 나뉘어 런디니움에 들어갈 때 각자의 진입을 돕는 엘리트 오퍼레이터로 움직입니다. 도시 안에서 자구군과 로도스가 군사위원회의 감시를 뚫고 활동할 길을 마련합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_10/Synopsis"
     },
@@ -26226,6 +27029,13 @@ window.STORY_DATA = {
     },
     {
       "event": "main-11",
+      "person": "wiki-allerdale",
+      "text": "시즈를 왕의 검이 잠든 묘소로 안내한다. 그곳에서 캐스터 공작의 압력으로 검을 가져가려 했다는 목적이 드러나지만, 마지막 증기 기사가 움직이자 무너지는 길에 남아 추격을 늦춘다. 시즈 일행은 그 사이 검을 들고 빠져나온다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
       "person": "amiya",
       "text": "런디니움에서 로도스의 작전을 이어 가는 한편 살카즈 왕정에 얽힌 기억과 오래된 힘을 마주합니다. 그 과정을 통해 자신의 힘이 카즈델의 역사와 이어져 있다는 사실을 알아갑니다.",
       "spoiler": "medium",
@@ -26233,43 +27043,22 @@ window.STORY_DATA = {
     },
     {
       "event": "main-11",
-      "person": "doctor",
-      "text": "자구군과 함께 카즈델의 군수 생산 시설을 끊을 작전을 세웁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "wiki-allerdale",
-      "text": "어린 시절부터 인연이 있는 시즈를 왕의 검이 잠든 묘소로 안내합니다. 그러나 그곳에서 숨겨 둔 계획을 실행해 검을 차지하려 하고, 자신의 선택과 목적을 드러내면서 시즈와의 신뢰를 깨뜨립니다.",
+      "person": "stainless",
+      "text": "탑을 완성한 군사위원회가 생산 시설을 아는 노동자들을 없애려 하자 동료들과 맞선다. 처형 위기에 놓인 캐서린을 구해 노동자들이 공장에서 빠져나갈 수 있도록 돕는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
     },
     {
       "event": "main-11",
       "person": "wiki-catherine",
-      "text": "군수 공장의 노동자들을 모아 살카즈의 생산 명령에 맞설 수단을 찾습니다.",
+      "text": "군수 공장의 관리자다. 작업을 마친 관리자들을 군사위원회가 처형하려 하자 스테인리스가 노동자들과 함께 그를 구한다. 캐서린은 살아남은 사람들을 데리고 공장을 빠져나온다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
     },
     {
       "event": "main-11",
-      "person": "stainless",
-      "text": "공장에 남은 기술자와 로도스의 작전을 연결해 군수 시설을 멈추려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "logos",
-      "text": "살카즈의 주술과 왕정의 기록을 해독해 로도스가 전쟁의 다음 단계를 이해하도록 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
-    },
-    {
-      "event": "main-11",
-      "person": "horn",
-      "text": "런디니움의 성벽에 선 병사들을 모아 카즈델 점령군에 맞설 반격을 이끕니다.",
+      "person": "doctor",
+      "text": "자구군과 함께 카즈델의 군수 생산 시설을 끊을 작전을 세웁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
     },
@@ -26289,6 +27078,20 @@ window.STORY_DATA = {
     },
     {
       "event": "main-11",
+      "person": "wiki-manfred",
+      "text": "지상의 군사위원회 병력을 이끌어 로도스와 맞섭니다. 피의 군주와 고해신부까지 가세해 지상 전투가 불리해지면서 왕의 검을 찾는 시즈 일행도 시간을 다투게 됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
+      "person": "logos",
+      "text": "살카즈의 주술과 왕정의 기록을 해독해 로도스가 전쟁의 다음 단계를 이해하도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
+    },
+    {
+      "event": "main-11",
       "person": "shining",
       "text": "테레시스와의 전투에서 중상을 입은 켈시를 응급 처치합니다. 그녀가 급한 생명의 위기를 넘기도록 돕지만, 로도스는 불리한 전장에서 물러나야 합니다.",
       "spoiler": "medium",
@@ -26296,8 +27099,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-11",
-      "person": "wiki-manfred",
-      "text": "지상의 군사위원회 병력을 이끌어 로도스와 맞섭니다. 피의 군주와 고해신부까지 가세해 지상 전투가 불리해지면서 왕의 검을 찾는 시즈 일행도 시간을 다투게 됩니다.",
+      "person": "horn",
+      "text": "런디니움의 성벽에 선 병사들을 모아 카즈델 점령군에 맞설 반격을 이끕니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_11/Synopsis"
     },
@@ -26310,29 +27113,15 @@ window.STORY_DATA = {
     },
     {
       "event": "main-12",
-      "person": "doctor",
-      "text": "살카즈의 탑이 전쟁 무기로 작동하자 런디니움의 침투 작전을 다시 세웁니다.",
+      "person": "ines",
+      "text": "로도스 일행에 합류해 캐스터 공작 측과의 협력 과정에 관여한다. 비행함에서 방송 장치를 찾지 못하자 직접 구조 신호를 내보내고, 추격당하다 W와 외드레르에게 구출된다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
     {
       "event": "main-12",
       "person": "amiya",
-      "text": "내부의 배신으로 큰 피해를 본 뒤에도 자구군과 함께 전선을 유지합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-golding",
-      "text": "자구군 정보망이 발각되자 동료를 팔지 않고 스스로 목숨을 끊습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
-    },
-    {
-      "event": "main-12",
-      "person": "wiki-delphine",
-      "text": "노포트 봉쇄 사실을 도시 밖에 알릴 수 있도록 남아 있는 방송 시설의 위치와 접근 경로를 알려 줍니다. 자구군은 그녀가 건넨 정보를 바탕으로 외부 공작들이 참상을 보게 할 방법을 찾습니다.",
+      "text": "빼앗긴 방송 장치를 찾아 아스카론과 살카즈 비행함에 오른다. 함선을 움직이는 망자들의 원한을 마주하고, 자신을 왕으로 인정할 수 없다는 영혼들의 말을 듣는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
@@ -26345,22 +27134,36 @@ window.STORY_DATA = {
     },
     {
       "event": "main-12",
-      "person": "ines",
-      "text": "로도스 일행과 재회해 군사위원회의 움직임을 전하고 위험한 거래를 돕습니다.",
+      "person": "wiki-delphine",
+      "text": "노포트의 봉쇄를 알리기 위해 방송 시설을 이용하자고 제안한다. 구조 신호를 받은 윈더미어 공작이 함선을 보내자 자신이 공작의 딸임을 밝히고 어머니 곁으로 돌아간다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
     {
       "event": "main-12",
-      "person": "morgan",
-      "text": "시즈와 함께 식량과 물이 줄어드는 구역에서 주민을 보호합니다.",
+      "person": "wiki-golding",
+      "text": "자구군의 정보 거점인 학교에서 동료로 위장한 다마즈티와 마주한다. 남은 자료와 동료들의 정보를 적에게 넘기지 않기 위해 자료와 함께 스스로 생을 마감한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
     {
       "event": "main-12",
       "person": "wiki-baird",
-      "text": "봉쇄된 노포트에서 자구군과 연락하며 거리에 남은 주민들의 상황을 전합니다. 대피 도중 혼란에 빠진 사람들을 진정시키려다 다치지만, 시즈가 떠나는 길을 지킵니다.",
+      "text": "글래스고 갱과 술집에 피난민을 받아들여 돕는다. 불길이 노포트까지 번져 주민들을 대피시키는 도중 다치고, 시즈 일행은 베어드를 잃은 채 봉쇄 구역을 빠져나온다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "eblana",
+      "text": "비행함에서 죽은 살카즈의 영혼들을 불꽃으로 밀어내 잠시 길을 연다. 그러나 그 불길이 주민들이 아직 남아 있는 노포트까지 번진다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
+      "person": "doctor",
+      "text": "살카즈의 탑이 전쟁 무기로 작동하자 런디니움의 침투 작전을 다시 세웁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
@@ -26373,6 +27176,13 @@ window.STORY_DATA = {
     },
     {
       "event": "main-12",
+      "person": "morgan",
+      "text": "시즈와 함께 식량과 물이 줄어드는 구역에서 주민을 보호합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
+    },
+    {
+      "event": "main-12",
       "person": "logos",
       "text": "정보망에 침투한 다마즈티와 맞서며 새 생명이 무엇인지 질문을 주고받습니다. 대화 뒤 군집은 스스로 삶을 끝내고 다시 태어나며, 로도스는 그중 한 존재와 이어지게 됩니다.",
       "spoiler": "medium",
@@ -26380,15 +27190,15 @@ window.STORY_DATA = {
     },
     {
       "event": "main-12",
-      "person": "wiki-duke-of-caster",
-      "text": "자신의 부대를 통해 로도스에 협력을 제안합니다. 노포트 봉쇄를 뚫고 주민을 구하는 데 뜻을 같이하지만, 살카즈 비행함의 기술을 확보하려는 목적도 갖고 있습니다.",
+      "person": "ascalon",
+      "text": "아미야와 함께 빼앗긴 방송 장치를 찾으러 살카즈의 비행함에 오릅니다. 배를 움직이는 힘이 살카즈 망자들의 원한과 이어져 있음을 마주하고, 에블라나가 나타나 불꽃으로 위기를 밀어냅니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
     {
       "event": "main-12",
-      "person": "ascalon",
-      "text": "아미야와 함께 빼앗긴 방송 장치를 찾으러 살카즈의 비행함에 오릅니다. 배를 움직이는 힘이 살카즈 망자들의 원한과 이어져 있음을 마주하고, 에블라나가 나타나 불꽃으로 위기를 밀어냅니다.",
+      "person": "wiki-duke-of-caster",
+      "text": "자신의 부대를 통해 로도스에 협력을 제안합니다. 노포트 봉쇄를 뚫고 주민을 구하는 데 뜻을 같이하지만, 살카즈 비행함의 기술을 확보하려는 목적도 갖고 있습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_12/Synopsis"
     },
@@ -26408,6 +27218,20 @@ window.STORY_DATA = {
     },
     {
       "event": "main-13",
+      "person": "amiya",
+      "text": "살루스에게 납치된 뒤 살카즈 왕관을 넘기라는 요구를 거부하고 독타 일행의 도움으로 빠져나온다. 라이프 스파인 위에서 로고스와 함께 피의 군주에게 맞서며, 살카즈의 왕관은 받아들이되 망자들의 복수를 위해 그 힘을 쓰라는 요구는 거부한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "siege",
+      "text": "윈더미어의 지휘부가 피난민과 감염된 병사를 두고 철수하자 델핀과 함께 사람들을 이끈다. 첼레이에서 혼의 부대와 마을을 지키고, 이후 주민과 병사들을 공작들의 지휘에서 독립한 새 엑셈플러스로 묶는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
       "person": "doctor",
       "text": "함선이 습격당하고 아미야가 납치되자 그녀의 행방을 쫓습니다. 로고스·아스카론과 함께 유적의 피의 제단을 조사하며 살카즈의 의식과 그 영향이 도시 밖으로도 번질 위험을 알아냅니다.",
       "spoiler": "medium",
@@ -26415,43 +27239,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-13",
-      "person": "siege",
-      "text": "노포트 봉쇄 속에서 주민들을 이끌며 빅토리아의 미래가 왕가의 혈통만으로 정해져서는 안 된다는 생각을 굳힙니다. 한편 왕의 검을 전선에서 쓰는 문제를 놓고 공작들과 협상을 이어 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "amiya",
-      "text": "살카즈 왕정의 유산과 자신의 역할을 마주한 채 로도스와 다시 합류합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-confessarii",
-      "text": "아미야를 납치해 살카즈의 피의 의식에 끌어들이고 로도스의 추적을 받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-salus",
-      "text": "고해신부 무리를 이끌고 아미야를 납치해 살카즈의 피 의식 현장으로 끌고 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "w",
-      "text": "외드레르·이네스와 마주친 환영 속에서 바벨의 기억과 지금의 전쟁을 비교합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "talulah",
-      "text": "런디니움 바깥에서 감염된 탈영병과 난민을 모아 피난길을 마련합니다.",
+      "person": "wiki-duq-arael",
+      "text": "피의 군주로서 고해신부들과 윈더미어의 함선에 침입한다. 라이프 스파인 위에서 아미야에게 살카즈의 복수를 요구하고, 로고스와 아미야의 저항을 받다가 시간의 흐름에서 벗어난 공간으로 떨어진다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
@@ -26464,6 +27253,34 @@ window.STORY_DATA = {
     },
     {
       "event": "main-13",
+      "person": "wiki-salus",
+      "text": "고해신부 무리를 이끌고 아미야를 납치해 살카즈의 피 의식 현장으로 끌고 갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-nine",
+      "text": "탈룰라와 함께 감염된 탈영병과 피난민을 받아들이고 약을 찾아 양조장으로 향한다. 현지 조직의 폭력과 가드의 희생을 겪은 뒤 감염 여부와 관계없이 억압받는 사람을 위해 싸우겠다고 선언한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-guard-npc",
+      "text": "양조장에서 현지 리유니온이 무고한 살카즈 감염자들에게 가한 폭력을 확인한다. 폭발 위험이 커지자 사람들을 대피시키고, 약을 가지러 돌아간 사람을 구하려다 불길에 갇힌다. 그가 남긴 말은 나인이 리유니온의 목적을 다시 생각하는 계기가 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "hoederer",
+      "text": "W와 이네스와 함께 에르망가르드가 보여 주는 살카즈 역사의 환영을 겪고 지하에서 라이프 스파인을 발견한다. 라이프 스파인의 의식에 누가 전장에서 살아남을지 내기를 제안해 일행을 현실로 돌려보내도록 한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
       "person": "wiki-delphine",
       "text": "시즈와 함께 가족의 정치적 선택이 시민의 목숨에 미칠 영향을 고민합니다.",
       "spoiler": "medium",
@@ -26471,22 +27288,15 @@ window.STORY_DATA = {
     },
     {
       "event": "main-13",
-      "person": "wiki-ermengarde",
-      "text": "W 일행을 환영 속에 가두어 바벨의 기억을 다시 체험하게 합니다.",
+      "person": "wiki-duke-of-windermere",
+      "text": "노포트 피난민과 로도스, 글래스고 갱을 함선에 태워 런디니움에서 철수합니다. 이동 중 고해신부와 피의 군주가 침입하고 다마즈티의 함정까지 겹쳐 치명상을 입으며, 델핀은 어머니의 마지막을 지켜봅니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
     {
       "event": "main-13",
-      "person": "paprika",
-      "text": "피의 제단을 지키던 살카즈로 나타나 독타 일행과 대화하며 자신이 따른 명령을 의심합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-nowell",
-      "text": "리유니온에 합류한 난민 사이에 섞여 자신의 오래된 정체를 숨깁니다.",
+      "person": "wiki-damazti-cluster",
+      "text": "윈더미어 공작의 함선이 피난민을 태우고 이동하는 동안 함정을 꾸밉니다. 고해신부와 피의 군주의 침입까지 겹치면서 공작은 치명상을 입고 함선에 탄 사람들도 위기에 놓입니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
@@ -26506,43 +27316,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-13",
-      "person": "ines",
-      "text": "W, 외드레르와 함께 리치 에르망가르드와 조우해 살카즈의 오래된 역사를 비추는 환영을 겪습니다. 환영을 벗어난 뒤 동료들과 지하의 라이프 스파인과 의식의 흔적을 발견합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "hoederer",
-      "text": "W, 이네스와 함께 에르망가르드가 보여 주는 살카즈 역사의 환영을 겪습니다. 이후 지하에서 라이프 스파인을 발견하고, 이를 관리하던 옛 동료와도 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "kaltsit",
-      "text": "살카즈의 제단과 탑 뒤에 숨은 계획을 추적하며 군사위원회의 목표가 런디니움을 넘어선다는 사실을 파악합니다. 최초의 오리지늄을 이용하려는 계획은 테라 전체에 영향을 줄 수 있습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-nine",
-      "text": "탈룰라와 함께 감염된 탈영병과 피난민을 모으고 약을 구하러 양조장으로 향합니다. 현지 리유니온이 다른 감염자에게 가한 폭력과 마주하면서 누구를 지키는 운동인지 다시 시험받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "rockrock",
-      "text": "스테인리스와 함께 브렌트우드에서 제단 건설에 동원된 주민들을 구하려 합니다. 주민들의 피를 빼앗는 의식이 드러나면서 로도스와 자구군은 라이프 스파인을 둘러싼 전투에 뛰어듭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
-    },
-    {
-      "event": "main-13",
-      "person": "wiki-duke-of-windermere",
-      "text": "노포트 피난민과 로도스, 글래스고 갱을 함선에 태워 런디니움에서 철수합니다. 이동 중 고해신부와 피의 군주가 침입하고 다마즈티의 함정까지 겹쳐 치명상을 입으며, 델핀은 어머니의 마지막을 지켜봅니다.",
+      "person": "talulah",
+      "text": "런디니움 바깥에서 감염된 탈영병과 난민을 모아 피난길을 마련합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
@@ -26555,15 +27330,57 @@ window.STORY_DATA = {
     },
     {
       "event": "main-13",
-      "person": "wiki-guard-npc",
-      "text": "리유니온의 피난민 보호 활동에 참여하던 중 현지 조직이 같은 감염자인 살카즈에게 가한 폭력과 마주합니다. 감염자를 지킨다는 명분으로 또 다른 억압을 정당화하는 동료들의 행동을 외면할 수 없게 됩니다.",
+      "person": "kaltsit",
+      "text": "살카즈의 제단과 탑 뒤에 숨은 계획을 추적하며 군사위원회의 목표가 런디니움을 넘어선다는 사실을 파악합니다. 최초의 오리지늄을 이용하려는 계획은 테라 전체에 영향을 줄 수 있습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
     {
       "event": "main-13",
-      "person": "wiki-damazti-cluster",
-      "text": "윈더미어 공작의 함선이 피난민을 태우고 이동하는 동안 함정을 꾸밉니다. 고해신부와 피의 군주의 침입까지 겹치면서 공작은 치명상을 입고 함선에 탄 사람들도 위기에 놓입니다.",
+      "person": "w",
+      "text": "외드레르·이네스와 마주친 환영 속에서 바벨의 기억과 지금의 전쟁을 비교합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "ines",
+      "text": "W, 외드레르와 함께 리치 에르망가르드와 조우해 살카즈의 오래된 역사를 비추는 환영을 겪습니다. 환영을 벗어난 뒤 동료들과 지하의 라이프 스파인과 의식의 흔적을 발견합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-ermengarde",
+      "text": "W 일행을 환영 속에 가두어 바벨의 기억을 다시 체험하게 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "rockrock",
+      "text": "스테인리스와 함께 브렌트우드에서 제단 건설에 동원된 주민들을 구하려 합니다. 주민들의 피를 빼앗는 의식이 드러나면서 로도스와 자구군은 라이프 스파인을 둘러싼 전투에 뛰어듭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-confessarii",
+      "text": "아미야를 납치해 살카즈의 피의 의식에 끌어들이고 로도스의 추적을 받습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "paprika",
+      "text": "피의 제단을 지키던 살카즈로 나타나 독타 일행과 대화하며 자신이 따른 명령을 의심합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
+    },
+    {
+      "event": "main-13",
+      "person": "wiki-nowell",
+      "text": "리유니온에 합류한 난민 사이에 섞여 자신의 오래된 정체를 숨깁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_13/Synopsis"
     },
@@ -26576,15 +27393,22 @@ window.STORY_DATA = {
     },
     {
       "event": "main-14",
-      "person": "doctor",
-      "text": "런디니움 탑에서 번지는 오리지늄 재앙을 막으려 로도스를 이끕니다.",
+      "person": "theresa",
+      "text": "살카즈가 겪어 온 비극과 자신이 준비한 전쟁의 끝을 아미야에게 전합니다. 마지막 대면에서 자신의 판단을 설명하고, 아미야가 살아 있는 사람들의 미래를 향해 나아가도록 뜻을 남깁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
     {
       "event": "main-14",
-      "person": "theresa",
-      "text": "살카즈가 겪어 온 비극과 자신이 준비한 전쟁의 끝을 아미야에게 전합니다. 마지막 대면에서 자신의 판단을 설명하고, 아미야가 살아 있는 사람들의 미래를 향해 나아가도록 뜻을 남깁니다.",
+      "person": "doctor",
+      "text": "군사위원회의 의식을 막으려 로도스 일행과 비행함을 뒤쫓는다. 오리지늄에 삼켜진 뒤 프리스티스와 옛 로도스의 모습을 보고, 죽은 동료들이 살아 있는 듯한 환영을 켈시와 함께 지나 테레시아에게 닿는다. 작별의 순간 테레시아에게 로도스와 테라의 앞날을 부탁받는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "w",
+      "text": "아스카론이 맨프레드를 막는 사이 라이프 스파인을 깨우고, 이를 살카즈 비행함에 들이받아 아미야와 독타가 오를 길을 연다. 원한의 중심에 있는 존재를 끌어내 함선의 동력을 끊고, 오리지늄 안에서 테레시아에게 위샤델이라는 이름을 받는다. 현실로 돌아온 뒤 바벨의 이름으로 군사위원회 병사들에게 전쟁의 끝을 알린다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
@@ -26597,36 +27421,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-14",
-      "person": "w",
-      "text": "북부 협곡에서 사라진 정찰대의 행방을 조사하며 맨프레드 부대와 맞섭니다. 적의 약점을 찾아 외드레르에게 전달해, 로도스가 탑에 접근할 시간을 벌기 위한 침투 작전을 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "hoederer",
-      "text": "맨프레드가 이끄는 군사위원회 전력을 막기 위해 암살 작전을 제안합니다. 아스카론과 협력해 침투를 준비하며, 실패할 위험을 알면서도 동료들이 탑에 도달할 시간을 벌려 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "ascalon",
-      "text": "외드레르의 위험한 작전을 받아들이고 침투조를 움직입니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
       "person": "logos",
-      "text": "살카즈의 피와 주술이 재앙에 쓰이는 방식을 파악하고 이를 끊을 방법을 찾습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
-    },
-    {
-      "event": "main-14",
-      "person": "wiki-manfred",
-      "text": "로도스의 침투와 빅토리아의 반격을 막으려 군사위원회의 잔여 전력을 지휘합니다.",
+      "text": "로도스 일행이 건널 다리를 만들고 나흐체러의 왕을 홀로 막아 중상을 입는다. 어머니가 남긴 장치로 살아남아 다시 합류하며, 오리지늄 안에서는 탑으로 가는 길을 살카즈의 혼들이 막자 동료들이 오를 수 있도록 뒤에 남는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
@@ -26639,8 +27435,22 @@ window.STORY_DATA = {
     },
     {
       "event": "main-14",
-      "person": "wiki-lifebone",
-      "text": "살카즈의 피 의식을 전장에 퍼뜨려 로도스가 탑에 닿기 어렵게 만듭니다.",
+      "person": "theresis",
+      "text": "런디니움에서 전쟁을 계속 지휘하며 살카즈의 미래를 위한 계획을 밀어붙입니다. 비행함이 추락하고 전쟁이 끝을 향하는 가운데 최초의 오리지늄을 손에 넣습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "ascalon",
+      "text": "W와 함께 군사위원회가 다시 차지한 라이프 스파인에 접근한다. W가 라이프 스파인을 깨울 수 있도록 폭파 장치를 쥔 맨프레드에게 몸을 던진다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "wiki-manfred",
+      "text": "로도스의 침투와 빅토리아의 반격을 막으려 군사위원회의 잔여 전력을 지휘합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
@@ -26660,15 +27470,22 @@ window.STORY_DATA = {
     },
     {
       "event": "main-14",
-      "person": "theresis",
-      "text": "런디니움에서 전쟁을 계속 지휘하며 살카즈의 미래를 위한 계획을 밀어붙입니다. 비행함이 추락하고 전쟁이 끝을 향하는 가운데 최초의 오리지늄을 손에 넣습니다.",
+      "person": "wiki-confessarii",
+      "text": "나이팅게일을 이용해 살카즈의 왕관을 차지하려 합니다. 이를 막고 나이팅게일을 되찾으려는 샤이닝과 니어가 맞서면서 고해신부의 계획은 전장의 또 다른 대립으로 이어집니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
     {
       "event": "main-14",
-      "person": "bagpipe",
-      "text": "혼과 함께 런디니움 주변의 빅토리아 전선에 섭니다. 공작들의 군대와 살카즈, 더블린이 뒤엉킨 가운데 전투에 참여하고 동료들과 전장을 지킵니다.",
+      "person": "hoederer",
+      "text": "맨프레드가 이끄는 군사위원회 전력을 막기 위해 암살 작전을 제안합니다. 아스카론과 협력해 침투를 준비하며, 실패할 위험을 알면서도 동료들이 탑에 도달할 시간을 벌려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
+    },
+    {
+      "event": "main-14",
+      "person": "wiki-lifebone",
+      "text": "살카즈의 피 의식을 전장에 퍼뜨려 로도스가 탑에 닿기 어렵게 만듭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
@@ -26681,8 +27498,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-14",
-      "person": "wiki-confessarii",
-      "text": "나이팅게일을 이용해 살카즈의 왕관을 차지하려 합니다. 이를 막고 나이팅게일을 되찾으려는 샤이닝과 니어가 맞서면서 고해신부의 계획은 전장의 또 다른 대립으로 이어집니다.",
+      "person": "bagpipe",
+      "text": "혼과 함께 런디니움 주변의 빅토리아 전선에 섭니다. 공작들의 군대와 살카즈, 더블린이 뒤엉킨 가운데 전투에 참여하고 동료들과 전장을 지킵니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_14/Synopsis"
     },
@@ -26730,6 +27547,20 @@ window.STORY_DATA = {
     },
     {
       "event": "main-15",
+      "person": "wiki-hierda",
+      "text": "결정화한 뒤 낯선 우주선에서 눈을 뜨고 여러 문명의 역사를 배운다. 처음 보는 세계에 이끌리면서도 테라에 남은 사람들을 잊지 못하고, 프리스티스가 선택을 묻자 테라로 돌아가기로 한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
+      "person": "wiki-prts",
+      "text": "함선에서 이상을 일으키고 평소 동료들을 돕던 기계들이 일행을 공격한다. 엘리트 오퍼레이터들은 함선 심부에서 부서져도 재생하는 장치가 PRTS의 동력과 기록을 떠받치는 석관에 연결돼 있음을 확인한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
+    },
+    {
+      "event": "main-15",
       "person": "theresis",
       "text": "오리지늄에 스며든 옛 존재의 환영과 대면합니다. 살카즈의 삶과 역사를 지워야 할 실수로 여기는 시선에 맞서, 자신들이 살아온 역사를 지키겠다는 뜻을 밝힙니다.",
       "spoiler": "medium",
@@ -26744,13 +27575,6 @@ window.STORY_DATA = {
     },
     {
       "event": "main-15",
-      "person": "wiki-prts",
-      "text": "함선의 기록과 시스템을 통해 일행에게 옛 계획이 현재 어디까지 진행됐는지 보여줍니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
       "person": "warfarin",
       "text": "원인을 알 수 없는 증상이 퍼지는 함선에서 동료를 치료하며 의료팀을 지휘합니다.",
       "spoiler": "medium",
@@ -26760,13 +27584,6 @@ window.STORY_DATA = {
       "event": "main-15",
       "person": "rosmontis",
       "text": "로도스의 붕괴 속에서 동료와 함께 함선의 생존자를 구합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
-    },
-    {
-      "event": "main-15",
-      "person": "wiki-hierda",
-      "text": "결정화 뒤에도 낯선 공간에서 깨어나 자신에게 일어난 일을 이해하려 합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_15/Synopsis"
     },
@@ -26786,15 +27603,50 @@ window.STORY_DATA = {
     },
     {
       "event": "main-16",
-      "person": "crownslayer",
-      "text": "극북 광산의 생존자들이 학살 소식을 전하며 리유니온과 학생들의 움직임으로 이어지는 과정을 지켜봅니다. 다시 모이는 리유니온과 함께 위험에 놓인 사람들의 피난을 돕습니다.",
+      "person": "raidian",
+      "text": "극북 광산을 조사하다 연락이 끊겨 로도스 구조대가 뒤를 따른다. 피난민의 일부와 함께 남고, 통신으로 여러 광산에서 같은 일이 벌어졌음을 알아낸다. 로도스는 광맥 고갈과 광부 학살을 우르수스 전역에 방송한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
     },
     {
       "event": "main-16",
-      "person": "raidian",
-      "text": "우르수스 극북 광산 지역을 조사하다 연락이 끊겨 로도스가 구조 작전에 나서는 계기를 만듭니다.",
+      "person": "wiki-rankin",
+      "text": "극북 광산에서 강제 실험을 당하던 광부들을 이끌고 탈출합니다. 추적 장치를 제거하며 사람들과 국경으로 향하고, 동료에게 자신의 선택을 강요했음을 돌아봅니다. 네바 호수 근처의 전초기지를 확보하지만 제4집단군의 포격을 받습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-vetochki",
+      "text": "광산에서 사라진 광부들이 돌아오지 않는 사실을 렌킨에게 알려 반란의 계기를 만듭니다. 탈출한 사람들과 함께 이동하며 종소리로 유로지비의 영향에 사로잡힌 이들이 정신을 차리도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "main16-ksenia",
+      "text": "석관 연구에 관여한 연구자로, 광부들을 대상으로 한 실험에 반대해 핵심 연구에서 밀려난다. 연구소에서 독타 일행에게 구조되고, 감염자의 통증을 줄이지만 광석병을 없애지는 않는 물질 오카에 대해 이야기한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-mon3tr",
+      "text": "독타와 아미야를 따라 실종된 라이디언과 석관의 단서를 찾아 극북으로 갑니다. 광산 깊은 곳에서 독타와 함께 액체 오리지늄의 강을 발견하고, 호수에서 포격을 피해 달아나는 사람들을 구하는 데 힘을 보탭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "wiki-yurodstvo",
+      "text": "나디아의 모습으로 피난민들 사이에 숨어 사람들의 인식에 영향을 미칩니다. 만트라가 정신적으로 맞서고 베토치키가 종을 울리면서 광부들은 자신이 무엇을 믿고 있었는지 돌아보고 영향에서 벗어납니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
+    },
+    {
+      "event": "main-16",
+      "person": "crownslayer",
+      "text": "극북 광산의 생존자들이 학살 소식을 전하며 리유니온과 학생들의 움직임으로 이어지는 과정을 지켜봅니다. 다시 모이는 리유니온과 함께 위험에 놓인 사람들의 피난을 돕습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
     },
@@ -26820,34 +27672,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
     },
     {
-      "event": "main-16",
-      "person": "wiki-rankin",
-      "text": "극북 광산에서 강제 실험을 당하던 광부들을 이끌고 탈출합니다. 추적 장치를 제거하며 사람들과 국경으로 향하고, 동료에게 자신의 선택을 강요했음을 돌아봅니다. 네바 호수 근처의 전초기지를 확보하지만 제4집단군의 포격을 받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-vetochki",
-      "text": "광산에서 사라진 광부들이 돌아오지 않는 사실을 렌킨에게 알려 반란의 계기를 만듭니다. 탈출한 사람들과 함께 이동하며 종소리로 유로지비의 영향에 사로잡힌 이들이 정신을 차리도록 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-mon3tr",
-      "text": "독타와 아미야를 따라 실종된 라이디언과 석관의 단서를 찾아 극북으로 갑니다. 광산 깊은 곳에서 독타와 함께 액체 오리지늄의 강을 발견하고, 호수에서 포격을 피해 달아나는 사람들을 구하는 데 힘을 보탭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
-      "event": "main-16",
-      "person": "wiki-yurodstvo",
-      "text": "나디아의 모습으로 피난민들 사이에 숨어 사람들의 인식에 영향을 미칩니다. 만트라가 정신적으로 맞서고 베토치키가 종을 울리면서 광부들은 자신이 무엇을 믿고 있었는지 돌아보고 영향에서 벗어납니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_16/Synopsis"
-    },
-    {
       "event": "main-17",
       "person": "doctor",
       "text": "켈시의 단서를 따라 우르수스의 위성도시 젤그라드로 가서 제국군의 석관 연구를 조사합니다. 감염자의 희생을 바탕으로 한 연구와 제1·제4집단군의 권력 다툼을 마주하면서 아미야 일행과 도시의 위기에 대응합니다.",
@@ -26856,22 +27680,8 @@ window.STORY_DATA = {
     },
     {
       "event": "main-17",
-      "person": "amiya",
-      "text": "제국군 파벌 싸움과 석관 연구 사이에서 로도스의 구조 임무를 이끕니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Episode_17"
-    },
-    {
-      "event": "main-17",
-      "person": "talulah",
-      "text": "시르카를 구해 주고 리유니온과 함께 젤그라드의 공장을 습격합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
-    },
-    {
-      "event": "main-17",
-      "person": "prts-svetlana-buterina",
-      "text": "제1집단군 원수로 젤그라드 철수를 결정하고, 반역으로 받아들인 아들 아나톨리의 칼에 찔립니다.",
+      "person": "prts-silka",
+      "text": "아나톨리 암살에 실패한 뒤 탈룰라와 만나 리유니온의 공장 급습에 합류합니다. 도시를 향한 포격을 막기 위해 자신과 아나톨리의 출생에 관한 비밀을 공개하고, 그 선택으로 위기를 멈추게 합니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
@@ -26884,8 +27694,22 @@ window.STORY_DATA = {
     },
     {
       "event": "main-17",
-      "person": "prts-silka",
-      "text": "아나톨리 암살에 실패한 뒤 탈룰라와 만나 리유니온의 공장 급습에 합류합니다. 도시를 향한 포격을 막기 위해 자신과 아나톨리의 출생에 관한 비밀을 공개하고, 그 선택으로 위기를 멈추게 합니다.",
+      "person": "amiya",
+      "text": "제국군 파벌 싸움과 석관 연구 사이에서 로도스의 구조 임무를 이끕니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Episode_17"
+    },
+    {
+      "event": "main-17",
+      "person": "prts-svetlana-buterina",
+      "text": "제1집단군 원수로 젤그라드 철수를 결정하고, 반역으로 받아들인 아들 아나톨리의 칼에 찔립니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "main-17",
+      "person": "talulah",
+      "text": "아나톨리 암살에 실패한 시르카를 구한다. 리유니온과 함께 젤그라드의 공장을 급습해 구출에 나서고, 포격 위기가 지난 뒤 국경으로 향한다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
@@ -27003,15 +27827,15 @@ window.STORY_DATA = {
     },
     {
       "event": "obsidian",
-      "person": "wiki-cronin",
-      "text": "시스타의 재난전령이자 시장 비서로 화산 분화 경고를 무시하고 실론과 박사를 체포하려 한다. 금지된 흑요석 채굴의 증거를 없애려다 시장 헤르만에게 적발되어 해임되며, 분화를 이용해 헤르만의 도시를 파괴하려 했다는 속내를 드러낸다.",
+      "person": "wiki-schwarz",
+      "text": "실론의 경호원으로 처음에는 시장 대리를 맡은 크로닌의 명령에 따라 그녀를 막는다. 방송국에서 어린 시절부터 함께한 실론의 설득을 듣고 부하들을 물려 방송을 돕는다. 한편 시장을 위해 크로닌의 불법 채굴 증거도 추적하고 있었다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Heart_of_Surging_Flame/Synopsis"
     },
     {
       "event": "obsidian",
-      "person": "wiki-schwarz",
-      "text": "실론의 경호원으로 처음에는 시장 대리를 맡은 크로닌의 명령에 따라 그녀를 막는다. 방송국에서 어린 시절부터 함께한 실론의 설득을 듣고 부하들을 물려 방송을 돕는다. 한편 시장을 위해 크로닌의 불법 채굴 증거도 추적하고 있었다.",
+      "person": "wiki-cronin",
+      "text": "시스타의 재난전령이자 시장 비서로 화산 분화 경고를 무시하고 실론과 박사를 체포하려 한다. 금지된 흑요석 채굴의 증거를 없애려다 시장 헤르만에게 적발되어 해임되며, 분화를 이용해 헤르만의 도시를 파괴하려 했다는 속내를 드러낸다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Heart_of_Surging_Flame/Synopsis"
     },
@@ -27038,6 +27862,13 @@ window.STORY_DATA = {
     },
     {
       "event": "code-brawl",
+      "person": "mostima",
+      "text": "마피아에게 쫓기던 바이슨을 숨기고 인파가 많은 축제 거리로 이끈다. 카포네가 바이슨을 처형하려 할 때 구해 주고 마지막 대치에서 시간 조작 아츠로 동료들을 돕는다. 오랫동안 만나지 못한 엑시아와 재회하지만 그녀의 언니와 관련된 과거는 나중에 이야기하겠다고 약속한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
+    },
+    {
+      "event": "code-brawl",
       "person": "wiki-rat-king",
       "text": "사탕 가게 주인으로 바이슨과 모스티마를 만난 뒤, 마피아가 민간인을 다치게 하자 용문에서의 활동을 묵인하던 거래를 거둔다. 카포네와 감비노의 부하들을 자기편으로 돌려 두 사람을 몰아내고, 축제에서는 펭귄 로지스틱스와 대치하는 소동을 벌인다. 마지막 폭탄에서는 사탕과 축제 인사가 나온다.",
       "spoiler": "medium",
@@ -27045,8 +27876,15 @@ window.STORY_DATA = {
     },
     {
       "event": "code-brawl",
-      "person": "mostima",
-      "text": "마피아에게 쫓기던 바이슨을 숨기고 인파가 많은 축제 거리로 이끈다. 카포네가 바이슨을 처형하려 할 때 구해 주고 마지막 대치에서 시간 조작 아츠로 동료들을 돕는다. 오랫동안 만나지 못한 엑시아와 재회하지만 그녀의 언니와 관련된 과거는 나중에 이야기하겠다고 약속한다.",
+      "person": "texas",
+      "text": "펭귄 로지스틱스의 일원으로 마피아의 습격과 추격에 맞선다. 술집을 포위한 감비노가 시라쿠사에서 달아난 과거를 들추며 도발하지만 그를 물리치고, 축제에서 동료들과 래트킹의 공격을 버텨 낸다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
+    },
+    {
+      "event": "code-brawl",
+      "person": "exusiai",
+      "text": "크루아상과 함께 마피아에게 습격당한 바이슨을 구한다. 모스티마와 오랜만에 재회해 언니와 관련된 라테라노의 과거를 묻지만, 국가 기밀에 막혀 찾지 못한 진상은 훗날 듣기로 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
     },
@@ -27068,20 +27906,6 @@ window.STORY_DATA = {
       "event": "code-brawl",
       "person": "wiki-gambino",
       "text": "바이슨과 펭귄 로지스틱스를 제거하려 하며 바이슨을 인질로 잡는다. 카포네가 자신을 배신한다고 의심해 충돌하고 래트킹에게도 덤비지만, 부하들을 잃고 용문에서 달아난다. 이후 텍사스를 찾아온 라플란드와 마주친다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
-    },
-    {
-      "event": "code-brawl",
-      "person": "texas",
-      "text": "펭귄 로지스틱스의 일원으로 마피아의 습격과 추격에 맞선다. 술집을 포위한 감비노가 시라쿠사에서 달아난 과거를 들추며 도발하지만 그를 물리치고, 축제에서 동료들과 래트킹의 공격을 버텨 낸다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
-    },
-    {
-      "event": "code-brawl",
-      "person": "exusiai",
-      "text": "크루아상과 함께 마피아에게 습격당한 바이슨을 구한다. 모스티마와 오랜만에 재회해 언니와 관련된 라테라노의 과거를 묻지만, 국가 기밀에 막혀 찾지 못한 진상은 훗날 듣기로 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Code_of_Brawl/Synopsis"
     },
@@ -27157,13 +27981,6 @@ window.STORY_DATA = {
     },
     {
       "event": "darknights",
-      "person": "theresa",
-      "text": "바벨 수송대가 습격받은 전장에서 W와 이네스를 구하고 함선으로 데려온다. W를 소모할 용병이 아닌 한 사람으로 대하며 머물 자리를 준다. 이후 암살당해 W와 바벨 사람들에게 깊은 상실을 남긴다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Darknights_Memoir/Synopsis"
-    },
-    {
-      "event": "darknights",
       "person": "ines",
       "text": "새로 W의 이름을 이은 용병을 경계하면서도 외드레르의 부대에서 함께 일한다. 바벨의 수송 임무 중 W와 다투고 다시 힘을 합쳐 습격에 맞서며, 테레시아에게 구조된다. 이후 외드레르와 정식 계약을 끝내고도 바벨을 돕다가 우르수스에서 탈룰라의 이중적인 그림자를 감지한다.",
       "spoiler": "medium",
@@ -27173,6 +27990,13 @@ window.STORY_DATA = {
       "event": "darknights",
       "person": "hoederer",
       "text": "옛 W가 전사하자 그의 무기를 가져온 여성을 새 W로 받아들인다. 이네스와 바벨의 수송 임무를 맡고 계약 종료 뒤에도 협력하며, 테레시아의 죽음 이후 섭정의 명령으로 리유니온에 합류한다. 체르노보그 사건에서 스카우트를 죽이고, 이후 W에게 이네스의 경고와 죽었다는 소식을 전한 뒤 빅토리아로 향한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Darknights_Memoir/Synopsis"
+    },
+    {
+      "event": "darknights",
+      "person": "theresa",
+      "text": "바벨 수송대가 습격받은 전장에서 W와 이네스를 구하고 함선으로 데려온다. W를 소모할 용병이 아닌 한 사람으로 대하며 머물 자리를 준다. 이후 암살당해 W와 바벨 사람들에게 깊은 상실을 남긴다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Darknights_Memoir/Synopsis"
     },
@@ -27213,15 +28037,15 @@ window.STORY_DATA = {
     },
     {
       "event": "maria",
-      "person": "nearl",
-      "text": "카시미어에서 추방돼 로도스에서 지내다 여동생 마리아가 위험에 처하자 경기장에 돌아옵니다. 쓰러지기 직전의 마리아와 함께 쌍둥이 기사에게 맞서고, 귀환은 기사 경기와 감염자 문제를 둘러싼 다음 싸움의 계기가 됩니다.",
+      "person": "whislash",
+      "text": "이모 조피아로서 무모한 출전을 걱정하면서도 마리아를 지도하고 장비와 경기 준비를 돕습니다. 위험한 상대 앞에서 기권을 권하고 파트너도 구하지만, 결국 경기장 밖에서 마리아를 구하려다 플래티넘에게 가로막힙니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Maria_Nearl/Synopsis"
     },
     {
       "event": "maria",
-      "person": "whislash",
-      "text": "이모 조피아로서 무모한 출전을 걱정하면서도 마리아를 지도하고 장비와 경기 준비를 돕습니다. 위험한 상대 앞에서 기권을 권하고 파트너도 구하지만, 결국 경기장 밖에서 마리아를 구하려다 플래티넘에게 가로막힙니다.",
+      "person": "nearl",
+      "text": "카시미어에서 추방돼 로도스에서 지내다 여동생 마리아가 위험에 처하자 경기장에 돌아옵니다. 쓰러지기 직전의 마리아와 함께 쌍둥이 기사에게 맞서고, 귀환은 기사 경기와 감염자 문제를 둘러싼 다음 싸움의 계기가 됩니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Maria_Nearl/Synopsis"
     },
@@ -27255,13 +28079,6 @@ window.STORY_DATA = {
     },
     {
       "event": "mansfield",
-      "person": "kafka",
-      "text": "일부러 죄수가 되어 맨스필드에 들어가 앤서니에게 접근하고 탈출을 준비합니다. 정전과 제어 장치 손상으로 계획이 흔들리는 가운데 남은 장치를 조작해 탑을 내리고 일행의 탈출로를 엽니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Mansfield_Break/Synopsis"
-    },
-    {
-      "event": "mansfield",
       "person": "robin",
       "text": "사업 실패 뒤 병든 아버지의 치료비를 마련하려 제셀톤의 의뢰를 받고 앤서니를 죽이기 위해 교도소에 들어간다. 정체를 알아챈 앤서니가 탈출을 제안하자 일행에 섞여 다시 암살을 시도하지만, 오히려 제어 장치를 망가뜨린다. 사정을 들은 앤서니가 자신을 용서하고 제셀톤이 돔마를 인질로 잡자, 칼을 던져 돔마를 구하는 쪽을 택한다.",
       "spoiler": "medium",
@@ -27269,8 +28086,22 @@ window.STORY_DATA = {
     },
     {
       "event": "mansfield",
+      "person": "kafka",
+      "text": "일부러 죄수가 되어 맨스필드에 들어가 앤서니에게 접근하고 탈출을 준비합니다. 정전과 제어 장치 손상으로 계획이 흔들리는 가운데 남은 장치를 조작해 탑을 내리고 일행의 탈출로를 엽니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Mansfield_Break/Synopsis"
+    },
+    {
+      "event": "mansfield",
       "person": "wiki-domma",
       "text": "교도소의 의무실과 영안실에서 자란 살카즈 의사로 앤서니와 친해지고 다친 로빈을 치료한다. 처음에는 바깥으로 떠나기를 망설이지만 동행하기로 하며, 제셀톤에게 인질로 잡혔다가 로빈과 동료들에게 구조된다. 탈출 후 로터스라는 이름으로 로도스에 간다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Mansfield_Break/Synopsis"
+    },
+    {
+      "event": "mansfield",
+      "person": "wiki-jesselton-williams",
+      "text": "하이드브로를 위해 간수로 위장해 앤서니를 노리고, 로빈에게 병원비를 미끼로 암살을 강요합니다. 돔마를 인질로 삼고 수감자들의 목걸이와 금속 아츠로 탈출을 막지만 잠입한 사리아에게 패합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Mansfield_Break/Synopsis"
     },
@@ -27296,13 +28127,6 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Mansfield_Break/Synopsis"
     },
     {
-      "event": "mansfield",
-      "person": "wiki-jesselton-williams",
-      "text": "하이드브로를 위해 간수로 위장해 앤서니를 노리고, 로빈에게 병원비를 미끼로 암살을 강요합니다. 돔마를 인질로 삼고 수감자들의 목걸이와 금속 아츠로 탈출을 막지만 잠입한 사리아에게 패합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Mansfield_Break/Synopsis"
-    },
-    {
       "event": "who-is-real",
       "person": "lava",
       "text": "니엔의 부탁으로 크루스와 산에 들어가 자매 시를 찾다가 그림 속 마을에 갇힙니다. 되풀이되는 마을의 비밀을 조사하고 시가 만든 기억 속 세계를 마주하며, 니엔이 수이의 조각과 자매들의 운명을 설명하는 것을 듣습니다.",
@@ -27318,6 +28142,13 @@ window.STORY_DATA = {
     },
     {
       "event": "who-is-real",
+      "person": "saga",
+      "text": "스승이 간직했던 시의 그림에 감명을 받아 여행하다 그림 속 마을에서 라바 일행을 만납니다. 스스로 그림 밖으로 나와 시에게 스승이 고통받는 사람들을 도우며 걸었던 길을 전하고, 정해진 결말을 기다릴 필요는 없다고 설득합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Who_is_Real/Synopsis"
+    },
+    {
+      "event": "who-is-real",
       "person": "nian",
       "text": "자매 시를 찾기 위해 라바와 크루스를 보내고, 그림에 갇힌 라바에게 수이가 열두 조각으로 나뉜 내력을 설명합니다. 자매들을 모아 정해진 부활에 저항하려 하며 시와 여러 그림 세계를 넘나들며 싸웁니다.",
       "spoiler": "medium",
@@ -27325,15 +28156,15 @@ window.STORY_DATA = {
     },
     {
       "event": "who-is-real",
-      "person": "kroos",
-      "text": "라바와 함께 시를 찾으러 갔다가 그림 속 마을을 조사합니다. 시가 일행을 각자의 기억 속에 가두었을 때 볼리바르에서 비글이 다쳤던 비극을 다시 마주합니다.",
+      "person": "wiki-dawn",
+      "text": "그림 속 마을에서 주민으로 살아간다. 라바 일행이 그림을 빠져나갈 길을 찾는 동안, 사가가 그림 속 삶과 만남에도 의미가 있음을 돌아보게 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Who_is_Real/Synopsis"
     },
     {
       "event": "who-is-real",
-      "person": "saga",
-      "text": "스승이 간직했던 시의 그림에 감명을 받아 여행하다 그림 속 마을에서 라바 일행을 만납니다. 스스로 그림 밖으로 나와 시에게 스승이 고통받는 사람들을 도우며 걸었던 길을 전하고, 정해진 결말을 기다릴 필요는 없다고 설득합니다.",
+      "person": "kroos",
+      "text": "라바와 함께 시를 찾으러 갔다가 그림 속 마을을 조사합니다. 시가 일행을 각자의 기억 속에 가두었을 때 볼리바르에서 비글이 다쳤던 비극을 다시 마주합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Who_is_Real/Synopsis"
     },
@@ -27367,36 +28198,8 @@ window.STORY_DATA = {
     },
     {
       "event": "originium-dust",
-      "person": "wiki-drudge-tulla",
-      "text": "사르곤의 귀족으로 변이 생물 실험을 의뢰하고 감염자들을 재료로 납치합니다. 롱 스프링 영주의 저택까지 장악해 피케일을 사로잡지만 로도스와 레인보우 팀의 반격을 받습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
-    },
-    {
-      "event": "originium-dust",
       "person": "wiki-picale-tulla",
       "text": "외부 무장 세력이 혼란을 일으킨다고 생각해 로도스를 포위하고 떠나라고 합니다. 이후 드러지에게 붙잡혔다가 구조되고, 미아로우의 죽음 앞에서 자신의 성급한 판단을 사과합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
-    },
-    {
-      "event": "originium-dust",
-      "person": "wiki-schwarz",
-      "text": "로도스 조사팀으로 롱 스프링에 도착해 레인보우 팀과 협력한다. 드러지가 영주의 저택을 장악하자 먼저 잠입해 용병들을 제거하고, 이후 애쉬와 블리츠를 따라 광산 시설에 들어가 진화의 본질과 맞선다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
-    },
-    {
-      "event": "originium-dust",
-      "person": "liskarm",
-      "text": "프란카 등과 임무를 마치고 돌아가다 33번 감시탑의 구조 신호를 받고 변이체 공격에 대응합니다. 현지 무기를 쓰기 어려운 레인보우 팀을 위해 블리츠의 방패를 개조하며 두 팀의 협력을 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
-    },
-    {
-      "event": "originium-dust",
-      "person": "wiki-franka",
-      "text": "리스캄 등과 함께 감시탑의 구조 신호를 받고 롱 스프링으로 향한다. 현지에서 레인보우 팀과 힘을 합쳐 저택과 주민들을 지키고, 미아로우가 죽은 뒤 그의 유품을 애쉬에게 전한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
     },
@@ -27411,6 +28214,41 @@ window.STORY_DATA = {
       "event": "originium-dust",
       "person": "tachanka",
       "text": "낯선 테라에 떨어진 뒤 레인보우 팀과 감염자들을 지키며 변이체에 맞섭니다. 미아로우를 잃고 고민하는 애쉬에게 세계가 달라져도 눈앞에서 할 수 있는 일을 이어 가자고 격려합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
+    },
+    {
+      "event": "originium-dust",
+      "person": "frost-r6",
+      "text": "레인보우 팀과 합류해 주민들을 지키고 레비의 실험이 불러온 감염체와 싸운다. 로도스 일행과 함께 생존자들의 탈출을 돕는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
+    },
+    {
+      "event": "originium-dust",
+      "person": "wiki-franka",
+      "text": "리스캄 등과 함께 감시탑의 구조 신호를 받고 롱 스프링으로 향한다. 현지에서 레인보우 팀과 힘을 합쳐 저택과 주민들을 지키고, 미아로우가 죽은 뒤 그의 유품을 애쉬에게 전한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
+    },
+    {
+      "event": "originium-dust",
+      "person": "liskarm",
+      "text": "프란카 등과 임무를 마치고 돌아가다 33번 감시탑의 구조 신호를 받고 변이체 공격에 대응합니다. 현지 무기를 쓰기 어려운 레인보우 팀을 위해 블리츠의 방패를 개조하며 두 팀의 협력을 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
+    },
+    {
+      "event": "originium-dust",
+      "person": "wiki-schwarz",
+      "text": "로도스 조사팀으로 롱 스프링에 도착해 레인보우 팀과 협력한다. 드러지가 영주의 저택을 장악하자 먼저 잠입해 용병들을 제거하고, 이후 애쉬와 블리츠를 따라 광산 시설에 들어가 진화의 본질과 맞선다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
+    },
+    {
+      "event": "originium-dust",
+      "person": "wiki-drudge-tulla",
+      "text": "사르곤의 귀족으로 변이 생물 실험을 의뢰하고 감염자들을 재료로 납치합니다. 롱 스프링 영주의 저택까지 장악해 피케일을 사로잡지만 로도스와 레인보우 팀의 반격을 받습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Operation_Originium_Dust/Synopsis"
     },
@@ -27444,20 +28282,6 @@ window.STORY_DATA = {
     },
     {
       "event": "under-tides",
-      "person": "quintus",
-      "text": "굶주린 살비엔토 주민들에게 바다의 선물을 설교하면서 심해교회의 일원으로 스펙터를 가두고 사냥꾼의 비밀을 실험합니다. 지하에서 괴물의 모습으로 변해 세 사냥꾼과 맞서지만 패합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Under_Tides/Synopsis"
-    },
-    {
-      "event": "under-tides",
-      "person": "first-to-talk",
-      "text": "교회 지하에서 글래디아를 공격한 인간형 시본이다. 스카디에게 사냥꾼의 몸에 시본의 피가 흐른다고 말하며 자신들과 같은 존재로 받아들이라고 설득하지만, 살아 돌아온 글래디아에게 쓰러진다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Under_Tides/Synopsis"
-    },
-    {
-      "event": "under-tides",
       "person": "anita",
       "text": "살비엔토에서 낯선 스카디에게 먼저 친절을 베풀고 마을을 안내한다. 바다에 의존하며 살아가는 주민들의 일상과 불안을 스카디가 가까이에서 보게 해 주고, 사태가 끝난 뒤 그녀와 작별한다.",
       "spoiler": "medium",
@@ -27465,8 +28289,22 @@ window.STORY_DATA = {
     },
     {
       "event": "under-tides",
+      "person": "quintus",
+      "text": "굶주린 살비엔토 주민들에게 바다의 선물을 설교하면서 심해교회의 일원으로 스펙터를 가두고 사냥꾼의 비밀을 실험합니다. 지하에서 괴물의 모습으로 변해 세 사냥꾼과 맞서지만 패합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Under_Tides/Synopsis"
+    },
+    {
+      "event": "under-tides",
       "person": "dario",
       "text": "이베리아의 고위 심문관으로 살비엔토의 시본과 심해교회에 관한 징후를 추적한다. 스카디와 맞서다가 바다 괴물의 습격을 함께 겪고, 사건 후 켈시에게서 더 큰 위협에 관한 경고를 듣는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Under_Tides/Synopsis"
+    },
+    {
+      "event": "under-tides",
+      "person": "first-to-talk",
+      "text": "교회 지하에서 글래디아를 공격한 인간형 시본이다. 스카디에게 사냥꾼의 몸에 시본의 피가 흐른다고 말하며 자신들과 같은 존재로 받아들이라고 설득하지만, 살아 돌아온 글래디아에게 쓰러진다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Under_Tides/Synopsis"
     },
@@ -27486,8 +28324,8 @@ window.STORY_DATA = {
     },
     {
       "event": "ursas-children",
-      "person": "rosa",
-      "text": "귀족 학생들을 모아 내부 다툼은 막았지만 그들이 평민 학생들을 착취하도록 내버려 둔 일을 지마에게 고백한다. 자신의 위선과 비겁함에 괴로워하면서도 속죄를 위해 살아가려 하고, 로도스의 후방 업무에서 전선으로 옮기려 훈련해 아미야의 승인을 받는다.",
+      "person": "wiki-istina",
+      "text": "학교에 갇힌 친구들의 지도자가 되지만 감당하기 어려워하던 중 지마에게 그 자리를 맡긴다. 로도스에서는 치료를 위해 기억을 녹음하고, 죽은 비카의 곰 인형과 창밖에서 떨어지는 모습을 떠올리며 아직 진실을 마주할 힘이 부족하다고 인정한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Children_of_Ursus/Synopsis"
     },
@@ -27500,8 +28338,8 @@ window.STORY_DATA = {
     },
     {
       "event": "ursas-children",
-      "person": "wiki-istina",
-      "text": "학교에 갇힌 친구들의 지도자가 되지만 감당하기 어려워하던 중 지마에게 그 자리를 맡긴다. 로도스에서는 치료를 위해 기억을 녹음하고, 죽은 비카의 곰 인형과 창밖에서 떨어지는 모습을 떠올리며 아직 진실을 마주할 힘이 부족하다고 인정한다.",
+      "person": "rosa",
+      "text": "귀족 학생들을 모아 내부 다툼은 막았지만 그들이 평민 학생들을 착취하도록 내버려 둔 일을 지마에게 고백한다. 자신의 위선과 비겁함에 괴로워하면서도 속죄를 위해 살아가려 하고, 로도스의 후방 업무에서 전선으로 옮기려 훈련해 아미야의 승인을 받는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Children_of_Ursus/Synopsis"
     },
@@ -27549,6 +28387,13 @@ window.STORY_DATA = {
     },
     {
       "event": "people-us",
+      "person": "wiki-fyodor-vladimirovich",
+      "text": "귀족들과 다툰 뒤 변장하고 궁전 밖으로 나왔다가 학생 시위에 휘말려 체포됩니다. 카토르가에서 페댜라는 이름으로 지내며 무전으로 보타니의 탈출을 돕고, 학생들과 동상을 무너뜨려 봉쇄를 깹니다. 이후 수도의 참상을 직접 보려 귀족들이 준비한 차를 거절하고 거리를 걷습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
+    },
+    {
+      "event": "people-us",
       "person": "leto",
       "text": "카토르가에 갇힌 지마를 찾으러 들어가 우쿠시크와 학생들을 만납니다. 그로모프의 본부와 마지막 봉쇄벽 전투에 참여하고, 희생된 동료를 위해 죽겠다는 안토샤에게 살아서 그들의 꿈을 이어 가야 한다고 말합니다.",
       "spoiler": "medium",
@@ -27563,22 +28408,15 @@ window.STORY_DATA = {
     },
     {
       "event": "people-us",
-      "person": "crownslayer",
-      "text": "우르수스 노동자들과 연락할 통신 장비를 얻으려 굼과 두르나르의 도움으로 카토르가에 들어갑니다. 변장한 황제와 제국의 고통을 두고 논쟁하지만 그를 죽이지 않고 물러납니다. 노동자들이 마지막 공격을 돕도록 연결하고, 굼에게 부모의 소식을 찾겠다고 약속합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
-    },
-    {
-      "event": "people-us",
-      "person": "wiki-fyodor-vladimirovich",
-      "text": "귀족들과 다툰 뒤 변장하고 궁전 밖으로 나왔다가 학생 시위에 휘말려 체포됩니다. 카토르가에서 페댜라는 이름으로 지내며 무전으로 보타니의 탈출을 돕고, 학생들과 동상을 무너뜨려 봉쇄를 깹니다. 이후 수도의 참상을 직접 보려 귀족들이 준비한 차를 거절하고 거리를 걷습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
-    },
-    {
-      "event": "people-us",
       "person": "antosha",
       "text": "교수 처형 뒤 동료들과 파블로비치 암살을 준비하다 카토르가 사건에 휘말립니다. 지마 일행과 그로모프에게 맞서지만 인질 파발로의 처리를 두고 결별합니다. 동료들을 잃은 뒤 지마에게 자신을 죽여 달라고 하나 거절당하고, 살아남아 동료들의 이름과 편지를 전합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
+    },
+    {
+      "event": "people-us",
+      "person": "crownslayer",
+      "text": "우르수스 노동자들과 연락할 통신 장비를 얻으려 굼과 두르나르의 도움으로 카토르가에 들어갑니다. 변장한 황제와 제국의 고통을 두고 논쟁하지만 그를 죽이지 않고 물러납니다. 노동자들이 마지막 공격을 돕도록 연결하고, 굼에게 부모의 소식을 찾겠다고 약속합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
     },
@@ -27626,8 +28464,29 @@ window.STORY_DATA = {
     },
     {
       "event": "people-us",
+      "person": "prts-faddey",
+      "text": "체포된 학생들을 구하기 위해 감옥을 직접 공격하자고 주장한다. 카토르가에서는 그로모프의 포격에 길이 막히자 다른 학생을 밀어내 구하고 자신은 포격에 목숨을 잃는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
+    },
+    {
+      "event": "people-us",
       "person": "wiki-ukusik",
       "text": "안토샤의 동료에게 구조된 거리의 고아로 배관을 통해 카토르가에 돌아가 레토와 학생들을 만납니다. 마지막 싸움 전 안토샤에게서 전사한 동료들의 가족에게 전할 편지들을 맡습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
+    },
+    {
+      "event": "people-us",
+      "person": "prts-leonid-grashvili",
+      "text": "체포된 학생들을 구하기 위해 신문으로 여론을 움직이자고 제안한다. 감옥을 곧바로 공격하자는 파데이, 준비 없는 공격을 우려한 지마와 함께 학생들이 취할 다음 수를 논의한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
+    },
+    {
+      "event": "people-us",
+      "person": "dur-nar",
+      "text": "굼과 크라운슬레이어가 통신 장비를 찾는 일을 돕는다. 굼과 함께 수수께끼 같은 무전을 듣고, 굼이 아버지에게 배운 암호에서 우르수스 군 시설의 식별 코드 형식을 알아낸다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/People%2C_A_People/Synopsis"
     },
@@ -27640,15 +28499,15 @@ window.STORY_DATA = {
     },
     {
       "event": "jungle-knot",
-      "person": "prts-lorentz-jungle",
-      "text": "검은 흐름을 연구하는 인물로, 군의 감시 속에서도 페드로의 오랜 기억을 이용해 비글의 의식을 되찾으려 합니다. 여러 시대의 사건을 무대로 만들고 비글에게 다른 인물들의 역할을 맡겨, 그녀가 사람을 지키려는 선택을 어떻게 내리는지 지켜봅니다. 비글의 몸은 돌아오지 못하지만 되찾은 의식이 검은 흐름 속에 남도록 합니다.",
+      "person": "prts-pedro-jungle",
+      "text": "오랜 세월 볼리바르를 지켜본 인물로, 그의 기억은 로렌츠가 비글의 의식을 되찾기 위해 꾸민 여러 이야기의 바탕이 됩니다. 이야기 속에서 피우라의 탈출을 돕고, 마지막에는 비글에게 희생과 죽음이 삶의 의미를 바꾸는지 묻습니다.",
       "spoiler": "medium",
       "source": "https://github.com/littlepangding/arknights_lore_wiki/blob/main/docs/stories/act21mini.md"
     },
     {
       "event": "jungle-knot",
-      "person": "prts-pedro-jungle",
-      "text": "오랜 세월 볼리바르를 지켜본 인물로, 그의 기억은 로렌츠가 비글의 의식을 되찾기 위해 꾸민 여러 이야기의 바탕이 됩니다. 이야기 속에서 피우라의 탈출을 돕고, 마지막에는 비글에게 희생과 죽음이 삶의 의미를 바꾸는지 묻습니다.",
+      "person": "prts-lorentz-jungle",
+      "text": "검은 흐름을 연구하는 인물로, 군의 감시 속에서도 페드로의 오랜 기억을 이용해 비글의 의식을 되찾으려 합니다. 여러 시대의 사건을 무대로 만들고 비글에게 다른 인물들의 역할을 맡겨, 그녀가 사람을 지키려는 선택을 어떻게 내리는지 지켜봅니다. 비글의 몸은 돌아오지 못하지만 되찾은 의식이 검은 흐름 속에 남도록 합니다.",
       "spoiler": "medium",
       "source": "https://github.com/littlepangding/arknights_lore_wiki/blob/main/docs/stories/act21mini.md"
     },
@@ -27710,10 +28569,24 @@ window.STORY_DATA = {
     },
     {
       "event": "jungle-knot",
+      "person": "kroos",
+      "text": "에르네스토의 요청을 받은 로도스에서 비글과 함께 볼리바르 대행진을 호위한다. 피난민들이 남쪽으로 움직이는 이 임무는 비글이 테코마에 남은 병자들을 구하러 들어가는 계기가 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Bol%C3%ADvar_Diagnosed"
+    },
+    {
+      "event": "jungle-knot",
       "person": "prts-martin",
       "text": "한케의 노선에 실망해 진정한 볼리바르인을 떠났다가 대행진에 참여합니다. 테코마에 억류된 사람들을 구하려는 작전에 나서고, 함정이 드러나자 비글과 함께 사람들의 퇴로를 지키려 합니다.",
       "spoiler": "medium",
       "source": "https://github.com/littlepangding/arknights_lore_wiki/blob/main/docs/stories/act21mini.md"
+    },
+    {
+      "event": "lime",
+      "person": "future-thumpy",
+      "text": "교환원 타니로 할머니 이날라의 회중시계와 남쪽의 풍경을 찾아 집을 떠납니다. 태양 계곡에서는 지하에 갇힌 사람을 구하러 내려가고 아멜리아가 연결한 통신의 도움으로 돌아옵니다. 남쪽에서 시계에 담긴 할머니의 뜻을 알게 되고 고향을 위해 할 일을 생각합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Till_the_Lands_Become_an_Orange"
     },
     {
       "event": "lime",
@@ -27724,8 +28597,8 @@ window.STORY_DATA = {
     },
     {
       "event": "lime",
-      "person": "future-thumpy",
-      "text": "교환원 타니로 할머니 이날라의 회중시계와 남쪽의 풍경을 찾아 집을 떠납니다. 태양 계곡에서는 지하에 갇힌 사람을 구하러 내려가고 아멜리아가 연결한 통신의 도움으로 돌아옵니다. 남쪽에서 시계에 담긴 할머니의 뜻을 알게 되고 고향을 위해 할 일을 생각합니다.",
+      "person": "timeslot",
+      "text": "통신을 통해 타니에게 지하에서 빠져나올 길을 알려 준다. 타니가 그곳에 남은 사람을 구해 나오도록 돕고, 여정이 끝날 무렵 자신타와 통신 사업의 새 출발을 이야기한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Till_the_Lands_Become_an_Orange"
     },
@@ -27738,10 +28611,10 @@ window.STORY_DATA = {
     },
     {
       "event": "lime",
-      "person": "timeslot",
-      "text": "통신 기술자 아멜리아로 사고의 책임을 떠안고 회사에서 밀려났지만 손상된 통신탑을 고치며 여행합니다. 태양 계곡에서는 탑을 수리해 지하의 타니가 구조할 수 있게 돕고, 마지막 탑에 올라 회사를 떠나 남쪽으로 가겠다는 자신의 결정을 외칩니다.",
+      "person": "prts-inala",
+      "text": "타니의 할머니이자 선구자로, 젊은 시절 0번 도로를 따라 남쪽까지 여행하고 여러 마을을 세우는 데 힘을 보탰습니다. 선밸리에서 위험에 처한 사람도 구했으며, 노년에 그 여정을 손녀에게 이야기로 들려줍니다. 남쪽에 남겨 둔 회중시계와 기억은 타니가 여행을 떠나는 계기가 됩니다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Till_the_Lands_Become_an_Orange"
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
       "event": "lime",
@@ -27749,13 +28622,6 @@ window.STORY_DATA = {
       "text": "안젤리나에게 전령 일을 가르친 선배로 잘못 배달된 복호화 장치를 받은 채 남쪽에서 기다립니다. 다시 만난 안젤리나에게 사람의 자리는 자신이 선택해 하는 일로 만들어진다고 격려하고 편지를 쓰도록 권합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Till_the_Lands_Become_an_Orange"
-    },
-    {
-      "event": "lime",
-      "person": "prts-inala",
-      "text": "타니의 할머니이자 선구자로, 젊은 시절 0번 도로를 따라 남쪽까지 여행하고 여러 마을을 세우는 데 힘을 보탰습니다. 선밸리에서 위험에 처한 사람도 구했으며, 노년에 그 여정을 손녀에게 이야기로 들려줍니다. 남쪽에 남겨 둔 회중시계와 기억은 타니가 여행을 떠나는 계기가 됩니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
       "event": "lime",
@@ -27787,13 +28653,6 @@ window.STORY_DATA = {
     },
     {
       "event": "near-light",
-      "person": "platinum",
-      "text": "무주맹의 명령을 받아 니어를 기권시키려 마리아를 납치하지만 그녀의 결심을 꺾지 못합니다. 소나무 기사단의 공격과 정전 속에서 감염 기사와 로도스를 겨냥한 무주맹의 작전에 휘말립니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Near_Light/Synopsis"
-    },
-    {
-      "event": "near-light",
       "person": "wiki-dikaiopolis",
       "text": "감염 기사 혈기사로 자신의 동료들과 살아남기 위해 경기장에서 싸웁니다. 톨라가 경기의 선을 넘자 그를 제압하고 결승에서 마가렛과 맞붙습니다. 패배 후에도 마가렛과 함께 감염자들의 상징으로 시상식장에 나아갑니다.",
       "spoiler": "medium",
@@ -27808,22 +28667,36 @@ window.STORY_DATA = {
     },
     {
       "event": "near-light",
+      "person": "platinum",
+      "text": "무주맹의 명령을 받아 니어를 기권시키려 마리아를 납치하지만 그녀의 결심을 꺾지 못합니다. 소나무 기사단의 공격과 정전 속에서 감염 기사와 로도스를 겨냥한 무주맹의 작전에 휘말립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Near_Light/Synopsis"
+    },
+    {
+      "event": "near-light",
+      "person": "maria-nearl",
+      "text": "플래티넘에게 붙잡혀 언니의 기권을 강요할 인질로 쓰이지만 니어가 자신 때문에 물러서지 않으리라고 답한다. 무주맹과 맞서던 소나무 기사단의 도움으로 빠져나온다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Near_Light/Synopsis"
+    },
+    {
+      "event": "near-light",
       "person": "mlynar",
       "text": "겉으로는 기사 경기와 거리를 두지만 무주맹이 니어 가문을 노리는 마지막 혼란 속에서 톨랜드와 함께 추격자들을 막고 조카들이 나아갈 길을 지킵니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Near_Light/Synopsis"
     },
     {
-      "event": "guide-ahead",
-      "person": "enforcer",
-      "text": "집행인 수습 에첼로 길에서 쓰러진 세실리아를 발견하고 어머니 페오리아의 죽음과 아이의 특이한 출생을 알게 됩니다. 당국이 아이를 어떻게 대할지 두려워 명령을 어기고 장례를 돕고, 계시의 탑으로 향하는 세실리아를 오렌에게서 지킵니다. 시민권을 얻은 아이와 함께 살카즈 아버지를 찾으러 떠납니다.",
+      "event": "near-light",
+      "person": "wiki-malkiewicz",
+      "text": "상업연합회와 기사 대회의 대변인으로 대회에 얽힌 이해관계를 마주한다. 도시가 정전되고 감염 기사들을 둘러싼 충돌이 번지자 대회 밖에서 벌어지는 일에도 휘말린다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
+      "source": "https://arknights.wiki.gg/wiki/Near_Light/Synopsis"
     },
     {
       "event": "guide-ahead",
-      "person": "andoain",
-      "text": "페오리아의 부탁을 받아 세실리아가 어머니와 작별할 수 있도록 장례를 돕습니다. 라테라노가 외부의 고통을 외면한다고 교황에게 따지고 율법의 실체를 마주합니다. 피아메타와의 대결 뒤에도 자신의 길잡이들과 바깥 세상을 위한 여정을 이어 갑니다.",
+      "person": "enforcer",
+      "text": "수습 집행인 에첼은 쓰러진 체첼리아를 발견하고, 어머니를 잃은 아이가 산크타와 살카즈 사이에서 태어났음을 알게 된다. 아이가 어머니에게 작별을 고할 수 있도록 장례를 돕고, 계시의 석탑에서는 납치하려는 오렌을 막는다. 시민권을 얻은 체첼리아와 함께 아이의 아버지를 찾아 떠난다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
     },
@@ -27836,29 +28709,29 @@ window.STORY_DATA = {
     },
     {
       "event": "guide-ahead",
-      "person": "fiammetta",
-      "text": "세실리아의 출생을 둘러싼 위험을 알고 에첼에게 아이를 바실리카로 데려가라고 합니다. 옛 동료 레뮤엔을 다치게 한 안도아인을 쫓아 복수하려 하지만 레뮤엔의 개입으로 싸움은 끝나고, 이후 라테라노와 로도스의 관계를 잇는 일을 맡습니다.",
+      "person": "andoain",
+      "text": "페오리아의 부탁을 받아 체첼리아가 어머니와 작별할 수 있도록 장례를 돕습니다. 라테라노가 외부의 고통을 외면한다고 교황에게 따지고 율법의 실체를 마주합니다. 피아메타와의 대결 뒤에도 자신의 길잡이들과 바깥 세상을 위한 여정을 이어 갑니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
     },
     {
       "event": "guide-ahead",
-      "person": "mostima",
-      "text": "피아메타와 함께 세실리아의 진찰 기록을 보고 상황의 심각성을 알아챕니다. 장례식에서 안도아인과 대치하며 과거 동료들과 갈라진 사건을 다시 마주하고, 라테라노의 혼란 속에서 피아메타와 움직입니다.",
+      "person": "fiammetta",
+      "text": "체첼리아의 출생을 둘러싼 위험을 알고 에첼에게 아이를 바실리카로 데려가라고 합니다. 옛 동료 르무엔을 다치게 한 안도아인을 쫓아 복수하려 하지만 르무엔의 개입으로 싸움은 끝나고, 이후 라테라노와 로도스의 관계를 잇는 일을 맡습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
     },
     {
       "event": "guide-ahead",
       "person": "wiki-yvangelista-xi",
-      "text": "라테라노가 외부인을 외면한다는 안도아인의 비판을 듣고 도시가 산크타를 위해 존재한다고 답합니다. 그와 총을 주고받은 뒤 율법의 실체를 보여 주고, 세실리아를 보호합니다. 정상회담에서는 세계적 전쟁을 막기 위해 외교를 호소합니다.",
+      "text": "라테라노가 외부인을 외면한다는 안도아인의 비판을 듣고 도시가 산크타를 위해 존재한다고 답합니다. 그와 총을 주고받은 뒤 율법의 실체를 보여 주고, 체첼리아를 보호합니다. 정상회담에서는 세계적 전쟁을 막기 위해 외교를 호소합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
     },
     {
       "event": "guide-ahead",
-      "person": "wiki-oren-argiolas",
-      "text": "세실리아가 산크타와 살카즈 사이에서 태어났다는 사실을 에첼에게 알린다. 이후 아이의 출생을 라테라노 정부와의 협상 수단으로 삼으려 납치를 시도하지만 에첼과 페데리코에게 저지당하고, 사건 후 직위를 잃는다.",
+      "person": "mostima",
+      "text": "피아메타와 함께 체첼리아의 진찰 기록을 보고 상황의 심각성을 알아챕니다. 장례식에서 안도아인과 대치하며 과거 동료들과 갈라진 사건을 다시 마주하고, 라테라노의 혼란 속에서 피아메타와 움직입니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
     },
@@ -27871,8 +28744,15 @@ window.STORY_DATA = {
     },
     {
       "event": "guide-ahead",
+      "person": "wiki-oren-argiolas",
+      "text": "체첼리아가 산크타와 살카즈 사이에서 태어났다는 사실을 에첼에게 알린다. 이후 아이의 출생을 라테라노 정부와의 협상 수단으로 삼으려 납치를 시도하지만 에첼과 페데리코에게 저지당하고, 사건 후 직위를 잃는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
+    },
+    {
+      "event": "guide-ahead",
       "person": "executor",
-      "text": "계시의 탑으로 향하는 세실리아가 오렌에게 붙잡힐 위기에 처하자 에첼과 함께 개입해 오렌을 체포한다.",
+      "text": "계시의 탑으로 향하는 체첼리아가 오렌에게 붙잡힐 위기에 처하자 에첼과 함께 개입해 오렌을 체포한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Guide_Ahead/Synopsis"
     },
@@ -27915,6 +28795,20 @@ window.STORY_DATA = {
       "event": "stultifera",
       "person": "gladiia",
       "text": "살아남은 사냥꾼들과 에기르로 돌아갈 단서를 찾아 등대와 함선에 오릅니다. 죽은 줄 알았던 울피아누스와 만나 그의 다른 목적을 확인하고, 동료들과 심해교회 및 시본의 위협에 맞섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Stultifera_Navis/Synopsis"
+    },
+    {
+      "event": "stultifera",
+      "person": "skadi",
+      "text": "카시미어에서 되찾은 열쇠와 이어지는 단서를 쫓아 이베리아의 함선에 오른다. 시본은 스카디의 피에 이샤-믈라가 깃들었다며 그를 동족으로 부르고, 울피아누스는 그를 데리고 에기르로 돌아가기 전에 열쇠의 의미를 확인하려 한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Stultifera_Navis/Synopsis"
+    },
+    {
+      "event": "stultifera",
+      "person": "wiki-the-endspeaker",
+      "text": "함선에서 스카디를 동족으로 부르고 사냥꾼들과 싸운다. 치명상을 입은 뒤 아마이아를 먹고 다시 변이하지만, 가르시아가 깊은 물로 끌고 가고 울피아누스가 마지막 일격을 가한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Stultifera_Navis/Synopsis"
     },
@@ -27991,49 +28885,56 @@ window.STORY_DATA = {
     {
       "event": "dossoles",
       "person": "chen",
-      "text": "후미즈키의 초대로 도솔레스에 왔다가 린 위샤, 안내인 에르네스토와 우연히 챔피언십에 참가합니다. 에르네스토가 폭탄으로 두 사람을 가두자 그의 진의를 추궁하고, 판초가 전쟁으로 번영한 도시를 무력 점령하려 하자 사람들을 구하기 위해 맞섭니다. 유람선에서 판초와 에르네스토의 주의를 끌어 위샤의 인질 구조를 돕고 배에서 탈출합니다.",
+      "text": "후미즈키의 초대로 도솔레스에 왔다가 린 위시아, 안내인 에르네스토와 우연히 챔피언십에 참가합니다. 에르네스토가 폭탄으로 두 사람을 가두자 그의 진의를 추궁하고, 판초가 전쟁으로 번영한 도시를 무력 점령하려 하자 사람들을 구하기 위해 맞섭니다. 유람선에서 판초와 에르네스토의 주의를 끌어 위시아의 인질 구조를 돕고 배에서 탈출합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
     },
     {
       "event": "dossoles",
       "person": "lin",
-      "text": "아버지인 쥐왕을 대신해 도솔레스에 와 오랫동안 갈등을 안고 있던 첸과 다시 만납니다. 대회에서 유리를 다루는 아츠로 팀을 돕고, 판초가 반란을 일으키자 유람선에 잠입해 인질을 구하며 라파엘라를 제압합니다. 폭탄을 배에 모아 둔 뒤 첸과 탈출해 배를 가라앉히고, 남은 휴가를 함께 보내며 관계를 풀어 갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
-    },
-    {
-      "event": "dossoles",
-      "person": "tequila",
-      "text": "에르네스토라는 안내인으로 첸과 위샤의 팀에 들어가지만 실제로는 아버지 판초의 계획에 협력합니다. 도솔레스가 볼리바르의 전쟁을 외면한다고 생각해 두 사람을 폭탄으로 가둔 뒤 반란에 가담하고, 유람선에서 첸에게 패합니다. 칸델라에게 추방된 뒤 라파엘라와 로도스에 합류합니다.",
+      "text": "아버지인 래트킹을 대신해 도솔레스에 와 오랫동안 갈등을 안고 있던 첸과 다시 만납니다. 대회에서 유리를 다루는 아츠로 팀을 돕고, 판초가 반란을 일으키자 유람선에 잠입해 인질을 구하며 라파엘라를 제압합니다. 폭탄을 배에 모아 둔 뒤 첸과 탈출해 배를 가라앉히고, 남은 휴가를 함께 보내며 관계를 풀어 갑니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
     },
     {
       "event": "dossoles",
       "person": "wiki-pancho-salas",
-      "text": "오랜 전쟁에서 동료를 잃고 세 세력이 모두 볼리바르를 구하지 못한다고 판단해 도솔레스를 무력으로 점령하려 합니다. 방송을 장악하고 유람선의 인사들을 인질로 삼지만 첸과 위샤에게 저지당합니다. 살아남은 그는 칸델라에게 자신의 계획이 비판하던 세력의 지원에 기댔다는 지적을 들은 뒤 끌려갑니다.",
+      "text": "오랜 전쟁에서 동료를 잃고 세 세력이 모두 볼리바르를 구하지 못한다고 판단해 도솔레스를 무력으로 점령하려 합니다. 방송을 장악하고 유람선의 인사들을 인질로 삼지만 첸과 위시아에게 저지당합니다. 살아남은 그는 칸델라에게 자신의 계획이 비판하던 세력의 지원에 기댔다는 지적을 들은 뒤 끌려갑니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
     },
     {
       "event": "dossoles",
-      "person": "la-pluma",
-      "text": "판초의 딸 라파엘라로 오빠 에르네스토와 함께 도시 점령 계획에 가담합니다. 유람선의 인질극에서 잠입한 위샤에게 제압되고, 사건 뒤 칸델라에게 죽임을 당하는 대신 도솔레스에서 추방되어 오빠와 로도스로 향합니다.",
+      "person": "tequila",
+      "text": "에르네스토라는 안내인으로 첸과 위시아의 팀에 들어가지만 실제로는 아버지 판초의 계획에 협력합니다. 도솔레스가 볼리바르의 전쟁을 외면한다고 생각해 두 사람을 폭탄으로 가둔 뒤 반란에 가담하고, 유람선에서 첸에게 패합니다. 칸델라에게 추방된 뒤 라파엘라와 로도스에 합류합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
     },
     {
       "event": "dossoles",
       "person": "wiki-candela-sanchez",
-      "text": "도솔레스의 시장으로 첸과 린 위샤를 맞아 대회에 참여시키고 도시의 밀거래 문제도 맡긴다. 판초가 방송을 장악해 반란을 선언하자 대회 참가자들에게 그를 잡으라고 하며 시민들의 동요를 억제한다. 사건 후 판초를 체포하고 에르네스토와 라파엘라는 죽이지 않고 도시 밖으로 추방한다.",
+      "text": "도솔레스의 시장으로 첸과 린 위시아를 맞아 대회에 참여시키고 도시의 밀거래 문제도 맡긴다. 판초가 방송을 장악해 반란을 선언하자 대회 참가자들에게 그를 잡으라고 하며 시민들의 동요를 억제한다. 사건 후 판초를 체포하고 에르네스토와 라파엘라는 죽이지 않고 도시 밖으로 추방한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
+    },
+    {
+      "event": "dossoles",
+      "person": "la-pluma",
+      "text": "판초의 딸 라파엘라로 오빠 에르네스토와 함께 도시 점령 계획에 가담합니다. 유람선의 인질극에서 잠입한 위시아에게 제압되고, 사건 뒤 칸델라에게 죽임을 당하는 대신 도솔레스에서 추방되어 오빠와 로도스로 향합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
+    },
+    {
+      "event": "dossoles",
+      "person": "dossoles-sideroca",
+      "text": "사건이 끝난 뒤 호시구마와 스와이어를 불러 첸 일행과 기념사진을 찍는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dossoles_Holiday/Synopsis"
     },
     {
       "event": "dorothy",
       "person": "dorothy",
-      "text": "변방 개척자들이 고통과 결핍 없이 살 수 있도록 전달 물질로 의식을 잇는 공동의 꿈을 만듭니다. 실험 참가자들이 자원했더라도 다른 사람의 자유를 침해할 수 있다는 반발을 듣고 중단하지만, 페르디난드가 사람들을 다시 연결해 연구를 무기화합니다. 직접 꿈에 들어간 도로시는 참가자들이 변화 없는 낙원보다 현실의 미래를 원한다는 것을 듣고 그들과 중심 장치를 무너뜨립니다.",
+      "text": "변방 개척자들이 고통과 결핍 없이 살 수 있도록 전달 물질로 의식을 잇는 공동의 꿈을 만듭니다. 실험 참가자들이 자원했더라도 다른 사람의 자유를 침해할 수 있다는 반발을 듣고 중단하지만, 퍼디낸드가 사람들을 다시 연결해 연구를 무기화합니다. 직접 꿈에 들어간 도로시는 참가자들이 변화 없는 낙원보다 현실의 미래를 원한다는 것을 듣고 그들과 중심 장치를 무너뜨립니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
     },
@@ -28046,8 +28947,22 @@ window.STORY_DATA = {
     },
     {
       "event": "dorothy",
+      "person": "wiki-ferdinand-clooney",
+      "text": "에너지과 책임자로 컬럼비아 군부와 거래하며 도로시의 전달 물질을 무기로 만들려 합니다. 풀려나는 참가자들을 다시 의식 장치에 연결해 거대한 은빛 물체를 만들고 파괴력을 시연하지만, 도로시와 참가자들이 중심을 무너뜨리자 군부에 버림받고 강화복에 숨어 도망칩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
+    },
+    {
+      "event": "dorothy",
+      "person": "wiki-sonny-romano",
+      "text": "동료 개척자들이 라인 랩 연구에 참여한 뒤 사라지자 359구역을 점거해 진상을 요구합니다. 이들이 자원했다는 사실을 알게 된 뒤에도 꿈이 자유를 빼앗고 무기로 악용될 수 있다고 우려합니다. 퍼디낸드의 재실험에서 살아남아 사태가 끝난 후 동료들과 개척지로 돌아갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
+    },
+    {
+      "event": "dorothy",
       "person": "saria",
-      "text": "뮤엘시스의 구조 신호를 받고 독타와 함께 359구역의 사태를 조사합니다. 전달 물질을 이용한 강화복을 추적해 그 안에 갇힌 뮤엘시스를 구하고, 페르디난드와 군부의 무기화 계획이 드러난 뒤 사태를 막습니다. 사건 후에는 연구 자료를 지렛대로 크리스틴과 라인 랩의 책임을 따집니다.",
+      "text": "뮤엘시스의 구조 신호를 받고 독타와 함께 359구역의 사태를 조사합니다. 전달 물질을 이용한 강화복을 추적해 그 안에 갇힌 뮤엘시스를 구하고, 퍼디낸드와 군부의 무기화 계획이 드러난 뒤 사태를 막습니다. 사건 후에는 연구 자료를 지렛대로 크리스틴과 라인 랩의 책임을 따집니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
     },
@@ -28061,28 +28976,21 @@ window.STORY_DATA = {
     {
       "event": "dorothy",
       "person": "astgenne",
-      "text": "엘레나라는 라인 랩 연구원으로 개척자들에게 붙잡혔다가 실험의 진상을 보게 됩니다. 방위과가 사니에게 전달 물질을 다시 주입하려는 것을 막고 관측소로 달려가, 사람들을 실험에 이용한 상관 페르디난드에게 항의합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
-    },
-    {
-      "event": "dorothy",
-      "person": "wiki-sonny-romano",
-      "text": "동료 개척자들이 라인 랩 연구에 참여한 뒤 사라지자 359구역을 점거해 진상을 요구합니다. 이들이 자원했다는 사실을 알게 된 뒤에도 꿈이 자유를 빼앗고 무기로 악용될 수 있다고 우려합니다. 페르디난드의 재실험에서 살아남아 사태가 끝난 후 동료들과 개척지로 돌아갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
-    },
-    {
-      "event": "dorothy",
-      "person": "wiki-ferdinand-clooney",
-      "text": "에너지과 책임자로 컬럼비아 군부와 거래하며 도로시의 전달 물질을 무기로 만들려 합니다. 풀려나는 참가자들을 다시 의식 장치에 연결해 거대한 은빛 물체를 만들고 파괴력을 시연하지만, 도로시와 참가자들이 중심을 무너뜨리자 군부에 버림받고 강화복에 숨어 도망칩니다.",
+      "text": "엘레나라는 라인 랩 연구원으로 개척자들에게 붙잡혔다가 실험의 진상을 보게 됩니다. 방위과가 사니에게 전달 물질을 다시 주입하려는 것을 막고 관측소로 달려가, 사람들을 실험에 이용한 상관 퍼디낸드에게 항의합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
     },
     {
       "event": "dorothy",
       "person": "muelsyse",
-      "text": "전달 물질을 이용한 강화복 안에 갇힌 채 사리아에게 구조를 요청합니다. 구출된 뒤 페르디난드가 군부와 거래하며 도로시의 연구를 무기화한 사실을 일행에게 알립니다.",
+      "text": "전달 물질을 이용한 강화복 안에 갇힌 채 사리아에게 구조를 요청합니다. 구출된 뒤 퍼디낸드가 군부와 거래하며 도로시의 연구를 무기화한 사실을 일행에게 알립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
+    },
+    {
+      "event": "dorothy",
+      "person": "wiki-greyy",
+      "text": "359호 실험 기지에서 꺼진 전력 설비를 복구한다. 시설이 다시 작동하자 은빛 전달 물질이 통로를 가로막고 일행을 덮친다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Dorothy%27s_Vision/Synopsis"
     },
@@ -28111,6 +29019,20 @@ window.STORY_DATA = {
       "event": "lone-trail",
       "person": "muelsyse",
       "text": "독타에게 추락한 잔해를 알리고 물 분신으로 로도스가 위기를 피하도록 돕습니다. 독타에게 자신의 외로움과 크리스틴에 대한 신뢰를 털어놓고, 크리스틴이 남긴 석관을 발견해 그녀의 편에 서기로 합니다. 연구소가 파손되자 힘을 다해 탈출선을 지켜 사리아와 동료들을 구합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis"
+    },
+    {
+      "event": "lone-trail",
+      "person": "lone-trail-trevor-friston",
+      "text": "의식 보존자로 석관 안의 사람들이 깨어나기를 기다렸다. 그 가능성이 거의 사라지자 남은 에너지를 크리스틴이 차단층을 뚫는 데 쓰도록 하고, 시설에 찾아온 독타와 켈시에게 각자의 선택을 마주하게 한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis"
+    },
+    {
+      "event": "lone-trail",
+      "person": "doctor",
+      "text": "뮤엘시스의 연락으로 추락 현장을 조사하고, 켈시와 함께 지하 석관 시설에서 프리스턴을 만난다. 프리스턴의 시험을 거치며 로도스와 함께하겠다는 뜻을 다시 확인하고, 사건 뒤 홀로 남은 뮤엘시스를 찾아간다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis"
     },
@@ -28151,6 +29073,13 @@ window.STORY_DATA = {
     },
     {
       "event": "lone-trail",
+      "person": "wiki-loken-williams",
+      "text": "로즈몬티스가 잊었던 실험의 기억을 강제로 되살려 자신을 죽이라고 재촉한다. 이프리트가 곁을 지켜 주자 로즈몬티스는 힘을 가라앉히고 로켄이 요구한 결말을 거부한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Lone_Trail/Synopsis"
+    },
+    {
+      "event": "lone-trail",
       "person": "wiki-blake",
       "text": "크리스틴의 연구 시설이 군사적 위협이 될 것을 우려해 사태를 은폐하려 합니다. 부통령 암살을 계획하고 사리아를 저격하도록 명령하지만, 로도스와 메일랜더 측의 저지 속에서 계획은 뜻대로 진행되지 않습니다.",
       "spoiler": "medium",
@@ -28179,8 +29108,15 @@ window.STORY_DATA = {
     },
     {
       "event": "moon-water",
-      "person": "doctor",
-      "text": "라테라노의 임시 교사로 이세계에서 온 학생들을 맞고 동료와 돌아갈 문을 찾도록 돕습니다. 야간에 나타나는 괴물과 피해자의 죽음을 조사해 괴물이 죽음을 향한 마음과 관계있을 가능성을 짚고, 사건이 끝난 뒤 아미야와 귀환하는 학생들을 배웅합니다.",
+      "person": "prts-vivetta",
+      "text": "줄리오의 이모로, 오래전 자신의 장례식을 파티로 치러 달라는 농담 섞인 유언을 남깁니다. 라테라노에서 공감이 사라진 뒤 깊은 절망 속에서 스스로 생을 마칩니다. 유언과 죽음의 사정이 드러나면서 줄리오와 지아다는 각자 장례에 담았던 뜻을 다시 마주합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "moon-water",
+      "person": "prts-felice-godou",
+      "text": "비베타의 옛 연인이자 유언 작성에 관여한 사람으로 장례에 찾아온다. 비베타의 밝은 장례를 준비하는 사람들 앞에 과거의 관계가 다시 드러나고, 지아다와 줄리오는 떠난 사람을 기리는 방식과 남은 이들의 슬픔을 함께 돌아본다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
     },
@@ -28190,6 +29126,13 @@ window.STORY_DATA = {
       "text": "라테라노의 학교에서 반장으로 지내며 독타와 함께 이세계에서 온 마코토 일행이 정착하도록 돕습니다. 일행이 사라진 동료와 귀환할 문을 찾는 동안 곁을 지키고, 사건이 끝나자 독타와 함께 원래 세계로 돌아가는 이들을 배웅합니다.",
       "spoiler": "medium",
       "source": "https://www.vgover.com/news/234779"
+    },
+    {
+      "event": "moon-water",
+      "person": "doctor",
+      "text": "라테라노의 임시 교사로 이세계에서 온 학생들을 맞고 동료와 돌아갈 문을 찾도록 돕습니다. 야간에 나타나는 괴물과 피해자의 죽음을 조사해 괴물이 죽음을 향한 마음과 관계있을 가능성을 짚고, 사건이 끝난 뒤 아미야와 귀환하는 학생들을 배웅합니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
     },
     {
       "event": "moon-water",
@@ -28227,30 +29170,16 @@ window.STORY_DATA = {
       "source": "https://www.vgover.com/news/234779"
     },
     {
-      "event": "moon-water",
-      "person": "prts-felice-godou",
-      "text": "비베타의 옛 연인이자 유언 작성에 관여한 사람으로 장례식에 찾아옵니다. 오래전 파티 장례를 부탁한 유언의 사정을 이야기하고 최근 비베타의 고통이 드러나면서 줄리오는 자신이 믿었던 이모의 마지막 모습을 다시 마주하게 됩니다.",
+      "event": "yesterday-sea",
+      "person": "homebound",
+      "text": "아퀼라가 수감 중 죽자 섬 주민 상호부조회에 합류한다. 같은 일이 반복되는 것을 막으려 자수하고, 아울루스에 대해 아는 사실을 알려 주는 대신 섬 주민들을 살려 달라고 요청한다. 인양 뒤에도 아퀼라가 작은 볼트에 걸었던 꿈을 항구에서 이어 가려 한다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
-    },
-    {
-      "event": "moon-water",
-      "person": "prts-vivetta",
-      "text": "줄리오의 이모로, 오래전 자신의 장례식을 파티로 치러 달라는 농담 섞인 유언을 남깁니다. 라테라노에서 공감이 사라진 뒤 깊은 절망 속에서 스스로 생을 마칩니다. 유언과 죽음의 사정이 드러나면서 줄리오와 지아다는 각자 장례에 담았던 뜻을 다시 마주합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
     },
     {
       "event": "yesterday-sea",
       "person": "wiki-clementia",
       "text": "가라앉은 레아 이베리아를 인양하기 위해 에기르의 지위까지 걸고 이베리아 심문회와 협력합니다. 섬 주민에 대한 차별과 아울루스의 음모를 조사하고, 시본의 변화에 자신을 내맡기려는 나초의 의수 부품에서 도시 좌표를 찾을 단서를 얻습니다. 인양 뒤 에기르 직책을 내려놓고 드루사와 육지 순찰대를 꾸립니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
-    },
-    {
-      "event": "yesterday-sea",
-      "person": "homebound",
-      "text": "기술자 나초로 동료 아퀼라가 체포 뒤 감옥에서 죽자 섬 주민 상호부조회에 합류합니다. 동료를 구하던 중 시본의 위험과 아울루스의 계획을 목격한 뒤 심문회에 자수해 주민들의 목숨과 정보를 맞바꾸려 합니다. 사라진 도시를 찾기 위해 자신의 동화까지 감수하려 하지만, 의수의 부품이 좌표를 되찾을 실마리가 됩니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
     },
@@ -28270,8 +29199,22 @@ window.STORY_DATA = {
     },
     {
       "event": "yesterday-sea",
+      "person": "prts-aquila",
+      "text": "인양 센터에서 일하는 섬 주민이자 나초의 친구로, 차별에 분노하던 중 아울루스의 영향 아래 인양 계획을 방해하려 합니다. 나초가 잃어버린 의수 부품을 찾아 체포 직전 드루사에게 돌려 달라고 부탁합니다. 페다이라의 심문에서 분노를 토로한 뒤 스스로 목숨을 끊고, 그의 죽음은 주민들의 저항을 촉발합니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/Kengxxiao/ArknightsGameData/blob/master/zh_CN/gamedata/story/activities/act52side/level_act52side_03_end.txt"
+    },
+    {
+      "event": "yesterday-sea",
       "person": "prts-valerio",
       "text": "카르멘과 가까웠던 옛 성도로, 항구의 귀환을 맞을 준비가 이베리아에 되어 있지 않다고 생각합니다. 테피를 이용해 레아 이베리아의 해도 좌표를 지우고 인양을 방해한 뒤 카르멘과 나라의 미래를 놓고 맞섭니다. 결투에서 뜻을 이루지 못하고 인양된 항구의 지하 감옥에 연금됩니다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
+    },
+    {
+      "event": "yesterday-sea",
+      "person": "wiki-carmen",
+      "text": "클레멘티아와 항구 인양을 추진하면서 심문회의 오래된 방식을 바꾸려 합니다. 테피의 말을 통해 도시 좌표를 지운 발레리오를 알아내고, 과거를 지키려는 그의 선택에 맞서 살아 있는 사람들이 바다에 져야 할 책임을 이야기합니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
     },
@@ -28284,24 +29227,10 @@ window.STORY_DATA = {
     },
     {
       "event": "yesterday-sea",
-      "person": "wiki-carmen",
-      "text": "클레멘티아와 항구 인양을 추진하면서 심문회의 오래된 방식을 바꾸려 합니다. 테피의 말을 통해 도시 좌표를 지운 발레리오를 알아내고, 과거를 지키려는 그의 선택에 맞서 살아 있는 사람들이 바다에 져야 할 책임을 이야기합니다.",
-      "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
-    },
-    {
-      "event": "yesterday-sea",
       "person": "prts-drusa",
       "text": "섬 주민 출신의 징계군 교관으로, 정식 징계군이 되지 못한 채 훈련소에서 가르쳐 왔습니다. 아퀼라를 체포하고 상호부조회를 조사하면서 아울루스의 음모에 접근하고 전투 중 부상을 입습니다. 페다이라와 맞서 더 나은 삶을 바라보는 일은 죄가 아니라고 전하며, 사건 뒤 클레멘티아가 꾸린 육지 순찰대의 대장을 맡습니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
-    },
-    {
-      "event": "yesterday-sea",
-      "person": "prts-aquila",
-      "text": "인양 센터에서 일하는 섬 주민이자 나초의 친구로, 차별에 분노하던 중 아울루스의 영향 아래 인양 계획을 방해하려 합니다. 나초가 잃어버린 의수 부품을 찾아 체포 직전 드루사에게 돌려 달라고 부탁합니다. 페다이라의 심문에서 분노를 토로한 뒤 스스로 목숨을 끊고, 그의 죽음은 주민들의 저항을 촉발합니다.",
-      "spoiler": "medium",
-      "source": "https://github.com/Kengxxiao/ArknightsGameData/blob/master/zh_CN/gamedata/story/activities/act52side/level_act52side_03_end.txt"
     },
     {
       "event": "yesterday-sea",
@@ -28347,6 +29276,13 @@ window.STORY_DATA = {
     },
     {
       "event": "time-forward",
+      "person": "wiki-red-npc",
+      "text": "붙잡힌 표도르를 몰래 데리고 나가 죽이려 하지만 실행하지 않는다. 탈룰라에게 고백하고 처벌을 청하자, 탈룰라는 어려운 순간에 살인을 멈춘 그의 선택을 인정한다. 이후 공장이 습격당하자 노동자들이 탈출할 시간을 벌기 위해 남는다.",
+      "spoiler": "medium",
+      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+    },
+    {
+      "event": "time-forward",
       "person": "antosha",
       "text": "성준보루에서 노동자와 학생들의 파업 및 선전 활동에 참여하지만 비밀경찰의 탄압을 겪습니다. 제국의 지배가 끝난 뒤 동료들과 남쪽에서 땅을 일구고 싶다고 말하고, 우쿠시크와 재회하며 죽은 마트베이의 어머니를 돌보겠다는 약속을 이어 갑니다.",
       "spoiler": "medium",
@@ -28354,8 +29290,8 @@ window.STORY_DATA = {
     },
     {
       "event": "time-forward",
-      "person": "wiki-eloysius-gorchekova",
-      "text": "성준보루에서 노동자와 학생들을 연결해 저항 세력을 모읍니다. 카테리나에게 체포되지만 이후 창고의 원석에 관한 정보를 얻어 안토샤와 로도스에 전하고, 노동자들의 창고 습격과 봉쇄 구역 탈출 계획을 이어 줍니다. 봉기가 다시 일어나자 노동자들의 편에 섭니다.",
+      "person": "prts-grand-duchess-elizaveta",
+      "text": "나스타샤를 내세워 황제의 권력을 빼앗고 성준보루에서 반대파를 탄압합니다. 원석 생산을 유지하며 대외 전쟁을 준비하지만 정권이 무너진 뒤 체포되어 새 정부의 재판에서 사형을 선고받습니다.",
       "spoiler": "medium",
       "source": "https://www.taptap.cn/moment/866467878675678101"
     },
@@ -28368,17 +29304,17 @@ window.STORY_DATA = {
     },
     {
       "event": "time-forward",
-      "person": "wiki-olga-trepleva",
-      "text": "학생들을 이끌며 파업과 선전 활동에 참여하고, 탄압 속에서도 카토르가의 감염 노동자들이 버려진 현실을 목격한 뒤 동료들과 도시에 남습니다. 정권이 무너진 뒤 자신의 땅과 재산을 새 대학 건설에 내놓고, 스승의 이름을 건물에 남겨 달라고 요청합니다.",
+      "person": "wiki-eloysius-gorchekova",
+      "text": "성준보루에서 노동자와 학생들을 연결해 저항 세력을 모읍니다. 카테리나에게 체포되지만 이후 창고의 원석에 관한 정보를 얻어 안토샤와 로도스에 전하고, 노동자들의 창고 습격과 봉쇄 구역 탈출 계획을 이어 줍니다. 봉기가 다시 일어나자 노동자들의 편에 섭니다.",
       "spoiler": "medium",
       "source": "https://www.taptap.cn/moment/866467878675678101"
     },
     {
       "event": "time-forward",
-      "person": "wiki-red-npc",
-      "text": "리유니온의 동료로 황제를 죽이고 싶은 마음에 붙잡힌 표도르를 잠시 데리고 숨지만 끝내 살인을 실행하지 않습니다. 탈룰라에게 사실을 고백하고 처벌을 청하며, 이후 제1집단군의 배신 속에서 노동자들의 탈출을 위해 공장에 남아 싸우다 죽습니다.",
+      "person": "wiki-olga-trepleva",
+      "text": "학생들을 이끌며 파업과 선전 활동에 참여하고, 탄압 속에서도 카토르가의 감염 노동자들이 버려진 현실을 목격한 뒤 동료들과 도시에 남습니다. 정권이 무너진 뒤 자신의 땅과 재산을 새 대학 건설에 내놓고, 스승의 이름을 건물에 남겨 달라고 요청합니다.",
       "spoiler": "medium",
-      "source": "https://prts.wiki/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88"
+      "source": "https://www.taptap.cn/moment/866467878675678101"
     },
     {
       "event": "time-forward",
@@ -28417,13 +29353,6 @@ window.STORY_DATA = {
     },
     {
       "event": "time-forward",
-      "person": "prts-grand-duchess-elizaveta",
-      "text": "나스타샤를 내세워 황제의 권력을 빼앗고 성준보루에서 반대파를 탄압합니다. 원석 생산을 유지하며 대외 전쟁을 준비하지만 정권이 무너진 뒤 체포되어 새 정부의 재판에서 사형을 선고받습니다.",
-      "spoiler": "medium",
-      "source": "https://www.taptap.cn/moment/866467878675678101"
-    },
-    {
-      "event": "time-forward",
       "person": "prts-kader",
       "text": "제7집단군에서 감염자라는 이유로 학대받다 동료들을 이끌고 탈출합니다. 탈룰라의 리유니온과 합류해 포위된 사람들을 구하는 데 필요한 군대 정보를 전하지만, 자모레스의 퇴로를 지키던 중 제4집단군과 싸우다 죽습니다.",
       "spoiler": "medium",
@@ -28453,7 +29382,7 @@ window.STORY_DATA = {
     {
       "event": "break-ice",
       "person": "silverash",
-      "text": "쉐라그가 외부 침략에 대비하려면 근대화해야 한다고 판단해 노시스와 결별한 것처럼 꾸민다. 다른 가문들이 자기 영지를 포기하라고 압박하자 세 가문의 영지를 모두 성녀에게 맡기자고 역제안하고, 노시스와 짠 계략으로 경쟁 가문을 궁지에 몬다. 엔야의 개입으로 전투가 멈춘 뒤 세 가문의 주도권을 얻고 박사를 이용한 일을 사과한다.",
+      "text": "쉐라그가 외부 침략에 대비하려면 근대화해야 한다고 판단해 노시스와 결별한 것처럼 꾸민다. 다른 가문들이 자기 영지를 포기하라고 압박하자 세 가문의 영지를 모두 성녀에게 맡기자고 역제안하고, 노시스와 짠 계략으로 경쟁 가문을 궁지에 몬다. 엔야의 개입으로 전투가 멈춘 뒤 세 가문의 주도권을 얻고 독타를 이용한 일을 사과한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
     },
@@ -28461,6 +29390,13 @@ window.STORY_DATA = {
       "event": "break-ice",
       "person": "pramanix",
       "text": "성녀 엔야로서 오빠 실버애쉬의 권력 투쟁과 가문들의 충돌 사이에 놓입니다. 죽어 가는 대장로의 당부를 들으면서도 백성의 삶을 바꿀 책임을 받아들이고, 엔시아와 케라의 격려를 받아 산을 내려와 무력 충돌을 멈춥니다. 이후 자신의 방식으로 외부 신도들에게 성녀의 문을 엽니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
+    },
+    {
+      "event": "break-ice",
+      "person": "doctor",
+      "text": "의료 시설 협력 요청으로 쉐라그에 왔다가 실버애쉬의 영지 양도와 정치적 충돌에 휘말립니다. 실버애쉬가 여론에서 앞섰음을 인정하면서도 더 많은 사람이 죽는 것을 막기 위해 다른 가문과 협력해 성녀를 모시러 가고, 샤프를 보내 전투를 억제합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
     },
@@ -28480,13 +29416,6 @@ window.STORY_DATA = {
     },
     {
       "event": "break-ice",
-      "person": "doctor",
-      "text": "의료 시설 협력 요청으로 쉐라그에 왔다가 실버애쉬의 영지 양도와 정치적 충돌에 휘말립니다. 실버애쉬가 여론에서 앞섰음을 인정하면서도 더 많은 사람이 죽는 것을 막기 위해 다른 가문과 협력해 성녀를 모시러 가고, 샤프를 보내 전투를 억제합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
-    },
-    {
-      "event": "break-ice",
       "person": "cliffheart",
       "text": "오랫동안 떨어져 지낸 언니 엔야와 오빠 실버애쉬 사이에서 쉐라그로 돌아옵니다. 가문들의 싸움이 격해지자 언니를 지키기 위해 눈보라 속 산을 오르고, 엔야가 스스로 성녀로서의 선택을 내리도록 곁에서 격려합니다.",
       "spoiler": "medium",
@@ -28501,10 +29430,31 @@ window.STORY_DATA = {
     },
     {
       "event": "break-ice",
+      "person": "wiki-arctosz-paleroche",
+      "text": "페일로쉬를 이끌고 실버애쉬의 개혁에 맞선다. 대장로가 쓰러진 뒤 경쟁 가문들과 충돌이 격해지지만, 엔야가 눈보라를 뚫고 내려오자 성녀에게 예를 표하고 전사들과 함께 무기를 거둔다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
+    },
+    {
+      "event": "break-ice",
       "person": "degenbrecher",
       "text": "실버애쉬의 곁에서 그의 계획을 지키며 공개적으로 맞선 노시스를 제압합니다. 가문들의 대립으로 불이 난 건물에서 실버애쉬를 구하고, 성녀에게 가려는 로도스의 샤프와도 맞섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
+    },
+    {
+      "event": "break-ice",
+      "person": "break-ice-sharp",
+      "text": "독타의 지시를 받아 가문들 사이의 전투가 커지는 것을 막는다. 성녀가 있는 곳으로 가는 길에서 실버애쉬 편에 선 데겐블레허와 맞선다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Break_the_Ice/Synopsis"
+    },
+    {
+      "event": "invitation",
+      "person": "lee",
+      "text": "친구 양현에게 밀반입된 옛 술잔을 전달하려 신루와 상촉에 온다. 술잔을 노리는 관청과 표국, 오래된 습격의 원한이 얽히자 그 내력을 추적한다. 열여덟 번째 봉우리에서는 둘째 형이 마련한 그림 속 판에 갇혀 다른 사람들과 바둑을 두며 빠져나갈 길을 찾는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
     },
     {
       "event": "invitation",
@@ -28515,29 +29465,15 @@ window.STORY_DATA = {
     },
     {
       "event": "invitation",
-      "person": "nian",
-      "text": "자매들을 모아 수이가 다시 하나가 될 운명에 저항하기 위해 링을 찾습니다. 둘째 형이 술잔과 위조 명령으로 마련한 함정 속에서 시와 링을 만나고, 좌락 및 둘째 형의 계획에 맞서 자매들과 싸웁니다.",
+      "person": "invitation-second-brother",
+      "text": "태부의 친서를 위조하고 술잔을 둘러싼 여러 세력을 상촉의 봉우리로 불러들인다. 그림 안에서 리와 양현 일행을 상대로 바둑을 두는 동안, 술잔에 깃든 힘은 수이의 형상으로 나타나 자매들과 싸운다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
     },
     {
       "event": "invitation",
-      "person": "kroos",
-      "text": "우요우와 함께 링을 찾아 상서에 왔다가 술잔을 호송하는 리 일행과 만납니다. 술잔의 힘으로 생긴 괴이와 싸우고, 사라진 봉우리에서 좌락과 여러 세력이 맞서는 동안 니엔 일행을 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
-    },
-    {
-      "event": "invitation",
-      "person": "mr-nothing",
-      "text": "크루스와 함께 수이의 자매 링을 찾아 상서로 향합니다. 술잔을 노리는 세력과 괴이들이 얽힌 사건에 휘말리고, 봉우리에서 벌어진 싸움에서 크루스와 함께 자매들을 가로막는 좌락에 맞섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
-    },
-    {
-      "event": "invitation",
-      "person": "lee",
-      "text": "친구 양순에게 밀반입된 옛 술잔을 전달하려 신루와 상서에 온다. 술잔을 노리는 관청과 표국, 오래된 습격의 원한이 얽히자 그 내력을 추적한다. 열여덟 번째 봉우리에서는 둘째 형이 마련한 그림 속 판에 갇혀 다른 사람들과 바둑을 두며 빠져나갈 길을 찾는다.",
+      "person": "wiki-liang-xun",
+      "text": "옛 친구 리에게 술잔을 상촉까지 옮기는 일을 맡긴다. 사세대에 술잔을 넘기겠다는 기존 약속과 표국의 오래된 원한이 얽히면서 사건의 중심에 서고, 리 일행과 그림 속 바둑판에 갇힌다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
     },
@@ -28557,8 +29493,36 @@ window.STORY_DATA = {
     },
     {
       "event": "invitation",
+      "person": "nian",
+      "text": "자매들을 모아 수이가 다시 하나가 될 운명에 저항하기 위해 링을 찾습니다. 둘째 형이 술잔과 위조 명령으로 마련한 함정 속에서 시와 링을 만나고, 좌락 및 둘째 형의 계획에 맞서 자매들과 싸웁니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
+    },
+    {
+      "event": "invitation",
+      "person": "kroos",
+      "text": "우요우와 함께 링을 찾아 상촉에 왔다가 술잔을 호송하는 리 일행과 만납니다. 술잔의 힘으로 생긴 괴이와 싸우고, 사라진 봉우리에서 좌락과 여러 세력이 맞서는 동안 니엔 일행을 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
+    },
+    {
+      "event": "invitation",
+      "person": "mr-nothing",
+      "text": "크루스와 함께 수이의 자매 링을 찾아 상촉로 향합니다. 술잔을 노리는 세력과 괴이들이 얽힌 사건에 휘말리고, 봉우리에서 벌어진 싸움에서 크루스와 함께 자매들을 가로막는 좌락에 맞섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
+    },
+    {
+      "event": "invitation",
+      "person": "dusk",
+      "text": "봉우리에서 좌락이 가져온 친서의 필체를 보고 태부가 쓴 글이 아님을 알아낸다. 링과 니엔에게 합류해 술잔에서 나타난 수이의 형상에 맞선다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
+    },
+    {
+      "event": "invitation",
       "person": "wiki-shen-lou",
-      "text": "리의 호위를 맡아 상서로 함께 오고 술잔을 노리는 이들과 맞섭니다. 둘째 형의 계략 속에서 시의 그림에 갇힌 뒤 그림을 찢어 다른 사람들이 빠져나갈 길을 돕습니다.",
+      "text": "리의 호위를 맡아 상촉로 함께 오고 술잔을 노리는 이들과 맞섭니다. 둘째 형의 계략 속에서 시의 그림에 갇힌 뒤 그림을 찢어 다른 사람들이 빠져나갈 길을 돕습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Invitation_to_Wine/Synopsis"
     },
@@ -28578,6 +29542,13 @@ window.STORY_DATA = {
     },
     {
       "event": "lingering",
+      "person": "wiki-gertrude-strollo",
+      "text": "에벤홀츠의 목소리를 크라이데에게 옮겨 자유롭게 해 주겠다고 제안하지만, 실제로는 공연 후 크라이데를 죽이고 시신으로 에벤홀츠의 죽음을 위장하려 합니다. 공연장을 공명 장치로 만들려다 체포된 뒤에도 숨겨 둔 장치를 가동해 마지막 연주를 위기에 빠뜨립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Lingering_Echoes/Synopsis"
+    },
+    {
+      "event": "lingering",
       "person": "czerny",
       "text": "작별 연주회에서 에벤홀츠와 크라이데의 가능성을 보고 예비 연주자로 남겨 함께 연습하게 합니다. 두 목소리와 공연장의 위험이 드러나자 자료를 연구해 목소리를 분리할 곡을 작곡하고, 쓰러질 만큼 힘을 쏟은 뒤 두 소년과 무대에 오릅니다.",
       "spoiler": "medium",
@@ -28592,8 +29563,8 @@ window.STORY_DATA = {
     },
     {
       "event": "lingering",
-      "person": "wiki-gertrude-strollo",
-      "text": "에벤홀츠의 목소리를 크라이데에게 옮겨 자유롭게 해 주겠다고 제안하지만, 실제로는 공연 후 크라이데를 죽이고 시신으로 에벤홀츠의 죽음을 위장하려 합니다. 공연장을 공명 장치로 만들려다 체포된 뒤에도 숨겨 둔 장치를 가동해 마지막 연주를 위기에 빠뜨립니다.",
+      "person": "wiki-witch-king",
+      "text": "과거 실험으로 두 소년에게 남겨진 목소리가 연주회에서 공명한다. 크라이데가 목소리를 떠안자 마왕의 의식이 그를 잠식하고, 에벤홀츠와 크라이데가 함께 살아남으려던 계획도 무너진다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Lingering_Echoes/Synopsis"
     },
@@ -28607,7 +29578,7 @@ window.STORY_DATA = {
     {
       "event": "firelight",
       "person": "reed",
-      "text": "언니 에블라나의 지시에 따라 더블린 지도자의 그림자로 살았던 과거를 떠나 론디니움으로 향합니다. 빅토리아 군인에게 괴롭힘당하는 피온과 타라인 피난민들을 이끌고 늪을 건너지만, 군과 더블린 양쪽에 포위되자 불꽃으로 이들의 탈출을 돕습니다. 많은 사람의 희생과 힐록 사건의 책임을 마주한 뒤에는 언니의 그림자가 아닌 자신의 이름으로 생존자들의 새 터전을 찾습니다.",
+      "text": "언니 에블라나의 지시에 따라 더블린 지도자의 그림자로 살았던 과거를 떠나 론디니움으로 향합니다. 빅토리아 군인에게 괴롭힘당하는 핀과 타라인 피난민들을 이끌고 늪을 건너지만, 군과 더블린 양쪽에 포위되자 불꽃으로 이들의 탈출을 돕습니다. 많은 사람의 희생과 힐록 사건의 책임을 마주한 뒤에는 언니의 그림자가 아닌 자신의 이름으로 생존자들의 새 터전을 찾습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/What_the_Firelight_Casts/Synopsis"
     },
@@ -28627,6 +29598,13 @@ window.STORY_DATA = {
     },
     {
       "event": "firelight",
+      "person": "eblana",
+      "text": "워릭 백작을 죽이고 타라의 미래를 추구하며 동생 리드를 더블린 지도자의 그림자로 내세웁니다. 이후 웰링턴 공작과 손잡고 론디니움에 선전포고하며 빅토리아와 타라를 하나로 묶겠다는 계획을 밝힙니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/What_the_Firelight_Casts/Synopsis"
+    },
+    {
+      "event": "firelight",
       "person": "bagpipe",
       "text": "첸과 함께 보랏빛 불꽃으로 움직이는 시신, 이른바 유령 부대를 조사하며 피난민들과 만납니다. 힐록에서 본 아츠와 리드의 정체를 떠올리고, 아웃캐스트가 죽은 사건에 대한 책임을 묻습니다. 타라인의 해방과 그 과정에서 희생된 사람들을 두고 리드와 쉽게 화해하지 못합니다.",
       "spoiler": "medium",
@@ -28641,8 +29619,8 @@ window.STORY_DATA = {
     },
     {
       "event": "firelight",
-      "person": "eblana",
-      "text": "워릭 백작을 죽이고 타라의 미래를 추구하며 동생 리드를 더블린 지도자의 그림자로 내세웁니다. 이후 웰링턴 공작과 손잡고 론디니움에 선전포고하며 빅토리아와 타라를 하나로 묶겠다는 계획을 밝힙니다.",
+      "person": "firelight-fisher",
+      "text": "빅토리아 병사들이 피난민을 둘러싸고 리드를 노릴 때 움직인다. 이후 핀이 지은 집이 여전히 캐스터 공작의 영지 안에 있다고 지적하며, 새 정착지도 전쟁을 피할 수 없음을 드러낸다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/What_the_Firelight_Casts/Synopsis"
     },
@@ -28662,6 +29640,13 @@ window.STORY_DATA = {
     },
     {
       "event": "path-of-life",
+      "person": "wiki-clementia",
+      "text": "시본이 무기보다 빠르게 진화하는 위기에 대응하기 위해 수로와 새 생물 무기 계획을 추진합니다. 사냥꾼들의 귀환에 따른 의혹을 공개 심문으로 다루고 37번 둥지의 참사 뒤 이들을 전선에 투입합니다. 장치가 시본을 불러들여 도시가 공격받자 독타와 켈시와 함께 피난하며 대응합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Path_of_Life/Synopsis"
+    },
+    {
+      "event": "path-of-life",
       "person": "wiki-blandus",
       "text": "어비설 헌터스의 면역 반응을 설명하며 공개 심문에서 그들을 옹호하고 재생 수술을 맡습니다. 그러나 심해교회와 협력해 수로 장치와 사냥꾼들의 몸을 조정해 왔으며, 시본의 적대성을 바꾸려 했다는 진실을 울피아누스에게 밝힌 뒤 그의 손에 죽습니다.",
       "spoiler": "medium",
@@ -28669,8 +29654,8 @@ window.STORY_DATA = {
     },
     {
       "event": "path-of-life",
-      "person": "wiki-clementia",
-      "text": "시본이 무기보다 빠르게 진화하는 위기에 대응하기 위해 수로와 새 생물 무기 계획을 추진합니다. 사냥꾼들의 귀환에 따른 의혹을 공개 심문으로 다루고 37번 둥지의 참사 뒤 이들을 전선에 투입합니다. 장치가 시본을 불러들여 도시가 공격받자 독타와 켈시와 함께 피난하며 대응합니다.",
+      "person": "wiki-martus",
+      "text": "선사 문명을 연구하다 이샤믈라와 만난 인간형 시본으로 시본의 진화가 테라의 희망이라고 주장합니다. 밀리아리움에서 독타와 켈시에게 자신의 관점을 밝히고 스카디에게 관심을 보이며, 뒤쫓아 온 울피아누스에게 시본에 합류하라고 요구합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Path_of_Life/Synopsis"
     },
@@ -28704,8 +29689,15 @@ window.STORY_DATA = {
     },
     {
       "event": "path-of-life",
-      "person": "wiki-martus",
-      "text": "선사 문명을 연구하다 이샤믈라와 만난 인간형 시본으로 시본의 진화가 테라의 희망이라고 주장합니다. 밀리아리움에서 독타와 켈시에게 자신의 관점을 밝히고 스카디에게 관심을 보이며, 뒤쫓아 온 울피아누스에게 시본에 합류하라고 요구합니다.",
+      "person": "path-of-life-tullia",
+      "text": "신호 장치의 이상을 알아채 가까운 친구에게 알린 연구자다. 카시아는 심해 교회에 속해 있으면서 조사 과정에서 툴리아가 의심받도록 유도하고, 루실라는 뒤늦게 그 사실을 파악한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Path_of_Life/Synopsis"
+    },
+    {
+      "event": "path-of-life",
+      "person": "wiki-cassia",
+      "text": "심해 교회에 속한 사실을 숨기고 연구자 툴리아를 의심받게 한다. 순찰대가 신호 장치를 조사하는 과정에서 그가 사건에 관여했다는 사실이 드러난다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Path_of_Life/Synopsis"
     },
@@ -28718,13 +29710,6 @@ window.STORY_DATA = {
     },
     {
       "event": "pale-sea",
-      "person": "wiki-juana",
-      "text": "마른 바다를 넘어 다시 바다로 나아가려는 해적 선장으로 쏜즈에게 소원을 가리키는 나침반의 수리를 부탁합니다. 소금지느러미 사냥과 심문관의 추격 속에서 하비에르의 반란에 부딪히고 야영지가 불타자 쏜즈 일행에게 구출됩니다. 마지막에는 옛 동료들과 결투한 뒤 뜻을 함께하는 이들과 항해를 계속합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Exodus_from_the_Pale_Sea/Synopsis"
-    },
-    {
-      "event": "pale-sea",
       "person": "rose-salt",
       "text": "파스쿠알라로 금지된 나침반을 훔쳐 심문관에게 쫓기다 쏜즈와 함께 도망칩니다. 붙잡힌 엘리시움을 보조자로 소개해 두 친구가 다시 만나게 하고, 하비에르가 자신들을 넘기려 할 때 일주일을 더 달라고 설득합니다. 추격전 뒤에는 돈을 벌기 위해 컬럼비아로 향합니다.",
       "spoiler": "medium",
@@ -28732,15 +29717,22 @@ window.STORY_DATA = {
     },
     {
       "event": "pale-sea",
-      "person": "wiki-javier",
-      "text": "선원들의 안전을 위해 후아나의 위험한 항해를 의심하고 심문관과의 거래를 선택합니다. 파스쿠알라와 엘리시움을 붙잡고 야영지 위치까지 넘기지만 심문관은 약속을 지킬 생각이 없습니다. 마지막에 후아나와 결투해 패한 뒤에도 선원들의 존경을 받아 새 선장으로 인정받습니다.",
+      "person": "wiki-juana",
+      "text": "마른 바다를 넘어 다시 바다로 나아가려는 해적 선장으로 쏜즈에게 소원을 가리키는 나침반의 수리를 부탁합니다. 소금지느러미 사냥과 심문관의 추격 속에서 하비에르의 반란에 부딪히고 야영지가 불타자 쏜즈 일행에게 구출됩니다. 마지막에는 옛 동료들과 결투한 뒤 뜻을 함께하는 이들과 항해를 계속합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Exodus_from_the_Pale_Sea/Synopsis"
     },
     {
       "event": "pale-sea",
       "person": "wiki-anastasio",
-      "text": "금지된 나침반과 연금술의 단서를 쫓아 쏜즈와 파스쿠알라를 추격하는 심문관입니다. 야영지를 불태우고 탈출선을 쫓다가 쏜즈와 연구실 폭발 및 증기 지대의 결투를 겪습니다. 쓰러진 뒤 시본과 서로를 먹어 치우며 새로운 모습으로 살아납니다.",
+      "text": "금지된 나침반과 연금술의 단서를 쫓아 쏜즈 일행을 추격하고 야영지에 불을 지른다. 정복 선언호에 올라탔다가 쏜즈가 공방을 폭파해 배 밖으로 떨어지고, 다시 겨룰 때는 증기를 읽은 쏜즈에게 패한다. 이후 협곡 아래서 시본의 잔해와 뒤엉켜 다른 모습으로 일어난다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Exodus_from_the_Pale_Sea/Synopsis"
+    },
+    {
+      "event": "pale-sea",
+      "person": "wiki-javier",
+      "text": "선원들의 안전을 위해 후아나의 위험한 항해를 의심하고 심문관과의 거래를 선택합니다. 파스쿠알라와 엘리시움을 붙잡고 야영지 위치까지 넘기지만 심문관은 약속을 지킬 생각이 없습니다. 마지막에 후아나와 결투해 패한 뒤에도 선원들의 존경을 받아 새 선장으로 인정받습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Exodus_from_the_Pale_Sea/Synopsis"
     },
@@ -28774,13 +29766,6 @@ window.STORY_DATA = {
     },
     {
       "event": "sylvan",
-      "person": "leto",
-      "text": "어머니의 물건을 부모가 만난 장소에 두고 떠나간 아버지를 만나기 위해 쉐라그로 여행합니다. 기차에서 해럴드와 친해지고 정체를 모른 채 아크토즈와 술을 마신 뒤, 산에서 그가 자신의 아버지임을 듣고 분노를 터뜨립니다. 여행을 마친 뒤 병원의 어머니와 이야기를 나누며 관계를 돌아봅니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
-    },
-    {
-      "event": "sylvan",
       "person": "harold",
       "text": "캐스터 공작의 대리인으로 병사들과 쉐라그를 방문해 주민들의 환대를 받습니다. 겉으로는 친절한 손님이지만 공작의 명령에 따라 여신상을 파괴하고 카란 무역에 독점 거래를 강요하려 합니다. 데겐블레허에게 가로막히는 사이 카시미어 사절들이 도착하자 외교적 충돌을 우려해 공격을 중단합니다.",
       "spoiler": "medium",
@@ -28788,8 +29773,8 @@ window.STORY_DATA = {
     },
     {
       "event": "sylvan",
-      "person": "wiki-bellingham",
-      "text": "캐스터 공작이 보낸 첩보원으로 기차에서 피 묻은 손의 데겐블레허를 보고 해럴드가 위협받는다고 오해합니다. 실버애쉬 측의 유도에 넘어가 레토를 추적하고 여신상 아래의 수상한 금속을 조사합니다. 이후 도착하는 사절들을 노리지만 그들이 카시미어의 중요 인사들임을 알고 손을 떼야 합니다.",
+      "person": "leto",
+      "text": "어머니의 물건을 부모가 만난 장소에 두고 떠나간 아버지를 만나기 위해 쉐라그로 여행합니다. 기차에서 해럴드와 친해지고 정체를 모른 채 아크토즈와 술을 마신 뒤, 산에서 그가 자신의 아버지임을 듣고 분노를 터뜨립니다. 여행을 마친 뒤 병원의 어머니와 이야기를 나누며 관계를 돌아봅니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
     },
@@ -28797,6 +29782,13 @@ window.STORY_DATA = {
       "event": "sylvan",
       "person": "wiki-arctosz-paleroche",
       "text": "팔레로치 가문의 인물로 오래전 헤어진 딸 레토를 모른 채 만나 술을 마십니다. 산에서 레토와 함께 골짜기에 떨어진 뒤 자신이 아버지이며 보수적인 쉐라그에서 가족이 떠나야 했던 사정을 말하지만, 레토는 그 설명을 곧바로 받아들이지 않고 그를 때립니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
+    },
+    {
+      "event": "sylvan",
+      "person": "wiki-bellingham",
+      "text": "캐스터 공작이 보낸 첩보원으로 기차에서 피 묻은 손의 데겐블레허를 보고 해럴드가 위협받는다고 오해합니다. 실버애쉬 측의 유도에 넘어가 레토를 추적하고 여신상 아래의 수상한 금속을 조사합니다. 이후 도착하는 사절들을 노리지만 그들이 카시미어의 중요 인사들임을 알고 손을 떼야 합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
     },
@@ -28811,6 +29803,13 @@ window.STORY_DATA = {
       "event": "sylvan",
       "person": "gnosis",
       "text": "실버애쉬와 함께 빅토리아 첩보원의 움직임을 예상하고 레토를 이용한 유인책을 마련합니다. 사태 뒤 라타토스와 여신상 아래의 비밀 시설을 확인하며 쉐라그가 자체 기술로 만드는 고속 이동함을 준비합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
+    },
+    {
+      "event": "sylvan",
+      "person": "doctor",
+      "text": "카란 무역의 제막식에 카시미어 사절 및 뮤엘시스와 함께 도착한다. 쉐라그가 카시미어와도 협력한다는 사실이 공개되면서 해럴드가 독점 거래를 강요하기 어려워진다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/The_Rides_to_Lake_Silberneherze/Synopsis"
     },
@@ -28844,22 +29843,8 @@ window.STORY_DATA = {
     },
     {
       "event": "siracusano",
-      "person": "wiki-giovanna-rossati",
-      "text": "극작가 카테리나이자 로사티의 수장으로 과거 컬럼비아에서 텍사스와 친하게 지냈습니다. 가문의 생존을 위해 시라쿠사의 질서를 받아들이고, 함정임을 알면서도 오페라 공연장으로 향합니다. 텍사스에게 옛 영광을 되찾자고 제안하지만 거절당하고, 부상에서 회복한 뒤 공연의 새 결말을 씁니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
-    },
-    {
-      "event": "siracusano",
       "person": "wiki-bernardo-bellone",
       "text": "벨로네 가문의 수장으로 자로와 손잡고 시뇨라를 무너뜨릴 계획을 세웁니다. 데메트리에게 암살을 지시하고 텍사스에게 조반나를 죽이면 약속에서 풀어 주겠다고 제안합니다. 치타노바를 강제로 분리하려다 아들 레온투초의 설득을 받아들이고, 자로 앞에서 독을 마십니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
-    },
-    {
-      "event": "siracusano",
-      "person": "wiki-rubio",
-      "text": "카라치의 뒤를 맡으려는 관리로 라비니아에게 딸을 부탁하고 방송에서 가문들의 부패와 권력 다툼을 고발합니다. 암살자가 도착하자 스스로 목숨을 끊고, 이어진 방송은 도시 전체의 충돌을 촉발합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
     },
@@ -28872,17 +29857,38 @@ window.STORY_DATA = {
     },
     {
       "event": "siracusano",
-      "person": "wiki-sora",
-      "text": "볼시니 오페라에 출연하기 위해 엑시아와 크루아상의 호위를 받으며 시라쿠사로 갑니다. 공연과 가문의 충돌에 휘말리면서 텍사스와 조반나를 돕고, 사건이 끝난 뒤 펭귄 로지스틱스 동료들과 일상으로 돌아갑니다.",
+      "person": "wiki-giovanna-rossati",
+      "text": "극작가 카테리나이자 로사티의 수장으로 과거 컬럼비아에서 텍사스와 친하게 지냈습니다. 가문의 생존을 위해 시라쿠사의 질서를 받아들이고, 함정임을 알면서도 오페라 공연장으로 향합니다. 텍사스에게 옛 영광을 되찾자고 제안하지만 거절당하고, 부상에서 회복한 뒤 공연의 새 결말을 씁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
     },
     {
-      "event": "zwilling",
-      "person": "ebenholz",
-      "text": "마왕의 추종자들을 경계하며 흑여제에게서 온 호위 레싱을 오해하고 달아납니다. 대학에서 자신을 이용한 부활 계획을 겪은 뒤 프레몬트가 목소리를 제거하고, 이공간에서 젊은 마왕과 마주하며 자신을 괴롭힌 공포의 정체를 돌아봅니다. 축제 이후 레싱과 옛 영지를 돌보기로 합니다.",
+      "event": "siracusano",
+      "person": "wiki-rubio",
+      "text": "카라치의 뒤를 맡으려는 관리로 라비니아에게 딸을 부탁하고 방송에서 가문들의 부패와 권력 다툼을 고발합니다. 암살자가 도착하자 스스로 목숨을 끊고, 이어진 방송은 도시 전체의 충돌을 촉발합니다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
+      "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
+    },
+    {
+      "event": "siracusano",
+      "person": "demetri",
+      "text": "벨로네 가문에서 베르나르도의 명령을 받아 암살 계획에 가담한다. 그가 독단으로 배신한 것이 아님을 알게 된 레온투초는 사건의 배후가 아버지였음을 확인한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
+    },
+    {
+      "event": "siracusano",
+      "person": "wiki-signora-sicilia",
+      "text": "볼시니에 와 라비니아와 레온투초의 말을 듣는다. 두 사람이 자신의 권위와 가문들의 지배 밖에서 도시를 꾸리겠다는 뜻을 밝히자 치타노바에 그 가능성이 열린다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
+    },
+    {
+      "event": "siracusano",
+      "person": "wiki-sora",
+      "text": "볼시니 오페라에 출연하기 위해 엑시아와 크루아상의 호위를 받으며 시라쿠사로 갑니다. 공연과 가문의 충돌에 휘말리면서 텍사스와 조반나를 돕고, 사건이 끝난 뒤 펭귄 로지스틱스 동료들과 일상으로 돌아갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Il_Siracusano/Synopsis"
     },
     {
       "event": "zwilling",
@@ -28900,15 +29906,8 @@ window.STORY_DATA = {
     },
     {
       "event": "zwilling",
-      "person": "executor",
-      "text": "도망친 아르투리아를 찾으러 쌍둥이 탑에 와 로리스의 죽음과 실종된 약혼자 율리아를 조사합니다. 이공간에서 율리아에게 로리스의 마지막 뜻을 전하고, 현실에서 주민들이 오염되자 아르투리아에게 연주를 부탁합니다. 이후 그녀의 송환을 요구하지만 교황과 여제의 결정으로 제한된 자유가 허용됩니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
-    },
-    {
-      "event": "zwilling",
-      "person": "wiki-cora-lowenstein",
-      "text": "원래 쌍둥이 여제의 지시로 마왕 추종자들을 자멸시키도록 이끄는 지휘자였습니다. 베르너의 죽음 뒤 귀덴게세츠가 사람들의 운명을 묶는다고 판단해 마왕의 힘으로 법을 없애려 공연을 오염시키지만, 피해를 막으려는 비비아나에게 치명상을 입습니다.",
+      "person": "ebenholz",
+      "text": "마왕의 추종자들을 경계하며 흑여제에게서 온 호위 레싱을 오해하고 달아납니다. 대학에서 자신을 이용한 부활 계획을 겪은 뒤 프레몬트가 목소리를 제거하고, 이공간에서 젊은 마왕과 마주하며 자신을 괴롭힌 공포의 정체를 돌아봅니다. 축제 이후 레싱과 옛 영지를 돌보기로 합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
     },
@@ -28921,8 +29920,22 @@ window.STORY_DATA = {
     },
     {
       "event": "zwilling",
-      "person": "wiki-loris-bordin",
-      "text": "마왕의 죽음을 그린 화가가 쓰러진 사건을 조사하는 경찰대장입니다. 아르투리아의 음악으로 억누른 후회와 용기를 마주하고, 지하에서 추종자들에게 쫓기는 에벤홀츠를 구하려다 석화되어 죽습니다.",
+      "person": "wiki-cora-lowenstein",
+      "text": "원래 쌍둥이 여제의 지시로 마왕 추종자들을 자멸시키도록 이끄는 지휘자였습니다. 베르너의 죽음 뒤 귀덴게세츠가 사람들의 운명을 묶는다고 판단해 마왕의 힘으로 법을 없애려 공연을 오염시키지만, 피해를 막으려는 비비아나에게 치명상을 입습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
+    },
+    {
+      "event": "zwilling",
+      "person": "executor",
+      "text": "도망친 아르투리아를 찾으러 쌍둥이 탑에 와 로리스의 죽음과 실종된 약혼자 율리아를 조사합니다. 이공간에서 율리아에게 로리스의 마지막 뜻을 전하고, 현실에서 주민들이 오염되자 아르투리아에게 연주를 부탁합니다. 이후 그녀의 송환을 요구하지만 교황과 여제의 결정으로 제한된 자유가 허용됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
+    },
+    {
+      "event": "zwilling",
+      "person": "wiki-witch-king",
+      "text": "카르게라이히에서 아르투리아와 마주한다. 사람들이 마음을 나누는 미래에 관심을 보이지만 그녀가 타인의 마음을 진정으로 이해하는 문제를 짚는다. 그의 잔존 의식이 물러난 뒤 카르게라이히가 무너지며 붕괴체가 침입한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
     },
@@ -28934,30 +29947,30 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
     },
     {
-      "event": "where-vernal",
-      "person": "chongyue",
-      "text": "오랫동안 옥문을 지킨 수이의 첫째 조각이자 대사부로 은퇴를 앞두고 자신의 힘이 담긴 검을 맡길 사람을 정해야 합니다. 화이톈페이와 오랜 결투를 치르고, 재앙 속에서 산해중의 지도자가 수이의 배신에 복수하려는 페란무트 야임을 알아봅니다. 야를 쓰러뜨리되 죽이지 않고, 사건 뒤 옥문을 떠나며 검을 화이톈페이에게 맡깁니다.",
+      "event": "zwilling",
+      "person": "wiki-loris-bordin",
+      "text": "마왕의 죽음을 그린 화가가 쓰러진 사건을 조사하는 경찰대장입니다. 아르투리아의 음악으로 억누른 후회와 용기를 마주하고, 지하에서 추종자들에게 쫓기는 에벤홀츠를 구하려다 석화되어 죽습니다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
+      "source": "https://arknights.wiki.gg/wiki/Zwillingst%C3%BCrme_im_Herbst/Synopsis"
     },
     {
       "event": "where-vernal",
-      "person": "wiki-zuo-le",
-      "text": "대사부의 검을 훔친 지에윈을 추적하고 대장간에서 산해중의 움직임을 조사합니다. 화이톈페이가 제안한 결투에서 판단을 망설여 지에윈에게 패한 뒤, 그녀가 죽은 스승의 무덤에 검을 보여 주려 했음을 알게 됩니다. 추격당하는 그녀를 돕고 도시 밖으로 가도록 허락합니다.",
+      "person": "chongyue",
+      "text": "오랫동안 옥문을 지킨 수이의 첫째 조각이자 대사부로 은퇴를 앞두고 자신의 힘이 담긴 검을 맡길 사람을 정해야 합니다. 와이틴푸이와 오랜 결투를 치르고, 재앙 속에서 산해중의 지도자가 수이의 배신에 복수하려는 페란무트 야임을 알아봅니다. 야를 쓰러뜨리되 죽이지 않고, 사건 뒤 옥문을 떠나며 검을 와이틴푸이에게 맡깁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
     },
     {
       "event": "where-vernal",
       "person": "wiki-jieyun",
-      "text": "죽은 스승에게 충웨의 검을 보여 주고 작별하기 위해 혼란을 틈타 검을 훔칩니다. 부상당한 채 의원으로 변장한 화이톈페이와 대장장이 맹철의의 도움을 받고, 좌락과 결투해 검을 지킵니다. 사건 뒤 약속대로 검을 돌려줍니다.",
+      "text": "죽은 스승에게 총웨의 검을 보여 주고 작별하기 위해 혼란을 틈타 검을 훔칩니다. 부상당한 채 의원으로 변장한 와이틴푸이와 대장장이 맹철의의 도움을 받고, 좌락과 결투해 검을 지킵니다. 사건 뒤 약속대로 검을 돌려줍니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
     },
     {
       "event": "where-vernal",
-      "person": "qiubai",
-      "text": "충웨의 제자로 옥문의 대장간에서 지에윈과 산해중의 싸움에 뛰어듭니다. 이후 위샤와 와이후, 첸과 함께 적의 지도자에게 맞서고, 재앙을 넘긴 뒤 스승에게 작별하고 자신의 길을 떠납니다.",
+      "person": "wiki-zuo-le",
+      "text": "대사부의 검을 훔친 지에윈을 추적하고 대장간에서 산해중의 움직임을 조사합니다. 와이틴푸이가 제안한 결투에서 판단을 망설여 지에윈에게 패한 뒤, 그녀가 죽은 스승의 무덤에 검을 보여 주려 했음을 알게 됩니다. 추격당하는 그녀를 돕고 도시 밖으로 가도록 허락합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
     },
@@ -28970,15 +29983,15 @@ window.STORY_DATA = {
     },
     {
       "event": "where-vernal",
-      "person": "wiki-huai-tianpei",
-      "text": "의원으로 위장해 다친 지에윈을 치료하고 검을 되찾으려는 좌락과 그녀에게 결투를 제안합니다. 오랫동안 도전하고 싶었던 충웨와 싸워 패하지만 마침내 유효한 일격을 가합니다. 딸 와이후와도 재회하고, 사건 뒤 다음 결투의 기념으로 충웨의 검을 받습니다.",
+      "person": "wiki-ya",
+      "text": "과거 신들을 사냥하던 시대에 추방된 페란무트로 산해중을 이끌고 옥문에 침투합니다. 수이의 배신에 복수하고 그가 잠든 장소를 찾으려 재앙의 혼란을 이용하지만 총웨에게 패하고 목숨을 건져 떠납니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
     },
     {
       "event": "where-vernal",
-      "person": "wiki-ya",
-      "text": "과거 신들을 사냥하던 시대에 추방된 페란무트로 산해중을 이끌고 옥문에 침투합니다. 수이의 배신에 복수하고 그가 잠든 장소를 찾으려 재앙의 혼란을 이용하지만 충웨에게 패하고 목숨을 건져 떠납니다.",
+      "person": "wiki-huai-tianpei",
+      "text": "의원으로 위장해 다친 지에윈을 치료하고 검을 되찾으려는 좌락과 그녀에게 결투를 제안합니다. 오랫동안 도전하고 싶었던 총웨와 싸워 패하지만 마침내 유효한 일격을 가합니다. 딸 와이후와도 재회하고, 사건 뒤 다음 결투의 기념으로 총웨의 검을 받습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
     },
@@ -28986,6 +29999,13 @@ window.STORY_DATA = {
       "event": "where-vernal",
       "person": "wiki-zuo-xuanliao",
       "text": "실제 관측 자료가 도착해 재앙이 도시를 피할 수 없을 만큼 커졌음을 알게 되자 도망치는 대신 성벽과 술사들로 정면에서 버티기로 합니다. 주민을 대피시키고 방어를 지휘하며, 재앙 뒤 망풍제의 열여덟 번째 북을 직접 칩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
+    },
+    {
+      "event": "where-vernal",
+      "person": "qiubai",
+      "text": "총웨의 제자로 옥문의 대장간에서 지에윈과 산해중의 싸움에 뛰어듭니다. 이후 위샤와 와이후, 첸과 함께 적의 지도자에게 맞서고, 재앙을 넘긴 뒤 스승에게 작별하고 자신의 길을 떠납니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Where_Vernal_Winds_Will_Never_Blow/Synopsis"
     },
@@ -29012,6 +30032,27 @@ window.STORY_DATA = {
     },
     {
       "event": "here-a-people",
+      "person": "here-a-people-huasheng",
+      "text": "농업천사를 꿈꾸는 농민이다. 둑이 터지자 농지 구획을 분리해 오염된 물을 빼내려 하고, 환영에 쓰러졌다가 좌락에게 구조된다. 사태가 끝난 뒤 오리지늄을 잘 견디는 씨앗을 다른 재배 기지에도 보내려 한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
+    },
+    {
+      "event": "here-a-people",
+      "person": "here-a-people-xiaoman",
+      "text": "스톡비스트를 찾아 나섰다가 강물의 환영에 이끌리고 노천사의 도움으로 살아남는다. 대황성을 덮친 괴물들과 농민들이 맞설 때, 아버지라는 사실을 모른 채 나무꾼과 같은 들판에서 싸운다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
+    },
+    {
+      "event": "here-a-people",
+      "person": "wiki-wang",
+      "text": "수이의 둘째 조각으로 지의 계획 뒤에서 모습을 드러냅니다. 본체의 의식을 죽이고 자신이 새로운 수이가 되어 형제들과 염국의 미래를 지키고 사라진 형제까지 되살리겠다는 계획을 슈에게 밝힙니다. 슈는 즉답 대신 언젠가 필요할 씨앗을 건넵니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
+    },
+    {
+      "event": "here-a-people",
       "person": "nian",
       "text": "시와 함께 수이의 본체가 죽더라도 조각들이 남을 그릇인 열두 누각을 짓습니다. 축제의 둑이 터지자 농민들과 홍수를 막고, 지의 폭주를 저지하려다 그릇에 갇혀 자신의 후회와 마주하지만 스스로 누구인지 다시 선택합니다.",
       "spoiler": "medium",
@@ -29026,22 +30067,15 @@ window.STORY_DATA = {
     },
     {
       "event": "here-a-people",
-      "person": "wiki-grain-buds",
-      "text": "가축을 돌보며 좌락과 견습 천사 허성을 알게 됩니다. 물속의 환영과 붉은 논을 보고 위험에 빠졌다가 낯선 소녀에게 구출되고, 붉은 벼에 관한 단서를 좌락에게 전해 오염을 드러내는 데 기여합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
-    },
-    {
-      "event": "here-a-people",
-      "person": "wiki-wang",
-      "text": "수이의 둘째 조각으로 지의 계획 뒤에서 모습을 드러냅니다. 본체의 의식을 죽이고 자신이 새로운 수이가 되어 형제들과 염국의 미래를 지키고 사라진 형제까지 되살리겠다는 계획을 슈에게 밝힙니다. 슈는 즉답 대신 언젠가 필요할 씨앗을 건넵니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
-    },
-    {
-      "event": "here-a-people",
       "person": "wiki-old-tianshi",
       "text": "겉모습이 어린 소녀인 오래된 천사로 강가에서 환영을 좇던 곡수아를 구합니다. 붉은 벼의 징후를 조사하고, 땅의 오염과 수이 형제들의 갈등이 커지자 농민들을 지키기 위해 행동합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
+    },
+    {
+      "event": "here-a-people",
+      "person": "wiki-grain-buds",
+      "text": "가축을 돌보며 좌락과 견습 천사 허성을 알게 됩니다. 물속의 환영과 붉은 논을 보고 위험에 빠졌다가 낯선 소녀에게 구출되고, 붉은 벼에 관한 단서를 좌락에게 전해 오염을 드러내는 데 기여합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Here_A_People_Sows/Synopsis"
     },
@@ -29062,7 +30096,7 @@ window.STORY_DATA = {
     {
       "event": "sunset",
       "person": "narantuya",
-      "text": "처음에는 몸값을 노리고 페페를 납치하려는 사막 도적이지만, 미라 소동에 휘말려 아스파시아의 도움을 받습니다. 유물 감정 대회와 주바이르의 보석 찾기에 참여하며 자신의 이익도 노립니다. 물이 차오르는 보물고에서 페페를 구하고, 되찾은 미노스의 잔을 아스파시아에게 돌려줍니다.",
+      "text": "처음에는 몸값을 노리고 페페를 납치하려다 미라 소동에 휘말려 아스파시아와 만난다. 유물 감정 대회와 보석 찾기에 뛰어들지만, 보물창고에서는 금은보화를 챙기는 대신 그 재보로 모래가 빨려 들어가는 균열을 막고 갇힌 페페도 구한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Inudi_Harek%2C_Horakhet/Synopsis"
     },
@@ -29079,6 +30113,13 @@ window.STORY_DATA = {
       "text": "박물관의 아나트로 중요한 전시품을 빌려 달라는 페페의 요청을 처음에는 거절합니다. 깨어난 주바이르에게서 페페의 도움으로 벗어난 뒤 연구와 박물관 후원을 조건으로 협력하고, 사건이 끝나자 페페와 주바이르에 관한 글을 함께 씁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Inudi_Harek%2C_Horakhet/Synopsis"
+    },
+    {
+      "event": "sunset",
+      "person": "sunset-razbar",
+      "text": "자기 조상이 주바이르를 배신해 보물창고의 위치를 귀족들에게 알렸다는 이야기를 전한다. 주바이르는 그를 용서하고 보석을 되찾아 자신이 지키기로 했던 곳을 기억해 낸다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Adventure_That_Cannot_Wait_for_the_Sun/Synopsis"
     },
     {
       "event": "west-sunset",
@@ -29103,13 +30144,6 @@ window.STORY_DATA = {
     },
     {
       "event": "west-sunset",
-      "person": "wiki-charles-lynch",
-      "text": "런디니움의 시민군이 궁전으로 나아가는 마지막 전투에서 각자의 방식으로 길을 여는 이들 가운데 끝까지 버팁니다. 비나가 궁전을 나와 승리를 알린 뒤 죽음을 맞고, 밀스카는 그의 핵을 거두어 앞으로의 빅토리아를 볼 수 있게 합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Ending_a_Grand_Overture/Synopsis"
-    },
-    {
-      "event": "west-sunset",
       "person": "morgan",
       "text": "전쟁 뒤 의회 대변인이 된 비나와 글래스고 갱이 보내는 시간이 줄어드는 변화를 겪습니다. 동료들과 노포트에서 먼저 떠난 베어드를 추억하고, 곁으로 돌아온 비나의 약속을 들은 뒤 함께 겪은 일을 「알렉산드리나 회고록」으로 남기기로 합니다.",
       "spoiler": "medium",
@@ -29117,8 +30151,22 @@ window.STORY_DATA = {
     },
     {
       "event": "west-sunset",
+      "person": "wiki-charles-lynch",
+      "text": "런디니움의 시민군이 궁전으로 나아가는 마지막 전투에서 각자의 방식으로 길을 여는 이들 가운데 끝까지 버팁니다. 비나가 궁전을 나와 승리를 알린 뒤 죽음을 맞고, 밀스카는 그의 핵을 거두어 앞으로의 빅토리아를 볼 수 있게 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Ending_a_Grand_Overture/Synopsis"
+    },
+    {
+      "event": "west-sunset",
       "person": "wiki-clovisia",
       "text": "런디니움 시민군과 자구군의 활동 속에서 전후 도시의 재건과 남은 사람들을 위한 싸움을 이어 갑니다. 공작들이 전쟁의 성과를 차지하려는 동안에도 시민들이 스스로 되찾은 도시의 자리를 지키려 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Ending_a_Grand_Overture/Synopsis"
+    },
+    {
+      "event": "west-sunset",
+      "person": "west-sunset-elicio",
+      "text": "사형이 집행된 것처럼 위장해 빠져나온 다이앤을 알레데일에게 넘겨받는다. 정신을 차린 다이앤에게 치료를 받으러 컬럼비아로 가자고 제안한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Ending_a_Grand_Overture/Synopsis"
     },
@@ -29152,6 +30200,13 @@ window.STORY_DATA = {
     },
     {
       "event": "elegy",
+      "person": "wiki-labhreathach",
+      "text": "에블라나가 되살린 600년 전 추방왕으로 검은 숲의 환영에 갇힌 리드를 이끕니다. 붉은 용들의 역사가 반복한 비극을 보여 주며 언니의 불꽃을 막을 길을 말하고, 장례인들의 용서를 전하며 불꽃을 돌려보내는 선택에 이릅니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis"
+    },
+    {
+      "event": "elegy",
       "person": "brigid",
       "text": "유목민으로 리드와 네모스가 실종된 테오와 사라진 곡물의 진상을 찾도록 돕습니다. 도시가 불꽃으로 혼란에 빠지자 장례인들에게 도움을 구하고, 주민들이 슬픔과 노래로 불을 돌려보내는 의식에 힘을 보탭니다.",
       "spoiler": "medium",
@@ -29159,8 +30214,8 @@ window.STORY_DATA = {
     },
     {
       "event": "elegy",
-      "person": "wiki-labhreathach",
-      "text": "에블라나가 되살린 600년 전 추방왕으로 검은 숲의 환영에 갇힌 리드를 이끕니다. 붉은 용들의 역사가 반복한 비극을 보여 주며 언니의 불꽃을 막을 길을 말하고, 장례인들의 용서를 전하며 불꽃을 돌려보내는 선택에 이릅니다.",
+      "person": "elegy-theo",
+      "text": "쿨란 밑에서 일하던 제자로, 빅토리아 출신이라는 이유로 적대를 겪는다. 수레에 치여 쓰러진 뒤 엠마에게 스승을 불러 달라고 하지만 도움을 받지 못한다. 그의 죽음을 들은 쿨란은 광장의 붉은 용을 부수려 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes/Synopsis"
     },
@@ -29228,6 +30283,20 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/The_Masses%27_Travels/Synopsis"
     },
     {
+      "event": "mass-travels",
+      "person": "wiki-paganini",
+      "text": "파트리치온을 향해 총이 발사되자 대신 맞는다. 회복한 뒤에는 반니니에게 공방을 맡긴다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/The_Masses%27_Travels/Synopsis"
+    },
+    {
+      "event": "mass-travels",
+      "person": "wiki-vannini",
+      "text": "엑시아와 함께 폭탄을 만든다. 성도에서 벌어진 일이 수습되고 파가니니가 회복한 뒤 공방을 넘겨받는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/The_Masses%27_Travels/Synopsis"
+    },
+    {
       "event": "red-velvet",
       "person": "phantom",
       "text": "루시안으로 어린 시절 자신을 암살자로 길렀던 진홍 극단의 단장을 추적해 영화 촬영장에 들어갑니다. 연쇄 살인의 진범 모이라를 찾아내지만 그녀의 복수 기억마저 단장이 심은 것임을 알게 됩니다. 재앙을 향하는 촬영장에서 봉인했던 노래로 그녀를 막고, 단장 트라고디아의 심장을 꿰뚫은 뒤 죽음을 강요하지 않는 새 극단을 만들기로 합니다.",
@@ -29243,7 +30312,7 @@ window.STORY_DATA = {
     },
     {
       "event": "red-velvet",
-      "person": "tragodia",
+      "person": "wiki-tragodia-npc",
       "text": "불로불사의 진홍 극단장으로 모이라에게 가짜 기억과 복수의 동기를 심어 연쇄 살인과 자살로 끝나는 공연을 꾸밉니다. 죽은 배우의 모습으로 루시안 앞에 나타나지만 제자에게 심장을 꿰뚫리고, 자신의 이름과 불멸을 넘긴 채 가면 조각으로 흩어집니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Act_or_Die/Synopsis"
@@ -29264,6 +30333,13 @@ window.STORY_DATA = {
     },
     {
       "event": "red-velvet",
+      "person": "wiki-steven-quay",
+      "text": "촬영장에 닥친 폭풍과 단장이 마련한 결말을 마주한다. 모이라가 죽는 장면보다 그 뒤에도 살아갈 가능성을 생각하고, 대본 제목에서 죽음이라는 말을 지운다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Act_or_Die/Synopsis"
+    },
+    {
+      "event": "red-velvet",
       "person": "miss-christine",
       "text": "루시안과 함께 진홍 극단장을 추적하며 그가 촬영장의 범인을 밝히도록 돕습니다. 루시안이 모이라를 제압하려 봉인했던 노래를 쓴 뒤 혼란에 빠지자 그를 진정시켜 실제 배후인 극단장을 찾아내게 합니다.",
       "spoiler": "medium",
@@ -29271,15 +30347,15 @@ window.STORY_DATA = {
     },
     {
       "event": "ideal-city",
-      "person": "gavial",
-      "text": "스티치의 다급한 편지를 받고 주마마와 지하 도시 제루에르차에 갑니다. 처음 전해진 재난이 실제 위기보다 과장됐음을 알지만, 새 오리지늄 광맥이 도시를 위협하자 주민들을 지상의 정글로 대피시키자고 제안합니다. 도시를 지키지 못했다며 틀어박힌 스티치를 찾아가 다시 일하도록 이끌고, 지상 정착을 돕습니다.",
+      "person": "minimalist",
+      "text": "건축가 스티치로 무너진 지하 도시의 돔을 스승 핀치의 설계대로 고치고 싶어 지상에 도움을 청합니다. 주민들이 임시 물놀이장을 즐기자 철거와 재건을 주장하고 캐치와 설계를 겨룹니다. 실제 재난으로 도시를 포기해야 하자 자책하지만, 가비알과 캐치의 도움을 받아 주민들의 대피와 도시 정리에 다시 나섭니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Ideal_City/Synopsis"
     },
     {
       "event": "ideal-city",
-      "person": "minimalist",
-      "text": "건축가 스티치로 무너진 지하 도시의 돔을 스승 핀치의 설계대로 고치고 싶어 지상에 도움을 청합니다. 주민들이 임시 물놀이장을 즐기자 철거와 재건을 주장하고 캐치와 설계를 겨룹니다. 실제 재난으로 도시를 포기해야 하자 자책하지만, 가비알과 캐치의 도움을 받아 주민들의 대피와 도시 정리에 다시 나섭니다.",
+      "person": "gavial",
+      "text": "스티치의 다급한 편지를 받고 주마마와 지하 도시 제루에르차에 갑니다. 처음 전해진 재난이 실제 위기보다 과장됐음을 알지만, 새 오리지늄 광맥이 도시를 위협하자 주민들을 지상의 정글로 대피시키자고 제안합니다. 도시를 지키지 못했다며 틀어박힌 스티치를 찾아가 다시 일하도록 이끌고, 지상 정착을 돕습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Ideal_City/Synopsis"
     },
@@ -29292,6 +30368,13 @@ window.STORY_DATA = {
     },
     {
       "event": "ideal-city",
+      "person": "wiki-catch-lightrace",
+      "text": "도시의 건축가로 스티치와 새로운 랜드마크 구상을 겨룹니다. 재난 앞에서 스승의 돔을 지키지 못했다며 좌절한 스티치에게 자신의 자리를 맡기고, 자신은 사라진 스승 핀치를 찾아 나서겠다고 약속합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Ideal_City/Synopsis"
+    },
+    {
+      "event": "ideal-city",
       "person": "wiki-inam",
       "text": "아카후알라의 대족장으로 토미미와 엘리시움, 스티치를 따라 지하 도시를 방문합니다. 지상 영주가 두린을 발견해 착취할 위험이 제기되자 명목상 영주의 역할을 맡아 외부 세력과 교섭하고 주민들이 정글로 피난하도록 돕습니다.",
       "spoiler": "medium",
@@ -29299,8 +30382,8 @@ window.STORY_DATA = {
     },
     {
       "event": "ideal-city",
-      "person": "wiki-catch-lightrace",
-      "text": "도시의 건축가로 스티치와 새로운 랜드마크 구상을 겨룹니다. 재난 앞에서 스승의 돔을 지키지 못했다며 좌절한 스티치에게 자신의 자리를 맡기고, 자신은 사라진 스승 핀치를 찾아 나서겠다고 약속합니다.",
+      "person": "elysium",
+      "text": "토미미와 함께 스티치의 이야기를 듣고 지하 도시로 먼저 갑니다. 수영 대회를 계기로 막힌 터널을 조사하다 에지와 함께 오리지늄 광맥이 도시를 향해 번지고 있음을 발견해 대피가 필요하다는 사실을 알립니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Ideal_City/Synopsis"
     },
@@ -29313,8 +30396,8 @@ window.STORY_DATA = {
     },
     {
       "event": "ideal-city",
-      "person": "elysium",
-      "text": "토미미와 함께 스티치의 이야기를 듣고 지하 도시로 먼저 갑니다. 수영 대회를 계기로 막힌 터널을 조사하다 에지와 함께 오리지늄 광맥이 도시를 향해 번지고 있음을 발견해 대피가 필요하다는 사실을 알립니다.",
+      "person": "wiki-croque-diamondface",
+      "text": "사라진 건축가 핀치의 뒤를 이을 사람을 정하기 위해 스티치와 캐치 라이트레이스에게 새 랜드마크 설계를 제안해 달라고 한다. 주민들의 투표로 물놀이장 철거가 결정되고, 마지막 수영 대회가 열린다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Ideal_City/Synopsis"
     },
@@ -29355,8 +30438,22 @@ window.STORY_DATA = {
     },
     {
       "event": "so-long-adele",
+      "person": "so-long-adele-ennis",
+      "text": "옛 패션 거리의 술집 하얀 화산에서 일하며 감염 사실을 숨기고 가족의 생계를 꾸린다. 스와이어에게 현지를 안내하고, 사건 뒤 가게가 있던 거리 일부가 새 시에스타에 보존된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/So_Long%2C_Adele/Synopsis"
+    },
+    {
+      "event": "so-long-adele",
       "person": "ceylon",
       "text": "옛 시스타의 불법 흑요석 채굴로 늘어난 감염자 문제가 컬럼비아의 압박에 이용되는 상황을 조사합니다. 옛 광산 관계자에게 도움을 청하고, 화산 분출 때 도시가 주민들을 대피시키는 데 힘을 보탭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/So_Long%2C_Adele/Synopsis"
+    },
+    {
+      "event": "so-long-adele",
+      "person": "wiki-kahn",
+      "text": "켈러가 아델의 부모를 위험에 빠뜨렸을 수 있다고 말한다. 분화 직전 관측소까지 따라와 부모의 연구를 라이타니엔 권력자에게 넘겼다고 켈러를 추궁한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/So_Long%2C_Adele/Synopsis"
     },
@@ -29390,13 +30487,6 @@ window.STORY_DATA = {
     },
     {
       "event": "come-catastrophes",
-      "person": "liskarm",
-      "text": "프란카, 제시카와 데이비스타운에 파견되어 도시의 계약을 수행합니다. 은행이 평화 시위대에 실탄을 사용하라고 요구하자 계약 범위를 넘는 명령이라며 부대와 함께 거부하고, 제시카가 주민들을 위해 남겠다고 결심하자 그녀의 선택을 받아들입니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis"
-    },
-    {
-      "event": "come-catastrophes",
       "person": "coldshot",
       "text": "헬레나로 제시카와 우드로, 레오네와 함께 은행에 들어가 주민들에게서 빼앗은 돈을 되찾습니다. 금고에서 확보한 돈을 지하 통로로 운반해 주민들에게 돌려주는 일을 맡고, 레오네가 추격을 막기 위해 남는 마지막을 겪습니다.",
       "spoiler": "medium",
@@ -29410,16 +30500,23 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis"
     },
     {
-      "event": "grinning-valley",
-      "person": "ray",
-      "text": "어린 시절 안개 속에서 자신을 도운 빛의 정체를 찾으려 알라나의 트럭을 납치해 그리닝 밸리로 향한다. 검문소에서 감염자인 워미를 구하고, 재앙 속에서는 과거에 잃은 모래짐승을 떠올리며 짐승들을 구하려 한다. 만난 페란무트가 찾던 존재가 아님을 알지만, 훗날 아미야가 레이의 기억 속 빛에서 테레시아를 알아본다.",
+      "event": "come-catastrophes",
+      "person": "liskarm",
+      "text": "프란카, 제시카와 데이비스타운에 파견되어 도시의 계약을 수행합니다. 은행이 평화 시위대에 실탄을 사용하라고 요구하자 계약 범위를 넘는 명령이라며 부대와 함께 거부하고, 제시카가 주민들을 위해 남겠다고 결심하자 그녀의 선택을 받아들입니다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
+      "source": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis"
+    },
+    {
+      "event": "come-catastrophes",
+      "person": "wiki-benny",
+      "text": "레오네의 양아들로 광산 도시에서 더 나은 기회를 찾기 어렵다고 보고 떠나려 한다. 붙잡으려는 제시카에게 칼을 살리지 못했듯 이미 무너지는 도시도 구하기 어렵다고 말한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Come_Catastrophes_or_Wakes_of_Vultures/Synopsis"
     },
     {
       "event": "grinning-valley",
-      "person": "wiki-alanna",
-      "text": "워미와 오래 살아온 낡은 트럭을 교체하러 가다 레이에게 납치됩니다. 감염자인 워미가 검문소에서 붙잡히자 아이를 놓아 달라고 애원하고, 레이가 그녀를 구한 뒤에는 목적을 묻고 길을 함께합니다. 워미가 아츠를 배울 수 있도록 로도스로 떠나는 선택도 받아들입니다.",
+      "person": "ray",
+      "text": "어린 시절 안개 속에서 자신을 도운 빛의 정체를 찾으려 알라나의 트럭을 납치해 그리닝 밸리로 향한다. 검문소에서 감염자인 워미를 구하고, 재앙 속에서는 과거에 잃은 모래짐승을 떠올리며 짐승들을 구하려 한다. 만난 페란무트가 찾던 존재가 아님을 알지만, 훗날 아미야가 레이의 기억 속 빛에서 테레시아를 알아본다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
     },
@@ -29432,15 +30529,15 @@ window.STORY_DATA = {
     },
     {
       "event": "grinning-valley",
-      "person": "amiya",
-      "text": "독타, 새비지와 이동하던 중 연기가 나는 트럭을 발견해 아츠가 폭주한 워미를 돕습니다. 모닥불 곁에서 아이의 슬픔을 느끼고 테레시아와 자신의 과거를 떠올립니다. 훗날 레이의 기억에서 그녀가 찾던 빛이 오래전 테레시아였음을 보고, 독타에게 림 빌리턴의 풍경을 담은 사육장을 선물합니다.",
+      "person": "wiki-alanna",
+      "text": "워미와 오래 살아온 낡은 트럭을 교체하러 가다 레이에게 납치됩니다. 감염자인 워미가 검문소에서 붙잡히자 아이를 놓아 달라고 애원하고, 레이가 그녀를 구한 뒤에는 목적을 묻고 길을 함께합니다. 워미가 아츠를 배울 수 있도록 로도스로 떠나는 선택도 받아들입니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
     },
     {
       "event": "grinning-valley",
-      "person": "wiki-savage",
-      "text": "운송차 폐차 서류를 처리하던 워미를 돕고, 이후 독타와 아미야와 함께 연기 나는 트럭을 발견합니다. 차 안으로 들어가 아츠가 폭주한 워미를 구조하고 광석병 치료를 위해 로도스에 오라고 권합니다.",
+      "person": "amiya",
+      "text": "독타, 새비지와 이동하던 중 연기가 나는 트럭을 발견해 아츠가 폭주한 워미를 돕습니다. 모닥불 곁에서 아이의 슬픔을 느끼고 테레시아와 자신의 과거를 떠올립니다. 훗날 레이의 기억에서 그녀가 찾던 빛이 오래전 테레시아였음을 보고, 독타에게 림 빌리턴의 풍경을 담은 사육장을 선물합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
     },
@@ -29452,23 +30549,44 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
     },
     {
+      "event": "grinning-valley",
+      "person": "grinning-valley-kaira",
+      "text": "피하고 싶었던 결혼식에서 달아나 제리와 하수도를 지난다. 서로가 가족이 정해 둔 결혼 상대였다는 사실을 알게 되며, 결국 스스로 상대를 배우자로 선택한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
+    },
+    {
+      "event": "grinning-valley",
+      "person": "theresa",
+      "text": "과거 발굴한 로도스 아일랜드 함선을 옮기던 살카즈 수송대와 함께 있었다. 모래바람 속에서 조난당한 사냥꾼들에게 손을 내밀었고, 그때 어린 레이가 본 함선이 훗날 그의 여정이 시작되는 계기가 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
+    },
+    {
+      "event": "grinning-valley",
+      "person": "wiki-savage",
+      "text": "운송차 폐차 서류를 처리하던 워미를 돕고, 이후 독타와 아미야와 함께 연기 나는 트럭을 발견합니다. 차 안으로 들어가 아츠가 폭주한 워미를 구조하고 광석병 치료를 위해 로도스에 오라고 권합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/To_the_Grinning_Valley/Synopsis"
+    },
+    {
       "event": "unpromised",
       "person": "nasti",
-      "text": "라인 랩에서 식물을 이용한 에너지 전달 장치와 하늘의 나무를 개발해 항공 박람회에 참가합니다. 밀수 의혹과 배라의 등장으로 정원이 위태로워지자 박람회를 지키려 책임을 떠안지만, 나무 안에서 기억을 잃어 가던 양어머니 배라와 다시 만납니다. 죽은 자뿐 아니라 살아 있는 사람의 기쁨도 담을 집을 만들겠다는 뜻을 전하고, 사라진 어머니의 잎을 받아 기억합니다.",
+      "text": "라인 랩에서 식물을 이용한 에너지 전달 장치와 하늘의 나무를 개발해 항공 박람회에 참가합니다. 밀수 의혹과 베일라의 등장으로 정원이 위태로워지자 박람회를 지키려 책임을 떠안지만, 나무 안에서 기억을 잃어 가던 양어머니 베일라와 다시 만납니다. 죽은 자뿐 아니라 살아 있는 사람의 기쁨도 담을 집을 만들겠다는 뜻을 전하고, 사라진 어머니의 잎을 받아 기억합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
     },
     {
       "event": "unpromised",
       "person": "wiki-vla",
-      "text": "밴시의 계곡을 지켜 온 나스티의 양어머니로 죽음과 전쟁의 고통을 감춘 낙원을 만들려 했지만, 그곳은 딸에게 진짜 삶이 되지 못했습니다. 기억을 잃어 가던 중 딸을 찾아왔고, 나스티의 나무가 같은 실패를 반복할까 두려워 나무와 몸을 합칩니다. 위기에 처한 공중 플랫폼이 곧바로 추락하지 않도록 붙들고, 딸과 기억을 나눈 뒤 잎 하나를 남기고 사라집니다.",
+      "text": "밴시의 계곡을 지켜 온 내스티의 양어머니로 죽음과 전쟁의 고통을 감춘 낙원을 만들려 했지만, 그곳은 딸에게 진짜 삶이 되지 못했습니다. 기억을 잃어 가던 중 딸을 찾아왔고, 내스티의 나무가 같은 실패를 반복할까 두려워 나무와 몸을 합칩니다. 위기에 처한 공중 플랫폼이 곧바로 추락하지 않도록 붙들고, 딸과 기억을 나눈 뒤 잎 하나를 남기고 사라집니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
     },
     {
       "event": "unpromised",
       "person": "wiki-mercia-selene",
-      "text": "고든의 비서로 위장한 메일랜더 요원으로 배라의 기억을 살펴 나스티를 찾으러 온 사정을 알아냅니다. 플랫폼을 파괴해 외국 첩자의 소행으로 꾸미려는 계획을 듣고 사람들의 삶과 꿈을 희생할 수 없다며 거부합니다. 동료 요원들을 기억 속에 붙잡아 시간을 벌고 배라가 자유롭게 움직이도록 돕습니다.",
+      "text": "고든의 비서로 위장한 메이랜더 요원으로 베일라의 기억을 살펴 내스티를 찾으러 온 사정을 알아냅니다. 플랫폼을 파괴해 외국 첩자의 소행으로 꾸미려는 계획을 듣고 사람들의 삶과 꿈을 희생할 수 없다며 거부합니다. 동료 요원들을 기억 속에 붙잡아 시간을 벌고 베일라가 자유롭게 움직이도록 돕습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
     },
@@ -29481,22 +30599,29 @@ window.STORY_DATA = {
     },
     {
       "event": "unpromised",
-      "person": "wiki-tin-man",
-      "text": "메일랜더의 계획을 실행하며 메르시아에게 박람회 플랫폼을 파괴하고 외국의 소행으로 꾸며 하늘에 대한 열광을 다른 적개심으로 돌리려는 목적을 밝힙니다. 그녀는 사람들을 희생하는 명령을 거부해 동료들을 지연시키고 파괴 계획에 맞섭니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
-    },
-    {
-      "event": "unpromised",
-      "person": "wiki-sky-jagger",
-      "text": "라인 랩에서 박람회 검사를 맡아 규정에 맞지 않는 업체와 밀수 장비를 의심합니다. 상관 귀스타브에게 보고하지만 오히려 구금되고, 나스티는 그를 보호하려 검사를 중단합니다. 사건 후에는 남은 시설과 나무의 관리 책임을 맡습니다.",
+      "person": "prts-fernan",
+      "text": "안내원으로 들어와 기억을 잃어 가는 베일라를 찾는다. 생태원에서 골필을 알아보고 나무에서 떼어 내자 설비가 멈춘다. 폭발로 부유 캡슐이 떨어질 때 사람들을 모아 플랫폼의 방향을 바꿀 부품을 되찾는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
     },
     {
       "event": "unpromised",
       "person": "wiki-gustave",
-      "text": "고든의 상관이자 박람회를 둘러싼 권력자로 밀수 조사를 보고한 스카이를 구금합니다. 메일랜더와 손잡고 플랫폼 추락을 꾸미며 고든에게 책임을 씌우려 사과문까지 준비하지만, 계획이 폭로된 뒤 파괴의 책임으로 체포됩니다.",
+      "text": "고든의 상관이자 박람회를 둘러싼 권력자로 밀수 조사를 보고한 스카이를 구금합니다. 메이랜더와 손잡고 플랫폼 추락을 꾸미며 고든에게 책임을 씌우려 사과문까지 준비하지만, 계획이 폭로된 뒤 파괴의 책임으로 체포됩니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
+    },
+    {
+      "event": "unpromised",
+      "person": "wiki-tin-man",
+      "text": "메이랜더의 계획을 실행하며 메르시아에게 박람회 플랫폼을 파괴하고 외국의 소행으로 꾸며 하늘에 대한 열광을 다른 적개심으로 돌리려는 목적을 밝힙니다. 그녀는 사람들을 희생하는 명령을 거부해 동료들을 지연시키고 파괴 계획에 맞섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
+    },
+    {
+      "event": "unpromised",
+      "person": "wiki-sky-jagger",
+      "text": "라인 랩에서 박람회 검사를 맡아 규정에 맞지 않는 업체와 밀수 장비를 의심합니다. 상관 귀스타브에게 보고하지만 오히려 구금되고, 내스티는 그를 보호하려 검사를 중단합니다. 사건 후에는 남은 시설과 나무의 관리 책임을 맡습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Unrealized_Realities/Synopsis"
     },
@@ -29530,15 +30655,15 @@ window.STORY_DATA = {
     },
     {
       "event": "snow-1101",
-      "person": "gnosis",
-      "text": "쉐라그의 재앙 이후 사일런스와 함께 관측소 연구원의 행적을 조사하고, 외국 세력이 광산과 기밀에 접근하려는 움직임에 대응합니다. 실버애쉬가 카란 무역 대표에서 물러난 뒤 그 자리를 맡아 빅토리아와의 협력을 중단한다고 발표합니다.",
+      "person": "kjera",
+      "text": "성녀의 시녀 케라로 지내다 재앙을 앞두고 사라집니다. 산속에 찾아온 엔야에게 자신이 여신 케라그이며 그곳이 자신의 몸속이라고 밝히고, 더는 항상 곁에 있을 수 없어도 엔야가 사람들을 이끌 수 있다고 격려합니다. 성녀의 마지막 기도에 응답해 재앙의 구름을 흩습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
     },
     {
       "event": "snow-1101",
-      "person": "kjera",
-      "text": "성녀의 시녀 케라로 지내다 재앙을 앞두고 사라집니다. 산속에 찾아온 엔야에게 자신이 여신 케라그이며 그곳이 자신의 몸속이라고 밝히고, 더는 항상 곁에 있을 수 없어도 엔야가 사람들을 이끌 수 있다고 격려합니다. 성녀의 마지막 기도에 응답해 재앙의 구름을 흩습니다.",
+      "person": "gnosis",
+      "text": "쉐라그의 재앙 이후 사일런스와 함께 관측소 연구원의 행적을 조사하고, 외국 세력이 광산과 기밀에 접근하려는 움직임에 대응합니다. 실버애쉬가 카란 무역 대표에서 물러난 뒤 그 자리를 맡아 빅토리아와의 협력을 중단한다고 발표합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
     },
@@ -29551,15 +30676,15 @@ window.STORY_DATA = {
     },
     {
       "event": "snow-1101",
-      "person": "wiki-ratatos-browntail",
-      "text": "빅토리아 대사에게 실버애쉬를 몰아내는 거래를 제안하는 척해 첩자들을 유인합니다. 회담 장소가 폭발하고 불탄 외투만 남아 죽은 것으로 알려지지만, 실제로는 죽음을 위장해 적의 움직임을 속이고 있었습니다.",
+      "person": "wiki-carolin",
+      "text": "라인 랩 관측소에서 근무하면서 빅토리아와 메일랜더 양쪽의 정보원으로 행동합니다. 재앙 전날 떨어진 물체와 관련된 기록을 감추고 자취를 숨기며, 역에서 폭탄 소동을 일으켜 추적을 피합니다. 성직자의 도움으로 국외 탈출을 시도합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
     },
     {
       "event": "snow-1101",
-      "person": "wiki-carolin",
-      "text": "라인 랩 관측소에서 근무하면서 빅토리아와 메일랜더 양쪽의 정보원으로 행동합니다. 재앙 전날 떨어진 물체와 관련된 기록을 감추고 자취를 숨기며, 역에서 폭탄 소동을 일으켜 추적을 피합니다. 성직자의 도움으로 국외 탈출을 시도합니다.",
+      "person": "wiki-ratatos-browntail",
+      "text": "빅토리아 대사에게 실버애쉬를 몰아내는 거래를 제안하는 척해 첩자들을 유인합니다. 회담 장소가 폭발하고 불탄 외투만 남아 죽은 것으로 알려지지만, 실제로는 죽음을 위장해 적의 움직임을 속이고 있었습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
     },
@@ -29578,16 +30703,16 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
     },
     {
-      "event": "the-riders",
-      "person": "penance",
-      "text": "새 볼시니의 최고 판사 라비니아로 마피아의 영향에서 벗어난 사법 체계를 만들려 합니다. 운송 조합과 가문들의 밀수 사건을 조사하고 무장 세력이 법원으로 몰려와도 가문 전체를 즉시 불법화할 긴급 절차는 최후의 수단이라며 거부합니다. 도시가 피바다를 피한 뒤에도 법으로 문제를 다루는 길을 이어 갑니다.",
+      "event": "snow-1101",
+      "person": "silence",
+      "text": "노시스와 함께 라인 랩 관측소의 기록을 확인한다. 기록에서 조작의 흔적을 찾아 눈사태를 앞두고 관측을 맡았던 캐롤린과 그가 숨긴 자료를 추적한다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis"
+      "source": "https://arknights.wiki.gg/wiki/Retracing_Our_Steps/Synopsis"
     },
     {
       "event": "the-riders",
-      "person": "vigil",
-      "text": "레온투초로 새 볼시니의 시장 대행을 맡아 새로운 행정 질서를 준비하고 카르네발레를 엽니다. 교차로에서 무기 밀수 트럭과 부딪쳐 혼수상태에 빠지지만 축제 행렬이 도착하기 전 깨어납니다. 가문과 시민들이 대치하던 광장에 나타나 새 도시의 시대를 선언합니다.",
+      "person": "penance",
+      "text": "새 볼시니의 최고 판사 라비니아로 마피아의 영향에서 벗어난 사법 체계를 만들려 합니다. 운송 조합과 가문들의 밀수 사건을 조사하고 무장 세력이 법원으로 몰려와도 가문 전체를 즉시 불법화할 긴급 절차는 최후의 수단이라며 거부합니다. 도시가 피바다를 피한 뒤에도 법으로 문제를 다루는 길을 이어 갑니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis"
     },
@@ -29602,6 +30727,13 @@ window.STORY_DATA = {
       "event": "the-riders",
       "person": "crownslayer",
       "text": "류드밀라로 수상한 운송을 맡은 소머를 따라가다 레드와 루나컵의 싸움에 휘말립니다. 밀수 트럭이 조합에 피해를 줄까 봐 경찰보다 먼저 불태우고, 나중에 쓰러진 루나컵의 복수를 위해 레드를 찾습니다. 목적을 잃고 혼란스러워하는 레드를 보고 죽이는 대신 로도스로 데려가기로 합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis"
+    },
+    {
+      "event": "the-riders",
+      "person": "vigil",
+      "text": "레온투초로 새 볼시니의 시장 대행을 맡아 새로운 행정 질서를 준비하고 카르네발레를 엽니다. 교차로에서 무기 밀수 트럭과 부딪쳐 혼수상태에 빠지지만 축제 행렬이 도착하기 전 깨어납니다. 가문과 시민들이 대치하던 광장에 나타나 새 도시의 시대를 선언합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis"
     },
@@ -29637,6 +30769,20 @@ window.STORY_DATA = {
       "event": "the-riders",
       "person": "wiki-antonio-venezia",
       "text": "베네치아 가문의 인물로 카르네발레를 틈타 새 도시를 장악하려 운송회사를 통해 무기를 밀반입합니다. 라비니아의 조사가 이어지자 가문의 권력을 빼앗고 법원에 병력을 보내지만, 잉그리드와 맞서 부상한 뒤 도망치다 가문 수장의 명령을 받은 부하에게 죽습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis"
+    },
+    {
+      "event": "the-riders",
+      "person": "wiki-sommer",
+      "text": "무기를 운반하던 트럭이 교차로에서 레온투초의 차와 충돌하자 트럭을 항구의 축제 장식물 사이에 숨긴다. 에이레네에게 사고와 밀수의 경위를 알려 주고, 이 일은 상조회와 패밀리가 거래하게 되는 계기가 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis"
+    },
+    {
+      "event": "the-riders",
+      "person": "texas",
+      "text": "라플란드가 무기를 실은 육지함을 광장으로 몰고 와 사람들을 서로 겨누게 하자 현장에 선다. 축제 행렬이 도착할 무렵 라플란드와 겨루고, 두 사람의 대결은 구경꾼들에게 폐막 공연으로 보인다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/I_Portatori_dei_Velluti/Synopsis"
     },
@@ -29677,13 +30823,6 @@ window.STORY_DATA = {
     },
     {
       "event": "dreamtalk",
-      "person": "prts-ann-dream",
-      "text": "아이리스의 어린 펜팔 친구로, 술에 의존하는 아버지와 외로운 생활을 겪으면서도 자신의 이야기를 뒤집어 동화로 써 보냅니다. 마지막 편지에 담긴 절망을 알아차린 아이리스와 사키코가 찾아오고, 사키코는 소녀를 위해 자장가를 연주합니다. 아이리스가 만든 꿈은 안이 앞으로 살아갈 힘을 찾도록 돕습니다.",
-      "spoiler": "medium",
-      "source": "https://github.com/jsf322432/arknights-lore/blob/main/%E4%B8%96%E7%95%8C%E8%A7%82%E5%9F%BA%E7%BA%BF.md"
-    },
-    {
-      "event": "dreamtalk",
       "person": "umiri",
       "text": "시라쿠사의 감옥에서 풀려난 뒤 옛 가문을 배신했다는 오해로 프란시스에게 쫓기는 꿈을 꿉니다. 새 가문의 초대까지 받아 고민하지만, 자신을 찾아온 사키코가 배후의 음모를 짚으면서 선택을 다시 생각합니다. 마지막에는 베이스를 선택하고 다른 멤버들과 꿈을 벗어납니다.",
       "spoiler": "medium",
@@ -29691,10 +30830,24 @@ window.STORY_DATA = {
     },
     {
       "event": "dreamtalk",
+      "person": "prts-ann-dream",
+      "text": "아이리스의 어린 펜팔 친구로, 술에 의존하는 아버지와 외로운 생활을 겪으면서도 자신의 이야기를 뒤집어 동화로 써 보냅니다. 마지막 편지에 담긴 절망을 알아차린 아이리스와 사키코가 찾아오고, 사키코는 소녀를 위해 자장가를 연주합니다. 아이리스가 만든 꿈은 안이 앞으로 살아갈 힘을 찾도록 돕습니다.",
+      "spoiler": "medium",
+      "source": "https://github.com/jsf322432/arknights-lore/blob/main/%E4%B8%96%E7%95%8C%E8%A7%82%E5%9F%BA%E7%BA%BF.md"
+    },
+    {
+      "event": "dreamtalk",
       "person": "iris",
       "text": "사키코의 꿈에서 만난 아이리스는 행복한 일생을 꿈에서 보낸 뒤 현실에서 홀로 남는다면 어떤 의미가 있는지 묻습니다. 어린 펜팔 안의 절망이 담긴 편지를 받고 사키코와 찾아가 꿈을 통해 아이가 삶의 용기를 얻도록 돕습니다. 이후 베나와 함께 동료들을 돌보고 돌아갈 방법을 로도스에 물어보려 합니다.",
       "spoiler": "medium",
       "source": "https://prts.wiki/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4"
+    },
+    {
+      "event": "dreamtalk",
+      "person": "prts-sachiko-mother",
+      "text": "꿈에서 사키코를 만나 자기 곁에 머무르기보다 사키코가 자기 세계로 돌아가기를 바란다고 말한다. 이 만남으로 사키코는 동료들을 서둘러 깨우려는 마음만으로는 그들이 꿈에 남고 싶은 이유를 알 수 없었다고 돌아본다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/SS-8/Story"
     },
     {
       "event": "dreamtalk",
@@ -29720,7 +30873,7 @@ window.STORY_DATA = {
     {
       "event": "ruins",
       "person": "wiki-kouhei-mifune",
-      "text": "긴세키카이의 실권자로 재개발을 구실로 카지마치를 차지하고 조직 계승의 상징인 반야를 얻으려 호시구마를 위조 편지로 부릅니다. 테츠야의 사진으로 텟사이를 협박해 동네의 권리를 빼앗고 그를 찌르지만, 방송으로 범죄가 드러난 뒤 호시구마와의 결투에서 패해 체포됩니다.",
+      "text": "텟사이의 편지를 위조해 호시구마를 미츠쿠에로 부른다. 테츠야를 감금해 텟사이를 압박하고 카지마치의 땅문서와 방패 반야를 손에 넣는다. 모모카가 생방송에서 자신을 감염시키려던 계획을 폭로하고 테츠야가 아버지의 일로 맞서면서 그의 계획이 흔들린다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Ato/Synopsis"
     },
@@ -29782,10 +30935,10 @@ window.STORY_DATA = {
     },
     {
       "event": "operational",
-      "person": "w",
-      "text": "탈주한 살카즈 용병들의 우두머리가 옛 지인 플레임브링어임을 알아봅니다. 그가 무차별적인 파괴를 거부하고 리유니온을 떠난 사정을 들은 뒤 과거 매복에 얽힌 이야기를 나누고, 서로를 죽이는 대신 각자의 길을 가도록 놓아줍니다.",
+      "person": "wiki-scout",
+      "text": "가드를 치료해 숨기고, 독타가 과거의 냉혹한 지휘관으로 돌아올까 두려워하면서도 가드에게는 자기 자신을 위해 살아 달라는 편지를 남깁니다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+      "source": "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/master/kr/gamedata/story/activities/act4d0/level_act4d0_st01.txt"
     },
     {
       "event": "operational",
@@ -29793,6 +30946,34 @@ window.STORY_DATA = {
       "text": "리유니온의 무차별적인 파괴가 자신이 생각하는 전쟁과 다르다며 살카즈 용병들을 이끌고 떠납니다. W와 카즈델 내전의 매복과 그 배후에 관한 이야기를 나누고, 훗날 로도스에서 자신을 기억하지 못하는 독타와 다시 만납니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+    },
+    {
+      "event": "operational",
+      "person": "w",
+      "text": "탈주한 살카즈 용병들의 우두머리가 옛 지인 플레임브링어임을 알아봅니다. 그가 무차별적인 파괴를 거부하고 리유니온을 떠난 사정을 들은 뒤 과거 매복에 얽힌 이야기를 나누고, 서로를 죽이는 대신 각자의 길을 가도록 놓아줍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+    },
+    {
+      "event": "operational",
+      "person": "liskarm",
+      "text": "제시카에게 사격을 가르치고 자세와 집중을 살핍니다. 프란카의 지적을 듣고 후배의 종합 성적을 다시 봅니다.",
+      "spoiler": "medium",
+      "source": "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/master/kr/gamedata/story/activities/act4d0/level_act4d0_st03.txt"
+    },
+    {
+      "event": "operational",
+      "person": "jessica",
+      "text": "리스캄에게 지도를 받으며 사격 훈련을 이어갑니다. 개별 성적만으로는 드러나지 않던 꾸준함이 종합 기록에 나타납니다.",
+      "spoiler": "medium",
+      "source": "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/master/kr/gamedata/story/activities/act4d0/level_act4d0_st03.txt"
+    },
+    {
+      "event": "operational",
+      "person": "wiki-franka",
+      "text": "제시카의 종합 기록이 두 선배에게도 뒤지지 않는다는 점을 리스캄에게 보여 줍니다.",
+      "spoiler": "medium",
+      "source": "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/master/kr/gamedata/story/activities/act4d0/level_act4d0_st03.txt"
     },
     {
       "event": "operational",
@@ -29828,6 +31009,13 @@ window.STORY_DATA = {
       "text": "마젤란을 찾아 눈보라 속 북쪽 관측소로 갑니다. 처음에는 정체를 감춘 방문객으로 그녀의 이야기를 듣고, 우르수스 병사에게 눈을 다쳤던 기억을 떠올리면서도 마젤란이 꿈을 계속 좇기를 바라며 노래로 폭풍을 진정시킵니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Operational_Intelligence/Synopsis"
+    },
+    {
+      "event": "operational",
+      "person": "closure",
+      "text": "고장 난 조명을 핑계로 켈시를 불러내 직접 이야기를 듣습니다. 불이 들어오자 무거운 이야기를 잠시 내려놓고 그 빛을 함께 바라보자고 합니다.",
+      "spoiler": "medium",
+      "source": "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/master/kr/gamedata/story/activities/act4d0/level_act4d0_st07.txt"
     },
     {
       "event": "operational",
@@ -29915,6 +31103,41 @@ window.STORY_DATA = {
     },
     {
       "event": "rewinding",
+      "person": "wiki-surtr",
+      "text": "메테오라이트와 카즈델 변두리의 마을에서 무너진 동굴을 치우며, 머릿속에 떠오르는 아이들과 옛 도시의 기억이 누구의 것인지 찾으려 합니다. 오리지늄충의 둥지를 처리해 마을의 통행을 돕고 자료를 로도스로 가져갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+    },
+    {
+      "event": "rewinding",
+      "person": "arene",
+      "text": "장비 증명서를 받으러 공방에 갔다가 아드나키엘을 만나, 총에 관한 기대와 라테라노를 떠나온 경험을 이야기합니다.",
+      "spoiler": "medium",
+      "source": "https://www.gacha.gg/arknights/story"
+    },
+    {
+      "event": "rewinding",
+      "person": "wiki-adnachiel",
+      "text": "공방 견습생으로 아렌을 맞아, 총기 자격 심사에서 떨어졌던 일과 가족과 함께 라테라노를 떠난 일을 들려줍니다.",
+      "spoiler": "medium",
+      "source": "https://www.gacha.gg/arknights/story"
+    },
+    {
+      "event": "rewinding",
+      "person": "elysium",
+      "text": "추석 행사를 준비하던 동료들과 이베리아 이야기를 나누며 고향을 지루한 곳이라고 농담합니다. 사람들이 떠난 뒤 쏜즈와 더 솔직한 대화를 나누고 언젠가 고향으로 돌아갈 수 있을지 생각합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+    },
+    {
+      "event": "rewinding",
+      "person": "thorns",
+      "text": "추석 준비 중 엘리시움과 이베리아를 떠올리며 심문소 때문에 에기르인에게 우호적이지 않았던 현실을 이야기합니다. 나중에는 고향을 지루하고 우울한 곳이라는 말로만 표현할 수 있는지 엘리시움에게 되묻습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+    },
+    {
+      "event": "rewinding",
       "person": "mudrock",
       "text": "월루몽드의 폭동 뒤 부하와 살아남은 감염자들을 이끌고 카즈델을 향합니다. 감염자들을 아츠 도구로 만들려는 술사들에게 쫓기자 피난민을 마을로 보내고 부하들과 다리에 남지만, 로고스가 안개를 걷어 위기를 넘깁니다. 함선에 오른 뒤에는 빅 밥에게 자신의 사람들에게 아직 집을 찾아주지 못한 마음과 다시 만날 희망을 편지로 전합니다.",
       "spoiler": "medium",
@@ -29926,6 +31149,20 @@ window.STORY_DATA = {
       "text": "라이타니엔의 술사들이 감염자들을 실험 재료로 삼아 머드락 일행을 쫓는 현장을 목격합니다. 마왕의 아츠를 연구하며 생명을 짓밟는 일을 막기 위해 개입해 거상 하나를 부수고 안개를 걷어 냅니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+    },
+    {
+      "event": "rewinding",
+      "person": "april",
+      "text": "식당에서 안셀을 만나 림 빌리턴 출신이라는 공통점을 발견하고, 광산 회사에서 지낸 시절과 고향에 대한 기억을 이야기합니다.",
+      "spoiler": "medium",
+      "source": "https://www.gacha.gg/arknights/story"
+    },
+    {
+      "event": "rewinding",
+      "person": "wiki-ansel",
+      "text": "에이프릴에게 가족의 짐을 맡았던 어린 시절과 주변의 반대에도 의사가 되려 했던 이유를 들려줍니다.",
+      "spoiler": "medium",
+      "source": "https://www.gacha.gg/arknights/story"
     },
     {
       "event": "rewinding",
@@ -29943,29 +31180,36 @@ window.STORY_DATA = {
     },
     {
       "event": "rewinding",
-      "person": "wiki-surtr",
-      "text": "메테오라이트와 카즈델 변두리의 마을에서 무너진 동굴을 치우며, 머릿속에 떠오르는 아이들과 옛 도시의 기억이 누구의 것인지 찾으려 합니다. 오리지늄충의 둥지를 처리해 마을의 통행을 돕고 자료를 로도스로 가져갑니다.",
+      "person": "suzuran",
+      "text": "축제에서 샤마르와 다른 아이들과 함께 고향에서 듣던 이야기를 나눕니다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
+      "source": "https://www.gacha.gg/arknights/story"
+    },
+    {
+      "event": "rewinding",
+      "person": "wiki-shamare",
+      "text": "스즈란과 아이들이 나누는 이야기 속에서 시라쿠사의 전설과 패밀리의 기원을 떠올립니다.",
+      "spoiler": "medium",
+      "source": "https://www.gacha.gg/arknights/story"
+    },
+    {
+      "event": "rewinding",
+      "person": "wiki-mousse",
+      "text": "축제 모임에서 친구들과 각자 듣고 자란 옛이야기를 나눕니다.",
+      "spoiler": "medium",
+      "source": "https://www.gacha.gg/arknights/story"
+    },
+    {
+      "event": "rewinding",
+      "person": "popukar",
+      "text": "스즈란과 친구들 곁에서 여러 지역에서 전해지는 옛이야기를 듣고 나눕니다.",
+      "spoiler": "medium",
+      "source": "https://www.gacha.gg/arknights/story"
     },
     {
       "event": "rewinding",
       "person": "wiki-meteorite",
       "text": "수르트와 함께 붕괴한 동굴 때문에 이동이 막힌 마을을 돕습니다. 수르트가 낯선 기억을 좇는 태도를 이해하려 하며 동굴의 위험을 정리하고 자료를 로도스로 가져갑니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
-    },
-    {
-      "event": "rewinding",
-      "person": "elysium",
-      "text": "추석 행사를 준비하던 동료들과 이베리아 이야기를 나누며 고향을 지루한 곳이라고 농담합니다. 사람들이 떠난 뒤 쏜즈와 더 솔직한 대화를 나누고 언젠가 고향으로 돌아갈 수 있을지 생각합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
-    },
-    {
-      "event": "rewinding",
-      "person": "thorns",
-      "text": "추석 준비 중 엘리시움과 이베리아를 떠올리며 심문소 때문에 에기르인에게 우호적이지 않았던 현실을 이야기합니다. 나중에는 고향을 지루하고 우울한 곳이라는 말로만 표현할 수 있는지 엘리시움에게 되묻습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Rewinding_Breeze/Synopsis"
     },
@@ -30006,6 +31250,13 @@ window.STORY_DATA = {
     },
     {
       "event": "beyond",
+      "person": "beyond-hildegard",
+      "text": "란덴 수도원의 살림을 꾸릴 일감을 찾으러 용문에 온다. 바이슨과 에우릴을 만나고 스노우상트와 이야기를 나누며 고향 밖에서도 수도원을 도울 동료를 찾는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Beyond_Here/Synopsis"
+    },
+    {
+      "event": "beyond",
       "person": "chen",
       "text": "컬럼비아에서 살인 혐의로 쫓기는 감염자를 만나고, 아미야 및 로즈몬티스와 나눈 심판에 관한 대화를 떠올립니다. 감염자라는 이유로 의심받는 그를 돕기로 결정해 진범과 증거를 경찰에 넘기고, 무고한 사람은 풀려나 로도스의 동료가 됩니다.",
       "spoiler": "medium",
@@ -30021,7 +31272,7 @@ window.STORY_DATA = {
     {
       "event": "beyond",
       "person": "quintus",
-      "text": "이베리아의 사제로 친구의 학비를 돕고자 돈을 훔친 안토니오와 그를 감싸려 거짓말한 호세를 만납니다. 두 소년에게 잘못을 인정하고 스스로를 믿으며 살아가도록 이야기합니다.",
+      "text": "친구의 학비를 도우려 돈을 훔친 앤소니오와 그를 감싸려 한 호세의 사정을 듣는다. 둘에게 광장에서 잘못을 인정하고, 다음 행동을 정하기 전에 자기 마음을 돌아보라고 권한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Beyond_Here/Synopsis"
     },
@@ -30029,6 +31280,20 @@ window.STORY_DATA = {
       "event": "preluding",
       "person": "pallas",
       "text": "미노스 국경에서 다친 헤비레인을 발견하고 사르곤 군인일지 모른다는 경계에도 상처를 치료합니다. 그녀가 마을에 위험을 끌어들이지 않겠다며 떠나자 나침반을 건네고, 뒤따라온 살카즈 암살자에게 맞섭니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
+    },
+    {
+      "event": "preluding",
+      "person": "preluding-gares",
+      "text": "일라와 우르수스를 빠져나와 녹슨 망치의 시험을 받는다. 추격의 흔적이 가까워지자 도망을 멈추기로 한 일라 곁에 선다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
+    },
+    {
+      "event": "preluding",
+      "person": "preluding-ila",
+      "text": "가레스와 황무지에서 물과 식량을 구하며 버틴다. 우르수스의 추격이 가까워지자 더 도망치지 않기로 결심한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
     },
@@ -30057,6 +31322,13 @@ window.STORY_DATA = {
       "event": "preluding",
       "person": "wiki-blue-poison",
       "text": "글라우쿠스와 탑을 조사하며 조상들이 바다의 위협에 쓸 독 때문에 이베리아로 옮겨졌다는 이야기를 나눕니다. 어둠 속 낯선 이를 경계해 아리아를 다치게 하지만 바깥으로 옮겨 돌보고, 등대가 피난민과 환자들을 돕는 거점이 될 가능성을 생각합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
+    },
+    {
+      "event": "preluding",
+      "person": "preluding-aria",
+      "text": "해안의 탑을 찾은 등대지기 견습생이다. 어둠 속에서 블루포이즌의 화살에 맞고 구조된 뒤 두 오퍼레이터와 함께 탑의 정체를 확인한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Preluding_Lights/Synopsis"
     },
@@ -30097,15 +31369,15 @@ window.STORY_DATA = {
     },
     {
       "event": "vigilo",
-      "person": "theresa",
-      "text": "바벨의 비살카즈 영입에 반발해 독타를 공격한 마르코의 재판을 맡는다. 독타는 추방해 살리자고 제안하지만, 테레시아는 바벨의 배신을 엄하게 다뤄야 한다는 켈시의 의견을 받아들여 사형을 선고한다. 마르코는 집행 전에 감방에서 스스로 목숨을 끊는다.",
+      "person": "kaltsit",
+      "text": "독타의 뇌를 검사해 기억이 서서히 돌아오고 있음을 확인하고, 기억 상실이 단순한 석관 고장 때문이 아닐 수 있다고 의심합니다. 재앙에서 함선을 구한 계산이 바벨 시절에도 쓰였음을 알아보고, 빅토리아에 이르러 독타에게 아미야의 부담도 살펴 달라고 부탁합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
     },
     {
       "event": "vigilo",
-      "person": "kaltsit",
-      "text": "독타의 뇌를 검사해 기억이 서서히 돌아오고 있음을 확인하고, 기억 상실이 단순한 석관 고장 때문이 아닐 수 있다고 의심합니다. 재앙에서 함선을 구한 계산이 바벨 시절에도 쓰였음을 알아보고, 빅토리아에 이르러 독타에게 아미야의 부담도 살펴 달라고 부탁합니다.",
+      "person": "theresa",
+      "text": "바벨의 비살카즈 영입에 반발해 독타를 공격한 마르코의 재판을 맡는다. 독타는 추방해 살리자고 제안하지만, 테레시아는 바벨의 배신을 엄하게 다뤄야 한다는 켈시의 의견을 받아들여 사형을 선고한다. 마르코는 집행 전에 감방에서 스스로 목숨을 끊는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
     },
@@ -30118,15 +31390,29 @@ window.STORY_DATA = {
     },
     {
       "event": "vigilo",
+      "person": "vigilo-marco",
+      "text": "테레시아를 지지하면서도 바벨이 비살카즈를 받아들이는 데 반발해 독타를 공격한다. 체포되어 재판을 받고 수감 중 스스로 목숨을 끊는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
+    },
+    {
+      "event": "vigilo",
       "person": "wiki-prts",
       "text": "체르노보그에서 독타를 구출할 수 있는 경로를 수없이 검토한 기록을 남깁니다. 독타가 프리스티스에 관한 자료를 요청했을 때 권한 부족을 이유로 답하지 않고, 그가 떠난 뒤 독타와 프리스티스가 함선에 함께 선 오래된 기록을 잠시 띄웁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
     },
     {
+      "event": "vigilo",
+      "person": "vigilo-cannot",
+      "text": "컬럼비아 황야에서 독타와 아미야를 만난다. 마마존스의 약을 이미 믿고 쓰는 개척자들에게 약의 실상을 알리는 일이 쉽지 않다고 짚는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Vigilo/Synopsis"
+    },
+    {
       "event": "pinus",
       "person": "flametail",
-      "text": "감염 기사 소나로 경기에서 그레이너티와 손잡고, 서로를 지키며 돌아올 집이 될 소나무 기사단을 만듭니다. 무주맹의 추적과 감염자 등록 문제 속에서 감찰 기사단의 제안을 검토하면서도 그들의 계획을 경계합니다. 고향을 잃고 암시장 경기를 전전하던 유스티나를 구해 기사단으로 맞습니다.",
+      "text": "감염 기사 소나로 경기에서 그레이너티와 손잡고, 서로를 지키며 돌아올 집이 될 소나무 기사단을 만듭니다. 무주맹의 추적과 감염자 등록 문제 속에서 감찰 기사단의 제안을 검토하면서도 그들의 계획을 경계합니다. 고향을 잃고 암시장 경기를 전전하던 저스티나를 구해 기사단으로 맞습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_%28event%29/Synopsis"
     },
@@ -30147,14 +31433,21 @@ window.STORY_DATA = {
     {
       "event": "pinus",
       "person": "fartooth",
-      "text": "감염된 뒤 고향으로 돌아가지 못하고 등록비를 구하려 암시장 경기장에서 싸웁니다. 거리의 습격에서 소나와 그레이너티에게 구출되며 마리아와 예정했던 단체전에도 나가지 못하지만, 소나의 제안을 받아 기사단에 들어갑니다. 이후 무주맹에게 쫓기는 슈체크도 숨겨 줍니다.",
+      "text": "감염된 뒤 고향으로 돌아가지 못하고 등록비를 구하려 암시장 경기장에서 싸웁니다. 거리의 습격에서 소나와 그레이너티에게 구출되며 마리아와 예정했던 단체전에도 나가지 못하지만, 소나의 제안을 받아 기사단에 들어갑니다. 이후 무주맹에게 쫓기는 셰브치크도 숨겨 줍니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_%28event%29/Synopsis"
+    },
+    {
+      "event": "pinus",
+      "person": "platinum",
+      "text": "센타우레아로 독립 기사였지만 무주맹의 지시와 약속에 지쳐 암살자가 됩니다. 목표를 사랑한 스승이 배신자로 죽은 뒤 로이에게 플래티넘의 표식을 이어받고, 능숙한 암살자가 되어서도 권력자의 명령에서 벗어날 수 없음을 깨닫습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_%28event%29/Synopsis"
     },
     {
       "event": "pinus",
       "person": "nearl",
-      "text": "카시미어로 돌아와 다시 싸우려다 삼촌 므위나르와 검을 맞댑니다. 그녀를 걱정하는 조피아와 마리아를 만나고, 대회의 점수를 넘기려는 동생에게 자신이 겪은 일을 들려주겠다고 약속합니다.",
+      "text": "카시미어로 돌아와 다시 싸우려다 삼촌 무에나와 검을 맞댑니다. 그녀를 걱정하는 조피아와 마리아를 만나고, 대회의 점수를 넘기려는 동생에게 자신이 겪은 일을 들려주겠다고 약속합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_%28event%29/Synopsis"
     },
@@ -30167,10 +31460,17 @@ window.STORY_DATA = {
     },
     {
       "event": "pinus",
-      "person": "platinum",
-      "text": "센타우레아로 독립 기사였지만 무주맹의 지시와 약속에 지쳐 암살자가 됩니다. 목표를 사랑한 스승이 배신자로 죽은 뒤 로이에게 플래티넘의 표식을 이어받고, 능숙한 암살자가 되어서도 권력자의 명령에서 벗어날 수 없음을 깨닫습니다.",
+      "person": "wiki-malkiewicz",
+      "text": "기사 경기 대변인이 되기까지 걸어온 길을 돌아본다. 자기가 큰 인물이 됐다는 말은 믿기 어렵지만 맡은 자리를 벗어날 수도 없다는 사실을 받아들이고 경기장으로 향한다.",
       "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_%28event%29/Synopsis"
+      "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_(event)/Synopsis"
+    },
+    {
+      "event": "pinus",
+      "person": "pinus-justice-knight",
+      "text": "이보나가 길에서 발견해 수리한 로봇이다. 이보나는 수리한 로봇에 저스티스 나이트라는 이름을 붙인다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Pinus_Sylvestris_(event)/Synopsis"
     },
     {
       "event": "spark",
@@ -30195,6 +31495,13 @@ window.STORY_DATA = {
     },
     {
       "event": "spark",
+      "person": "spark-viscount-bisme",
+      "text": "감염자 고용 정책을 막으려 경비대와 결탁해 의원을 노리고, 감염자가 폭동을 일으킨 것처럼 꾸민다. 지하가 무너질 때 수지와 함께 떨어지며, 수지는 가게를 잃게 한 그에게 복수하려 한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis"
+    },
+    {
+      "event": "spark",
       "person": "grani",
       "text": "그린 스파크의 화재 현장에서 군용 방화 장치의 파편을 찾고, 사고로 덮으려는 경찰 상관의 방해에도 폭약의 출처를 추적합니다. 비슈머 백작의 공장과 연루된 단톤 형제가 저항하다 폭발을 일으키면서, 지하에 붙잡힌 수지를 둘러싼 상황도 바뀝니다.",
       "spoiler": "medium",
@@ -30211,6 +31518,13 @@ window.STORY_DATA = {
       "event": "spark",
       "person": "wiki-red-npc",
       "text": "수지가 탑에서 쓰러진 헤이즈를 로도스 진료소로 옮기도록 돕고, 수지가 납치된 뒤 지하에서 그녀를 구하려 합니다. 이후 자신이 재편된 리유니온의 일원임을 드러내고, 나인과 가드 등과 새로운 방식의 감염자 권리 운동을 이어 갑니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis"
+    },
+    {
+      "event": "spark",
+      "person": "spark-minnie",
+      "text": "탈옥한 헤이즈와 함께 숨어 지낸다. 광석병으로 쇠약해진 헤이즈가 탑으로 떠나기 전 모자와 반지를 맡긴다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Light_Spark_in_Darkness/Synopsis"
     },
@@ -30258,6 +31572,34 @@ window.STORY_DATA = {
     },
     {
       "event": "unfinished",
+      "person": "wiki-zuo-le",
+      "text": "상촉 사건 뒤 수도로 가는 양현과 주변 사람들의 작별을 지켜봅니다. 스스로 자원해 상촉에 왔다고 설명하지만 레이즈는 사건 뒤의 수상한 움직임을 아직 모두 이해하지 못했을 수 있다며 그를 주의시킵니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
+    },
+    {
+      "event": "unfinished",
+      "person": "leizi",
+      "text": "좌락의 아버지에게 그를 돌봐 달라는 부탁을 받고 상촉의 뒷정리를 지켜봅니다. 좌락이 자원해 왔다는 말은 믿으면서도 경험이 적은 그가 사건의 배후까지 다 파악했다고 여기지 않도록 경고합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
+    },
+    {
+      "event": "unfinished",
+      "person": "wiki-eurill-pides",
+      "text": "마운틴 대시 물류의 대표로 시스타의 허먼과 무역 및 운송 조건을 협상합니다. 중립적인 도시와 외국 시장을 잇는 물류망을 구상하면서도 아들 바이슨이 언젠가 회사 밖에서 자기 꿈을 찾기를 바란다고 말합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
+    },
+    {
+      "event": "unfinished",
+      "person": "wiki-herman-doykos",
+      "text": "시에스타를 새 터전으로 옮기면서도 도시의 고유한 모습을 지키려 한다. 에우릴과 물류 협력을 논의하고, 용문에서 가져온 술을 맛보며 시에스타가 다른 나라와 이어질 가능성을 이야기한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
+    },
+    {
+      "event": "unfinished",
       "person": "wiki-jesselton-williams",
       "text": "맨스필드 탈옥 사건 뒤 수감된 제셀톤의 이야기가 오락 프로그램에서 소개된다. 그는 제약회사의 구제를 기다리며 모욕을 견디고, 동료 죄수 릭을 이용하려 거짓 편지를 만들지만 릭의 아내가 보석금을 낸 사실이 드러나 계획이 어긋난다. 방송이 실제 수감 생활을 촬영한 것인지 재연인지 분명하게 밝혀지지는 않는다.",
       "spoiler": "medium",
@@ -30265,29 +31607,15 @@ window.STORY_DATA = {
     },
     {
       "event": "unfinished",
-      "person": "wiki-eurill-pides",
-      "text": "마운틴 대시 물류의 대표로 시스타의 헤르만과 무역 및 운송 조건을 협상합니다. 중립적인 도시와 외국 시장을 잇는 물류망을 구상하면서도 아들 바이슨이 언젠가 회사 밖에서 자기 꿈을 찾기를 바란다고 말합니다.",
+      "person": "wiki-gambino",
+      "text": "카포네와 함께 라플란드가 요구한 편지를 가로챈다. 편지를 통해 자신들이 시라쿠사 조직에서 이미 배신자로 취급받는다는 사실을 확인한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
     },
     {
       "event": "unfinished",
-      "person": "wiki-herman-doykos",
-      "text": "시스타 시장으로 유릴과 바이슨에게 도시의 풍경과 음식을 소개하고 물류 협력을 논의합니다. 유릴과 가족의 미래를 이야기하며 시스타가 외부 세계와 연결될 가능성을 모색합니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
-    },
-    {
-      "event": "unfinished",
-      "person": "wiki-zuo-le",
-      "text": "상서 사건 뒤 수도로 가는 양현과 주변 사람들의 작별을 지켜봅니다. 스스로 자원해 상서에 왔다고 설명하지만 레이즈는 사건 뒤의 수상한 움직임을 아직 모두 이해하지 못했을 수 있다며 그를 주의시킵니다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
-    },
-    {
-      "event": "unfinished",
-      "person": "leizi",
-      "text": "좌락의 아버지에게 그를 돌봐 달라는 부탁을 받고 상서의 뒷정리를 지켜봅니다. 좌락이 자원해 왔다는 말은 믿으면서도 경험이 적은 그가 사건의 배후까지 다 파악했다고 여기지 않도록 경고합니다.",
+      "person": "bison",
+      "text": "시에스타에서 아버지 에우릴과 함께 허먼을 만난다. 두 사람이 도시의 이전과 외부 물류망을 논의하는 자리에서, 에우릴은 바이슨이 언젠가 회사 밖에서 자기 꿈을 찾기를 바란다고 말한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/To_Be_Continued/Synopsis"
     },
@@ -30300,36 +31628,43 @@ window.STORY_DATA = {
     },
     {
       "event": "to-be-continued",
-      "person": "wiki-toland-cash",
-      "text": "므위나르와 여행하며 원정 기사단에 붙잡힌 현상금 사냥꾼 동료들을 찾습니다. 오래된 친구 츠시보르의 친절에 의문을 품고 전쟁 음모를 밝혀낸 뒤, 습격받는 라이타니엔 외교단을 구합니다. 사건 뒤 므위나르에게 소나가 전한 로도스의 초대장을 건넵니다.",
+      "person": "wiki-czcibor",
+      "text": "출정 기사단장으로 부당한 재판에서 스승 셀리나를 잃은 뒤 국정원과 현재의 카시미어에 원한을 품습니다. 감염자 소요를 위장해 비상사태를 만들고 라이타니엔과 전쟁을 일으키려 하지만, 옛 친구 무에나와 맞서 치명상을 입습니다. 죽기 전 그에게 실종된 형 슈니츠를 만난 적 있다고 밝힙니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
     },
     {
       "event": "to-be-continued",
-      "person": "wiki-czcibor",
-      "text": "원정 기사단장으로 부당한 재판에서 스승 셀리나를 잃은 뒤 국정원과 현재의 카시미어에 원한을 품습니다. 감염자 소요를 위장해 비상사태를 만들고 라이타니엔과 전쟁을 일으키려 하지만, 옛 친구 므위나르와 맞서 치명상을 입습니다. 죽기 전 그에게 실종된 형 슈니츠를 만난 적 있다고 밝힙니다.",
+      "person": "wiki-toland-cash",
+      "text": "무에나와 여행하며 출정 기사단에 붙잡힌 현상금 사냥꾼 동료들을 찾습니다. 오래된 친구 츠시보르의 친절에 의문을 품고 전쟁 음모를 밝혀낸 뒤, 습격받는 라이타니엔 외교단을 구합니다. 사건 뒤 무에나에게 소나가 전한 로도스의 초대장을 건넵니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
     },
     {
       "event": "to-be-continued",
       "person": "flametail",
-      "text": "소나무 기사단의 첫 로도스 임무로 그레이너티와 감염자 구역의 소요를 조사합니다. 작업반장 제노가 무언가 숨긴다고 의심하고 므위나르에게 도움을 청하며, 그를 통해 원정 기사단이 소요를 지시한 사실에 접근합니다.",
+      "text": "소나무 기사단의 첫 로도스 임무로 그레이너티와 감염자 구역의 소요를 조사합니다. 작업반장 제노가 무언가 숨긴다고 의심하고 무에나에게 도움을 청하며, 그를 통해 출정 기사단이 소요를 지시한 사실에 접근합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
     },
     {
       "event": "to-be-continued",
       "person": "ashlock",
-      "text": "소나와 함께 감염자 구역의 폭력 사태를 조사하며 현장 노동자 제노를 만나려 합니다. 그가 회사와 당국을 피해 달아나자 므위나르와 협력해 증언을 듣고 사건 배후를 파악합니다.",
+      "text": "소나와 함께 감염자 구역의 폭력 사태를 조사하며 현장 노동자 제노를 만나려 합니다. 그가 회사와 당국을 피해 달아나자 무에나와 협력해 증언을 듣고 사건 배후를 파악합니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
+    },
+    {
+      "event": "to-be-continued",
+      "person": "wanderer-xeno",
+      "text": "게일 공업의 작업반장이다. 출정 기사단의 요청으로 소요를 일으켰다는 사실을 숨기지만, 무에나가 회사와 교섭해 고발을 거두게 하자 경위를 털어놓는다. 자수한 뒤에는 구금 상태에서 달아난다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
     },
     {
       "event": "to-be-continued",
       "person": "wiki-szewczyk",
-      "text": "마리아 니어 사건 뒤 아들과 살던 중 감염자 구역에서 폭발이 일어나자 근처에 있는 아이를 찾으러 달려갑니다. 혼란 속 라이타니엔 외교단과 므위나르의 싸움을 화살로 막고, 아들이 병원으로 옮겨졌다는 말을 듣습니다.",
+      "text": "마리아 니어 사건 뒤 아들과 살던 중 감염자 구역에서 폭발이 일어나자 근처에 있는 아이를 찾으러 달려갑니다. 혼란 속 라이타니엔 외교단과 무에나의 싸움을 화살로 막고, 아들이 병원으로 옮겨졌다는 말을 듣습니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/An_Obscure_Wanderer/Synopsis"
     },
@@ -30343,56 +31678,70 @@ window.STORY_DATA = {
     {
       "event": "long-time",
       "person": "wiki-luo-xiaobai",
-      "text": "아겐과 용문에서 로도스의 도움을 받으며 반려동물 67을 잃어 치료를 미루는 샤오위안을 만납니다. 67이 죽었을지도 모른다는 소식을 듣고 장례를 준비하지만, 스즈란이 돌보는 묘지를 보고 비싼 의식보다 기억하는 마음이 중요하다는 것을 배웁니다. 샤오헤이가 살아 있는 67을 데려와 친구들과 다시 만납니다.",
+      "text": "아근과 용문에서 로도스의 도움을 받으며 반려동물 67을 잃어 치료를 미루는 샤오위안을 만납니다. 67이 죽었을지도 모른다는 소식을 듣고 장례를 준비하지만, 스즈란이 돌보는 묘지를 보고 비싼 의식보다 기억하는 마음이 중요하다는 것을 배웁니다. 나소흑가 살아 있는 67을 데려와 친구들과 다시 만납니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
       "event": "long-time",
       "person": "wiki-ah-gen",
-      "text": "샤오바이와 함께 67을 찾으며 동물 보호소의 부탁을 받아 록록과 근위국 시설에 잠입합니다. 경찰과 보호소 주인이 동물 양니를 두고 다투자 동물이 스스로 선택하도록 제안하고, 보답으로 67에 관한 단서를 얻습니다.",
+      "text": "나소백와 함께 67을 찾으며 동물 보호소의 부탁을 받아 락락과 근위국 시설에 잠입합니다. 경찰과 보호소 주인이 동물 양니를 두고 다투자 동물이 스스로 선택하도록 제안하고, 보답으로 67에 관한 단서를 얻습니다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
+    },
+    {
+      "event": "long-time",
+      "person": "long-time-xiaoyuan",
+      "text": "사라진 반려 구름짐승 67을 다시 만나기 전에는 로도스 함선에 올라 치료받지 않겠다고 한다. 나소백과 아근이 67을 찾아 나서고, 67과 재회한 뒤에는 곁을 지키겠다고 약속하며 치료를 받으러 간다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
+    },
+    {
+      "event": "long-time",
+      "person": "long-time-cloudbeast-67",
+      "text": "샤오위안에게서 떨어져 옛 주인을 찾아 길을 나선 구름짐승이다. 나소흑과 함께 묘지에 도착한 뒤 살아 있는 모습으로 샤오위안과 다시 만난다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
       "event": "long-time",
       "person": "suzuran",
-      "text": "샤오바이와 아겐이 낯선 용문에서 지내는 동안 도움을 줍니다. 자신이 돌보는 감염자 묘지를 보여 주어, 샤오바이가 죽음을 추모하는 마음이 값비싼 장례 용품보다 중요함을 깨닫도록 합니다.",
+      "text": "나소백와 아근이 낯선 용문에서 지내는 동안 도움을 줍니다. 자신이 돌보는 감염자 묘지를 보여 주어, 나소백가 죽음을 추모하는 마음이 값비싼 장례 용품보다 중요함을 깨닫도록 합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
       "event": "long-time",
       "person": "lee",
-      "text": "용문에 떨어져 친구들을 기다리는 샤오헤이를 탐정사에서 받아들입니다. 지친 아이가 낯선 도시와 사람들에 익숙해지도록 원씨 가문이 잃은 구름짐승을 찾는 의뢰를 맡깁니다.",
+      "text": "용문에 떨어져 친구들을 기다리는 나소흑를 탐정사에서 받아들입니다. 지친 아이가 낯선 도시와 사람들에 익숙해지도록 원씨 가문이 잃은 구름짐승을 찾는 의뢰를 맡깁니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
       "event": "long-time",
       "person": "wiki-emperor",
-      "text": "술집에서 해충을 잡던 샤오헤이와 만나고, 구름짐승이 다치게 한 작은 동물을 함께 수의사에게 데려갑니다. 그 과정에서 샤오헤이는 버려진 동물을 해충으로 만든 책임을 사람들도 져야 한다고 말합니다.",
+      "text": "술집에서 해충을 잡던 나소흑와 만나고, 구름짐승이 다치게 한 작은 동물을 함께 수의사에게 데려갑니다. 그 과정에서 나소흑는 버려진 동물을 해충으로 만든 책임을 사람들도 져야 한다고 말합니다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/It%27s_Been_A_While/Synopsis"
     },
     {
       "event": "springtime",
       "person": "qiubai",
-      "text": "떠돌던 소년 팡샤오스와 동행해 그의 고향 마을로 돌아가지만, 마을 사람들이 소년의 죽음을 꾸미고 있다는 사실을 알아챈다. 구호금과 토지 문제 뒤에 숨은 사정을 추적하고 절벽에 몸을 던진 소년을 구해 제자로 받아들인다.",
+      "text": "떠돌던 소년 방돌쇠와 동행해 그의 고향 마을로 돌아가지만, 마을 사람들이 소년의 죽음을 꾸미고 있다는 사실을 알아챈다. 구호금과 토지 문제 뒤에 숨은 사정을 추적하고 절벽에 몸을 던진 소년을 구해 제자로 받아들인다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Death_in_Chunfen/Synopsis"
     },
     {
       "event": "springtime",
       "person": "wiki-fang-xiaoshi",
-      "text": "도적들과 지내다 고향으로 돌아온 소년이다. 불공평한 땅 문제에 분노해 사당을 폭파했고, 마을 사람들이 구호금을 받기 위해 자신을 죽은 사람으로 꾸몄다는 사실과 마주한다. 절벽에서 추락하지만 추바이에게 구조되어 새로운 길을 떠난다.",
+      "text": "도적들과 지내다 고향으로 돌아온 소년이다. 불공평한 땅 문제에 분노해 사당을 폭파했고, 마을 사람들이 구호금을 받기 위해 자신을 죽은 사람으로 꾸몄다는 사실과 마주한다. 절벽에서 추락하지만 치우바이에게 구조되어 새로운 길을 떠난다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Death_in_Chunfen/Synopsis"
     },
     {
       "event": "springtime",
       "person": "wiki-zhou-shun",
-      "text": "수확 부진과 지원금 지연으로 궁지에 몰린 마을을 살리려 길가에 폭발물을 묻어 보수와 보상을 얻으려 한다. 산사태로 죽은 이름 없는 소년을 팡샤오스로 꾸며 보상받으려는 계획에도 가담하지만 죄책감에 괴로워한다. 폭발물로 스스로 끝내려다 사가에게 저지당한 뒤 당국에 진실을 밝히기로 한다.",
+      "text": "수확 부진과 지원금 지연으로 궁지에 몰린 마을을 살리려 길가에 폭발물을 묻어 보수와 보상을 얻으려 한다. 산사태로 죽은 이름 없는 소년을 방돌쇠로 꾸며 보상받으려는 계획에도 가담하지만 죄책감에 괴로워한다. 폭발물로 스스로 끝내려다 사가에게 저지당한 뒤 당국에 진실을 밝히기로 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Death_in_Chunfen/Synopsis"
     },
@@ -30406,21 +31755,28 @@ window.STORY_DATA = {
     {
       "event": "springtime",
       "person": "saga",
-      "text": "마을에서 벌어진 일의 진상을 살피고 절망한 주민의 선택을 막는다. 추바이가 소년을 구하는 일에도 힘을 보태며, 마을이 거짓 뒤에 숨기보다 책임을 마주하도록 돕는다.",
+      "text": "마을에서 벌어진 일의 진상을 살피고 절망한 주민의 선택을 막는다. 치우바이가 소년을 구하는 일에도 힘을 보태며, 마을이 거짓 뒤에 숨기보다 책임을 마주하도록 돕는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Death_in_Chunfen/Synopsis"
     },
     {
       "event": "springtime",
       "person": "wiki-mulberry",
-      "text": "재난 구호팀 소속으로 산사태 현장을 조사하러 마을에 온다. 사가와 무너진 비탈을 살피다가 폭발물 흔적을 발견하고, 이후 윈드 차임스와 함께 숨진 촬영자의 신원을 찾으며 마을의 복구 상황도 확인한다.",
+      "text": "재난 구호팀 소속으로 산사태 현장을 조사하러 마을에 온다. 사가와 무너진 비탈을 살피다가 폭발물 흔적을 발견하고, 이후 윈드차임스와 함께 숨진 촬영자의 신원을 찾으며 마을의 복구 상황도 확인한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/A_Death_in_Chunfen/Synopsis"
+    },
+    {
+      "event": "springtime",
+      "person": "wiki-click",
+      "text": "윈드차임스와 함께 이름 없이 죽은 소년이 남긴 카메라의 영상을 복구한다. 윈드차임스는 그 기록을 보고 소년이 하던 일을 이어 가기로 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Death_in_Chunfen/Synopsis"
     },
     {
       "event": "flurry",
       "person": "yato",
-      "text": "누아르 코르네와 함께 로카 지역의 감염 문제를 조사하다 낯선 비룡 리오레우스의 공격을 받아 독에 쓰러진다. 현지 사냥꾼과 아이루의 도움으로 회복하고 장비를 갖춘 뒤 마을을 위협하는 비룡에 맞서며, 쓰러뜨린 상대를 끝내 살려 둔다.",
+      "text": "느와르 코르네와 함께 로카 지역의 감염 문제를 조사하다 낯선 비룡 리오레우스의 공격을 받아 독에 쓰러진다. 현지 사냥꾼과 아이루의 도움으로 회복하고 장비를 갖춘 뒤 마을을 위협하는 비룡에 맞서며, 쓰러뜨린 상대를 끝내 살려 둔다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis"
     },
@@ -30441,14 +31797,14 @@ window.STORY_DATA = {
     {
       "event": "flurry",
       "person": "wiki-rathalos",
-      "text": "다른 세계에서 넘어와 광산의 오리지늄으로 둥지를 만든 비룡이다. 몸에 묻은 활성 오리지늄이 광석병 확산의 원인이 되고, 불을 뿜어 광산과 화산의 위험을 키운다. 야토와 누아르 코르네에게 쓰러진 뒤 이미 몸이 한계에 이르렀다는 사실이 알려져 목숨을 건지지만, 몇 달 후 죽는다.",
+      "text": "다른 세계에서 넘어와 광산의 오리지늄으로 둥지를 만든 비룡이다. 몸에 묻은 활성 오리지늄이 광석병 확산의 원인이 되고, 불을 뿜어 광산과 화산의 위험을 키운다. 야토와 느와르 코르네에게 쓰러진 뒤 이미 몸이 한계에 이르렀다는 사실이 알려져 목숨을 건지지만, 몇 달 후 죽는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis"
     },
     {
       "event": "flurry",
       "person": "wiki-mirai-takii",
-      "text": "광산에서 위험에 처했다가 누아르 코르네와 아이루들의 도움으로 구조된다. 마을의 위기를 겪으며 어른들이 숨겨 온 광산과 사냥의 사정을 마주한다.",
+      "text": "광산에서 위험에 처했다가 느와르 코르네와 아이루들의 도움으로 구조된다. 마을의 위기를 겪으며 어른들이 숨겨 온 광산과 사냥의 사정을 마주한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Flurry_to_the_Flame/Synopsis"
     },
@@ -30489,20 +31845,6 @@ window.STORY_DATA = {
     },
     {
       "event": "hortus",
-      "person": "spuria",
-      "text": "수도원에서 지내는 세르필리아로, 친구 포르투나를 아끼고 그가 겪은 사건과 감정의 변화를 곁에서 지켜본다. 수도원이 위기에 처하자 피난민들과 함께 대피하며 이후에도 친구와의 인연을 이어 간다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Hortus_de_Escapismo/Synopsis"
-    },
-    {
-      "event": "hortus",
-      "person": "insider",
-      "text": "리첼레로서 페데리코의 조사를 돕고 수도원의 살카즈 주민들과 집행자 사이에서 움직인다. 사태가 무력 진압으로 번지는 가운데 주민들의 안전과 탈출을 위해 협력한다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Hortus_de_Escapismo/Synopsis"
-    },
-    {
-      "event": "hortus",
       "person": "wiki-clement-dubois",
       "text": "절망에 빠진 수도원의 정원사로, 수도원을 폭파하려다 페데리코에게 저지당한다. 오염된 빵을 먹지만 바라던 구원을 얻지 못하고 독으로 죽는다.",
       "spoiler": "medium",
@@ -30524,6 +31866,20 @@ window.STORY_DATA = {
     },
     {
       "event": "hortus",
+      "person": "spuria",
+      "text": "수도원에서 지내는 세르필리아로, 친구 포르투나를 아끼고 그가 겪은 사건과 감정의 변화를 곁에서 지켜본다. 수도원이 위기에 처하자 피난민들과 함께 대피하며 이후에도 친구와의 인연을 이어 간다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Hortus_de_Escapismo/Synopsis"
+    },
+    {
+      "event": "hortus",
+      "person": "insider",
+      "text": "리켈레로서 페데리코, 세르필리아와 함께 수도원에 닿아 실종 사건을 조사한다. 오렌이 무력 진압에 나서자 주민들의 안전과 탈출을 돕는다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Hortus_de_Escapismo/Synopsis"
+    },
+    {
+      "event": "hortus",
       "person": "wiki-oren-argiolas",
       "text": "수도원의 상황을 조사하고 살카즈 주민들을 무력으로 체포할 계획을 세운다. 이 강경한 대응은 피난민들의 탈출과 다른 인물들의 선택에 직접적인 위협이 된다.",
       "spoiler": "medium",
@@ -30531,15 +31887,15 @@ window.STORY_DATA = {
     },
     {
       "event": "hortus",
-      "person": "wiki-lemuen",
-      "text": "수도원에서 벌어진 일을 조사하며 페데리코의 임무와 아르투리아의 행적을 살핀다. 수도원을 둘러싼 교회와 집행자들의 판단에도 관여한다.",
+      "person": "wiki-hyman",
+      "text": "아이들을 지키려는 어머니로, 바다의 존재로 변한 사실을 숨기고 있다. 제럴드가 아이들을 해치지 않으리라 믿어 주면서 탈출의 길이 열리고, 이후 아울루스와 바다로 향한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Hortus_de_Escapismo/Synopsis"
     },
     {
       "event": "hortus",
-      "person": "wiki-hyman",
-      "text": "아이들을 지키려는 어머니로, 바다의 존재로 변한 사실을 숨기고 있다. 제럴드가 아이들을 해치지 않으리라 믿어 주면서 탈출의 길이 열리고, 이후 아울루스와 바다로 향한다.",
+      "person": "wiki-lemuen",
+      "text": "수도원에서 벌어진 일을 조사하며 페데리코의 임무와 아르투리아의 행적을 살핀다. 수도원을 둘러싼 교회와 집행자들의 판단에도 관여한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Hortus_de_Escapismo/Synopsis"
     },
@@ -30559,13 +31915,6 @@ window.STORY_DATA = {
     },
     {
       "event": "walk-dust",
-      "person": "wiki-old-isin",
-      "text": "기억을 잃은 채 암시장에서 켈시와 엘리엇을 돕고 금화를 건넨다. 자신이 섬긴 통치자와 과거에 관한 진실을 알게 된 뒤에도 엘리엇을 받아들인다. 이후 전설 속 수도를 찾아 모래 속으로 떠난다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/A_Walk_in_the_Dust/Synopsis"
-    },
-    {
-      "event": "walk-dust",
       "person": "wiki-lillia",
       "text": "우르수스에서 남편과 동료들의 죽음에 책임이 있다고 여긴 바냐 대공에게 복수하려 한다. 켈시와 요양원에 잠입하지만 대공의 방에는 켈시만 들어갈 수 있어 그녀에게 마지막 일을 맡긴다.",
       "spoiler": "medium",
@@ -30575,6 +31924,13 @@ window.STORY_DATA = {
       "event": "walk-dust",
       "person": "heidi",
       "text": "빅토리아의 연회에 참석해 켈시에게 테레시아의 편지를 전한다. 황제의 칼날이 나타나자 켈시의 부탁으로 연회장의 질서를 지키고, 나중에는 릴리아의 딸 폴리닉을 통해 켈시에게 소포를 보낸다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/A_Walk_in_the_Dust/Synopsis"
+    },
+    {
+      "event": "walk-dust",
+      "person": "wiki-old-isin",
+      "text": "기억을 잃은 채 암시장에서 켈시와 엘리엇을 돕고 금화를 건넨다. 자신이 섬긴 통치자와 과거에 관한 진실을 알게 된 뒤에도 엘리엇을 받아들인다. 이후 전설 속 수도를 찾아 모래 속으로 떠난다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Walk_in_the_Dust/Synopsis"
     },
@@ -30622,6 +31978,13 @@ window.STORY_DATA = {
     },
     {
       "event": "to-the-grinning",
+      "person": "to-the-grinning-arges",
+      "text": "티폰을 길러 사미에서 살아가는 법을 가르쳤다. 실종된 탐사대의 표본이 든 상자를 전하고, 티폰을 통해 마젤란 일행의 수색을 막지 않겠다는 뜻을 전한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/The_Black_Forest_Wills_A_Dream/Synopsis"
+    },
+    {
+      "event": "to-the-grinning",
       "person": "wiki-black-mark",
       "text": "악마에 잠식되어 통제를 잃은 황제의 칼날로, 우르수스 측이 비밀리에 추적하는 북쪽의 위협이다. 산탈라는 첩자를 심문한 끝에 그 정체를 알게 된다.",
       "spoiler": "medium",
@@ -30664,13 +32027,6 @@ window.STORY_DATA = {
     },
     {
       "event": "crystal-arrow",
-      "person": "tequila",
-      "text": "도난당한 로도스의 치료약을 추적하다 레인보우 팀과 대치하지만 마테오의 속임수를 밝혀 오해를 푼다. 개관식에 잠입해 폭탄의 존재를 알려 구조 작전을 돕는다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Operation_Lucent_Arrowhead/Synopsis"
-    },
-    {
-      "event": "crystal-arrow",
       "person": "iana",
       "text": "엘라 일행과 함께 테라에 도착해 빈민가의 테크노를 치료하고 낯선 세계의 사정을 파악한다. 치료약 도난의 진실이 밝혀진 뒤 주민들과 인질을 돕는다.",
       "spoiler": "medium",
@@ -30687,6 +32043,13 @@ window.STORY_DATA = {
       "event": "crystal-arrow",
       "person": "fuze",
       "text": "레인보우 팀의 일원으로 캐터펄트와 함께 미술관 벽을 뚫어 인질 구출로를 만든다. 낯선 세계에서 흩어진 동료들을 찾는 임무도 이어 간다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operation_Lucent_Arrowhead/Synopsis"
+    },
+    {
+      "event": "crystal-arrow",
+      "person": "tequila",
+      "text": "도난당한 로도스의 치료약을 추적하다 레인보우 팀과 대치하지만 마테오의 속임수를 밝혀 오해를 푼다. 개관식에 잠입해 폭탄의 존재를 알려 구조 작전을 돕는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Operation_Lucent_Arrowhead/Synopsis"
     },
@@ -30712,9 +32075,23 @@ window.STORY_DATA = {
       "source": "https://arknights.wiki.gg/wiki/Operation_Lucent_Arrowhead/Synopsis"
     },
     {
+      "event": "crystal-arrow",
+      "person": "wiki-candela-sanchez",
+      "text": "도솔레스 시장으로서 사건 뒤 갤러리와 예술 거리의 사태를 수습한다. 레이넬은 카시미어로 떠나고, 디아즈와 주민들은 그 건물을 다시 쓸 수 있게 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Operation_Lucent_Arrowhead/Synopsis"
+    },
+    {
       "event": "forge-rekindled",
       "person": "nymph",
       "text": "용광로 폭발로 카즈델에 흩어진 망령 파편을 회수하러 나선다. 상담가 폴과 함께 갱단의 물건과 머드락의 골렘을 조사하고, 크라우니의 브로치와 칼라이샤의 집에 숨은 파편도 모은다. 마지막 의식에서 망령들이 주민들이 바라는 카즈델의 미래를 볼 수 있도록 매개가 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis"
+    },
+    {
+      "event": "forge-rekindled",
+      "person": "forge-rekindled-paul",
+      "text": "귀향 용병과 브로큰 혼이 거처를 두고 다투는 자리에서 님프를 조수라고 소개해 레버넌트 파편에 접근할 시간을 벌어 준다. 거처 문제를 해결하겠다고 약속하고, 파편을 함께 찾아다닌 뒤 용광로의 불에 자신이 그리는 도시의 미래를 적어 넣는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis"
     },
@@ -30734,13 +32111,6 @@ window.STORY_DATA = {
     },
     {
       "event": "forge-rekindled",
-      "person": "w",
-      "text": "무기에 깃든 늙은 망령을 용광로에 데려온다. 다른 망령들과 다투던 늙은 망령이 군함의 포를 움직여 용광로를 쏘면서 파편 회수 소동이 시작된다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis"
-    },
-    {
-      "event": "forge-rekindled",
       "person": "wiki-fremont",
       "text": "용광로에 묶인 망령들을 해방하고 새 동력원으로 바꾸는 준비를 맡는다. 오래된 복수와 고통에 사로잡힌 망령들을 설득하는 어려움에 부딪힌다.",
       "spoiler": "medium",
@@ -30750,6 +32120,13 @@ window.STORY_DATA = {
       "event": "forge-rekindled",
       "person": "mudrock",
       "text": "카즈델에서 용광로 공사를 돕는다. 파편이 끼어 불안정해진 자신의 골렘을 해체해 님프가 망령 조각을 회수하도록 돕고, 이후 자신이 바라는 도시의 미래를 전한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis"
+    },
+    {
+      "event": "forge-rekindled",
+      "person": "w",
+      "text": "무기에 깃든 늙은 망령을 용광로에 데려온다. 다른 망령들과 다투던 늙은 망령이 군함의 포를 움직여 용광로를 쏘면서 파편 회수 소동이 시작된다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/A_Kazdelian_Rescue/Synopsis"
     },
@@ -30790,13 +32167,6 @@ window.STORY_DATA = {
     },
     {
       "event": "xiangjianhuan",
-      "person": "wiki-xingzhu",
-      "text": "음식 평론가 싱주로서 블레이즈와 함께 귤과자를 찾는다. 자신이 닝인이라는 사실과 구췐을 돕지 못한 후회를 밝히고, 조사 끝에 구췐의 친딸이 자신임을 알게 된다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Such_is_the_Joy_of_Our_Reunion/Synopsis"
-    },
-    {
-      "event": "xiangjianhuan",
       "person": "wiki-gu-quan",
       "text": "태보를 지지했다는 이유로 수감되었다 풀려난 옛 관리다. 정변 때 태보의 아이를 구해 자기 딸처럼 키우며 귤과자를 보내 주었고, 헤어진 친딸을 찾으려 돌아왔다가 죽었다.",
       "spoiler": "medium",
@@ -30804,8 +32174,15 @@ window.STORY_DATA = {
     },
     {
       "event": "xiangjianhuan",
+      "person": "wiki-xingzhu",
+      "text": "음식 평론가 싱주로서 블레이즈와 함께 귤과자를 찾는다. 자신이 닝인이라는 사실과 구췐을 돕지 못한 후회를 밝히고, 조사 끝에 구췐의 친딸이 자신임을 알게 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Such_is_the_Joy_of_Our_Reunion/Synopsis"
+    },
+    {
+      "event": "xiangjianhuan",
       "person": "yu",
-      "text": "수도에서 음식점을 운영하며 블레이즈에게 장수면을 가르치고 구췐이 딸을 위해 귤과자를 보냈던 사연을 기억해 낸다. 정체는 수이의 막내 조각으로, 형 왕에게 음식을 건네며 언젠가 형제들이 무사히 모이기를 바란다.",
+      "text": "고전이 드나들던 식당의 주방장이다. 블레이즈에게 장수면을 만드는 법을 가르치고, 그가 갈 곳을 잃자 식당으로 데려간다. 아버지가 빅토리아에 있던 아이에게 보내려던 귤과자에 설탕을 더 넣은 이유를 들려준다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Such_is_the_Joy_of_Our_Reunion/Synopsis"
     },
@@ -30846,6 +32223,13 @@ window.STORY_DATA = {
     },
     {
       "event": "mirror",
+      "person": "mirror-yun-qingping",
+      "text": "망산에서 소식이 끊긴 인물로, 린 칭옌과 찻집에서 다시 만난다. 바둑판 전체를 살펴 난가의 한 세기 묵은 대국을 끝내고, 막일이 내건 비급이 이미 널리 인쇄된 책이라는 사실도 밝힌다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Fantasy_in_the_Mirage/Synopsis"
+    },
+    {
+      "event": "mirror",
       "person": "wiki-mo-yi",
       "text": "충웨의 무공책을 훔쳐 비급을 차지하려는 무인과 정령들을 망산으로 모은다. 경쟁을 부추기고 충웨의 환영까지 불러내지만, 실제 목적은 수이의 조각을 만나 사라진 제의 흔적을 찾고 본체와의 전쟁을 막는 데 있다.",
       "spoiler": "medium",
@@ -30867,6 +32251,13 @@ window.STORY_DATA = {
     },
     {
       "event": "mirror",
+      "person": "wiki-liang",
+      "text": "수이의 조각 이를 대신해 망산의 정령들과 마을을 돌보아 왔다. 소동을 수습한 일행에게 무덤 봉인을 강화하는 의식에 동행하자고 제안하고 숨겨진 길을 연다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Fantasy_in_the_Mirage/Synopsis"
+    },
+    {
+      "event": "mirror",
       "person": "wiki-lan-ke",
       "text": "끝나지 않는 바둑 국면에 갇혀 한 세기가 흐른 줄도 모르는 잔영이다. 윈칭핑이 판 전체를 보고 막힌 수를 풀자 아내와 마지막으로 만나고 미련을 내려놓는다.",
       "spoiler": "medium",
@@ -30876,13 +32267,6 @@ window.STORY_DATA = {
       "event": "mirror",
       "person": "wiki-bai-jin",
       "text": "남편 난가를 찾아다니는 모습으로 나타난 종이의 정령이다. 그가 오랜 바둑을 마치고 사라진 뒤 원래 모습으로 돌아가 무덤에서 태워 달라고 부탁한다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Fantasy_in_the_Mirage/Synopsis"
-    },
-    {
-      "event": "mirror",
-      "person": "wiki-liang",
-      "text": "수이의 조각 이를 대신해 망산의 정령들과 마을을 돌보아 왔다. 소동을 수습한 일행에게 무덤 봉인을 강화하는 의식에 동행하자고 제안하고 숨겨진 길을 연다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Fantasy_in_the_Mirage/Synopsis"
     },
@@ -30930,15 +32314,15 @@ window.STORY_DATA = {
     },
     {
       "event": "crossroads",
-      "person": "prts-elio-fabbri",
-      "text": "베르디 양조장의 매각을 막기 위해 니콜로와 설비를 망가뜨린다. 재판에서 자신의 행동과 외국 기업의 시장 장악 방식을 증언하고, 감방에서 레온투초에게 자신이 벨로네를 돕는 이유가 도시를 지키기 위해서라고 말한다.",
+      "person": "prts-paula-meminger",
+      "text": "포도주 대회의 심사위원인 악단 지휘자로 살루초 비노를 우승작으로 고른다. 시음회 도중 독살당해 수사와 지역 상권을 둘러싼 갈등의 계기가 된다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
     {
       "event": "crossroads",
-      "person": "wiki-tosia",
-      "text": "카시미어 양조장 측 판매원으로 가게마다 자사 상품만 진열하도록 계약을 추진한다. 경쟁 양조장의 소녀 베티나를 만나 판매를 돕다가 과장된 광고보다 손님에게 필요한 것을 정직하게 전하는 방법도 경험한다.",
+      "person": "prts-elio-fabbri",
+      "text": "베르디 양조장의 매각을 막기 위해 니콜로와 설비를 망가뜨린다. 재판에서 자신의 행동과 외국 기업의 시장 장악 방식을 증언하고, 감방에서 레온투초에게 자신이 벨로네를 돕는 이유가 도시를 지키기 위해서라고 말한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
@@ -30951,15 +32335,15 @@ window.STORY_DATA = {
     },
     {
       "event": "crossroads",
-      "person": "prts-nicolo-crossroads",
-      "text": "베르디 양조장에서 오래 일한 재배자로 회사가 매각되는 데 반대한다. 엘리오와 설비를 훼손하지만 구매자의 목적이 토지임을 알고 사과한다. 손녀의 생일에 오래된 베르디 술을 주고 싶다는 바람을 남긴다.",
+      "person": "wiki-tosia",
+      "text": "카시미어 양조장 측 판매원으로 가게마다 자사 상품만 진열하도록 계약을 추진한다. 경쟁 양조장의 소녀 베티나를 만나 판매를 돕다가 과장된 광고보다 손님에게 필요한 것을 정직하게 전하는 방법도 경험한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
     {
       "event": "crossroads",
-      "person": "wiki-lupina",
-      "text": "적자가 이어지는 베르디 양조장을 매각하기로 결정하고 남을 직원들을 데메트리에게 부탁한다. 니콜로의 손녀에게 줄 오래된 술을 구하려 고민하던 중 데메트리에게서 병을 선물받는다.",
+      "person": "prts-nicolo-crossroads",
+      "text": "베르디 양조장에서 오래 일한 재배자로 회사가 매각되는 데 반대한다. 엘리오와 설비를 훼손하지만 구매자의 목적이 토지임을 알고 사과한다. 손녀의 생일에 오래된 베르디 술을 주고 싶다는 바람을 남긴다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
@@ -30972,8 +32356,15 @@ window.STORY_DATA = {
     },
     {
       "event": "crossroads",
-      "person": "prts-paula-meminger",
-      "text": "포도주 대회의 심사위원인 악단 지휘자로 살루초 비노를 우승작으로 고른다. 시음회 도중 독살당해 수사와 지역 상권을 둘러싼 갈등의 계기가 된다.",
+      "person": "penance",
+      "text": "파울라 독살 뒤 운송 조합까지 손해배상을 요구받자 에이레네로부터 기사들의 사정을 듣는다. 레온투초가 생계를 지킬 규칙이 필요하다고 판단해 개정안에 서명하겠다는 뜻을 전하는 상대가 된다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
+    },
+    {
+      "event": "crossroads",
+      "person": "wiki-lupina",
+      "text": "적자가 이어지는 베르디 양조장을 매각하기로 결정하고 남을 직원들을 데메트리에게 부탁한다. 니콜로의 손녀에게 줄 오래된 술을 구하려 고민하던 중 데메트리에게서 병을 선물받는다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Crossing/Synopsis"
     },
@@ -31021,8 +32412,8 @@ window.STORY_DATA = {
     },
     {
       "event": "dungeon-meshi",
-      "person": "amiya",
-      "text": "로도스 함선에서 케이가 거대한 짐승으로 변하자 다른 사람들과 함께 사태를 수습한다. 라이오스 일행이 고향으로 돌아갈 방법을 찾도록 돕겠다고 약속한다.",
+      "person": "to-the-grinning-arges",
+      "text": "사미에서 일행을 만나 악마가 북쪽에서 길을 부르는 듯한 목소리가 그들 자신의 의지에서 나온 것이 아니라고 알려 준다. 칠책은 희미해지는 동료들의 목적을 다시 붙잡아 주려 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Delicious_On_Terra/Synopsis"
     },
@@ -31030,6 +32421,13 @@ window.STORY_DATA = {
       "event": "dungeon-meshi",
       "person": "dusk",
       "text": "일행이 자신의 그림 속 마을에서 괴물들과 어울리고 그림을 바꾸어 놓자 화를 내며 이들을 밖으로 내보낸다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Delicious_On_Terra/Synopsis"
+    },
+    {
+      "event": "dungeon-meshi",
+      "person": "amiya",
+      "text": "로도스 함선에서 케이가 거대한 짐승으로 변하자 다른 사람들과 함께 사태를 수습한다. 라이오스 일행이 고향으로 돌아갈 방법을 찾도록 돕겠다고 약속한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Delicious_On_Terra/Synopsis"
     },
@@ -31042,6 +32440,13 @@ window.STORY_DATA = {
     },
     {
       "event": "arsenus",
+      "person": "wiki-varkaris",
+      "text": "전쟁에서 친구 이타코스를 잃은 뱃사공 크산토스다. 과거 책임자인 사르곤 영주를 처단하려다 휴전을 걱정한 동료들에게 제지당했다. 이제 하프가 외교의 교환물로 쓰이려 하자 제자 리케이온과 도난에 나서고, 체포된 뒤 그의 거취는 시민들의 판단에 맡겨진다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/Medjehtiqedti_Bound/Synopsis"
+    },
+    {
+      "event": "arsenus",
       "person": "pallas",
       "text": "미노스의 신관으로 티티와 함께 역사와 신전 재건을 논의하고 도난당한 하프를 쫓는다. 반환식의 연극에서 영웅 역을 맡고 하프가 울리는 순간 티티와 크산토스의 기억을 본다. 이후 미노스에 남아 다른 도시들도 살피기로 한다.",
       "spoiler": "medium",
@@ -31049,8 +32454,8 @@ window.STORY_DATA = {
     },
     {
       "event": "arsenus",
-      "person": "wiki-varkaris",
-      "text": "전쟁에서 친구 이타코스를 잃은 미노스의 뱃사공 크산토스다. 책임자인 사르곤 영주를 처단하려다 휴전을 걱정한 동료들에게 막힌 기억을 품고, 하프가 정치적 교환물로 취급되자 제자와 훔친다. 반환식에서 티티와 결투하며 울려 퍼진 진짜 하프를 통해 친구와 함께 바라던 전쟁 뒤의 미래를 다시 본다.",
+      "person": "wiki-lydia",
+      "text": "도시 행정관으로 티티에게 신전 재건 감독을 제안하고 사르곤 사절단의 외교적 요구를 상대한다. 반환식 뒤 크산토스와 리케이온의 구금을 해제하고 크산토스의 거취를 시민들의 투표에 맡긴다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Medjehtiqedti_Bound/Synopsis"
     },
@@ -31065,13 +32470,6 @@ window.STORY_DATA = {
       "event": "arsenus",
       "person": "perfumer-distilled",
       "text": "고향 미노스에 로도스 지부와 감염자 치료 체계를 마련하려 돌아온 리나다. 수감된 크산토스의 병세를 걱정하고 사람들을 도울 방법을 찾으며 떠나는 이들에게 치료약을 챙겨 준다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/Medjehtiqedti_Bound/Synopsis"
-    },
-    {
-      "event": "arsenus",
-      "person": "wiki-lydia",
-      "text": "도시 행정관으로 티티에게 신전 재건 감독을 제안하고 사르곤 사절단의 외교적 요구를 상대한다. 반환식 뒤 크산토스와 리케이온의 구금을 해제하고 크산토스의 거취를 시민들의 투표에 맡긴다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/Medjehtiqedti_Bound/Synopsis"
     },
@@ -31126,6 +32524,13 @@ window.STORY_DATA = {
     },
     {
       "event": "farewell-year",
+      "person": "wiki-ya",
+      "text": "수이에게 복수하려 무덤에 오지만 왕의 뜻을 따라 최초의 오리지늄을 잘라 본체에 꽂는다. 이 과정에서 자신의 힘을 크게 소모한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns/Synopsis"
+    },
+    {
+      "event": "farewell-year",
       "person": "wiki-wei-yenwu",
       "text": "수이를 막기 위해 자신을 희생할 계획을 세우고 첸에게 필도를 요구한다. 첸과 겨루어 패한 뒤 계획을 거두며, 무너지는 무덤에서 잔해를 베어 황제를 구한다. 이후 오랜 갈등을 지나 황제와 화해한다.",
       "spoiler": "medium",
@@ -31140,6 +32545,20 @@ window.STORY_DATA = {
     },
     {
       "event": "farewell-year",
+      "person": "chongyue",
+      "text": "막일에게서 제의 인형을 건네받고 수이의 무덤에 들어간다. 본체를 강하게 쳐 의식과 몸의 연결을 끊어 왕이 싸울 기회를 만들고, 사건 후 형제들이 기다리는 곳으로 돌아온다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns/Synopsis"
+    },
+    {
+      "event": "farewell-year",
+      "person": "wiki-old-tianshi",
+      "text": "왕이 쉐이의 몸을 차지한 뒤 야가 최초의 오리지늄을 그 몸과 의식에 박는 것을 본다. 이제 누구도 왕을 건드릴 수 없지만, 그 대가로 왕이 거의 끝나지 않는 고통을 받게 된다고 설명한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns/Synopsis"
+    },
+    {
+      "event": "farewell-year",
       "person": "wiki-chun",
       "text": "과거 조정과 수이의 조작으로 제의 힘이 재앙이 되리라 믿게 된 사세대원이다. 현재 대사마와 함께 필도로 역사를 바꾸고 웨이를 희생해 수이를 죽이려 하지만, 인형에 제의 생명 조각이 남아 있다는 사실에 충격을 받고 물러난다.",
       "spoiler": "medium",
@@ -31149,13 +32568,6 @@ window.STORY_DATA = {
       "event": "farewell-year",
       "person": "wiki-jun",
       "text": "과거 제에게서 필도를 맡은 자매다. 인형에 남은 제의 생명을 확인하고 공정하게 사용할 사람으로 첸을 선택해 필도를 건넨다. 링과 함께 수이를 꿈속에 붙잡는 일에도 힘을 보탠다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns/Synopsis"
-    },
-    {
-      "event": "farewell-year",
-      "person": "chongyue",
-      "text": "막일에게서 제의 인형을 건네받고 수이의 무덤에 들어간다. 본체를 강하게 쳐 의식과 몸의 연결을 끊어 왕이 싸울 기회를 만들고, 사건 후 형제들이 기다리는 곳으로 돌아온다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns/Synopsis"
     },
@@ -31182,13 +32594,6 @@ window.STORY_DATA = {
     },
     {
       "event": "farewell-year",
-      "person": "wiki-ya",
-      "text": "수이에게 복수하려 무덤에 오지만 왕의 뜻을 따라 최초의 오리지늄을 잘라 본체에 꽂는다. 이 과정에서 자신의 힘을 크게 소모한다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns/Synopsis"
-    },
-    {
-      "event": "farewell-year",
       "person": "wiki-ch-en-chao-ch-ien",
       "text": "첸과 같은 진씨 가문의 인물로 하늘거울 누각에서 그녀를 만난다. 사건 이후 첸과 함께 가문에 남은 잘못된 기록을 고친다.",
       "spoiler": "medium",
@@ -31196,15 +32601,15 @@ window.STORY_DATA = {
     },
     {
       "event": "see-you-tomorrow",
-      "person": "reed",
-      "text": "전장에 피난민들을 남겨 두고 홀로 가스트렐을 찾아간다. 빅토리아와 살카즈 부상자를 구하며 포위망을 건너 웰링턴에게 민간인을 굶기는 포위를 멈추라고 요구하고, 타라 지도자로서 함대에 진격을 명한다. 이후 사람들과 타라의 수도로 향한다.",
+      "person": "amiya",
+      "text": "나흐체러 왕이 전쟁의 순환을 이어가려 하자 그 논리에 맞선다. 살카즈 피난민의 퇴로를 함대가 막자 거대한 검은 벽을 세워 귀향을 방해하지 말라고 선언하고, 시빌라이트 에테르나를 통해 교황에게 자신의 목소리를 전한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
     },
     {
       "event": "see-you-tomorrow",
-      "person": "amiya",
-      "text": "나흐체러 왕이 전쟁의 순환을 이어가려 하자 그 논리에 맞선다. 살카즈 피난민의 퇴로를 함대가 막자 거대한 검은 벽을 세워 귀향을 방해하지 말라고 선언하고, 시빌라이트 에테르나를 통해 교황에게 자신의 목소리를 전한다.",
+      "person": "reed",
+      "text": "전장에 피난민들을 남겨 두고 홀로 가스트렐을 찾아간다. 빅토리아와 살카즈 부상자를 구하며 포위망을 건너 웰링턴에게 민간인을 굶기는 포위를 멈추라고 요구하고, 타라 지도자로서 함대에 진격을 명한다. 이후 사람들과 타라의 수도로 향한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
     },
@@ -31224,6 +32629,27 @@ window.STORY_DATA = {
     },
     {
       "event": "see-you-tomorrow",
+      "person": "tomorrow-big-wrench",
+      "text": "런디니움의 공장 노동자로, 로고스가 안개를 걷어 낼 틈을 만든 사이 왕의 숨결을 받아 든다. 돌아가지 못할 수도 있음을 알면서도 딸을 떠올리며 네츠살렘에게 달려든다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
+    },
+    {
+      "event": "see-you-tomorrow",
+      "person": "wiki-nowell",
+      "text": "불사의 원인을 찾아 런디니움에 왔다가 피난민 가족을 안전지대로 안내한다. 무너진 건물에서 아이를 구하지만 클로비시아를 구하지 못하고, 아이를 어머니에게 돌려준 뒤 상처가 낫지 않는 것을 보고 그녀가 자신이 찾던 유니콘임을 깨닫는다. 복수보다 눈앞의 사람들을 구하는 일을 택한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
+    },
+    {
+      "event": "see-you-tomorrow",
+      "person": "wiki-nine",
+      "text": "런디니움의 리유니온에 감염자와 갈 곳 없는 사람들을 받아들인다. 무고한 살카즈를 처형하려는 빅토리아 병사들과 맞서다 첸과도 충돌하지만, 탈룰라와 함께 사람들을 이끌고 우르수스로 돌아가기로 한다.",
+      "spoiler": "medium",
+      "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
+    },
+    {
+      "event": "see-you-tomorrow",
       "person": "ines",
       "text": "외드레르와 함께 왕들의 무덤에서 빠져나와 생명의 뼈와 생존자들을 고향으로 돌려보낼 방법을 찾는다. 노인과 아이, 부상자들을 태우고 카즈델로 향하는 길을 이끈다.",
       "spoiler": "medium",
@@ -31238,8 +32664,8 @@ window.STORY_DATA = {
     },
     {
       "event": "see-you-tomorrow",
-      "person": "wiki-nowell",
-      "text": "불사의 원인을 찾아 런디니움에 왔다가 피난민 가족을 안전지대로 안내한다. 무너진 건물에서 아이를 구하지만 클로비시아를 구하지 못하고, 아이를 어머니에게 돌려준 뒤 상처가 낫지 않는 것을 보고 그녀가 자신이 찾던 유니콘임을 깨닫는다. 복수보다 눈앞의 사람들을 구하는 일을 택한다.",
+      "person": "logos",
+      "text": "런디니움을 뒤덮은 안개 속에서 피리를 불어 시민군이 전진할 틈을 만든다. 전쟁을 계속하려는 네츠살렘에게 맞설 수 있도록 빅렌치와 시민군의 길을 연다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
     },
@@ -31254,13 +32680,6 @@ window.STORY_DATA = {
       "event": "see-you-tomorrow",
       "person": "wiki-entelechia",
       "text": "흩어진 첩보 조직 장미 강가의 공주를 찾아 런디니움에 온다. 켈시의 부탁으로 흡혈 군주의 제단을 파괴하고 죽은 자의 기억을 읽어 지휘 체계와 통신 봉쇄를 무너뜨린다. 죽은 동료 트릭스터와 마지막 인사를 나눈 뒤 그의 유품을 카즈델에 돌려보내 달라고 부탁한다.",
-      "spoiler": "medium",
-      "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
-    },
-    {
-      "event": "see-you-tomorrow",
-      "person": "wiki-nine",
-      "text": "런디니움의 리유니온에 감염자와 갈 곳 없는 사람들을 받아들인다. 무고한 살카즈를 처형하려는 빅토리아 병사들과 맞서다 첸과도 충돌하지만, 탈룰라와 함께 사람들을 이끌고 우르수스로 돌아가기로 한다.",
       "spoiler": "medium",
       "source": "https://arknights.wiki.gg/wiki/See_You_Soon/Synopsis"
     },

@@ -456,12 +456,6 @@ base['actions'] = [item for item in base['actions'] if item['event'] not in side
 base['actions'].extend(item for items in side_actions.values() for item in items)
 
 protagonist_overrides = json.loads((ROOT / 'work' / 'story_protagonists.json').read_text(encoding='utf-8'))
-# Reassessed leads whose importance changed during the story review.
-protagonist_overrides.update({
-    'dossoles': ['chen', 'lin', 'tequila', 'wiki-pancho-salas'],
-    'moon-water': ['makoto-yuki', 'prts-giada', 'prts-giulio'],
-    'time-forward': ['talulah', 'prts-milana-turin', 'wiki-fyodor-vladimirovich', 'wiki-nine'],
-})
 sourced_evidence = json.loads((ROOT / 'work' / 'story_cast_evidence.json').read_text(encoding='utf-8'))
 if set(protagonist_overrides) - set(event_lookup):
     raise ValueError('Protagonist list refers to an unknown story')
@@ -475,22 +469,11 @@ for event_id, event in event_lookup.items():
     cast_rank = {person_id: index for index, person_id in enumerate(cast_seed)}
     protagonists = protagonist_overrides.get(event_id)
     if protagonists is None:
-        lead = story_cast[event_id]['lead']
-        other_leads = sorted((person_id for person_id in present if person_id != lead and activity[person_id] >= 2),
-                             key=lambda person_id: (-activity[person_id], cast_rank.get(person_id, 999)))
-        protagonists = [lead, *other_leads]
-    reviewed_rank = {item['person']: index for index, item in enumerate(side_actions.get(event_id, []))}
-    if reviewed_rank:
-        # The curated order is the reviewed influence order, including the
-        # point where its leading roles end. Do not let stale auto-generated
-        # protagonist labels pull less important characters ahead of it.
-        old_leads = set(protagonists)
-        ordered_reviewed = list(reviewed_rank)
-        protagonists = []
-        for person_id in ordered_reviewed:
-            if person_id not in old_leads and protagonists:
-                break
-            protagonists.append(person_id)
+        protagonists = [story_cast[event_id]['lead']]
+    reviewed_actions = foam_actions if event_id == 'foam-thunder' else (
+        main_actions.get(event_id) or side_actions[event_id]
+    )
+    reviewed_rank = {item['person']: index for index, item in enumerate(reviewed_actions)}
     if not protagonists or len(protagonists) != len(set(protagonists)) or set(protagonists) - present:
         raise ValueError(f'Invalid protagonists: {event_id} / {protagonists}')
     lead_rank = {person_id: index for index, person_id in enumerate(protagonists)}
@@ -504,14 +487,14 @@ for event_id, event in event_lookup.items():
                 + 5 * (person_id in core_cast) + 2 * (person_id in expanded_cast)
                 + 5 * min(summary_mentions, 2))
     def prominence(person_id):
-        if person_id in lead_rank:
-            return (0, lead_rank[person_id], 0, '')
         if person_id in reviewed_rank:
-            return (1, reviewed_rank[person_id], 0, '')
+            return (0, reviewed_rank[person_id], 0, '')
+        if person_id in lead_rank:
+            return (1, lead_rank[person_id], 0, '')
         name = people_by_id[person_id]['name']
         return (2, -influence(person_id), cast_rank.get(person_id, 999), name)
-    event['protagonists'] = protagonists
     event['peopleOrder'] = sorted(present, key=prominence)
+    event['protagonists'] = [person_id for person_id in event['peopleOrder'] if person_id in lead_rank]
     event['lowImpactPeople'] = [person_id for person_id in event['peopleOrder']
                                 if person_id not in lead_rank and person_id not in reviewed_rank and influence(person_id) < 5]
 

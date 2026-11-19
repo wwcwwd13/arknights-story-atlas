@@ -109,7 +109,11 @@ assert all(actions_by_event[event_id] >= 10 for event_id in events if event_id n
 for event_id in grouped_events:
     persons = [item['person'] for item in data['actions'] if item['event'] == event_id]
     assert persons and len(persons) == len(set(persons)), event_id
-for event_id, reviewed in reviewed_side.items():
+reviewed_main = json.loads((root / 'work' / 'main_character_actions.json').read_text(encoding='utf-8'))
+reviewed_foam = json.loads((root / 'work' / 'foam_character_actions.json').read_text(encoding='utf-8'))
+reviewed_cast = {**reviewed_main, **reviewed_side, 'foam-thunder': reviewed_foam}
+assert set(reviewed_cast) == set(events)
+for event_id, reviewed in reviewed_cast.items():
     expected = [item['person'] for item in reviewed]
     displayed = [person_id for person_id in events[event_id]['peopleOrder'] if person_id in expected]
     assert displayed == expected, event_id
@@ -123,7 +127,8 @@ for event in events.values():
     order = event['peopleOrder']
     protagonists = event['protagonists']
     assert len(order) == len(cast) and set(order) == cast, event['id']
-    assert protagonists and order[:len(protagonists)] == protagonists, event['id']
+    assert protagonists and [person_id for person_id in order if person_id in protagonists] == protagonists, event['id']
+    assert not set(protagonists) & set(event['lowImpactPeople']), event['id']
 assert 'id="visibleCount"' not in (root / 'index.html').read_text(encoding='utf-8')
 print(f"PASS: {len(events)} events, {len(lanes)} lanes, {len(data['art'])} offline images, "
       f"{len(people)} people, {len(data['appearances'])} appearances, {len(data['actions'])} actions, "

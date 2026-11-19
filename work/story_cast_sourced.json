@@ -286,7 +286,8 @@
     "wiki-emperor",
     "wiki-jaye",
     "wiki-bena",
-    "rosmontis"
+    "rosmontis",
+    "beyond-hildegard"
   ],
   "who-is-real": [
     "dusk",
@@ -303,7 +304,6 @@
     "wiki-miarow",
     "blitz",
     "frost-r6",
-    "iana",
     "wiki-franka",
     "liskarm",
     "wiki-schwarz",
@@ -346,7 +346,10 @@
     "wiki-kirara",
     "wiki-matterhorn",
     "silverash",
-    "elysium"
+    "elysium",
+    "preluding-gares",
+    "preluding-ila",
+    "preluding-aria"
   ],
   "dossoles": [
     "chen",
@@ -355,7 +358,8 @@
     "wiki-wei-yenwu",
     "wiki-candela-sanchez",
     "wiki-rat-king",
-    "wiki-pancho-salas"
+    "wiki-pancho-salas",
+    "dossoles-sideroca"
   ],
   "vigilo": [
     "kaltsit",
@@ -365,7 +369,9 @@
     "wiki-scout",
     "wiki-priestess",
     "wiki-blaze",
-    "ascalon"
+    "ascalon",
+    "vigilo-cannot",
+    "vigilo-marco"
   ],
   "main-09": [
     "horn",
@@ -374,7 +380,8 @@
     "wiki-outcast",
     "kaltsit",
     "wiki-mandragora",
-    "wiki-nine"
+    "wiki-nine",
+    "hillock-saoirse"
   ],
   "pinus": [
     "platinum",
@@ -384,7 +391,8 @@
     "wiki-szewczyk",
     "flametail",
     "wild-mane",
-    "fartooth"
+    "fartooth",
+    "pinus-justice-knight"
   ],
   "near-light": [
     "wiki-tola",
@@ -423,7 +431,8 @@
     "wiki-valais",
     "wiki-yucatan",
     "wiki-arctosz-paleroche",
-    "wiki-sciurus-browntail"
+    "wiki-sciurus-browntail",
+    "break-ice-sharp"
   ],
   "invitation": [
     "ling",
@@ -439,7 +448,8 @@
     "wiki-shen-lou",
     "wiki-ning-ciqiu",
     "wiki-zheng-qingyue",
-    "wiki-shang-zhong"
+    "wiki-shang-zhong",
+    "invitation-second-brother"
   ],
   "spark": [
     "wiki-haze",
@@ -450,7 +460,9 @@
     "wiki-kazemaru",
     "wiki-nine",
     "goldenglow",
-    "wiki-red-npc"
+    "wiki-red-npc",
+    "spark-viscount-bisme",
+    "spark-minnie"
   ],
   "guide-ahead": [
     "andoain",
@@ -533,7 +545,8 @@
     "leizi",
     "wiki-dikaiopolis",
     "silverash",
-    "texas"
+    "texas",
+    "wiki-gambino"
   ],
   "dorothy": [
     "silence",
@@ -544,7 +557,8 @@
     "kristen",
     "wiki-sonny-romano",
     "wiki-mary-banner",
-    "wiki-ferdinand-clooney"
+    "wiki-ferdinand-clooney",
+    "wiki-greyy"
   ],
   "to-be-continued": [
     "mlynar",
@@ -553,7 +567,8 @@
     "nearl",
     "flametail",
     "ashlock",
-    "wiki-toland-cash"
+    "wiki-toland-cash",
+    "wanderer-xeno"
   ],
   "long-time": [
     "wiki-ah-gen",
@@ -564,7 +579,9 @@
     "wiki-luo-xiaobai",
     "wiki-hung",
     "wiki-sora",
-    "wiki-biu"
+    "wiki-biu",
+    "long-time-xiaoyuan",
+    "long-time-cloudbeast-67"
   ],
   "main-11": [
     "wiki-allerdale",
@@ -611,7 +628,8 @@
     "wiki-duke-of-wellington",
     "wiki-duke-of-caster",
     "wiki-earl-of-warwick",
-    "wiki-moran"
+    "wiki-moran",
+    "firelight-fisher"
   ],
   "where-vernal": [
     "chongyue",
@@ -677,7 +695,8 @@
     "wiki-percival",
     "wiki-nine",
     "talulah",
-    "wiki-nezzsalem"
+    "wiki-nezzsalem",
+    "eblana"
   ],
   "lone-trail": [
     "silence",
@@ -700,7 +719,9 @@
     "wiki-jara-wilson",
     "wiki-ahrens-parvis",
     "wiki-lillia",
-    "wiki-mark-max"
+    "wiki-mark-max",
+    "doctor",
+    "lone-trail-trevor-friston"
   ],
   "hortus": [
     "wiki-lemuen",
@@ -728,7 +749,8 @@
     "wiki-herman-doykos",
     "wiki-eurill-pides",
     "wiki-harley",
-    "wiki-pelipper-brown"
+    "wiki-pelipper-brown",
+    "so-long-adele-ennis"
   ],
   "to-the-grinning": [
     "magallan",
@@ -737,7 +759,8 @@
     "wiki-black-mark",
     "wiki-amma",
     "wiki-gitano",
-    "wiki-emperor"
+    "wiki-emperor",
+    "to-the-grinning-arges"
   ],
   "come-catastrophes": [
     "jessica",
@@ -812,7 +835,8 @@
     "wiki-ratatos-browntail",
     "wiki-sciurus-browntail",
     "wiki-arctosz-paleroche",
-    "wiki-mob"
+    "wiki-mob",
+    "doctor"
   ],
   "grinning-valley": [
     "wiki-warmy",
@@ -821,7 +845,8 @@
     "wiki-jerry",
     "wiki-savage",
     "theresa",
-    "wiki-asbestos"
+    "wiki-asbestos",
+    "grinning-valley-kaira"
   ],
   "here-a-people": [
     "wiki-zuo-le",
@@ -837,7 +862,9 @@
     "wiki-wan-qincheng",
     "wiki-ning-ciqiu",
     "wiki-grand-commandant",
-    "wiki-ji"
+    "wiki-ji",
+    "here-a-people-huasheng",
+    "here-a-people-xiaoman"
   ],
   "crystal-arrow": [
     "wiki-mateo",
@@ -908,7 +935,8 @@
     "wiki-ishar-mla",
     "wiki-lucilla",
     "wiki-carmen",
-    "wiki-the-last-knight"
+    "wiki-the-last-knight",
+    "path-of-life-tullia"
   ],
   "sunset": [
     "pepe",
@@ -919,7 +947,8 @@
     "titi",
     "wiki-ajazi",
     "wiki-ajani",
-    "wiki-mio"
+    "wiki-mio",
+    "sunset-razbar"
   ],
   "forge-rekindled": [
     "nymph",
@@ -929,7 +958,8 @@
     "mudrock",
     "mostima",
     "wiki-fremont",
-    "wiki-crownie-mantel"
+    "wiki-crownie-mantel",
+    "forge-rekindled-paul"
   ],
   "dungeon-meshi": [
     "laios",
@@ -942,7 +972,8 @@
     "dusk",
     "amiya",
     "wiki-dawn",
-    "anita"
+    "anita",
+    "to-the-grinning-arges"
   ],
   "west-sunset": [
     "wiki-nezzsalem",
@@ -956,7 +987,8 @@
     "wiki-duke-of-gododdin",
     "wiki-earl-of-march",
     "wiki-diane-weber",
-    "wiki-shearer"
+    "wiki-shearer",
+    "west-sunset-elicio"
   ],
   "the-riders": [
     "lappland",
@@ -1027,7 +1059,9 @@
     "horn",
     "bagpipe",
     "nightingale",
-    "wiki-civilight-eterna"
+    "wiki-civilight-eterna",
+    "tomorrow-big-wrench",
+    "logos"
   ],
   "elegy": [
     "wiki-nemos",
@@ -1037,7 +1071,8 @@
     "reed",
     "wiki-labhreathach",
     "eblana",
-    "wiki-moran"
+    "wiki-moran",
+    "elegy-theo"
   ],
   "main-15": [
     "kaltsit",
@@ -1077,7 +1112,6 @@
   ],
   "red-velvet": [
     "wiki-moira",
-    "tragodia",
     "tippi",
     "wiki-abner",
     "wiki-tragodia-npc",
@@ -1100,7 +1134,8 @@
     "wiki-waai-fu",
     "wiki-zuo-xuanliao",
     "wiki-old-tianshi",
-    "wiki-yi"
+    "wiki-yi",
+    "mirror-yun-qingping"
   ],
   "ruins": [
     "hoshiguma",
@@ -1133,7 +1168,8 @@
     "wiki-nikto",
     "wiki-eloysius-gorchekova",
     "wiki-islam-witte",
-    "wiki-hierda"
+    "wiki-hierda",
+    "main16-ksenia"
   ],
   "snow-1101": [
     "kjera",
@@ -1151,7 +1187,8 @@
     "wiki-adso-browntail",
     "wiki-gulo",
     "wiki-sciurus-browntail",
-    "wiki-monch"
+    "wiki-monch",
+    "silence"
   ],
   "unpromised": [
     "nasti",
@@ -1210,7 +1247,8 @@
     "wiki-lupina",
     "demetri",
     "wiki-gambino",
-    "wiki-eirene-lavazza"
+    "wiki-eirene-lavazza",
+    "penance"
   ],
   "people-us": [
     "zima",
@@ -1232,5 +1270,8 @@
     "wiki-islam-witte",
     "wiki-fyodor-vladimirovich",
     "wiki-nikto"
+  ],
+  "foam-thunder": [
+    "foam-zinogre"
   ]
 }

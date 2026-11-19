@@ -1,5 +1,17 @@
 [
   {
+    "id": "arene",
+    "name": "아렌",
+    "kind": "operator",
+    "wikiTitle": "Arene"
+  },
+  {
+    "id": "april",
+    "name": "에이프릴",
+    "kind": "operator",
+    "wikiTitle": "April"
+  },
+  {
     "id": "grani",
     "name": "그라니",
     "kind": "operator",
@@ -908,19 +920,179 @@
   {
     "id": "miss-christine",
     "name": "미스 크리스틴",
-    "kind": "nonoperator",
+    "kind": "operator",
     "wikiTitle": "Miss.Christine"
   },
   {
     "id": "tippi",
     "name": "티피",
-    "kind": "nonoperator",
+    "kind": "operator",
     "wikiTitle": "Tippi"
   },
   {
     "id": "tragodia",
     "name": "트라고디아",
-    "kind": "nonoperator",
+    "kind": "operator",
     "wikiTitle": "Tragodia"
+  },
+  {
+    "id": "beyond-hildegard",
+    "name": "힐데가르트",
+    "kind": "npc"
+  },
+  {
+    "id": "preluding-gares",
+    "name": "가레스",
+    "kind": "npc"
+  },
+  {
+    "id": "preluding-ila",
+    "name": "일라",
+    "kind": "npc"
+  },
+  {
+    "id": "preluding-aria",
+    "name": "아리아",
+    "kind": "npc"
+  },
+  {
+    "id": "dossoles-sideroca",
+    "name": "시데로카",
+    "kind": "operator"
+  },
+  {
+    "id": "vigilo-cannot",
+    "name": "캔낫",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "vigilo-marco",
+    "name": "마르코",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "hillock-saoirse",
+    "name": "세어샤",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "pinus-justice-knight",
+    "name": "저스티스 나이트",
+    "kind": "operator"
+  },
+  {
+    "id": "break-ice-sharp",
+    "name": "샤프",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "invitation-second-brother",
+    "name": "수이의 둘째 형",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "spark-viscount-bisme",
+    "name": "비슈머 백작",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "spark-minnie",
+    "name": "미니",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "wanderer-xeno",
+    "name": "제노",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "long-time-xiaoyuan",
+    "name": "샤오위안",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "long-time-cloudbeast-67",
+    "name": "67",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "firelight-fisher",
+    "name": "피셔",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "lone-trail-trevor-friston",
+    "name": "트레버 프리스턴",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "so-long-adele-ennis",
+    "name": "에니스",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "to-the-grinning-arges",
+    "name": "아르게스",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "grinning-valley-kaira",
+    "name": "카이라",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "here-a-people-huasheng",
+    "name": "화생",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "here-a-people-xiaoman",
+    "name": "소만",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "path-of-life-tullia",
+    "name": "툴리아",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "sunset-razbar",
+    "name": "라즈바르",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "forge-rekindled-paul",
+    "name": "폴",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "west-sunset-elicio",
+    "name": "엘리시오",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "tomorrow-big-wrench",
+    "name": "빅렌치",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "elegy-theo",
+    "name": "테오",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "mirror-yun-qingping",
+    "name": "운청평",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "main16-ksenia",
+    "name": "크세니야",
+    "kind": "nonoperator"
+  },
+  {
+    "id": "foam-zinogre",
+    "name": "진오우거",
+    "kind": "nonoperator"
   }
 ]
