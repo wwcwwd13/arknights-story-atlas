@@ -5,6 +5,7 @@
   const timeline = $('timeline');
   const inner = $('timelineInner');
   const drawer = $('drawer');
+  const drawerExpand = $('drawerExpand');
   const backdrop = $('drawerBackdrop');
   const content = $('drawerContent');
   const portraitPreview = document.createElement('div');
@@ -331,6 +332,15 @@
   });
   content.addEventListener('focusout', event => {
     if (event.target.closest('.person-pill')) portraitPreview.hidden = true;
+  });
+  drawerExpand.addEventListener('click', () => {
+    const expanded = drawer.classList.toggle('expanded');
+    const label = expanded ? '상세 정보 폭 되돌리기' : '상세 정보 넓히기';
+    drawerExpand.setAttribute('aria-expanded', String(expanded));
+    drawerExpand.setAttribute('aria-label', label);
+    drawerExpand.title = label;
+    drawerExpand.textContent = expanded ? '›' : '‹';
+    portraitPreview.hidden = true;
   });
   $('drawerClose').addEventListener('click', requestCloseDrawer);
   backdrop.addEventListener('click', requestCloseDrawer);
